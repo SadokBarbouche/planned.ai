@@ -1,0 +1,67 @@
+[
+    {
+        "place_id": "ChIJh5gBzvcjAhMRxKtkX3bR778",
+        "name": "Vitamin Sea",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 84,
+        "website": "https://www.facebook.com/Vitamin.Sea.Mahdia/",
+        "owner": {
+            "id": null,
+            "name": "Vitamin Sea (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOpyQ6e7wm0ym2VGiGrBqT0Nnexhcjs3RpMj1go=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-01:30",
+        "closed_on": [],
+        "phone": "54 098 585",
+        "address": "G34C+35G Vitamin Sea, Av. Cap Africa, Mahdia",
+        "review_keywords": [
+            {
+                "keyword": "vue",
+                "count": 3
+            },
+            {
+                "keyword": "jus",
+                "count": 3
+            },
+            {
+                "keyword": "prix",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Vitamin+Sea/data=!4m7!3m6!1s0x130223f7ce019887:0xbfefd1765f64abc4!8m2!3d35.5051927!4d11.0704558!16s%2Fg%2F11fxxw_x_5!19sChIJh5gBzvcjAhMRxKtkX3bR778?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJEc4ZNvgjAhMRY9wKSniawGQ",
+        "name": "marche de gros de poisson de mahdia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "marche de gros de poisson de mahdia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP6KraQyyyRcMz7nCOtHlzXgpXsy4zEfhKiqoHK=w408-h271-k-no",
+        "main_category": "Marche aux poissons et fruits de mer",
+        "categories": [
+            "Marche aux poissons et fruits de mer"
+        ],
+        "rating": 4.3,
+        "workday_timing": "04:00-09:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": null,
+        "address": "marche de gros de poisson de mahdia, Rue de Borj Othmani",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/marche+de+gros+de+poisson+de+mahdia/data=!4m7!3m6!1s0x130223f83619ce11:0x64c09a784a0adc63!8m2!3d35.5017077!4d11.0687765!16s%2Fg%2F11b7jckm99!19sChIJEc4ZNvgjAhMRY9wKSniawGQ?authuser=0&hl=fr&rclk=1"
+    }
+]

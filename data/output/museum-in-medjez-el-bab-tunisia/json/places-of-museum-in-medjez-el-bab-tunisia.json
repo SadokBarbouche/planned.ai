@@ -1,0 +1,589 @@
+[
+    {
+        "place_id": "ChIJZUdtiDkz_RIRZ1qp5OILUxU",
+        "name": "Bardo National Museum",
+        "description": "Artefacts de Carthage et collection de mosaiques romaines la plus importante au monde dans un cadre grandiose.",
+        "is_spending_on_ads": false,
+        "reviews": 2444,
+        "website": "http://www.bardomuseum.tn/",
+        "owner": {
+            "id": "105899130589857135201",
+            "name": "Bardo National Museum (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105899130589857135201"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNOYpCbkavk7kh-3_NeMQ2s12Dbv1ZChdLntn7w=w408-h275-k-no",
+        "main_category": "Musee national",
+        "categories": [
+            "Musee national"
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:30-16:30",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": null,
+        "address": "Bardo National Museum, RN 7, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "mosaique romaine",
+                "count": 58
+            },
+            {
+                "keyword": "histoire de la tunisie",
+                "count": 39
+            },
+            {
+                "keyword": "palais",
+                "count": 33
+            },
+            {
+                "keyword": "islamique",
+                "count": 23
+            },
+            {
+                "keyword": "civilisations",
+                "count": 22
+            },
+            {
+                "keyword": "2015",
+                "count": 14
+            },
+            {
+                "keyword": "1888",
+                "count": 11
+            },
+            {
+                "keyword": "continent",
+                "count": 8
+            },
+            {
+                "keyword": "virgile",
+                "count": 7
+            },
+            {
+                "keyword": "terrorisme",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Bardo+National+Museum/data=!4m7!3m6!1s0x12fd3339886d4765:0x15530be2e4a95a67!8m2!3d36.8093547!4d10.1342091!16s%2Fm%2F047prs0!19sChIJZUdtiDkz_RIRZ1qp5OILUxU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJY_l1I5_8ARMRxV1SBbx3ptw",
+        "name": "Musee Archeologique d'El Djem",
+        "description": "Musee archeologique installe dans batiment de style villa romaine avec objets locaux et ruines a proximite.",
+        "is_spending_on_ads": false,
+        "reviews": 1137,
+        "website": null,
+        "owner": {
+            "id": "108474809483360220938",
+            "name": "Musee Archeologique d'El Djem (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108474809483360220938"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMp3pFdmdoKGFHRcdutLwveHUv1LPRw-AGaPHRT=w408-h306-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique",
+            "Attraction touristique"
+        ],
+        "rating": 4.7,
+        "workday_timing": "08:00-18:30",
+        "closed_on": [],
+        "phone": null,
+        "address": "Musee Archeologique d'El Djem, Al-jamm",
+        "review_keywords": [
+            {
+                "keyword": "mosaiques",
+                "count": 144
+            },
+            {
+                "keyword": "amphitheatre",
+                "count": 40
+            },
+            {
+                "keyword": "ruines",
+                "count": 16
+            },
+            {
+                "keyword": "villa romaine",
+                "count": 11
+            },
+            {
+                "keyword": "maison",
+                "count": 10
+            },
+            {
+                "keyword": "marche",
+                "count": 8
+            },
+            {
+                "keyword": "billet",
+                "count": 7
+            },
+            {
+                "keyword": "sol",
+                "count": 7
+            },
+            {
+                "keyword": "riche",
+                "count": 6
+            },
+            {
+                "keyword": "oeuvres",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Arch%C3%A9ologique+d%27El+Djem/data=!4m7!3m6!1s0x1301fc9f2375f963:0xdca677bc05525dc5!8m2!3d35.2896015!4d10.7055818!16s%2Fm%2F05b3xh5!19sChIJY_l1I5_8ARMRxV1SBbx3ptw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJsalpd8m04hIRaduc5E7WRvk",
+        "name": "Musee national de Carthage",
+        "description": "Musee archeologique simple presentant des statues et des poteries decouvertes lors de fouilles dans la region.",
+        "is_spending_on_ads": false,
+        "reviews": 581,
+        "website": "https://carthagemagazine.com/carthage-national-museum/",
+        "owner": {
+            "id": null,
+            "name": "Musee national de Carthage (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPxVDDk7o1OcIgbibckCmQ1FRYgF3AFjLqAJYW6=w408-h306-k-no",
+        "main_category": "Musee d'histoire",
+        "categories": [
+            "Musee d'histoire"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "58 162 557",
+        "address": "V83F+7QR Musee national de Carthage, Site archeologique de Carthage",
+        "review_keywords": [
+            {
+                "keyword": "renovation",
+                "count": 19
+            },
+            {
+                "keyword": "ruines",
+                "count": 18
+            },
+            {
+                "keyword": "cathedrale",
+                "count": 8
+            },
+            {
+                "keyword": "mosaiques",
+                "count": 7
+            },
+            {
+                "keyword": "antique",
+                "count": 7
+            },
+            {
+                "keyword": "site",
+                "count": 7
+            },
+            {
+                "keyword": "2026",
+                "count": 6
+            },
+            {
+                "keyword": "monument",
+                "count": 6
+            },
+            {
+                "keyword": "archeologiques",
+                "count": 6
+            },
+            {
+                "keyword": "restauration",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+national+de+Carthage/data=!4m7!3m6!1s0x12e2b4c97769a9b1:0xf946d64ee49cdb69!8m2!3d36.8532268!4d10.3243991!16s%2Fm%2F05b11w2!19sChIJsalpd8m04hIRaduc5E7WRvk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJz0MXd5604hIRtr7S4vP3MJ0",
+        "name": "Dar El Annabi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 538,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar El Annabi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPjvlhCuH3NyyQOfT9DRkmkuTbBhQFJaYCfql1J=w408-h306-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Musee du patrimoine"
+        ],
+        "rating": 4.7,
+        "workday_timing": "09:00-18:00",
+        "closed_on": [],
+        "phone": "27 913 088",
+        "address": "Dar El Annabi, 48 Rue Hedi Zarrouk, Site archeologique de Carthage",
+        "review_keywords": [
+            {
+                "keyword": "terrasses",
+                "count": 16
+            },
+            {
+                "keyword": "prix",
+                "count": 16
+            },
+            {
+                "keyword": "famille",
+                "count": 15
+            },
+            {
+                "keyword": "dinar",
+                "count": 7
+            },
+            {
+                "keyword": "architecture",
+                "count": 7
+            },
+            {
+                "keyword": "vie",
+                "count": 7
+            },
+            {
+                "keyword": "maison-musee",
+                "count": 6
+            },
+            {
+                "keyword": "passe",
+                "count": 5
+            },
+            {
+                "keyword": "jardin",
+                "count": 5
+            },
+            {
+                "keyword": "culturelle",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+El+Annabi/data=!4m7!3m6!1s0x12e2b49e771743cf:0x9d30f7f3e2d2beb6!8m2!3d36.8709673!4d10.3474229!16s%2Fg%2F11f3w6l6p1!19sChIJz0MXd5604hIRtr7S4vP3MJ0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJM3ZhrHp1AhMRgZVi5NAE_Bg",
+        "name": "Musee Dar Essid",
+        "description": "Art regional, objets anciens et expositions historiques sur la vie quotidienne dans un celebre palais.",
+        "is_spending_on_ads": false,
+        "reviews": 216,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee Dar Essid (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPqU1jkLUlwl5-iR24tYTx25xUQ4xE92oDpLGYV=w408-h306-k-no",
+        "main_category": "Musee d'art",
+        "categories": [
+            "Musee d'art",
+            "Musee d'histoire locale",
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "10:00-18:00",
+        "closed_on": [],
+        "phone": "73 220 529",
+        "address": "Musee Dar Essid, Boulevard Yahia Ibn Omar, 65 Rue des Remparts, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "tour",
+                "count": 8
+            },
+            {
+                "keyword": "demeure",
+                "count": 8
+            },
+            {
+                "keyword": "vie quotidienne",
+                "count": 6
+            },
+            {
+                "keyword": "langage",
+                "count": 6
+            },
+            {
+                "keyword": "toits",
+                "count": 6
+            },
+            {
+                "keyword": "vue",
+                "count": 6
+            },
+            {
+                "keyword": "prix",
+                "count": 6
+            },
+            {
+                "keyword": "porte",
+                "count": 5
+            },
+            {
+                "keyword": "terrasse",
+                "count": 5
+            },
+            {
+                "keyword": "interieur",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Dar+Essid/data=!4m7!3m6!1s0x1302757aac617633:0x18fc04d0e4629581!8m2!3d35.827142!4d10.6355029!16s%2Fg%2F12lnj4jw0!19sChIJM3ZhrHp1AhMRgZVi5NAE_Bg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4fRNA2mXqhMR5D6yj9oBrcg",
+        "name": "Musee Lalla Hadria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 203,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee Lalla Hadria (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMCa_tbRLfogovi7NkUVr8Uu4NtWcnNxrnFNcDS=w408-h274-k-no",
+        "main_category": "Musee d'histoire locale",
+        "categories": [
+            "Musee d'histoire locale",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": null,
+        "address": "R29W+W22 Musee Lalla Hadria, Djerba Midun",
+        "review_keywords": [
+            {
+                "keyword": "musulmans",
+                "count": 4
+            },
+            {
+                "keyword": "culture",
+                "count": 4
+            },
+            {
+                "keyword": "bijoux",
+                "count": 3
+            },
+            {
+                "keyword": "vetements",
+                "count": 3
+            },
+            {
+                "keyword": "l'art",
+                "count": 3
+            },
+            {
+                "keyword": "parc",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Lalla+Hadria/data=!4m7!3m6!1s0x13aa9769034df4e1:0xc8ad01da8fb23ee4!8m2!3d33.8197621!4d11.045031!16s%2Fg%2F11f3n36w40!19sChIJ4fRNA2mXqhMR5D6yj9oBrcg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6Qpez2gy_RIRIV9o2O6-lnY",
+        "name": "Musee National Militaire",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 140,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee National Militaire (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN8lpgkip-Ogx_HwKXtqKRk4KskhD6l49FgtqpZ=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-16:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "70 604 018",
+        "address": "Musee National Militaire, 53 Ave Habib Bourguiba, Manouba",
+        "review_keywords": [
+            {
+                "keyword": "histoire militaire",
+                "count": 18
+            },
+            {
+                "keyword": "armes",
+                "count": 14
+            },
+            {
+                "keyword": "palais",
+                "count": 11
+            },
+            {
+                "keyword": "ministere",
+                "count": 7
+            },
+            {
+                "keyword": "architecture",
+                "count": 7
+            },
+            {
+                "keyword": "guide culturel",
+                "count": 5
+            },
+            {
+                "keyword": "guerres",
+                "count": 4
+            },
+            {
+                "keyword": "histoire de la tunisie",
+                "count": 3
+            },
+            {
+                "keyword": "1989",
+                "count": 3
+            },
+            {
+                "keyword": "1984",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+National+Militaire/data=!4m7!3m6!1s0x12fd3268cf5e0ae9:0x7696beeed8685f21!8m2!3d36.8113948!4d10.0984958!16s%2Fg%2F120jr3v2!19sChIJ6Qpez2gy_RIRIV9o2O6-lnY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ51rHYOzA_BIR-vfAFPUW4MY",
+        "name": "Medjez-el-Bab War Cemetery",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": "http://www.cwgc.org/find-a-cemetery/cemetery/2054200/MEDJEZ-EL-BAB%2520MEMORIAL",
+        "owner": {
+            "id": null,
+            "name": "Medjez-el-Bab War Cemetery (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMpQFvAjfiO2ckgHbKuAOq3_qnXikczfNtfzH03=w513-h240-k-no",
+        "main_category": "Cimetiere militaire",
+        "categories": [
+            "Cimetiere militaire"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JHGC+M5F Medjez-el-Bab War Cemetery, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Medjez-el-Bab+War+Cemetery/data=!4m7!3m6!1s0x12fcc0ec60c75ae7:0xc6e016f514c0f7fa!8m2!3d36.6266783!4d9.5704154!16s%2Fm%2F0zwlsgm!19sChIJ51rHYOzA_BIR-vfAFPUW4MY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9WZNRc3B_BIRvkVzT1JHR7Q",
+        "name": "Medjez el Bab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Medjez el Bab (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Temple parsi",
+        "categories": [
+            "Temple parsi"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JJX8+282 Medjez el Bab, Rue Union du Grand Maghreb, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Medjez+el+Bab/data=!4m7!3m6!1s0x12fcc1cd454d66f5:0xb44747524f7345be!8m2!3d36.6475125!4d9.6157656!16s%2Fg%2F11t2tdh_73!19sChIJ9WZNRc3B_BIRvkVzT1JHR7Q?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJIYw18DHB_BIR_yHjFdeEN74",
+        "name": "maison de culture medjez el beb",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "maison de culture medjez el beb (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPBppsNd9N7VyXAOQismMFJbwhlUjLukPucUBkJ=w426-h240-k-no",
+        "main_category": "Centre culturel",
+        "categories": [
+            "Centre culturel"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JJW2+FJP maison de culture medjez el beb, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/maison+de+culture+medjez+el+beb/data=!4m7!3m6!1s0x12fcc131f0358c21:0xbe3784d715e321ff!8m2!3d36.646211!4d9.6015894!16s%2Fg%2F11hcxwvqt4!19sChIJIYw18DHB_BIR_yHjFdeEN74?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZSCMuGaz_BIR0nhqyk6kdOk",
+        "name": "Monument operation Ochsenkopf",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Monument operation Ochsenkopf (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPKDA9h_z1PklK5dUnHU8vfD2CUkfYBRj1bjeIn=w408-h544-k-no",
+        "main_category": "Musee d'art",
+        "categories": [
+            "Musee d'art"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "26 447 688",
+        "address": "Monument operation Ochsenkopf, C64",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Monument+op%C3%A9ration+Ochsenkopf/data=!4m7!3m6!1s0x12fcb366b88c2065:0xe974a44eca6a78d2!8m2!3d36.8940755!4d9.4439183!16s%2Fg%2F11srs1jgnw!19sChIJZSCMuGaz_BIR0nhqyk6kdOk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqafFxqml-xIRgfXDblXjy90",
+        "name": "Circuit culturel et touristique de la medina du kef - Museum Lab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://museumlab.tn/",
+        "owner": {
+            "id": "111859237642939519626",
+            "name": "Circuit culturel et touristique de la medina du kef - Museum Lab (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111859237642939519626"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7G2KQvS3gKoAswp--W67xMNoZo5_l4k7t0tkF=w408-h306-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "samedi",
+            "dimanche"
+        ],
+        "phone": "20 276 643",
+        "address": "Circuit culturel et touristique de la medina du kef - Museum Lab, P17, Le Kef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Circuit+culturel+et+touristique+de+la+m%C3%A9dina+du+kef+-+Museum+Lab/data=!4m7!3m6!1s0x12fba5a9c6c5a7a9:0xddcbe3556ec3f581!8m2!3d36.181303!4d8.7197247!16s%2Fg%2F11sh082zwh!19sChIJqafFxqml-xIRgfXDblXjy90?authuser=0&hl=fr&rclk=1"
+    }
+]

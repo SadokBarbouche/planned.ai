@@ -1,0 +1,87 @@
+[
+    {
+        "place_id": "ChIJNaBkKfojAhMRlB1EQxQS6h8",
+        "name": "Musee de Mahdia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee de Mahdia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMnpj2b90YZkZQkvNbUlgJdqPQRzYWnPwNHIF-M=w408-h317-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Lieu historique"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "73 690 535",
+        "address": "G339+FCP Musee de Mahdia, Mtir, rue Sidi Jaber, Mahdia",
+        "review_keywords": [
+            {
+                "keyword": "archeologique",
+                "count": 4
+            },
+            {
+                "keyword": "mosaiques",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Muse%C3%A9+de+Mahdia/data=!4m7!3m6!1s0x130223fa2964a035:0x1fea121443441d94!8m2!3d35.5037125!4d11.0685781!16s%2Fm%2F0130qfpq!19sChIJNaBkKfojAhMRlB1EQxQS6h8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJO_QdWPSPARMRY6ON0rZa6QE",
+        "name": "Plage SIR",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Plage SIR (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOEebBSUZjhd1-NDBmJzx280ZjRDbcKa1Qb9xv1=w408-h544-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "64QW+76R Plage SIR, La Chebba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Plage+SIR/data=!4m7!3m6!1s0x13018ff4581df43b:0x1e95ab6d28da363!8m2!3d35.2382427!4d11.1455286!16s%2Fg%2F11f7t83zzt!19sChIJO_QdWPSPARMRY6ON0rZa6QE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJycP0D3SVARMRLs1DBdSEBrY",
+        "name": "Site archeologique Acholla",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Site archeologique Acholla (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN3YixNol3uOqNKiUnlHVxLn2B8Bp_IaN6s3p4s=w515-h240-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "32HC+V9J Site archeologique Acholla, Ouled Bousmir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Site+arch%C3%A9ologique+Acholla/data=!4m7!3m6!1s0x130195740ff4c3c9:0xb60684d40543cd2e!8m2!3d35.0797195!4d11.0208961!16s%2Fg%2F11fylk64dk!19sChIJycP0D3SVARMRLs1DBdSEBrY?authuser=0&hl=fr&rclk=1"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": "ChIJEfWP3lMz_RIRRLY48d9pNdA",
+        "name": "CAFE'IN",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "CAFE'IN (lmlk)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNRsLK2ODIMUtTLO_EGNiZpOK-1deGY6OoKhqzb=w408-h320-k-no",
+        "main_category": "mqh~ fny",
+        "categories": [
+            "mqh~ fny"
+        ],
+        "rating": 4,
+        "workday_timing": "6S-11m",
+        "closed_on": [],
+        "phone": "24 565 150",
+        "address": "CAFE'IN, 59 Ave Habib Bourguiba, Manouba 2010",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CAFE'IN/@36.815,10.1008747,17z/data=!3m1!4b1!4m6!3m5!1s0x12fd3353de8ff511:0xd03569dff138b644!8m2!3d36.815!4d10.1008747!16s%2Fg%2F11j0bgfycs?authuser=0&entry=ttu"
+    }
+]

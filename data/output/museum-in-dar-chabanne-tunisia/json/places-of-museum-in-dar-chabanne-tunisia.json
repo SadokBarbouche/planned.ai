@@ -1,0 +1,412 @@
+[
+    {
+        "place_id": "ChIJsalpd8m04hIRaduc5E7WRvk",
+        "name": "Musee national de Carthage",
+        "description": "Musee archeologique simple presentant des statues et des poteries decouvertes lors de fouilles dans la region.",
+        "is_spending_on_ads": false,
+        "reviews": 581,
+        "website": "https://carthagemagazine.com/carthage-national-museum/",
+        "owner": {
+            "id": null,
+            "name": "Musee national de Carthage (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPxVDDk7o1OcIgbibckCmQ1FRYgF3AFjLqAJYW6=w408-h306-k-no",
+        "main_category": "Musee d'histoire",
+        "categories": [
+            "Musee d'histoire"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "58 162 557",
+        "address": "V83F+7QR Musee national de Carthage, Site archeologique de Carthage",
+        "review_keywords": [
+            {
+                "keyword": "renovation",
+                "count": 19
+            },
+            {
+                "keyword": "ruines",
+                "count": 18
+            },
+            {
+                "keyword": "cathedrale",
+                "count": 8
+            },
+            {
+                "keyword": "mosaiques",
+                "count": 7
+            },
+            {
+                "keyword": "antique",
+                "count": 7
+            },
+            {
+                "keyword": "site",
+                "count": 7
+            },
+            {
+                "keyword": "2026",
+                "count": 6
+            },
+            {
+                "keyword": "monument",
+                "count": 6
+            },
+            {
+                "keyword": "archeologiques",
+                "count": 6
+            },
+            {
+                "keyword": "restauration",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+national+de+Carthage/data=!4m7!3m6!1s0x12e2b4c97769a9b1:0xf946d64ee49cdb69!8m2!3d36.8532268!4d10.3243991!16s%2Fm%2F05b11w2!19sChIJsalpd8m04hIRaduc5E7WRvk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJz0MXd5604hIRtr7S4vP3MJ0",
+        "name": "Dar El Annabi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 538,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar El Annabi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPjvlhCuH3NyyQOfT9DRkmkuTbBhQFJaYCfql1J=w408-h306-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Musee du patrimoine"
+        ],
+        "rating": 4.7,
+        "workday_timing": "09:00-18:00",
+        "closed_on": [],
+        "phone": "27 913 088",
+        "address": "Dar El Annabi, 48 Rue Hedi Zarrouk, Site archeologique de Carthage",
+        "review_keywords": [
+            {
+                "keyword": "terrasses",
+                "count": 16
+            },
+            {
+                "keyword": "prix",
+                "count": 16
+            },
+            {
+                "keyword": "famille",
+                "count": 15
+            },
+            {
+                "keyword": "dinar",
+                "count": 7
+            },
+            {
+                "keyword": "architecture",
+                "count": 7
+            },
+            {
+                "keyword": "vie",
+                "count": 7
+            },
+            {
+                "keyword": "maison-musee",
+                "count": 6
+            },
+            {
+                "keyword": "passe",
+                "count": 5
+            },
+            {
+                "keyword": "jardin",
+                "count": 5
+            },
+            {
+                "keyword": "culturelle",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+El+Annabi/data=!4m7!3m6!1s0x12e2b49e771743cf:0x9d30f7f3e2d2beb6!8m2!3d36.8709673!4d10.3474229!16s%2Fg%2F11f3w6l6p1!19sChIJz0MXd5604hIRtr7S4vP3MJ0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6Qpez2gy_RIRIV9o2O6-lnY",
+        "name": "Musee National Militaire",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 140,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee National Militaire (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN8lpgkip-Ogx_HwKXtqKRk4KskhD6l49FgtqpZ=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-16:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "70 604 018",
+        "address": "Musee National Militaire, 53 Ave Habib Bourguiba, Manouba",
+        "review_keywords": [
+            {
+                "keyword": "histoire militaire",
+                "count": 18
+            },
+            {
+                "keyword": "armes",
+                "count": 14
+            },
+            {
+                "keyword": "palais",
+                "count": 11
+            },
+            {
+                "keyword": "ministere",
+                "count": 7
+            },
+            {
+                "keyword": "architecture",
+                "count": 7
+            },
+            {
+                "keyword": "guide culturel",
+                "count": 5
+            },
+            {
+                "keyword": "guerres",
+                "count": 4
+            },
+            {
+                "keyword": "histoire de la tunisie",
+                "count": 3
+            },
+            {
+                "keyword": "1989",
+                "count": 3
+            },
+            {
+                "keyword": "1984",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+National+Militaire/data=!4m7!3m6!1s0x12fd3268cf5e0ae9:0x7696beeed8685f21!8m2!3d36.8113948!4d10.0984958!16s%2Fg%2F120jr3v2!19sChIJ6Qpez2gy_RIRIV9o2O6-lnY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtQdQXpSYAhMRoRO4cnDaw2c",
+        "name": "Musee Neapolis",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 58,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee Neapolis (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNcykpjCK98U33XK0n2_BxWkvuOXCI5dyn0hltB=w408-h306-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique"
+        ],
+        "rating": 4.1,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "24 178 773",
+        "address": "FP2P+8G3 Musee Neapolis, Nabeul",
+        "review_keywords": [
+            {
+                "keyword": "mosaiques",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+N%C3%A9apolis/data=!4m7!3m6!1s0x130298945e5007b5:0x67c3da7072b813a1!8m2!3d36.4507529!4d10.736297!16s%2Fg%2F1hdyxvfnq!19sChIJtQdQXpSYAhMRoRO4cnDaw2c?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ14UeZg6ZAhMRyywSW9xqJuY",
+        "name": "Rond point les orangers",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Rond point les orangers (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPm3h-cJ1jeSWrbLXv08CEQMYE8FzVdv80wSqQG=w408-h503-k-no",
+        "main_category": "Musee historique",
+        "categories": [
+            "Musee historique"
+        ],
+        "rating": 4.8,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "FP3J+3JF Rond point les orangers, Unnamed Road,, Nabeul",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Rond+point+les+orangers/data=!4m7!3m6!1s0x1302990e661e85d7:0xe6266adc5b122ccb!8m2!3d36.4526991!4d10.7315461!16s%2Fg%2F11h0yksxl3!19sChIJ14UeZg6ZAhMRyywSW9xqJuY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJn7o0OfRj_RIR8P1xJ6af8jU",
+        "name": "Musee Dar khadija Hammamet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee Dar khadija Hammamet (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPdQXT1TbNsvE_bzQEf3rzVPSKSHuR_QhetmOYq=w408-h544-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "9JV7+H7Q Musee Dar khadija Hammamet, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Dar+khadija+Hammamet/data=!4m7!3m6!1s0x12fd63f43934ba9f:0x35f29fa62771fdf0!8m2!3d36.3939243!4d10.6132682!16s%2Fg%2F11gf97r59n!19sChIJn7o0OfRj_RIR8P1xJ6af8jU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJb_MzTpSYAhMRRZxEZEsXiH4",
+        "name": "Nabeul Museum",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Nabeul Museum (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO2pSrt8ZObsfFuZHbkiH7WgI7CdQnPoRjZrWxD=w408-h306-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique",
+            "Musee"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "FP2P+7HC Nabeul Museum, Nabeul",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Nabeul+Museum/data=!4m7!3m6!1s0x130298944e33f36f:0x7e88174b64449c45!8m2!3d36.4506915!4d10.7363967!16s%2Fm%2F0130pvlb!19sChIJb_MzTpSYAhMRRZxEZEsXiH4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJe5x6O3GZAhMREWK081dvazI",
+        "name": "Memoire Judeo-Nabeulienne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "http://archive.diarna.org/site/detail/public/424/",
+        "owner": {
+            "id": null,
+            "name": "Memoire Judeo-Nabeulienne (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMAC0zpcAUH7xagL16ZoXrAQehPUZsumdHj7VIN=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "FP4P+MJH Memoire Judeo-Nabeulienne, Nabeul",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/M%C3%A9moire+Judeo-Nabeulienne/data=!4m7!3m6!1s0x130299713b7a9c7b:0x326b6f57f3b46211!8m2!3d36.4566816!4d10.7366277!16s%2Fg%2F11qym3_35g!19sChIJe5x6O3GZAhMREWK081dvazI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuSC0cpSYAhMR41mEb6llJkE",
+        "name": "Statue Ibn Khaldoun",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Statue Ibn Khaldoun (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMl17omn3vejwORY_gU3pIJdOkc37XgXMPZbvoC=w408-h614-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4,
+        "workday_timing": "08:30-18:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "FP2P+MWP Statue Ibn Khaldoun, Nabeul",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Statue+Ibn+Khaldoun/data=!4m7!3m6!1s0x1302989472b420b9:0x412665a96f8459e3!8m2!3d36.4517242!4d10.7373387!16s%2Fg%2F11g72lr9mq!19sChIJuSC0cpSYAhMR41mEb6llJkE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJJZ2b6cWZAhMRbk4FJ0Tk6oo",
+        "name": "mtHf tHf 'hl lzmn fy dr zmn",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mtHf tHf 'hl lzmn fy dr zmn (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNqOhTzwpskZzrt5AB-61oLYw2n9k5etylAtlD2=w408-h612-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "FP3P+VQR mtHf tHf 'hl lzmn fy dr zmn, Nabeul",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D8%AA%D8%AD%D9%81+%D8%A7%D8%AA%D8%AD%D8%A7%D9%81+%D8%A3%D9%87%D9%84+%D8%A7%D9%84%D8%B2%D9%85%D8%A7%D9%86+%D9%81%D9%8A+%D8%AF%D8%A7%D8%B1+%D8%B2%D9%85%D8%A7%D9%86%E2%80%AD/data=!4m7!3m6!1s0x130299c5e99b9d25:0x8aeae44427054e6e!8m2!3d36.4547415!4d10.7368767!16s%2Fg%2F11fkqjnhd3!19sChIJJZ2b6cWZAhMRbk4FJ0Tk6oo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJASl3YimZAhMRZCjKrwuGxzQ",
+        "name": "Ensemble industriel antique de production de garum de Neapolis",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ensemble industriel antique de production de garum de Neapolis (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOeQz9T46t-pJIWzVJRQIcCeUMQazODp3lubL6Z=w408-h306-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "CPR9+H4W Ensemble industriel antique de production de garum de Neapolis, Site Historique de Neapolis, Nabeul",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ensemble+industriel+antique+de+production+de+garum+de+Neapolis/data=!4m7!3m6!1s0x1302992962772901:0x34c7860bafca2864!8m2!3d36.4389087!4d10.7175762!16s%2Fg%2F11k3kn01p8!19sChIJASl3YimZAhMRZCjKrwuGxzQ?authuser=0&hl=fr&rclk=1"
+    }
+]

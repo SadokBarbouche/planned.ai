@@ -1,0 +1,312 @@
+[
+    {
+        "place_id": "ChIJJ3LhWeikqhMRSH0HUqM9L_U",
+        "name": "Marche Central Houmt Souk",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 468,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Marche Central Houmt Souk (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMpFjgPznnUNAaTbEbW9wYrSxeZ_ppmHMj1zyd4=w408-h544-k-no",
+        "main_category": "Marche",
+        "categories": [
+            "Marche"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "VVG5+2CM Marche Central Houmt Souk, Houmt Souk",
+        "review_keywords": [
+            {
+                "keyword": "touristes",
+                "count": 10
+            },
+            {
+                "keyword": "vendeurs",
+                "count": 9
+            },
+            {
+                "keyword": "negocier",
+                "count": 8
+            },
+            {
+                "keyword": "boutiques",
+                "count": 7
+            },
+            {
+                "keyword": "souvenirs",
+                "count": 7
+            },
+            {
+                "keyword": "attention",
+                "count": 7
+            },
+            {
+                "keyword": "pittoresque",
+                "count": 5
+            },
+            {
+                "keyword": "ruelles",
+                "count": 5
+            },
+            {
+                "keyword": "marchander",
+                "count": 5
+            },
+            {
+                "keyword": "epices",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/March%C3%A9+Central+Houmt+Souk/data=!4m7!3m6!1s0x13aaa4e859e17227:0xf52f3da352077d48!8m2!3d33.875078!4d10.858539!16s%2Fg%2F11g8_ch98y!19sChIJJ3LhWeikqhMRSH0HUqM9L_U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJvX8l-9-lqhMRbJt-v5-kZCc",
+        "name": "Marina djerba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 179,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Marina djerba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNLkYpsq6u9bXQ2daOHH7xzMi2SvinUuTI-uJdx=w426-h240-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VVP4+2CW Marina djerba, Houmt Souk",
+        "review_keywords": [
+            {
+                "keyword": "pirates",
+                "count": 7
+            },
+            {
+                "keyword": "bateau",
+                "count": 6
+            },
+            {
+                "keyword": "cafes",
+                "count": 6
+            },
+            {
+                "keyword": "espace",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Marina+djerba/data=!4m7!3m6!1s0x13aaa5dffb257fbd:0x2764a49fbf7e9b6c!8m2!3d33.8850045!4d10.8562078!16s%2Fg%2F11kk5bv53h!19sChIJvX8l-9-lqhMRbJt-v5-kZCc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJvxDagfCkqhMRTKb9pp1OuYw",
+        "name": "Port De Houmt Souk",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 117,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Port De Houmt Souk (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNx1H5BEgdzuYTOJyL5a1YzSDfse9V3D_3ERq0m=w408-h252-k-no",
+        "main_category": "Port de plaisance",
+        "categories": [
+            "Port de plaisance"
+        ],
+        "rating": 4.1,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "VVP4+PH8 Port De Houmt Souk, Houmt Souk",
+        "review_keywords": [
+            {
+                "keyword": "pirates",
+                "count": 6
+            },
+            {
+                "keyword": "ile",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Port+De+Houmt+Souk/data=!4m7!3m6!1s0x13aaa4f081da10bf:0x8cb94e9da6fda64c!8m2!3d33.8867835!4d10.8564606!16s%2Fg%2F11c586zrsb!19sChIJvxDagfCkqhMRTKb9pp1OuYw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJxcUB6eikqhMRWObyRDSRDiQ",
+        "name": "Bazaar Houmt Souk",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 70,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bazaar Houmt Souk (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMod5WePOFqz9Z8RYpsszSZCMkXBBfdxLDnmdJP=w408-h306-k-no",
+        "main_category": "Bazar",
+        "categories": [
+            "Bazar"
+        ],
+        "rating": 3.8,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "VVG5+J8H Bazaar Houmt Souk, Houmt Souk",
+        "review_keywords": [
+            {
+                "keyword": "touristique",
+                "count": 5
+            },
+            {
+                "keyword": "prix",
+                "count": 4
+            },
+            {
+                "keyword": "vendeurs",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Bazaar+Houmt+Souk/data=!4m7!3m6!1s0x13aaa4e8e901c5c5:0x240e913444f2e658!8m2!3d33.8765608!4d10.858372!16s%2Fg%2F11dymcccwt!19sChIJxcUB6eikqhMRWObyRDSRDiQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4XYL-OikqhMRAy8kwyhyGv0",
+        "name": "Marche aux Poissons - Houmt Souk",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 60,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Marche aux Poissons - Houmt Souk (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPX5uHRYDcHMOrIdAXJUOHaQMmWh3piIbHmWeK0=w408-h725-k-no",
+        "main_category": "Marche aux poissons et fruits de mer",
+        "categories": [
+            "Marche aux poissons et fruits de mer"
+        ],
+        "rating": 4.1,
+        "workday_timing": "08:00-19:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "VVG5+4CX Marche aux Poissons - Houmt Souk, Houmt Souk",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/March%C3%A9+aux+Poissons+-+Houmt+Souk/data=!4m7!3m6!1s0x13aaa4e8f80b76e1:0xfd1a7228c3242f03!8m2!3d33.8753649!4d10.8586128!16s%2Fg%2F11g7z0b_14!19sChIJ4XYL-OikqhMRAy8kwyhyGv0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJS0G2XA6lqhMR-l_p5trZC8I",
+        "name": "Houmt souk djerba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 40,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Houmt souk djerba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOKLxiB-r9uUi6mkhVl_PM4yAh0G2Te88jc5LT_=w408-h725-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VVG5+RG6 Houmt souk djerba, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Houmt+souk+djerba/data=!4m7!3m6!1s0x13aaa50e5cb6414b:0xc20bd9dae6e95ffa!8m2!3d33.8770499!4d10.8587556!16s%2Fg%2F11krs4f6_p!19sChIJS0G2XA6lqhMR-l_p5trZC8I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJV_bUb_qkqhMRiEpGerzWoxg",
+        "name": "Port de Houmt-Souk",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Port de Houmt-Souk (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOsu2KtN6x9-m7WfOQPgLW-EKGgO32lFIwFjCnb=w408-h544-k-no",
+        "main_category": "Port maritime",
+        "categories": [
+            "Port maritime"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Port de Houmt-Souk, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Port+de+Houmt-Souk/data=!4m7!3m6!1s0x13aaa4fa6fd4f657:0x18a3d6bc7a464a88!8m2!3d33.887569!4d10.8558181!16s%2Fg%2F1vnhvkxd!19sChIJV_bUb_qkqhMRiEpGerzWoxg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJoZkTmvCkqhMRFHPHELRaNPg",
+        "name": "south trading company",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": "108246165495724061786",
+            "name": "south trading company (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108246165495724061786"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO2ietvgf5H4WxNShecIOJhkpFCPTqV5duqXC2N=w426-h240-k-no",
+        "main_category": "Marche aux poissons et fruits de mer",
+        "categories": [
+            "Marche aux poissons et fruits de mer"
+        ],
+        "rating": 4.1,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "52 711 101",
+        "address": "south trading company, Unnamed Road, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/south+trading+company/data=!4m7!3m6!1s0x13aaa4f09a1399a1:0xf8345ab410c77314!8m2!3d33.8874957!4d10.8570773!16s%2Fg%2F11f4q_6l4f!19sChIJoZkTmvCkqhMRFHPHELRaNPg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJKdPCPYylqhMRa49QHFiQHhc",
+        "name": "Corniche Houmt Souk",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Corniche Houmt Souk (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPqkEOjzhEBQe9ZLbRQ3gCye41nyImveFYXzbo8=w408-h306-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VVJ8+8HG Corniche Houmt Souk, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Corniche+Houmt+Souk/data=!4m7!3m6!1s0x13aaa58c3dc2d329:0x171e90581c508f6b!8m2!3d33.8808054!4d10.8664612!16s%2Fg%2F11q417r23b!19sChIJKdPCPYylqhMRa49QHFiQHhc?authuser=0&hl=fr&rclk=1"
+    }
+]

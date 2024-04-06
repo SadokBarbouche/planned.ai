@@ -1,0 +1,524 @@
+[
+    {
+        "place_id": "ChIJHzgEBTBtAhMRqyURTru9pFM",
+        "name": "Ribat de Monastir",
+        "description": "Immense fort cotier du VIIIe siecle bien conserve et abritant aujourd'hui le musee d'Art islamique.",
+        "is_spending_on_ads": false,
+        "reviews": 2204,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ribat de Monastir (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOZF3SFW5N_4PyjWhsF7iV8a55W4OH1rzx0bePe=w408-h306-k-no",
+        "main_category": "Lieu historique",
+        "categories": [
+            "Lieu historique",
+            "Site historique",
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "08:30-17:30",
+        "closed_on": [],
+        "phone": "42 223 476",
+        "address": "QRGM+F6M Ribat de Monastir, Rte de la Falaise, Monastir",
+        "review_keywords": [
+            {
+                "keyword": "tour",
+                "count": 84
+            },
+            {
+                "keyword": "fortification",
+                "count": 59
+            },
+            {
+                "keyword": "especes",
+                "count": 54
+            },
+            {
+                "keyword": "mer",
+                "count": 42
+            },
+            {
+                "keyword": "dinar",
+                "count": 39
+            },
+            {
+                "keyword": "mosquee",
+                "count": 18
+            },
+            {
+                "keyword": "musulmans",
+                "count": 16
+            },
+            {
+                "keyword": "habib bourguiba",
+                "count": 8
+            },
+            {
+                "keyword": "mausolee",
+                "count": 7
+            },
+            {
+                "keyword": "viiie siecle",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ribat+de+Monastir/data=!4m7!3m6!1s0x13026d300504381f:0x53a4bdbb4e1125ab!8m2!3d35.7762108!4d10.8330383!16s%2Fg%2F121djqp8!19sChIJHzgEBTBtAhMRqyURTru9pFM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJAVBcPNoSAhMRHAXWlZU_P1c",
+        "name": "Restaurant le Pirate Monastir",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 890,
+        "website": null,
+        "owner": {
+            "id": "106672418689060159957",
+            "name": "Restaurant le Pirate Monastir (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106672418689060159957"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOZn1A4VZDRSg0RXYhPDonDAMiYdmWJekMzOBfM=w408-h271-k-no",
+        "main_category": "Restaurant de fruits de mer",
+        "categories": [
+            "Restaurant de fruits de mer",
+            "Restaurant tunisien"
+        ],
+        "rating": 4.3,
+        "workday_timing": "12:00-16:00, 19:00-23:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "73 468 126",
+        "address": "Restaurant le Pirate Monastir, Fishing Port 5000, El Ghedir, Monastir",
+        "review_keywords": [
+            {
+                "keyword": "service",
+                "count": 39
+            },
+            {
+                "keyword": "dessert",
+                "count": 27
+            },
+            {
+                "keyword": "entrees",
+                "count": 16
+            },
+            {
+                "keyword": "tunisienne",
+                "count": 11
+            },
+            {
+                "keyword": "serveurs",
+                "count": 10
+            },
+            {
+                "keyword": "moules",
+                "count": 9
+            },
+            {
+                "keyword": "dorade",
+                "count": 7
+            },
+            {
+                "keyword": "dinar",
+                "count": 6
+            },
+            {
+                "keyword": "sorbet",
+                "count": 5
+            },
+            {
+                "keyword": "table d'hote",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Restaurant+le+Pirate+Monastir/data=!4m7!3m6!1s0x130212da3c5c5001:0x573f3f9595d6051c!8m2!3d35.7601679!4d10.838593!16s%2Fg%2F1vvw_q32!19sChIJAVBcPNoSAhMRHAXWlZU_P1c?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJaZytwjFtAhMRxi7YVx8htrY",
+        "name": "Marina Cap Monastir",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 296,
+        "website": "http://www.marinamonastir.tn/",
+        "owner": {
+            "id": "105575932631645469969",
+            "name": "Marina Cap Monastir (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105575932631645469969"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPvq-nBxF5xZxwU8B3MzPrZo_isoMa1RfI_Ul1G=w425-h240-k-no",
+        "main_category": "Port de plaisance",
+        "categories": [
+            "Port de plaisance",
+            "Hotel de ville",
+            "Cafe",
+            "Salle de reception",
+            "Hotel",
+            "Restaurant",
+            "Appartement de vacances"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "73 462 305",
+        "address": "Marina Cap Monastir, Monastir",
+        "review_keywords": [
+            {
+                "keyword": "cafes",
+                "count": 7
+            },
+            {
+                "keyword": "appartement",
+                "count": 6
+            },
+            {
+                "keyword": "prix",
+                "count": 5
+            },
+            {
+                "keyword": "climatise",
+                "count": 3
+            },
+            {
+                "keyword": "soir",
+                "count": 3
+            },
+            {
+                "keyword": "marche",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Marina+Cap+Monastir/data=!4m7!3m6!1s0x13026d31c2ad9c69:0xb6b6211f57d82ec6!8m2!3d35.7796346!4d10.8333832!16s%2Fg%2F1tf91xsv!19sChIJaZytwjFtAhMRxi7YVx8htrY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJm86X3q8SAhMRPlTd9seWfho",
+        "name": "La reserve",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 215,
+        "website": null,
+        "owner": {
+            "id": "117159273324610209511",
+            "name": "La reserve (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117159273324610209511"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN1ejmjBO0xjJFa2MLjuxS2zTHTT5vcOB_Iwi0N=w408-h536-k-no",
+        "main_category": "Restauration rapide",
+        "categories": [
+            "Restauration rapide"
+        ],
+        "rating": 4,
+        "workday_timing": "11:30-23:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "73 502 300",
+        "address": "La reserve, C100e, Monastir",
+        "review_keywords": [
+            {
+                "keyword": "plats",
+                "count": 9
+            },
+            {
+                "keyword": "prix",
+                "count": 7
+            },
+            {
+                "keyword": "salade cesar",
+                "count": 3
+            },
+            {
+                "keyword": "proprete",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/La+r%C3%A9serve/data=!4m7!3m6!1s0x130212afde97ce9b:0x1a7e96c7f6dd543e!8m2!3d35.7659093!4d10.8109774!16s%2Fg%2F11c5g87x2b!19sChIJm86X3q8SAhMRPlTd9seWfho?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJfYRonjFtAhMRjZi-kJ8k7Zo",
+        "name": "restaurant Marina The Captain",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 193,
+        "website": null,
+        "owner": {
+            "id": "108635381557886008937",
+            "name": "restaurant Marina The Captain (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108635381557886008937"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPXokv33fGNYd7l6qLJIMJmTnLLmdh3g1_It40I=w426-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant",
+            "Bar"
+        ],
+        "rating": 4.2,
+        "workday_timing": "12:00-00:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "92 555 655",
+        "address": "restaurant Marina The Captain, cap marina, Monastir 5000",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 27
+            },
+            {
+                "keyword": "filet",
+                "count": 8
+            },
+            {
+                "keyword": "serveur",
+                "count": 7
+            },
+            {
+                "keyword": "fruits de mer",
+                "count": 5
+            },
+            {
+                "keyword": "vin",
+                "count": 5
+            },
+            {
+                "keyword": "plats",
+                "count": 4
+            },
+            {
+                "keyword": "assiette",
+                "count": 4
+            },
+            {
+                "keyword": "couscous",
+                "count": 3
+            },
+            {
+                "keyword": "terrasse",
+                "count": 3
+            },
+            {
+                "keyword": "soir",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/restaurant+Marina+The+Captain/data=!4m7!3m6!1s0x13026d319e68847d:0x9aed249f90be988d!8m2!3d35.7797844!4d10.8313384!16s%2Fg%2F11dxrnl3nb!19sChIJfYRonjFtAhMRjZi-kJ8k7Zo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJGY_8udUSAhMRxYpwCyKkI5E",
+        "name": "El Ferik",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 189,
+        "website": "https://www.facebook.com/Restaurant.El.Ferik/",
+        "owner": {
+            "id": null,
+            "name": "El Ferik (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNFgEhgN6M_KPRsbeuGg11IfOZ_yHo7FFSf5QfK=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant",
+            "Lieu historique"
+        ],
+        "rating": 3.8,
+        "workday_timing": "09:00-01:00",
+        "closed_on": [],
+        "phone": "73 462 220",
+        "address": "QR9V+98R El Ferik, Route de la Courniche, Monastir",
+        "review_keywords": [
+            {
+                "keyword": "vue",
+                "count": 14
+            },
+            {
+                "keyword": "mer",
+                "count": 9
+            },
+            {
+                "keyword": "serveur",
+                "count": 5
+            },
+            {
+                "keyword": "plats",
+                "count": 5
+            },
+            {
+                "keyword": "prix",
+                "count": 5
+            },
+            {
+                "keyword": "terrasse",
+                "count": 4
+            },
+            {
+                "keyword": "qualite",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/El+Ferik/data=!4m7!3m6!1s0x130212d5b9fc8f19:0x9123a4220b708ac5!8m2!3d35.7684978!4d10.8432812!16s%2Fg%2F1tjxzqk1!19sChIJGY_8udUSAhMRxYpwCyKkI5E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2fGHmtQSAhMRscfGnYz76EU",
+        "name": "Restaurant La Plage",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 33,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant La Plage (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMKsEnEa4xt-x8AnHI5oquP23V9B49SjCQLBMId=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": "11:00-22:00",
+        "closed_on": [],
+        "phone": "73 461 124",
+        "address": "QRCR+63F Restaurant La Plage, Monastir",
+        "review_keywords": [
+            {
+                "keyword": "poisson",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Restaurant+La+Plage/data=!4m7!3m6!1s0x130212d49a87f1d9:0x45e8fb8c9dc6c7b1!8m2!3d35.7705728!4d10.8401771!16s%2Fg%2F11c1m00k2r!19sChIJ2fGHmtQSAhMRscfGnYz76EU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJL7FvxMJtAhMRDjcRXjbXuLU",
+        "name": "Plongeoir plage karaia de Monastir lmyd@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 29,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Plongeoir plage karaia de Monastir lmyd@ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMfyzKcjLEXdzV6qzy2mCGScVl-61Ja7ibKbhT5=w422-h240-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "QRFQ+R4H Plongeoir plage karaia de Monastir lmyd@, Monastir",
+        "review_keywords": [
+            {
+                "keyword": "plages",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Plongeoir+plage+karaia+de+Monastir+%D8%A7%D9%84%D9%85%D9%8A%D8%AF%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x13026dc2c46fb12f:0xb5b8d7365e11370e!8m2!3d35.7745733!4d10.8378637!16s%2Fg%2F11h51086l8!19sChIJL7FvxMJtAhMRDjcRXjbXuLU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_woXz2NtAhMRiR1eaDe_7t4",
+        "name": "Plage de Monastir",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Plage de Monastir (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPmvJn6KPG2Zoo0bT2BxdWs0Bh948cG2OBqcVI3=w408-h306-k-no",
+        "main_category": "Pavillon de plage",
+        "categories": [
+            "Pavillon de plage"
+        ],
+        "rating": 3.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QRGP+355 Plage de Monastir, Unnamed Road, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Plage+de+Monastir/data=!4m7!3m6!1s0x13026d63cf170aff:0xdeeebf37685e1d89!8m2!3d35.7751329!4d10.835476!16s%2Fg%2F11hgdnk78x!19sChIJ_woXz2NtAhMRiR1eaDe_7t4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJWxph9TptAhMRSRB7LyzGJw4",
+        "name": "Port",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Port (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOpTC7IKH9MdKPHGlgFluP5KpudJL3An-TrVw8X=w426-h240-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QRHM+6CG Port, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Port/data=!4m7!3m6!1s0x13026d3af5611a5b:0xe27c62c2f7b1049!8m2!3d35.7780614!4d10.8335627!16s%2Fg%2F11kpdd5mh2!19sChIJWxph9TptAhMRSRB7LyzGJw4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqWh-VsptAhMRDpi190Ia5LQ",
+        "name": "Marina Port de Monastir plage",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Marina Port de Monastir plage (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMDS5sZEUMiLUszgxyGOe_OeVu7yeKBSkBLyYt5=w408-h544-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QRHJ+WFX Marina Port de Monastir plage, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Marina+Port+de+Monastir+plage/data=!4m7!3m6!1s0x13026dca567e68a9:0xb4e41a42f7b5980e!8m2!3d35.7801928!4d10.8309957!16s%2Fg%2F11t9f05w0d!19sChIJqWh-VsptAhMRDpi190Ia5LQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJPf2Af6JzAhMRAr72oxdPcLo",
+        "name": "Plage de Skanes",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Plage de Skanes (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMXEuCp6sPZJNDxh1azwDoN5_drQ1Xz4clhJTVn=w426-h240-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QQHQ+CGX Plage de Skanes, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Plage+de+Skan%C3%A8s/data=!4m7!3m6!1s0x130273a27f80fd3d:0xba704f17a3f6be02!8m2!3d35.7789214!4d10.7895992!16s%2Fg%2F11jzg_t4zg!19sChIJPf2Af6JzAhMRAr72oxdPcLo?authuser=0&hl=fr&rclk=1"
+    }
+]

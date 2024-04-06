@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": "ChIJzfbv4erL-xIR5xBruF0-TQU",
+        "name": "gare routiere",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "gare routiere (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOnoKJ8YSMmd5YlN5lnxlIE8RLFUSxTFEdkrpod=w1081-h240-k-no",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 3.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "gare routiere, Tajerouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/gare+routi%C3%A8re/data=!4m7!3m6!1s0x12fbcbeae1eff6cd:0x54d3e5db86b10e7!8m2!3d35.8906356!4d8.5516302!16s%2Fg%2F12hl0fnq1!19sChIJzfbv4erL-xIR5xBruF0-TQU?authuser=0&hl=fr&rclk=1"
+    }
+]

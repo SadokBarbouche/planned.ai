@@ -1,0 +1,621 @@
+[
+    {
+        "place_id": "ChIJRxgwSrTp4hIRc681lT5nwnQ",
+        "name": "Dar El Lamma",
+        "description": "Logements elegants dans hotel chic avec piscine exterieure, hammam en marbre et jardin luxuriant.",
+        "is_spending_on_ads": false,
+        "reviews": 131,
+        "website": "http://www.darellamma.com/",
+        "owner": {
+            "id": "112476623079669780323",
+            "name": "Dar El Lamma (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/112476623079669780323"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGHbip58wtPCxNuWvlyHuHCYIBl0xqaPa2GWjiERWOyDSN4-HMJYdusWHvBxWBXrbwSTt-t6JjtYhpz4tOtt6FxBrXXCKVI8Z90A1biLKOims6vp6fyrU3FDZD8g2Jd7yyzj3CSWryfbuu2b7YGD2MVOArOy-TZl-QtqARnogqY0b1OXixfsKz5=w408-h271-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "55 355 000",
+        "address": "Dar El Lamma, Route Ain Hadida, Ras Jebel 7070",
+        "review_keywords": [
+            {
+                "keyword": "piscine",
+                "count": 6
+            },
+            {
+                "keyword": "cadre",
+                "count": 5
+            },
+            {
+                "keyword": "nature",
+                "count": 5
+            },
+            {
+                "keyword": "service",
+                "count": 5
+            },
+            {
+                "keyword": "team building",
+                "count": 4
+            },
+            {
+                "keyword": "proprete",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+El+Lamma/data=!4m10!3m9!1s0x12e2e9b44a301847:0x74c2673e9535af73!5m2!4m1!1i2!8m2!3d37.2289037!4d10.1314216!16s%2Fg%2F11cmbgpqj4!19sChIJRxgwSrTp4hIRc681lT5nwnQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJAQAAQJfB4hIRTuq_Fwc7alU",
+        "name": "Plage Ghar El Melh",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 88,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Plage Ghar El Melh (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOxUDg_DWu2u_m_MbpUgusfFvnMP80SgSjNKFvE=w426-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "559Q+FC3 Plage Ghar El Melh, Ghar El Melh",
+        "review_keywords": [
+            {
+                "keyword": "plages",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Plage+Ghar+El+Melh/data=!4m10!3m9!1s0x12e2c19740000001:0x556a3b0717bfea4e!5m2!4m1!1i2!8m2!3d37.1686472!4d10.1885423!16s%2Fg%2F11d_bbn57r!19sChIJAQAAQJfB4hIRTuq_Fwc7alU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4fSQVkvA4hIRACnyOn5Tlso",
+        "name": "Les Jardins de la Mer Ghar el Melh",
+        "description": "Hotel tropical de style decontracte avec vue sur lac, bungalows bohemes, restaurant et piscine exterieure.",
+        "is_spending_on_ads": false,
+        "reviews": 82,
+        "website": "http://www.ljdlmgharelmelh.com/",
+        "owner": {
+            "id": null,
+            "name": "Les Jardins de la Mer Ghar el Melh (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhG3eJuw2ARMLc5L4sRNu9FD1QtVbJwR5zfYQivlEhqMa56XOkciQ-ps619LbDuDt8p5lbwV6GrzPeOTGqgL15gVCPcRin6DJR3KJPlVg3dH3gA0_aZ5vE6SyZtAb4etBV9N6PwkQigh7jB1TZSzmIHCyrYs7kpjvJXvRWFyUFIgiIPTP96tPIIZmA=w408-h306-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "22 251 279",
+        "address": "Les Jardins de la Mer Ghar el Melh, 2 el ayoun ghar el Melh, Ghar al Milh 7033",
+        "review_keywords": [
+            {
+                "keyword": "chambre",
+                "count": 9
+            },
+            {
+                "keyword": "vue",
+                "count": 5
+            },
+            {
+                "keyword": "hotes",
+                "count": 4
+            },
+            {
+                "keyword": "piscine",
+                "count": 3
+            },
+            {
+                "keyword": "prix",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Les+Jardins+de+la+Mer+Ghar+el+Melh/data=!4m10!3m9!1s0x12e2c04b5690f4e1:0xca96537e3af22900!5m2!4m1!1i2!8m2!3d37.1704765!4d10.2156266!16s%2Fg%2F11g8bwq3gt!19sChIJ4fSQVkvA4hIRACnyOn5Tlso?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJjyy-cUuk-xIRZJdVHcYgYPA",
+        "name": "Dar Alyssa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 56,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar Alyssa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMuKHYS0nNK-5difi5hMXOa3KYVKDW-44Lugyfe=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "97 926 051",
+        "address": "5PH4+XF9 Dar Alyssa, El Kef",
+        "review_keywords": [
+            {
+                "keyword": "petit dejeuner",
+                "count": 4
+            },
+            {
+                "keyword": "chambres",
+                "count": 3
+            },
+            {
+                "keyword": "famille",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Alyssa/data=!4m10!3m9!1s0x12fba44b71be2c8f:0xf06020c61d559764!5m2!4m1!1i2!8m2!3d36.1799104!4d8.7062362!16s%2Fg%2F11c0tb3bss!19sChIJjyy-cUuk-xIRZJdVHcYgYPA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJq0JzXg7q4hIRp579EqWvBMI",
+        "name": "Villa Sounine",
+        "description": "Hebergements chics, certains avec terrasse et vue sur la mer, dans maison d'hotes raffinee comprenant jardin paisible.",
+        "is_spending_on_ads": false,
+        "reviews": 49,
+        "website": "http://villasounine.com/",
+        "owner": {
+            "id": "105690089698115703181",
+            "name": "Villa Sounine (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105690089698115703181"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOfqkDMfKSr9XJMnHCjHue5WkCxy8dcHha57QLA=w408-h263-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Villa Sounine, El Mkataa, 7025 Sounine, Sounine 7025",
+        "review_keywords": [
+            {
+                "keyword": "mer",
+                "count": 9
+            },
+            {
+                "keyword": "vue",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Villa+Sounine/data=!4m10!3m9!1s0x12e2ea0e5e7342ab:0xc204afa512fd9ea7!5m2!4m1!1i2!8m2!3d37.2074258!4d10.1854888!16s%2Fg%2F11f4wtj3_0!19sChIJq0JzXg7q4hIRp579EqWvBMI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJT34EFpja4hIR5g9mqT8MbhU",
+        "name": "Dar Utique",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 33,
+        "website": null,
+        "owner": {
+            "id": "117321831298734771955",
+            "name": "Dar Utique (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117321831298734771955"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNS2Pbt8Q2PonV1zkng_5sfeMM_Ck88tPvrF3ij=w426-h240-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes",
+            "Hotel"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "29 019 081",
+        "address": "Dar Utique, ruine 2063",
+        "review_keywords": [
+            {
+                "keyword": "chambres",
+                "count": 5
+            },
+            {
+                "keyword": "week-end",
+                "count": 4
+            },
+            {
+                "keyword": "piscine",
+                "count": 4
+            },
+            {
+                "keyword": "experience",
+                "count": 4
+            },
+            {
+                "keyword": "cheminee",
+                "count": 3
+            },
+            {
+                "keyword": "proprietaire",
+                "count": 3
+            },
+            {
+                "keyword": "jardin",
+                "count": 3
+            },
+            {
+                "keyword": "service",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Utique/data=!4m10!3m9!1s0x12e2da9816047e4f:0x156e0c3fa9660fe6!5m2!4m1!1i2!8m2!3d37.0502334!4d10.0569356!16s%2Fg%2F11f3ryv66l!19sChIJT34EFpja4hIR5g9mqT8MbhU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJp1WGmtQ-_BIRbCfqXqhZITE",
+        "name": "Dar El Henchir",
+        "description": "Hotel sobre avec chambres traditionnelles au mobilier ancien, restaurant et terrasse.",
+        "is_spending_on_ads": false,
+        "reviews": 33,
+        "website": "https://www.facebook.com/profile.php/%3Fid%3D100063673205877",
+        "owner": {
+            "id": null,
+            "name": "Dar El Henchir (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhF6iBi034CnQXPHOcNkUsiWxaWwkCi-U3H3sGpiiKDAnduzPhvmVd59Q2uzMOM4b2RDH4Bc8LaSYVHUZRFNYliO-fGo5QvFP9J5HCaxQp6FyyZ7eT6m9z5TAjD2jlx6NL4uUho_SaZP9vBk72nBJXkMFmunHRQPWwtgxyoMdMLxYUe9RE_nM5M=w408-h306-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes",
+            "Lodge"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "23 302 239",
+        "address": "Dar El Henchir, Al-Waslatiyah , km 55 Route De Kairouan Oueslatia , On Main Road To Alwaslatiyah, Ousseltia 3120",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+El+Henchir/data=!4m10!3m9!1s0x12fc3ed49a8655a7:0x312159a85eea276c!5m2!4m1!1i2!8m2!3d35.8279739!4d9.6322095!16s%2Fg%2F11c1xsjfrm!19sChIJp1WGmtQ-_BIRbCfqXqhZITE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJy1Bras0d4xIRwDikmzX4VRs",
+        "name": "Dar Salama",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar Salama (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFFR7zklbjMycNWJwmTfxh5cCueralFkCabOgYQNclMPgkZRs-j4CQik2rzpAWg1UAvoT6gj8jOCvcHcpQLJz0zYOevoOhDIDavXoXygpMplcvVX4S979JBkXMS8tFGfBL9qHAenBW4ICMwgERq449kya9d4MkLCH6WWQCWSTJ9YGmxET4NUt-E_w=w408-h306-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "27 063 707",
+        "address": "Dar Salama, Route Panoramique De La Corniche Bizerte TN 7000, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Salama/data=!4m10!3m9!1s0x12e31dcd6a6b50cb:0x1b55f8359ba438c0!5m2!4m1!1i2!8m2!3d37.3235829!4d9.8587484!16s%2Fg%2F11c1xqg7yz!19sChIJy1Bras0d4xIRwDikmzX4VRs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJCVEwxDDA4hIRc5-6mtAunMQ",
+        "name": "Dar Saidane - Ailes d'Hirondelles",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": "https://www.facebook.com/%2520DarSaidane/",
+        "owner": {
+            "id": "102163223821760651115",
+            "name": "Dar Saidane - Ailes d'Hirondelles (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/102163223821760651115"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO3cmZlxu7MpaKdSV1hO6vrPbxSoBeHTuBgSfZA=w408-h306-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "52 312 914",
+        "address": "Dar Saidane - Ailes d'Hirondelles, Route Hmari Km 2,5, Raf Raf Plage 7015",
+        "review_keywords": [
+            {
+                "keyword": "foret",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Sa%C3%AFdane+-+Ailes+d%27Hirondelles/data=!4m10!3m9!1s0x12e2c030c4305109:0xc49c2ed09aba9f73!5m2!4m1!1i2!8m2!3d37.1808501!4d10.2245672!16s%2Fg%2F11b6dw0rqq!19sChIJCVEwxDDA4hIRc5-6mtAunMQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJr-7_yEUe4xIRz5bRNprYeBo",
+        "name": "Dar El Kasba Bizerte",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "website": "https://www.hotelstunisian.com/dar-el-kasba-bizerte/",
+        "owner": {
+            "id": "111752028785945492445",
+            "name": "Dar El Kasba Bizerte (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111752028785945492445"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTfY7rvq6B5ZPjTz22Uflkwz3znhUybYVZR4zx=w408-h506-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel",
+            "Chambre d'hotes"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "23 311 219",
+        "address": "Dar El Kasba Bizerte, Bizerte",
+        "review_keywords": [
+            {
+                "keyword": "chambre",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+El+Kasba+Bizerte/data=!4m10!3m9!1s0x12e31e45c8ffeeaf:0x1a78d89a36d196cf!5m2!4m1!1i2!8m2!3d37.2791898!4d9.8758447!16s%2Fg%2F11dxqld_41!19sChIJr-7_yEUe4xIRz5bRNprYeBo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJRaMMc_PB4hIRUZ_AaKvRGd8",
+        "name": "Residence le Grand Bleu",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": "http://facebook.com/profile.php%3Fid%3D100063681661550",
+        "owner": {
+            "id": null,
+            "name": "Residence le Grand Bleu (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhE-oOJrMb_u8mQ_SImMRrLaAldZELW2m2w9BOui4qmL5O5aIympwqqTqP-i-DoVWshn3OOQWGBY-DjOd5tJJMy79s_aq2SDx0pgwunhoX3qDuFcjiYx9hUDeXK4A7kL5RGZHhNU3PwykulY0xafhcrh24FpugatWemkSj2ZVvDjfQqhMAVlkhg2aQ=w446-h240-k-no",
+        "main_category": "Hebergement",
+        "categories": [
+            "Hebergement"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "28 227 250",
+        "address": "56P8+93M Residence le Grand Bleu, Rafraf",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/R%C3%A9sidence+le+Grand+Bleu/data=!4m10!3m9!1s0x12e2c1f3730ca345:0xdf19d1ab68c09f51!5m2!4m1!1i2!8m2!3d37.1859652!4d10.2151721!16s%2Fg%2F11k0gf9mns!19sChIJRaMMc_PB4hIRUZ_AaKvRGd8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5STpGHU0_RIR7sSK_HTgK3I",
+        "name": "Le Petit Olivier",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": "https://top-best-luxury-hotels.blogspot.com/",
+        "owner": {
+            "id": null,
+            "name": "Le Petit Olivier (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMeHEqTT0TLD2vkNtQHiJCZCMdkXHXYzaurmeqx=w408-h306-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "51 074 799",
+        "address": "Q5XF+637 Le Petit Olivier, Douar Mrah - El Alia - Route De Bizerte, El Alia - Bizerte 2026",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Le+Petit+Olivier/data=!4m10!3m9!1s0x12fd347518e924e5:0x722be074fc8ac4ee!5m2!4m1!1i2!8m2!3d36.798044!4d10.172671!16s%2Fg%2F11fmlj9hvk!19sChIJ5STpGHU0_RIR7sSK_HTgK3I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJFQ74J0ke4xIRV6N9sVpF8Ig",
+        "name": "dar sandra",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "dar sandra (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPr7jmsxTYXjtdh0DZD57y4LKOK_4Vh5fh-LRc_=w408-h272-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "99 666 888",
+        "address": "7VHG+G85 dar sandra, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/dar+sandra/data=!4m10!3m9!1s0x12e31e4927f80e15:0x88f0455ab17da357!5m2!4m1!1i2!8m2!3d37.2787539!4d9.8758623!16s%2Fg%2F11fcnzk_4z!19sChIJFQ74J0ke4xIRV6N9sVpF8Ig?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_-Y-1-Xh4hIRg9MtEuvq72k",
+        "name": "Residence Nour errimel MJ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Residence Nour errimel MJ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9p3YaAMJPDIaC8I7z6eZoQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=177.80606&pitch=0&thumbfov=100",
+        "main_category": "Hebergement",
+        "categories": [
+            "Hebergement"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "50 128 000",
+        "address": "6WX7+CPV Residence Nour errimel MJ, Menzel Jemil",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Residence+Nour+errimel+MJ/data=!4m10!3m9!1s0x12e2e1e5d73ee6ff:0x69efeaeb122dd383!5m2!4m1!1i2!8m2!3d37.2486211!4d9.9142995!16s%2Fg%2F11kfwsc_ty!19sChIJ_-Y-1-Xh4hIRg9MtEuvq72k?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJB3aTvlU1-xIRqzB5QkhyXRY",
+        "name": "Dar Daniella - Small Design Luxury Hotel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://www.dardaniella.com/",
+        "owner": {
+            "id": "108979598339780266911",
+            "name": "Dar Daniella - Small Design Luxury Hotel (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108979598339780266911"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPKv16KA6n90E-uN_8vsTV9bjbKgTt7ma6rgYEZ=w426-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "21 359 877",
+        "address": "Dar Daniella - Small Design Luxury Hotel, Rue kroumirie, Tabarka 8110",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Daniella+-+Small+Design+Luxury+Hotel/data=!4m10!3m9!1s0x12fb3555be937607:0x165d7248427930ab!5m2!4m1!1i2!8m2!3d36.9584217!4d8.7543917!16s%2Fg%2F11l21bqf6j!19sChIJB3aTvlU1-xIRqzB5QkhyXRY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJr7m_m30HVRIRUyDbNVSmM_A",
+        "name": "Amazig Hotel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Amazig Hotel (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOmJu0t7OmwmeO9C0z74Qo7TkueN0gsJuTD-F6j=w408-h306-k-no",
+        "main_category": "Residence hoteliere",
+        "categories": [
+            "Residence hoteliere"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Amazig Hotel, sulla strada C 104",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Amazi%C9%A3+Hotel/data=!4m10!3m9!1s0x1255077d9bbfb9af:0xf033a65435db2053!5m2!4m1!1i2!8m2!3d33.5469603!4d9.9547525!16s%2Fg%2F11f61frqgn!19sChIJr7m_m30HVRIRUyDbNVSmM_A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJT6nEROPp4hIRRzHaVH-rmAk",
+        "name": "Dar Riahi Rasjbal",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://www.facebook.com/Darwassimrasjbal",
+        "owner": {
+            "id": "101581767322578096313",
+            "name": "Dar Riahi Rasjbal (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101581767322578096313"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGiaMIQXuHv6I8ZVK-TGDGtLBj3jgy37Uc4ak_W1BEfDTSZXFrxfAHU_5NvUMtem4I4fQuRYVgk7H1Yo9AAH1oARpSsleNPuflSCsfLXXLQQ90qulJJJv4-6oDJjbugf7O0QhX-4hnDfvUXoODkboJGi4p7KnANykeXe63KQIax90yjitRN_Eqe=w432-h240-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "55 934 993",
+        "address": "Dar Riahi Rasjbal, Ras Jebel",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Riahi+Rasjbal/data=!4m10!3m9!1s0x12e2e9e344c4a94f:0x998ab7f54da3147!5m2!4m1!1i2!8m2!3d37.2294285!4d10.1424646!16s%2Fg%2F11t81nzn12!19sChIJT6nEROPp4hIRRzHaVH-rmAk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJe9t78ifB4hIRM6cV4Z8ulqc",
+        "name": "DarTomoko",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "DarTomoko (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGVq3fZ8_cqxgq6LDx3wGNt6QnW9B5dFPqBXX2-oTOpnSXVwNeYvcwgdgdS2wPN-ryh0CJz7yVKjs8rQd13sI2qzE1oyeTieHmLMGNQ3lmZHAV51B57cEbYKDFYFlTUwmGJgn8EnMmvMJVT-MvNijjzxqfX-teBW4DmMxYprD0iDEUuyAH_ekk=w408-h306-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "54 956 213",
+        "address": "56JF+8RR DarTomoko, Rte Hmari, Rafraf",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/DarTomoko/data=!4m10!3m9!1s0x12e2c127f27bdb7b:0xa7962e9fe115a733!5m2!4m1!1i2!8m2!3d37.1808689!4d10.2245034!16s%2Fg%2F11fd_rj6c3!19sChIJe9t78ifB4hIRM6cV4Z8ulqc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJq6Qcw1fB4hIR7FtF0AEUlDA",
+        "name": "Rafraf Hostel << El Khameil >>",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://fr-fr.facebook.com/pages/category/Hostel/R%25C3%25A9sidence-El-Khameil-Rafraf-1590762621226437/",
+        "owner": {
+            "id": null,
+            "name": "Rafraf Hostel << El Khameil >> (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOeoh3qR3_8lFxUyTR5FUu5u7gPI7K1hqfAsWLm=w410-h240-k-no",
+        "main_category": "Hebergement",
+        "categories": [
+            "Hebergement"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "98 273 122",
+        "address": "56P7+27W Rafraf Hostel << El Khameil >>, Rte Hmari, Rafraf",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Rafraf+Hostel+%C2%AB+El+Khameil+%C2%BB/data=!4m10!3m9!1s0x12e2c157c31ca4ab:0x30941401d0455bec!5m2!4m1!1i2!8m2!3d37.1851107!4d10.2131957!16s%2Fg%2F11fmnhps7f!19sChIJq6Qcw1fB4hIR7FtF0AEUlDA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJF0ZG5ZLp4hIRncfAhmeQIq4",
+        "name": "Dar Mami",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "107521882364714513336",
+            "name": "Dar Mami (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/107521882364714513336"
+        },
+        "featured_image": null,
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "26 066 909",
+        "address": "Dar Mami, Chat mami, Ras Jebel 7070",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Mami/data=!4m10!3m9!1s0x12e2e992e5464617:0xae22906786c0c79d!5m2!4m1!1i2!8m2!3d37.2385265!4d10.0882246!16s%2Fg%2F11qbbd7t8f!19sChIJF0ZG5ZLp4hIRncfAhmeQIq4?authuser=0&hl=fr&rclk=1"
+    }
+]

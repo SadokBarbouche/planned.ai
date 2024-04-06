@@ -1,0 +1,829 @@
+[
+    {
+        "place_id": "ChIJoTiZV5ubVRIRAOu9AubIpc8",
+        "name": "Lavazza",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Lavazza (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMdJkj-bRpDHWX8OR7FjyA47EuKQ1TIwOdilVfj=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "VRQ2+X7P Lavazza, P16, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lavazza/data=!4m7!3m6!1s0x12559b9b579938a1:0xcfa5c8e602bdeb00!8m2!3d33.8899745!4d9.8006909!16s%2Fg%2F1pp2twzpr!19sChIJoTiZV5ubVRIRAOu9AubIpc8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJF7K-SSybVRIRn_U2-M9BFdU",
+        "name": "L'etoile d'or",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "L'etoile d'or (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOfhe0tqQbZKQqHUtYWSL8RI_cfQZI27n2dwKhi=w533-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.2,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "25 576 220",
+        "address": "VQJ4+RQR L'etoile d'or, P16, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/L%27%C3%A9toile+d%27or/data=!4m7!3m6!1s0x12559b2c49beb217:0xd51541cff836f59f!8m2!3d33.8821073!4d9.7568852!16s%2Fg%2F11nnmzdrb2!19sChIJF7K-SSybVRIRn_U2-M9BFdU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJa0ZxnJybVRIRAYZcnsBz_8w",
+        "name": "Cafe Al Barzakh - lbrzkh",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": "https://www.facebook.com/%25D8%25A7%25D9%2584%25D8%25A8%25D8%25B1%25D8%25B2%25D8%25AE-Al-Barzakh-1448489455406597/",
+        "owner": {
+            "id": null,
+            "name": "Cafe Al Barzakh - lbrzkh (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMQ0afdlV3DPWtRnuAmV4vjl63qw0pltLWwqDZY=w426-h240-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 333 526",
+        "address": "VQRX+6R3 Cafe Al Barzakh - lbrzkh, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Al+Barzakh+-+%D8%A7%D9%84%D8%A8%D8%B1%D8%B2%D8%AE%E2%80%AD/data=!4m7!3m6!1s0x12559b9c9c71466b:0xccff73c09e5c8601!8m2!3d33.8905105!4d9.7995356!16s%2Fg%2F11c1r6s0n_!19sChIJa0ZxnJybVRIRAYZcnsBz_8w?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJywKqWy6bVRIRjmCN80L67Vk",
+        "name": "Cafe lounge Babali'Za",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://www.facebook.com/Cafe-lounge-BabAliZa-105618911235229/",
+        "owner": {
+            "id": "106737802748778429693",
+            "name": "Cafe lounge Babali'Za (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106737802748778429693"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM9qicZK3cNMcGxI50VEYkX6BYbUo6-dIy6e5XP=w408-h552-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4.4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "52 600 006",
+        "address": "Cafe lounge Babali'Za, Rue l'environnement proche station de louage, El Hamma 6020",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+lounge+Babali%27Za/data=!4m7!3m6!1s0x12559b2e5baa02cb:0x59edfa42f38d608e!8m2!3d33.8891889!4d9.79917!16s%2Fg%2F11p4jqr44n!19sChIJywKqWy6bVRIRjmCN80L67Vk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJcTt05P2bVRIRQggUcZzksjg",
+        "name": "30.8 creperie",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "30.8 creperie (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMGZGK9omAPTgp0SdXwqF2ifMx7_ihxsYME4-B8=w426-h240-k-no",
+        "main_category": "Creperie",
+        "categories": [
+            "Creperie"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-23:30",
+        "closed_on": [],
+        "phone": "23 597 726",
+        "address": "VQQW+3W3 30.8 creperie, Unnamed Road, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/30.8+cr%C3%AAperie/data=!4m7!3m6!1s0x12559bfde4743b71:0x38b2e49c71140842!8m2!3d33.8876302!4d9.7973025!16s%2Fg%2F11rm1r56xl!19sChIJcTt05P2bVRIRQggUcZzksjg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJq1bcC4ObVRIR27vK8-SbZh8",
+        "name": "Cafe Al Quds",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Al Quds (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VRR3+GCF Cafe Al Quds, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Al+Quds/data=!4m7!3m6!1s0x12559b830bdc56ab:0x1f669be4f3cabbdb!8m2!3d33.8913232!4d9.8035444!16s%2Fg%2F11fy2q2rgk!19sChIJq1bcC4ObVRIR27vK8-SbZh8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJrRlXPfabVRIRaSHMy0iy_m4",
+        "name": "La Belle Etoile",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Belle Etoile (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMsN5ErrIRFwgXr6DaRKJ_pNAgr3IlJ4b8WTvPA=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-23:30",
+        "closed_on": [],
+        "phone": null,
+        "address": "VRV5+V49 La Belle Etoile, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+Belle+%C3%89toile/data=!4m7!3m6!1s0x12559bf63d5719ad:0x6efeb248cbcc2169!8m2!3d33.894654!4d9.8078704!16s%2Fg%2F11j83sqdts!19sChIJrRlXPfabVRIRaSHMy0iy_m4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_aSKFe6bVRIRYveLrczeSuM",
+        "name": "Restaurant Aziz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant Aziz (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOYkfMcmDSEmYRF-rgluoiF1IJD1mnSbRKylfGi=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "VQQW+9VV Restaurant Aziz, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+Aziz/data=!4m7!3m6!1s0x12559bee158aa4fd:0xe34adeccad8bf762!8m2!3d33.8884911!4d9.7971594!16s%2Fg%2F11g234mkfz!19sChIJ_aSKFe6bVRIRYveLrczeSuM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJmeacLvubVRIRJaK56r8dT78",
+        "name": "MOI-MY",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "MOI-MY (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VRQ2+R5W MOI-MY, Al-Hammah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/MOI-MY/data=!4m7!3m6!1s0x12559bfb2e9ce699:0xbf4f1dbfeab9a225!8m2!3d33.8897246!4d9.8006348!16s%2Fg%2F11kp_c7bjx!19sChIJmeacLvubVRIRJaK56r8dT78?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJa6gpVJubVRIRAns7-PuS6kI",
+        "name": "Lozane",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Lozane (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPSAi0hXGNNPM_vsG2JPrVVdhtoJJRtVGmPdZrE=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:30-23:30",
+        "closed_on": [],
+        "phone": null,
+        "address": "VRR2+2MG Lozane, Al-Hammah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lozane/data=!4m7!3m6!1s0x12559b9b5429a86b:0x42ea92fbf83b7b02!8m2!3d33.8900675!4d9.8017097!16s%2Fg%2F11g9qklfpz!19sChIJa6gpVJubVRIRAns7-PuS6kI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJd-0RK-GbVRIRSh0z8pzkiX4",
+        "name": "cafe Berlin",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe Berlin (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMpQzICB77wq5D0RDYb1BoQCjKhOy0Pa3VUA09R=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "06:45-00:45",
+        "closed_on": [],
+        "phone": "50 704 359",
+        "address": "VQJG+4V7 cafe Berlin, P16, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+Berlin/data=!4m7!3m6!1s0x12559be12b11ed77:0x7e89e49cf2331d4a!8m2!3d33.8802905!4d9.7771615!16s%2Fg%2F11h5_w37ky!19sChIJd-0RK-GbVRIRSh0z8pzkiX4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJJQmqVYObVRIRHuwUENP4DyM",
+        "name": "Costa",
+        "description": "Chaine de cafes specialisee dans la vente au comptoir de boissons chaudes, de rafraichissements, de patisseries et de sandwichs.",
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Costa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMswBamiqjwBCMLDF0PMwbXd86eeZ4w4jZPO2F0=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:30-00:30",
+        "closed_on": [],
+        "phone": "94 762 499",
+        "address": "VRR3+WW2 Costa, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Costa/data=!4m7!3m6!1s0x12559b8355aa0925:0x230ff8d31014ec1e!8m2!3d33.8922561!4d9.8047502!16s%2Fg%2F11g9nl19t4!19sChIJJQmqVYObVRIRHuwUENP4DyM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1ZW8NMmbVRIRdjEogcbWYdU",
+        "name": "Hammam sidi swiid",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hammam sidi swiid (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Bar",
+        "categories": [
+            "Bar"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VQHW+378 Hammam sidi swiid, Unnamed Road, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hammam+sidi+swiid/data=!4m7!3m6!1s0x12559bc934bc95d5:0xd561d6c681283176!8m2!3d33.8776565!4d9.7956888!16s%2Fg%2F11p3wl2_rd!19sChIJ1ZW8NMmbVRIRdjEogcbWYdU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJMyMfHBubVRIRFp1mWYnYKW0",
+        "name": "Cafe Terrasse Elhamma",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Terrasse Elhamma (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOU7uAwG3gEmiYBpAUkEitrndR3UvsN4Mp1-oNz=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-23:30",
+        "closed_on": [],
+        "phone": null,
+        "address": "VRW5+2GW Cafe Terrasse Elhamma, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Terrasse+Elhamma/data=!4m7!3m6!1s0x12559b1b1c1f2333:0x6d29d88959669d16!8m2!3d33.8951112!4d9.8088424!16s%2Fg%2F11gk6fvzpq!19sChIJMyMfHBubVRIRFp1mWYnYKW0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_13t47ebVRIRer0-aXSHq0s",
+        "name": "Creperie Nejma",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Creperie Nejma (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPbrRtYi33UQr19Kok_kCJbr9j3MzaxAKvK3OH2=w408-h272-k-no",
+        "main_category": "Creperie",
+        "categories": [
+            "Creperie"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VQMV+3R5 Creperie Nejma, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cr%C3%AAperie+Nejma/data=!4m7!3m6!1s0x12559bb7e3ed5dff:0x4bab8774693ebd7a!8m2!3d33.8826479!4d9.7946197!16s%2Fg%2F11mq3ddhf5!19sChIJ_13t47ebVRIRer0-aXSHq0s?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJy7ndqxabVRIR7fdXXRJNmnM",
+        "name": "Cafe El Bort - mqh~ lbrT",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe El Bort - mqh~ lbrT (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNPmQlXH1Z62BwVDz-Y4oIB-bYNsLenS50dPr69=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "05:30-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "VQMV+3QP Cafe El Bort - mqh~ lbrT, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+El+Bort+-+%D9%85%D9%82%D9%87%D9%89+%D8%A7%D9%84%D8%A8%D8%B1%D8%B7%E2%80%AD/data=!4m7!3m6!1s0x12559b16abddb9cb:0x739a4d125d57f7ed!8m2!3d33.8827068!4d9.7944379!16s%2Fg%2F11gkxbh0sh!19sChIJy7ndqxabVRIR7fdXXRJNmnM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJG2Tnh7ibVRIRuuFnwsRxsXY",
+        "name": "mntzh msk llyl",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mntzh msk llyl (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP2rakngtLhrEx8Rv-na7ER1KAjfkCuKTnLuuCk=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "97 654 474",
+        "address": "VQHG+XGW mntzh msk llyl, P16, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D9%86%D8%AA%D8%B2%D9%87+%D9%85%D8%B3%D9%83+%D8%A7%D9%84%D9%84%D9%8A%D9%84%E2%80%AD/data=!4m7!3m6!1s0x12559bb887e7641b:0x76b171c4c267e1ba!8m2!3d33.8799783!4d9.7763204!16s%2Fg%2F11fkmzq4vh!19sChIJG2Tnh7ibVRIRuuFnwsRxsXY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJASJgcxCbVRIRi6mXF30owyQ",
+        "name": "Cafe Bella vita",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Bella vita (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNm-F12fcYJyj8G9tEd0aLwnLdNrH8pRryYoNag=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VQMV+7QX Cafe Bella vita, P16, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Bella+vita/data=!4m7!3m6!1s0x12559b1073602201:0x24c3287d1797a98b!8m2!3d33.8832371!4d9.7944887!16s%2Fg%2F11hf6pgr_g!19sChIJASJgcxCbVRIRi6mXF30owyQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJg70O6ZmbVRIRYsEZXsVZOB8",
+        "name": "cafe Douar mqh~ ldwr",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe Douar mqh~ ldwr (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMXNqEVOkFsY03-E8uvwhQ9LreYa__XR4xc4qTC=w408-h359-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "VQPV+9RP cafe Douar mqh~ ldwr, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+Douar+%D9%85%D9%82%D9%87%D9%89+%D8%A7%D9%84%D8%AF%D9%88%D8%A7%D8%B1%E2%80%AD/data=!4m7!3m6!1s0x12559b99e90ebd83:0x1f3859c55e19c162!8m2!3d33.8859675!4d9.7945871!16s%2Fg%2F11gfn6wm6j!19sChIJg70O6ZmbVRIRYsEZXsVZOB8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4Xn6oYGbVRIRzl6AeGnDx6A",
+        "name": "EL MONDO",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://www.facebook.com/El-mondo-Salon-de-Th%25C3%25A9-104726167953336",
+        "owner": {
+            "id": null,
+            "name": "EL MONDO (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOXNcZjprD7FpwEUdMDw2O8-0g6D8b5K9aLo5jZ=w408-h306-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "VRR3+765 EL MONDO, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/EL+MONDO/data=!4m7!3m6!1s0x12559b81a1fa79e1:0xa0c7c36978805ece!8m2!3d33.8906457!4d9.8031009!16s%2Fg%2F11fx08f5t9!19sChIJ4Xn6oYGbVRIRzl6AeGnDx6A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9X0wKJqbVRIROH6oltMtaPs",
+        "name": "Cafe Wided",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": "105329371035677372593",
+            "name": "Cafe Wided (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105329371035677372593"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO-4bGILoVigzuZhmrPjBqyzqX5Xt-LHqWI3aPE=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:30-21:00",
+        "closed_on": [],
+        "phone": "55 262 721",
+        "address": "Cafe Wided, P16, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Wided/data=!4m7!3m6!1s0x12559b9a28307df5:0xfb682dd396a87e38!8m2!3d33.8871297!4d9.7956968!16s%2Fg%2F1pp2vbqx1!19sChIJ9X0wKJqbVRIROH6oltMtaPs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ920AvrybVRIR_v2QjjNc5Tw",
+        "name": "mqh~ lfrq@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mqh~ lfrq@ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMQAwPKlC-_tHtzbSzo2scPN6KQ31BOpkvjoDDx=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VQHJ+VHG mqh~ lfrq@, P16, Al-Hammah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D9%82%D9%87%D9%89+%D8%A7%D9%84%D8%A7%D9%81%D8%A7%D8%B1%D9%82%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x12559bbcbe006df7:0x3ce55c338e90fdfe!8m2!3d33.8796798!4d9.7814554!16s%2Fg%2F11hnthcddm!19sChIJ920AvrybVRIR_v2QjjNc5Tw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJYy147USbVRIR8bPsSntgQZI",
+        "name": "Cafe zurich",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe zurich (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNxYL686yQI_hLv7TupdU3Cff28OwmzWxrAfMco=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VQHR+XG6 Cafe zurich, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+zurich/data=!4m7!3m6!1s0x12559b44ed782d63:0x9241607b4aecb3f1!8m2!3d33.8799147!4d9.7912635!16s%2Fg%2F11g2xdx4gn!19sChIJYy147USbVRIR8bPsSntgQZI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJjbrX-rCbVRIRj12rfsTPxBI",
+        "name": "mT`m lGmrsny ghomrasni",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mT`m lGmrsny ghomrasni (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMctPtyKY4JVUvy36zkFyOYMAk2b2dGr_6sowAA=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "20 772 690",
+        "address": "VQPW+935 mT`m lGmrsny ghomrasni, P16, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D8%B7%D8%B9%D9%85+%D8%A7%D9%84%D8%BA%D9%85%D8%B1%D8%A7%D8%B3%D9%86%D9%8A+ghomrasni%E2%80%AD/data=!4m7!3m6!1s0x12559bb0fad7ba8d:0x12c4cfc47eab5d8f!8m2!3d33.885879!4d9.7952312!16s%2Fg%2F11j2n6_0t5!19sChIJjbrX-rCbVRIRj12rfsTPxBI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJD1ZuFfKbVRIRJDzZqb0SNQ0",
+        "name": "mlyH@ lHm@ MLIHA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mlyH@ lHm@ MLIHA (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNxfcngBojU46KtU4nvR3QSKVISAB01kRxMWwKz=w408-h544-k-no",
+        "main_category": "Restaurant de volaille",
+        "categories": [
+            "Restaurant de volaille"
+        ],
+        "rating": 4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "20 200 992",
+        "address": "VQPW+9J7 mlyH@ lHm@ MLIHA, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D9%84%D9%8A%D8%AD%D8%A9+%D8%A7%D9%84%D8%AD%D8%A7%D9%85%D8%A9+MLIHA%E2%80%AD/data=!4m7!3m6!1s0x12559bf2156e560f:0xd3512bda9d93c24!8m2!3d33.8859008!4d9.7965437!16s%2Fg%2F11ph947__5!19sChIJD1ZuFfKbVRIRJDzZqb0SNQ0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJCZna0mubVRIRRGiRUfiLAJ4",
+        "name": "Restaurant Chichkhan",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant Chichkhan (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPwSb4gG-y91lx0frndMcvF_LfscAjXdrpEDqww=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VQPW+H57 Restaurant Chichkhan, louage tunis, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+Chichkhan/data=!4m7!3m6!1s0x12559b6bd2da9909:0x9e008bf851916844!8m2!3d33.8864133!4d9.795412!16s%2Fg%2F11h5mq8zxr!19sChIJCZna0mubVRIRRGiRUfiLAJ4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJN2v_xOSbVRIR4gccsAwyVfo",
+        "name": "RESTAURANT COIN D'OR",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "102503978959192505298",
+            "name": "RESTAURANT COIN D'OR (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/102503978959192505298"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNYSO7r6olH_gBulrLbNxW9zbE5h3VB_28CJt8=w408-h510-k-no",
+        "main_category": "Restauration rapide",
+        "categories": [
+            "Restauration rapide"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-21:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "52 114 990",
+        "address": "RESTAURANT COIN D'OR, P16, Al-Hammah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/RESTAURANT+COIN+D%27OR/data=!4m7!3m6!1s0x12559be4c4ff6b37:0xfa55320cb01c07e2!8m2!3d33.887473!4d9.7963668!16s%2Fg%2F11k731d6mn!19sChIJN2v_xOSbVRIR4gccsAwyVfo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJHc1WqD6bVRIRb1nekczYtuw",
+        "name": "Chez Bilel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Chez Bilel (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPNHBPPuaxTGX_i8Ya-bOg4Kwn0lvS_wEY1ZgpF=w408-h544-k-no",
+        "main_category": "Restauration rapide",
+        "categories": [
+            "Restauration rapide"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VQHP+R42 Chez Bilel, P16, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Chez+Bilel/data=!4m7!3m6!1s0x12559b3ea856cd1d:0xecb6d8cc91de596f!8m2!3d33.8795056!4d9.7852674!16s%2Fg%2F11jp4z38xm!19sChIJHc1WqD6bVRIRb1nekczYtuw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJrfd3A2-bVRIRgzAsA96fM_4",
+        "name": "Cafe al Jomhouria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe al Jomhouria (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMqTLpB-nMvhSTtUt60oidxkrHIvEbh4l5OlAQ7=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:30-22:30",
+        "closed_on": [],
+        "phone": null,
+        "address": "VQPW+66Q Cafe al Jomhouria, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+al+Jomhouria/data=!4m7!3m6!1s0x12559b6f0377f7ad:0xfe339fde032c3083!8m2!3d33.8855839!4d9.7956248!16s%2Fg%2F11f8cl27m5!19sChIJrfd3A2-bVRIRgzAsA96fM_4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJOftBKf-bVRIRNSV5my-suMY",
+        "name": "Al Naseem - lnsym",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Al Naseem - lnsym (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "05:30-21:30",
+        "closed_on": [],
+        "phone": null,
+        "address": "VQMV+5JG Al Naseem - lnsym, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Al+Naseem+-+%D8%A7%D9%84%D9%86%D8%B3%D9%8A%D9%85%E2%80%AD/data=!4m7!3m6!1s0x12559bff2941fb39:0xc6b8ac2f9b792535!8m2!3d33.8829257!4d9.7940803!16s%2Fg%2F11f894k87h!19sChIJOftBKf-bVRIRNSV5my-suMY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuyy7EwCbVRIRxq9M1jJi7u4",
+        "name": "Balsam Palace",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "http://www.instagram.com/balsam.palace",
+        "owner": {
+            "id": "109900434804546398940",
+            "name": "Balsam Palace (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/109900434804546398940"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPMM-DN7lR2rtCPJ50JUF9y0OUhwPvEqVKelxci=w408-h407-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "97 647 005",
+        "address": "VQMX+X6M Balsam Palace, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Balsam+Palace/data=!4m7!3m6!1s0x12559b0013bb2cbb:0xeeee6232d64cafc6!8m2!3d33.8850295!4d9.7981491!16s%2Fg%2F11y3d9zxj2!19sChIJuyy7EwCbVRIRxq9M1jJi7u4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-WNAWpSbVRIR16pc5OCnNYI",
+        "name": "Cafe royal",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe royal (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VQJF+7HP Cafe royal, P16, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+royal/data=!4m7!3m6!1s0x12559b945a4063f9:0x8235a7e0e45caad7!8m2!3d33.880723!4d9.7739471!16s%2Fg%2F11nykzglnh!19sChIJ-WNAWpSbVRIR16pc5OCnNYI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZzI9AkebVRIR1sgmZdfC3hY",
+        "name": "Cafe Teatro",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Teatro (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMN6af61Ve89mE2ZkppLGqJ6exPw2Vjxtwcpi92=w408-h408-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VQMW+RGP Cafe Teatro, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Teatro/data=!4m7!3m6!1s0x12559b47023d3267:0x16dec2d76526c8d6!8m2!3d33.8847094!4d9.7964935!16s%2Fg%2F11sjjfwbrj!19sChIJZzI9AkebVRIR1sgmZdfC3hY?authuser=0&hl=fr&rclk=1"
+    }
+]

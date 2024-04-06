@@ -1,0 +1,185 @@
+[
+    {
+        "place_id": "ChIJ9a3CQ-EjAhMR_Qe97U1x63w",
+        "name": "Station Louage Mahdia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 86,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Louage Mahdia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP0J2OTqpjiysa1MuZn_pSsQyoW-x8Jjq0Sh0CV=w493-h240-k-no",
+        "main_category": "Societe de transport routier",
+        "categories": [
+            "Societe de transport routier"
+        ],
+        "rating": 3.1,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "F3X3+577 Station Louage Mahdia, Mahdia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Louage+Mahdia/data=!4m7!3m6!1s0x130223e143c2adf5:0x7ceb714dedbd07fd!8m2!3d35.4979073!4d11.0531716!16s%2Fg%2F11c1nc3tcz!19sChIJ9a3CQ-EjAhMR_Qe97U1x63w?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJobVOMvojAhMRG1TLNmpvCZ8",
+        "name": "Gare ferroviere de Mahdia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 41,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare ferroviere de Mahdia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMCyiykK69-APxuzB_UIfD1q0uepNI7o2u0OP71=w408-h306-k-no",
+        "main_category": "Gare",
+        "categories": [
+            "Gare"
+        ],
+        "rating": 3.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare ferroviere de Mahdia, Mahdia",
+        "review_keywords": [
+            {
+                "keyword": "services",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Gare+ferrovi%C3%A8re+de+Mahdia/data=!4m7!3m6!1s0x130223fa324eb5a1:0x9f096f6a36cb541b!8m2!3d35.5008549!4d11.0645461!16s%2Fm%2F0131vl06!19sChIJobVOMvojAhMRG1TLNmpvCZ8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-4SvGr8jAhMRBabUZPESzt0",
+        "name": "Primasol El Mehdi Hotel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 32,
+        "website": null,
+        "owner": {
+            "id": "108352450263995984758",
+            "name": "Primasol El Mehdi Hotel (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108352450263995984758"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMHmxKQ6g-Kn0VX38Dm6qZQmsO6njUkp5lAXXUt=w768-h240-k-no",
+        "main_category": "Gare",
+        "categories": [
+            "Gare"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "73 671 300",
+        "address": "Primasol El Mehdi Hotel, 5100,, Av. de la Corniche, Mahdia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Primasol+El+Mehdi+Hotel/data=!4m7!3m6!1s0x130223bf1aaf84fb:0xddce12f164d4a605!8m2!3d35.518098!4d11.044972!16s%2Fg%2F11b7y79fbp!19sChIJ-4SvGr8jAhMRBabUZPESzt0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJd_204KojAhMREjgdS5t1MoM",
+        "name": "Mahida",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": "http://www.sncft.com.tn/",
+        "owner": {
+            "id": null,
+            "name": "Mahida (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMBwWLPPIAmk7EYbHC76uksqFjJQ4bmyM1K1Cn4=w426-h240-k-no",
+        "main_category": "Gare",
+        "categories": [
+            "Gare"
+        ],
+        "rating": 3.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "71 345 511",
+        "address": "Mahida, Hiboun",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mahida/data=!4m7!3m6!1s0x130223aae0b4fd77:0x8332759b4b1d3812!8m2!3d35.5369097!4d11.027409!16s%2Fg%2F1tg_0xh9!19sChIJd_204KojAhMREjgdS5t1MoM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZVyPOOcjAhMRZ4BKkx1zB6I",
+        "name": "Gare routiere de Mahdia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare routiere de Mahdia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOaF87JUW_5AKpxiTvJwTRkWJYyEMROJFKBUfil=w425-h240-k-no",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 2.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare routiere de Mahdia, C96, Mahdia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+routi%C3%A8re+de+Mahdia/data=!4m7!3m6!1s0x130223e7388f5c65:0xa207731d934a8067!8m2!3d35.500391!4d11.0500896!16s%2Fg%2F11h0rkbl0!19sChIJZVyPOOcjAhMRZ4BKkx1zB6I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-S-IRvIjAhMReyg4I-a0b74",
+        "name": "Station Service Ola Energy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "112770308430716158289",
+            "name": "Station Service Ola Energy (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/112770308430716158289"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NUq3bkbQHO4xepI3vJUP-Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=167.26015&pitch=0&thumbfov=100",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service",
+            "Cafeteria",
+            "Agence de location de voitures",
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "98 400 242",
+        "address": "Station Service Ola Energy, Av. Farhat Hached, Mahdia 5100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Service+Ola+Energy/data=!4m7!3m6!1s0x130223f246882ff9:0xbe6fb4e62338287b!8m2!3d35.5012736!4d11.0652979!16s%2Fg%2F11r3whqx1k!19sChIJ-S-IRvIjAhMReyg4I-a0b74?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_zsmr_wjAhMRRO8R0SKVlVA",
+        "name": "Bus station STS (Mahdia - Sousse)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bus station STS (Mahdia - Sousse) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Gu-ar61HfEEYw79-wHTutg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=25.399733&pitch=0&thumbfov=100",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "G29H+MCG Bus station STS (Mahdia - Sousse), shr` lHbyb bwrqyb@, Hiboun",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bus+station+STS+%28Mahdia+-+Sousse%29/data=!4m7!3m6!1s0x130223fcaf263bff:0x50959522d111ef44!8m2!3d35.5191805!4d11.0285716!16s%2Fg%2F11r97ht1n1!19sChIJ_zsmr_wjAhMRRO8R0SKVlVA?authuser=0&hl=fr&rclk=1"
+    }
+]

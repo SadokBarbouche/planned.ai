@@ -1,0 +1,929 @@
+[
+    {
+        "place_id": "ChIJsU9Gk1Q3_RIRCj1SsgG1MlE",
+        "name": "Cafe l'AQUARIUM",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe l'AQUARIUM (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOhxuuHAFNB9wkKdA62fUpI_KuYkpt9gzcy6s_2=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "05:00-23:00",
+        "closed_on": [],
+        "phone": "53 385 742",
+        "address": "M5VC+HRH Cafe l'AQUARIUM, Fouchana",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+l%27AQUARIUM/data=!4m7!3m6!1s0x12fd375493464fb1:0x5132b501b2523d0a!8m2!3d36.693941!4d10.1721011!16s%2Fg%2F11c1ww_f8n!19sChIJsU9Gk1Q3_RIRCj1SsgG1MlE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJj7skw6w7_RIRnx5XfoMASq8",
+        "name": "cafe et espace HAPPINESS",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe et espace HAPPINESS (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOEPnTXc2QH96uJpY1q5QpXj5z-kB5xURU8NnrJ=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "28 623 605",
+        "address": "cafe et espace HAPPINESS, RN3",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+et+espace+HAPPINESS/data=!4m7!3m6!1s0x12fd3bacc324bb8f:0xaf4a00837e571e9f!8m2!3d36.6489489!4d10.1333749!16s%2Fg%2F11g9q43hb7!19sChIJj7skw6w7_RIRnx5XfoMASq8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJG6VhlQ86_RIRsdi8mm-B4bg",
+        "name": "Poz'kfe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Poz'kfe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNSe-OUbYXn8JP_X-4H5Gof3r4NhkWSKoAsHx-i=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "M5J5+Q3Q Poz'kfe, GP3, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Poz%27kf%C3%A8/data=!4m7!3m6!1s0x12fd3a0f9561a51b:0xb8e1816f9abcd8b1!8m2!3d36.6819693!4d10.1577295!16s%2Fg%2F11df0y7pr1!19sChIJG6VhlQ86_RIRsdi8mm-B4bg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJf61r6qk5_RIRSkruW-xI1Pk",
+        "name": "cafe booo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": "108109229119506508840",
+            "name": "cafe booo (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108109229119506508840"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMPe2Fvu9LoSSKJVHyDdlW9IpupzbZBVJuZGLB2=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "05:30-01:30",
+        "closed_on": [],
+        "phone": "98 779 068",
+        "address": "cafe booo, batiments Bounaouara, Route de liaison Chbedda et, 02 rue 20 mars, Naassen 1135",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+booo/data=!4m7!3m6!1s0x12fd39a9ea6bad7f:0xf9d448ec5bee4a4a!8m2!3d36.6851709!4d10.213801!16s%2Fg%2F11ns405dtp!19sChIJf61r6qk5_RIRSkruW-xI1Pk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ48UhmQ86_RIR4ja9DCR0nME",
+        "name": "Cafe Ellissa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Ellissa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMd9qx0_r4XWr6lU4RtqV1HY17KS03XqJJEX7Pb=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": "20 633 865",
+        "address": "M5M5+44H Cafe Ellissa, GP3, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Ellissa/data=!4m7!3m6!1s0x12fd3a0f9921c5e3:0xc19c74240cbd36e2!8m2!3d36.6828054!4d10.1578564!16s%2Fg%2F11c5643qf5!19sChIJ48UhmQ86_RIR4ja9DCR0nME?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJawNeWEg7_RIR53a3tXN4TC0",
+        "name": "Cafe venezia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe venezia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMMijXkiXDeKhIP3jc2Qzoot25icWCO25a1ruT4=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "05:00-02:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "M599+MJH Cafe venezia, Unnamed Road, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+venezia/data=!4m7!3m6!1s0x12fd3b48585e036b:0x2d4c7873b5b776e7!8m2!3d36.6691989!4d10.1690954!16s%2Fg%2F11hdvvqrb1!19sChIJawNeWEg7_RIR53a3tXN4TC0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJq6qqqq4w_RIRnw1nBoHligM",
+        "name": "Cafe Iyed",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Iyed (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPjFgWPYzLZ21N0MAFgyHbxbesrR4QW1eE_LQx-=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": "22 055 070",
+        "address": "M5W7+9VQ Cafe Iyed, Fouchana",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Iyed/data=!4m7!3m6!1s0x12fd30aeaaaaaaab:0x38ae58106670d9f!8m2!3d36.6959589!4d10.164736!16s%2Fg%2F11c71pptpc!19sChIJq6qqqq4w_RIRnw1nBoHligM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJm_N_wOM7_RIRGtIxvXkamSE",
+        "name": "Salon De The Et Espace Elhnaya",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Salon De The Et Espace Elhnaya (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOiT2Czgoj_NwjdG7Lx9QHp5pvLVbgsxyhT8UQe=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.6,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "50 625 989",
+        "address": "M42M+G47 Salon De The Et Espace Elhnaya, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Salon+De+The+Et+Espace+Elhnaya/data=!4m7!3m6!1s0x12fd3be3c07ff39b:0x21991a79bd31d21a!8m2!3d36.6512786!4d10.1327862!16s%2Fg%2F11fcq2blzk!19sChIJm_N_wOM7_RIRGtIxvXkamSE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuQtL1Go6_RIRVoGNVwQKUis",
+        "name": "Pyramide",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pyramide (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMDD6488NBl21882Ao4uvfpN4nB8vg3wSuRV9Jq=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "M4FX+73V Pyramide, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pyramide/data=!4m7!3m6!1s0x12fd3a6ad44b0bb9:0x2b520a04578d8156!8m2!3d36.6732312!4d10.1476775!16s%2Fg%2F11crzlg8j0!19sChIJuQtL1Go6_RIRVoGNVwQKUis?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJN9UcDpo7_RIRyYe_U0wMnpk",
+        "name": "Cafe la Rosa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe la Rosa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM0NjtpLWAwenXSxQWAwl5a8X3FLQlzCteggtvm=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "03:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "M44Q+5M7 Cafe la Rosa, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+la+Rosa/data=!4m7!3m6!1s0x12fd3b9a0e1cd537:0x999e0c4c53bf87c9!8m2!3d36.6554122!4d10.1391642!16s%2Fg%2F11rx4km_f3!19sChIJN9UcDpo7_RIRyYe_U0wMnpk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJx_I0jEA7_RIRt9gA5tGFx5I",
+        "name": "Cafe palmeras",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe palmeras (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOtnTnWXPYCyYxA9iKzmGgBVFTMNY_snoId2aV_=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "M4MV+VX8 Cafe palmeras, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+palmeras/data=!4m7!3m6!1s0x12fd3b408c34f2c7:0x92c785d1e600d8b7!8m2!3d36.6846652!4d10.1449603!16s%2Fg%2F11tnw4z4wj!19sChIJx_I0jEA7_RIRt9gA5tGFx5I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqa12ARk7_RIRrFP-6EB1ARU",
+        "name": "cafe diamant",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe diamant (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMRNWZ_YLNioAIqmHwkroXDbNRd-hHH-nHJAHYo=w533-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "04:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "M45V+G9V cafe diamant, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+diamant/data=!4m7!3m6!1s0x12fd3b190176ada9:0x15017540e8fe53ac!8m2!3d36.6588539!4d10.1434067!16s%2Fg%2F11khnn8nn9!19sChIJqa12ARk7_RIRrFP-6EB1ARU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJg4s9woo7_RIRgORVTlAv_44",
+        "name": "Cafe El Aalya",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe El Aalya (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOAT57PYacuS735S30ApAXC6gNwILdShtNzeABF=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "M5G5+Q7H Cafe El Aalya, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+El+Aalya/data=!4m7!3m6!1s0x12fd3b8ac23d8b83:0x8eff2f504e55e480!8m2!3d36.6769478!4d10.1582239!16s%2Fg%2F11g0l91tm_!19sChIJg4s9woo7_RIRgORVTlAv_44?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZdJlSd87_RIRszrWHOxDPNM",
+        "name": "Cafe London",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe London (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "J4XQ+X9M Cafe London, Unnamed Road, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+London/data=!4m7!3m6!1s0x12fd3bdf4965d265:0xd33c43ec1cd63ab3!8m2!3d36.6499522!4d10.1384306!16s%2Fg%2F11lh3xm422!19sChIJZdJlSd87_RIRszrWHOxDPNM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJx6vA8Kg7_RIRdrJfGfhUQ-Q",
+        "name": "Cafe Ennacim",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Ennacim (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "M5H4+FJ7 Cafe Ennacim, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Ennacim/data=!4m7!3m6!1s0x12fd3ba8f0c0abc7:0xe44354f8195fb276!8m2!3d36.6786603!4d10.1565405!16s%2Fg%2F11f70tsj32!19sChIJx6vA8Kg7_RIRdrJfGfhUQ-Q?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1bLBgX87_RIRhWM7rfDaiwQ",
+        "name": "Cafe le pacha",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe le pacha (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNEen6Irw3v13TKX0jJeYlBsHXZcYzaBnAdMFs3=w408-h271-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "93 593 614",
+        "address": "M5G5+CHQ Cafe le pacha, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+le+pacha/data=!4m7!3m6!1s0x12fd3b7f81c1b2d5:0x48bdaf0ad3b6385!8m2!3d36.6760819!4d10.158993!16s%2Fg%2F11p0bwrv5r!19sChIJ1bLBgX87_RIRhWM7rfDaiwQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJHSvYXp47_RIRkPn7kDzpFP0",
+        "name": "Cafe aysem &MaySSa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe aysem &MaySSa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPMmdRUcvQlOa_RyoUCxI8Vai0DbKDalUDux6Xl=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "97 282 829",
+        "address": "M5H2+7VP Cafe aysem &MaySSa, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+aysem+%26MaySSa/data=!4m7!3m6!1s0x12fd3b9e5ed82b1d:0xfd14e93c90fbf990!8m2!3d36.6782019!4d10.1532571!16s%2Fg%2F11t0pjg8fw!19sChIJHSvYXp47_RIRkPn7kDzpFP0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJUXqhZe47_RIRkEnlWaWc6WM",
+        "name": "Cafe Nawara",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Nawara (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "29 593 557",
+        "address": "M47X+9VW Cafe Nawara, GP3, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Nawara/data=!4m7!3m6!1s0x12fd3bee65a17a51:0x63e99ca559e54990!8m2!3d36.6634892!4d10.1496968!16s%2Fg%2F11lk8zk2jx!19sChIJUXqhZe47_RIRkEnlWaWc6WM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqw0Ak243_RIRCCxWxidsp9Y",
+        "name": "Cafe Jamaoui",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Jamaoui (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "M5WC+566 Cafe Jamaoui, Fouchana",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Jamaoui/data=!4m7!3m6!1s0x12fd376e93000dab:0xd6a76c27c6562c08!8m2!3d36.6954198!4d10.1705235!16s%2Fg%2F11v11hpz9j!19sChIJqw0Ak243_RIRCCxWxidsp9Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJxfh8WEsx_RIRUUB8c5vp77I",
+        "name": "Mejri Ramzi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "114346003431860212586",
+            "name": "Mejri Ramzi (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114346003431860212586"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPEWqSZ1C6QO0Ppr12nJxnwIAi5kPmgI_HtBYns=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-22:00",
+        "closed_on": [],
+        "phone": "22 175 816",
+        "address": "Mejri Ramzi, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mejri+Ramzi/data=!4m7!3m6!1s0x12fd314b587cf8c5:0xb2efe99b737c4051!8m2!3d36.6974518!4d10.1292451!16s%2Fg%2F11j9jtvngm!19sChIJxfh8WEsx_RIRUUB8c5vp77I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZ8kj3Dg6_RIRJnKmUz-yf8Y",
+        "name": "Cafe Yamama",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Yamama (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "M572+J49 Cafe Yamama, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Yamama/data=!4m7!3m6!1s0x12fd3a38dc23c967:0xc67fb23f53a67226!8m2!3d36.6640475!4d10.1503481!16s%2Fg%2F11c2kyypt_!19sChIJZ8kj3Dg6_RIRJnKmUz-yf8Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJa2wwjvE7_RIRUASEnlji0Rg",
+        "name": "Cafe Yassine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Yassine (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNvhymNtraeAbXk1s_F-Wut3qBwJP7WAK7rmzpu=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "M5H8+5JW Cafe Yassine, Unnamed Road, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Yassine/data=!4m7!3m6!1s0x12fd3bf18e306c6b:0x18d1e2589e840450!8m2!3d36.6779857!4d10.1665697!16s%2Fg%2F11h54n0rh3!19sChIJa2wwjvE7_RIRUASEnlji0Rg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJN6NkdKQw_RIRRvWHJGBvAw8",
+        "name": "Cafe El Qods",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe El Qods (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOIG_QA6kFs-AteF-f-TVkNRXzEU516iB_duvmp=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "M5X3+9G7 Cafe El Qods, Fouchana",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+El+Qods/data=!4m7!3m6!1s0x12fd30a47464a337:0xf036f602487f546!8m2!3d36.6984038!4d10.1537867!16s%2Fg%2F11dxf1f967!19sChIJN6NkdKQw_RIRRvWHJGBvAw8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJp3S1tOQ3_RIRQzZ6hSQiQXc",
+        "name": "Sasi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Sasi (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "M5VG+W33 Sasi, Fouchana",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sasi/data=!4m7!3m6!1s0x12fd37e4b4b574a7:0x77412224857a3643!8m2!3d36.6947599!4d10.1751813!16s%2Fg%2F11mwyrxr_k!19sChIJp3S1tOQ3_RIRQzZ6hSQiQXc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0emmyJA7_RIR7J1_W_IvfJU",
+        "name": "Cafe College",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe College (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP48h33fVtSbJO9e0hPIEiA9kuN6I9U1Iu9L8n_=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "M5P2+24R Cafe College, Unnamed Road, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Coll%C3%A8ge/data=!4m7!3m6!1s0x12fd3b90c8a6e9d1:0x957c2ff25b7f9dec!8m2!3d36.6851079!4d10.1502534!16s%2Fg%2F11jp4dlc0x!19sChIJ0emmyJA7_RIR7J1_W_IvfJU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJz1pcQ4Q7_RIRJxNabJXAR44",
+        "name": "Coffee shop by omar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Coffee shop by omar (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO7p7I6O7qGeKOJQsyudhwsiOXuY-glZuoWbOxs=w533-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "M5H4+XRP Coffee shop by omar, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+shop+by+omar/data=!4m7!3m6!1s0x12fd3b84435c5acf:0x8e47c0956c5a1327!8m2!3d36.6795065!4d10.1572245!16s%2Fg%2F11sx4z3x0t!19sChIJz1pcQ4Q7_RIRJxNabJXAR44?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_ceOeGI7_RIRiwUoLGFej0Y",
+        "name": "Cafe zitouna",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe zitouna (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "M4RQ+7J Cafe zitouna, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+zitouna/data=!4m7!3m6!1s0x12fd3b62788ec7fd:0x468f5e612c28058b!8m2!3d36.6907224!4d10.1390247!16s%2Fg%2F11pf01gc6b!19sChIJ_ceOeGI7_RIRiwUoLGFej0Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJddJ9-G47_RIRC_qZxquutYs",
+        "name": "Cafe Mondial",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Mondial (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMeZmUC1H41DgMTjse7wr8Z8PjTFQu0T0ST65I8=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "04:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "M5J7+C4V Cafe Mondial, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Mondial/data=!4m7!3m6!1s0x12fd3b6ef87dd275:0x8bb5aeabc699fa0b!8m2!3d36.681106!4d10.1628009!16s%2Fg%2F11h4mrvz52!19sChIJddJ9-G47_RIRC_qZxquutYs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJI4T2BZk7_RIR-3UBT22rX0M",
+        "name": "Cafe Derby",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Derby (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP_t-uinGtyrQloEzYRfWCGaS9VseYwI_H6e60K=w408-h305-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "05:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "M4QR+R6F Cafe Derby, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Derby/data=!4m7!3m6!1s0x12fd3b9905f68423:0x435fab6d4f0175fb!8m2!3d36.6902259!4d10.1412856!16s%2Fg%2F11pd_8_wfj!19sChIJI4T2BZk7_RIR-3UBT22rX0M?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJv9hxHEQ7_RIRZP88zuXCtyA",
+        "name": "Cafe shop friend",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe shop friend (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMo4xnG_WqQ5Bn2C25oiBVw3NMmgp9xWblHnsFE=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "26 363 425",
+        "address": "M5M5+WHM Cafe shop friend, GP3, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+shop+friend/data=!4m7!3m6!1s0x12fd3b441c71d8bf:0x20b7c2e5ce3cff64!8m2!3d36.6848287!4d10.1589282!16s%2Fg%2F11kd9spmzy!19sChIJv9hxHEQ7_RIRZP88zuXCtyA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJq_188Lw7_RIRGuIdKMi9Rwo",
+        "name": "Jerbi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Jerbi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPvWbOwU8Ild_lYhVWBFJV4LSrRt7Gg84Uc3PqE=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "98 946 459",
+        "address": "M4QQ+MQ8 Jerbi, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Jerbi/data=!4m7!3m6!1s0x12fd3bbcf07cfdab:0xa47bdc8281de21a!8m2!3d36.6891562!4d10.1394467!16s%2Fg%2F11v0p_98g_!19sChIJq_188Lw7_RIRGuIdKMi9Rwo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJjRtmgwM7_RIRY27che0lEOw",
+        "name": "L'BISTROT",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "L'BISTROT (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPekxJrtOCff4O-861gUfBz95JK_6YT1cmk2DH5=w533-h240-k-no",
+        "main_category": "Cafeteria",
+        "categories": [
+            "Cafeteria",
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "54 195 283",
+        "address": "M5M2+X48 L'BISTROT, Mohammedia 1145",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/L%27BISTROT/data=!4m7!3m6!1s0x12fd3b0383661b8d:0xec1025ed85dc6e63!8m2!3d36.6849148!4d10.1503136!16s%2Fg%2F11pkc71_l0!19sChIJjRtmgwM7_RIRY27che0lEOw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJjdAmDDM7_RIRVGvygL9RgG8",
+        "name": "mqh~ nwr@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mqh~ nwr@ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN5zLT_v-qE-IE1o3wLu8eeMx_9z8bAmwWgl3I1=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "M47X+CV2 mqh~ nwr@, GP3, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D9%82%D9%87%D9%89+%D9%86%D9%88%D8%A7%D8%B1%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x12fd3b330c26d08d:0x6f8051bf80f26b54!8m2!3d36.6635163!4d10.1496511!16s%2Fg%2F11kkhmh9hf!19sChIJjdAmDDM7_RIRVGvygL9RgG8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJX1eygg87_RIRXb7q8FJ_Rbw",
+        "name": "Chillax Salon de the",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "105537366987790414070",
+            "name": "Chillax Salon de the (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105537366987790414070"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOHUnszvyEEF_h-T0gVKTnVCrt_wxa1G0ZU_xfF=w408-h577-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Salon de the"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-02:00",
+        "closed_on": [],
+        "phone": "55 049 248",
+        "address": "Chillax Salon de the, taksim el Amri, rue de la liberte, Mohammedia 1145",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Chillax+Salon+de+th%C3%A9/data=!4m7!3m6!1s0x12fd3b0f82b2575f:0xbc457f52f0eabe5d!8m2!3d36.6833413!4d10.1593195!16s%2Fg%2F11v01v1yp9!19sChIJX1eygg87_RIRXb7q8FJ_Rbw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ35LevIc5_RIR0D16Wrx1e4Q",
+        "name": "Cafe bechihi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe bechihi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM53LfQ8OiFJJmeFTdc2cCHopzM_txP5bfceaqO=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "M5PW+C5Q Cafe bechihi, Fouchana",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+bechihi/data=!4m7!3m6!1s0x12fd3987bcde92df:0x847b75bc5a7a3dd0!8m2!3d36.6860764!4d10.1954812!16s%2Fg%2F11rfp4g328!19sChIJ35LevIc5_RIR0D16Wrx1e4Q?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJR3JlpZI7_RIRL3hYb0_iuSc",
+        "name": "Cafe nassim 2",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe nassim 2 (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "M5H7+XGR Cafe nassim 2, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+nassim+2/data=!4m7!3m6!1s0x12fd3b92a5657247:0x27b9e24f6f58782f!8m2!3d36.6799806!4d10.163781!16s%2Fg%2F11g2p3x6jn!19sChIJR3JlpZI7_RIRL3hYb0_iuSc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqRHWfBQ7_RIRkg7-YzqXavI",
+        "name": "Chez_Bayda",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Chez_Bayda (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNYcJ8KJcR98ZoySfzC-kL4g5SB8go8AemXo0Sk=w408-h543-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "19:00-02:00",
+        "closed_on": [],
+        "phone": "29 045 847",
+        "address": "M5P3+RFM Chez_Bayda, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Chez_Bayda/data=!4m7!3m6!1s0x12fd3b147cd611a9:0xf26a973a63fe0e92!8m2!3d36.6871851!4d10.154186!16s%2Fg%2F11rw94qpr2!19sChIJqRHWfBQ7_RIRkg7-YzqXavI?authuser=0&hl=fr&rclk=1"
+    }
+]

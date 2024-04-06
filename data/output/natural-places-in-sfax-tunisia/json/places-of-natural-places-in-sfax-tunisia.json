@@ -1,0 +1,506 @@
+[
+    {
+        "place_id": "ChIJDb6E-s0sABMRpeigTKtZU4k",
+        "name": "Jardins Publics de Touta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 366,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Jardins Publics de Touta (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOrMnC0Nd3HR2vCYw7dcNR31SxF00BB2yt7qggm=w408-h306-k-no",
+        "main_category": "Zoo",
+        "categories": [
+            "Zoo",
+            "Parc",
+            "Attraction touristique"
+        ],
+        "rating": 3.5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [
+            "mardi",
+            "mercredi",
+            "jeudi",
+            "dimanche"
+        ],
+        "phone": null,
+        "address": "PPPV+29F Jardins Publics de Touta, Route de l'Aeroport/, Rte de la Soukra, Sfax",
+        "review_keywords": [
+            {
+                "keyword": "espace",
+                "count": 17
+            },
+            {
+                "keyword": "lion",
+                "count": 5
+            },
+            {
+                "keyword": "mal",
+                "count": 4
+            },
+            {
+                "keyword": "travail",
+                "count": 4
+            },
+            {
+                "keyword": "jeux",
+                "count": 4
+            },
+            {
+                "keyword": "ordures",
+                "count": 3
+            },
+            {
+                "keyword": "association",
+                "count": 3
+            },
+            {
+                "keyword": "jardin public",
+                "count": 3
+            },
+            {
+                "keyword": "sport",
+                "count": 3
+            },
+            {
+                "keyword": "beau",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jardins+Publics+de+Touta/data=!4m7!3m6!1s0x13002ccdfa84be0d:0x895359ab4ca0e8a5!8m2!3d34.7342148!4d10.7428865!16s%2Fg%2F1tcx470f!19sChIJDb6E-s0sABMRpeigTKtZU4k?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdeYz9CwtABMRr-xXovvdC9Q",
+        "name": "Beb El Diwen",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 174,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Beb El Diwen (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNdGlQwebblkEqVX9SPR49bIxIEdzuvAmoq3nGi=w426-h240-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "07:00-19:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": null,
+        "address": "PQM6+VVX Beb El Diwen, Sfax",
+        "review_keywords": [
+            {
+                "keyword": "porte",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Beb+El+Diw%C3%A9n/data=!4m7!3m6!1s0x13002d2cf433e675:0xd40bddfba257ecaf!8m2!3d34.7347387!4d10.7622207!16s%2Fg%2F11gdq14zkv!19sChIJdeYz9CwtABMRr-xXovvdC9Q?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZw7SIEktABMRlYpM7QAV9A8",
+        "name": "plage casino sfax",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 101,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPSsWYeHqEqJLMgeyY34PASvZILOLI8a1-Aj7tI=w408-h544-k-no",
+        "main_category": "Plage",
+        "categories": [
+            "Plage"
+        ],
+        "rating": 3.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "44 115 000",
+        "address": "plage casino sfax, Ctre, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/plage+casino+sfax/data=!4m7!3m6!1s0x13002d4920d20e67:0xff41500ed4c8a95!8m2!3d34.7274494!4d10.7820068!16s%2Fg%2F11bztr94td!19sChIJZw7SIEktABMRlYpM7QAV9A8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJeamvwCstABMRY3t23f16Q1Y",
+        "name": "La Kasbah de Sfax",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 83,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Kasbah de Sfax (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNRKGZ4H3_-tVrJBzqcWGWCVNLCoJz66v0oXOqW=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Lieu historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "PQM5+9GM La Kasbah de Sfax, Beb El Kasba, Boulevard Farhat Hached",
+        "review_keywords": [
+            {
+                "keyword": "tour",
+                "count": 5
+            },
+            {
+                "keyword": "l'histoire",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/La+Kasbah+de+Sfax/data=!4m7!3m6!1s0x13002d2bc0afa979:0x56437afddd767b63!8m2!3d34.7334505!4d10.7587963!16s%2Fg%2F120z_1p3!19sChIJeamvwCstABMRY3t23f16Q1Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJlQ1RjeQtABMR_P1ZGmMGjyo",
+        "name": "ATLAS World",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 80,
+        "website": "https://www.atlasworldsfax.com/",
+        "owner": {
+            "id": null,
+            "name": "ATLAS World (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO7vzHBdOzxHwDHecEEGuEdSj-4CjZdbNQGQxwm=w408-h306-k-no",
+        "main_category": "Parc de loisirs",
+        "categories": [
+            "Parc de loisirs"
+        ],
+        "rating": 3.6,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "23 003 004",
+        "address": "ATLAS World, km4 Rte de Gabes, Sfax",
+        "review_keywords": [
+            {
+                "keyword": "enfants",
+                "count": 16
+            },
+            {
+                "keyword": "systeme",
+                "count": 4
+            },
+            {
+                "keyword": "climatisation",
+                "count": 3
+            },
+            {
+                "keyword": "service",
+                "count": 3
+            },
+            {
+                "keyword": "familles",
+                "count": 3
+            },
+            {
+                "keyword": "prix",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/ATLAS+World/data=!4m7!3m6!1s0x13002de48d510d95:0x2a8f06631a59fdfc!8m2!3d34.7108076!4d10.7252567!16s%2Fg%2F11kxqgv_b7!19sChIJlQ1RjeQtABMR_P1ZGmMGjyo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3di_yywtABMRU5OXy8etjoU",
+        "name": "Musee Dar Jellouli",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 53,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee Dar Jellouli (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOB8UoBnHylFbNUgDKucHUBnWQ6uIuZEr2Q4GuF=w408-h557-k-no",
+        "main_category": "Musee d'art",
+        "categories": [
+            "Musee d'art",
+            "Attraction",
+            "Lieu historique",
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "PQP7+P2H Musee Dar Jellouli, Rue Sidi Ali Ennouri, Sfax 3047",
+        "review_keywords": [
+            {
+                "keyword": "traditions",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Dar+Jellouli/data=!4m7!3m6!1s0x13002d2ccbbfd8dd:0x858eadc7cb979353!8m2!3d34.7368173!4d10.7626226!16s%2Fg%2F1227jzsm!19sChIJ3di_yywtABMRU5OXy8etjoU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJzWDSWNTSARMRi6klzzwNDq4",
+        "name": "Musee de Sfax",
+        "description": "Musee archeologique a l'interieur d'un batiment municipal avec objets et oeuvres d'art de differentes epoques.",
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee de Sfax (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipON_KFmMK9R2qNjcznRiZCE3hZYj2Jq1ltajTkU=w408-h306-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique",
+            "Attraction touristique"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Musee de Sfax, 9 Av. Habib Bourguiba, Sfax 3000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+de+Sfax/data=!4m7!3m6!1s0x1301d2d458d260cd:0xae0e0d3ccf25a98b!8m2!3d34.7332768!4d10.7651983!16s%2Fm%2F05b1b5r!19sChIJzWDSWNTSARMRi6klzzwNDq4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJOW8b7CItABMROCctGYsVPsM",
+        "name": "Port de peche de sfax",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN4ila5wL2HzDeuezp6U8FfcMqwroeMwE7GNVx4=w408-h544-k-no",
+        "main_category": "Port",
+        "categories": [
+            "Port"
+        ],
+        "rating": 3.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Port de peche de sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Port+de+p%C3%AAche+de+sfax/data=!4m7!3m6!1s0x13002d22ec1b6f39:0xc33e158b192d2738!8m2!3d34.7157416!4d10.7652496!16s%2Fg%2F120mbhbl!19sChIJOW8b7CItABMROCctGYsVPsM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJWyrgjOYsABMRGW6bJh8c3jE",
+        "name": "Les Salines de Sfax",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM8yXKZftIFpYAHiheA3_ch0VGnD-vS3-vO1xWw=w426-h240-k-no",
+        "main_category": "Salt flat",
+        "categories": [
+            "Salt flat"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Les Salines de Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Les+Salines+de+Sfax/data=!4m7!3m6!1s0x13002ce68ce02a5b:0x31de1c1f269b6e19!8m2!3d34.7140974!4d10.7464275!16s%2Fg%2F11_ts7p9b!19sChIJWyrgjOYsABMRGW6bJh8c3jE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJedErXkLTARMR0K4WrADM3Cc",
+        "name": "Floraison Sfax",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "https://floraison.bio/",
+        "owner": {
+            "id": "106153728964553883311",
+            "name": "Floraison Sfax (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106153728964553883311"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPJXmX3tUCo5cqh3EozMAfSB9BgwGcwNYivp8-A=w426-h240-k-no",
+        "main_category": "Magasin bio",
+        "categories": [
+            "Magasin bio"
+        ],
+        "rating": 4.4,
+        "workday_timing": "09:00-20:00",
+        "closed_on": [],
+        "phone": "74 218 160",
+        "address": "Floraison Sfax, Kassas, Av. Mohamed Jmal, Sfax 3062",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Floraison+Sfax/data=!4m7!3m6!1s0x1301d3425e2bd179:0x27dccc00ac16aed0!8m2!3d34.7714349!4d10.7478545!16s%2Fg%2F11jzntm2fy!19sChIJedErXkLTARMR0K4WrADM3Cc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJBVHKairTARMRCA-mBa48wXQ",
+        "name": "ArTanit",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "ArTanit (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMfukSQJnFf2kfrOgPwn7j49d2SpWN-qLY0gQWw=w408-h271-k-no",
+        "main_category": "Galerie d'art",
+        "categories": [
+            "Galerie d'art"
+        ],
+        "rating": 5,
+        "workday_timing": "16:00-20:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": null,
+        "address": "ArTanit, 19 Rue Pluton, 3000, Rue Majida Boulila, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/ArTanit/data=!4m7!3m6!1s0x1301d32a6aca5105:0x74c13cae05a60f08!8m2!3d34.7452096!4d10.7585138!16s%2Fg%2F11ddwzjjys!19sChIJBVHKairTARMRCA-mBa48wXQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJb48Mee_SARMRBwLmnRYNWi8",
+        "name": "Bi'r `Ayn at Tanyur",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMQLDdugfSgAKv-11-iMX4w16E0s6bhuTLnpeYY=w408-h544-k-no",
+        "main_category": "Drinking water",
+        "categories": [
+            "Drinking water"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Bi'r `Ayn at Tanyur, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bi%27r+%60Ayn+at+Tanyur/data=!4m7!3m6!1s0x1301d2ef790c8f6f:0x2f5a0d169de60207!8m2!3d34.7666667!4d10.7666667!16s%2Fg%2F1tfr7dm3!19sChIJb48Mee_SARMRBwLmnRYNWi8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJq6raXyrTARMRZGrYfLJhIr8",
+        "name": "Green Health Sfax",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://www.facebook.com/RDVNature/",
+        "owner": {
+            "id": null,
+            "name": "Green Health Sfax (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Magasin d'alimentation naturelle",
+        "categories": [
+            "Magasin d'alimentation naturelle"
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [],
+        "phone": "52 739 210",
+        "address": "Green Health Sfax, Immeuble Abir Palace, Rue Mohamed Chaabouni, Sfax 3027",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Green+Health+Sfax/data=!4m7!3m6!1s0x1301d32a5fdaaaab:0xbf2261b27cd86a64!8m2!3d34.7409158!4d10.7534314!16s%2Fg%2F11d_wvhm2w!19sChIJq6raXyrTARMRZGrYfLJhIr8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdwNDJFIsABMRt6o7fclZsV0",
+        "name": "Ras Sfax",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Peninsule",
+        "categories": [
+            "Peninsule"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ras Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ras+Sfax/data=!4m7!3m6!1s0x13002c5224430377:0x5db159c97d3baab7!8m2!3d34.6855556!4d10.7497222!16s%2Fg%2F1tdv9hq1!19sChIJdwNDJFIsABMRt6o7fclZsV0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ31Npxa4sABMRCNBvebffR0I",
+        "name": "Terrain Rugby",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Vegetation",
+        "categories": [
+            "Vegetation"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Terrain Rugby, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Terrain+Rugby/data=!4m7!3m6!1s0x13002caec56953df:0x4247dfb7796fd008!8m2!3d34.7343544!4d10.7163035!16s%2Fg%2F11b7q8w1gy!19sChIJ31Npxa4sABMRCNBvebffR0I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJK-np0BDR_xIROWqFJKT5uAg",
+        "name": "Oued Ech Chaffar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Point d'eau",
+        "categories": [
+            "Point d'eau"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Oued Ech Chaffar",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Oued+Ech+Chaffar/data=!4m7!3m6!1s0x12ffd110d0e9e92b:0x8b8f9a424856a39!8m2!3d34.6417796!4d10.4997336!16s%2Fg%2F1v3z_x8h!19sChIJK-np0BDR_xIROWqFJKT5uAg?authuser=0&hl=fr&rclk=1"
+    }
+]

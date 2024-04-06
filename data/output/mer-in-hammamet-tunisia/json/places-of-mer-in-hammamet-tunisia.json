@@ -1,0 +1,106 @@
+[
+    {
+        "place_id": "ChIJscRD7_hh_RIR7mWyqSxqTAI",
+        "name": "Resto La Plage Hammamet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 235,
+        "website": "https://resto-la-plage-hammamet.business.site/",
+        "owner": {
+            "id": null,
+            "name": "Resto La Plage Hammamet (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMGQGVkaOG3jE-cgE9Sl80Yp9hIRTlcYBAvK7WU=w408-h272-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 3.9,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "72 282 280",
+        "address": "Resto La Plage Hammamet, Camping, Av. Habib Bourguiba, Hammamet 8050",
+        "review_keywords": [
+            {
+                "keyword": "vue",
+                "count": 23
+            },
+            {
+                "keyword": "mer",
+                "count": 19
+            },
+            {
+                "keyword": "service",
+                "count": 12
+            },
+            {
+                "keyword": "coucher de soleil",
+                "count": 10
+            },
+            {
+                "keyword": "sympathique",
+                "count": 6
+            },
+            {
+                "keyword": "prix",
+                "count": 6
+            },
+            {
+                "keyword": "pates",
+                "count": 5
+            },
+            {
+                "keyword": "serveur",
+                "count": 4
+            },
+            {
+                "keyword": "lieu de tournage",
+                "count": 3
+            },
+            {
+                "keyword": "alcool",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Resto+La+Plage+Hammamet/data=!4m7!3m6!1s0x12fd61f8ef43c4b1:0x24c6a2ca9b265ee!8m2!3d36.3967187!4d10.6121114!16s%2Fg%2F11c5b3s6ly!19sChIJscRD7_hh_RIR7mWyqSxqTAI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJeQMzCTNh_RIRzwBHEJFiKNQ",
+        "name": "Restaurant coin de lamer",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 34,
+        "website": null,
+        "owner": {
+            "id": "101087298494956389960",
+            "name": "Restaurant coin de lamer (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101087298494956389960"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO-vzAMzxOz3GUkP2tJZjvKRTB9DyBYa-8GtFKU=w408-h544-k-no",
+        "main_category": "Restaurant cajun (Etats-Unis)",
+        "categories": [
+            "Restaurant cajun (Etats-Unis)"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "98 683 346",
+        "address": "Restaurant coin de lamer, Avenue des nations unies, Hammamet 8050",
+        "review_keywords": [
+            {
+                "keyword": "poisson",
+                "count": 4
+            },
+            {
+                "keyword": "soir",
+                "count": 4
+            },
+            {
+                "keyword": "prix",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Restaurant+coin+de+lamer/data=!4m7!3m6!1s0x12fd613309330379:0xd4286291104700cf!8m2!3d36.4056728!4d10.5936065!16s%2Fg%2F11h0_j1l7y!19sChIJeQMzCTNh_RIRzwBHEJFiKNQ?authuser=0&hl=fr&rclk=1"
+    }
+]

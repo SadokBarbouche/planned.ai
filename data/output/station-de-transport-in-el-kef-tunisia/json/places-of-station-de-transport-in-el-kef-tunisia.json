@@ -1,0 +1,106 @@
+[
+    {
+        "place_id": "ChIJkwYBCkak-xIRlfSkZsPyT34",
+        "name": "Station de services Shell Kef",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": "113289031866402936600",
+            "name": "Station de services Shell Kef (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113289031866402936600"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOH_BSgCq_J6hIqZ8PCqO-J6IIoXSRl3Omfkrc9=w408-h255-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service",
+            "Service de chauffeur prive",
+            "Station de lavage automobile",
+            "Cafe",
+            "Service de vidange d'huile"
+        ],
+        "rating": 4.5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "78 205 894",
+        "address": "Station de services Shell Kef, 71 Av. habib bourguiba, Le Kef 7100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+services+Shell+Kef/data=!4m7!3m6!1s0x12fba4460a010693:0x7e4ff2c366a4f495!8m2!3d36.1782603!4d8.7160269!16s%2Fg%2F1pp2v022g!19sChIJkwYBCkak-xIRlfSkZsPyT34?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-U7-DgCl-xIR76iSTlJ-QUI",
+        "name": "Gare Regionale Routiere",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare Regionale Routiere (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTafKjChjdh_0mokBy03JATFstqZ6pXIX7x47g=w426-h240-k-no",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 3.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare Regionale Routiere, Le Kef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+Regionale+Routiere/data=!4m7!3m6!1s0x12fba5000efe4ef9:0x42417e524e92a8ef!8m2!3d36.1626169!4d8.703205!16s%2Fg%2F12ll54xmc!19sChIJ-U7-DgCl-xIR76iSTlJ-QUI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJQ49IpE2k-xIRT6L0si9U9A4",
+        "name": "Station de Transport Louage",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de Transport Louage (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "5PG4+4WJ Station de Transport Louage, Av. Mongi Slim, Le Kef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+Transport+Louage/data=!4m7!3m6!1s0x12fba44da4488f43:0xef4542fb2f4a24f!8m2!3d36.1753351!4d8.7072693!16s%2Fg%2F11gb40s9f8!19sChIJQ49IpE2k-xIRT6L0si9U9A4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJb2SBF7Kl-xIR1CyL9Oz50Kc",
+        "name": "Gare Routiere Kef Touiref",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare Routiere Kef Touiref (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare Routiere Kef Touiref, Le Kef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+Routi%C3%A8re+Kef+Touiref/data=!4m7!3m6!1s0x12fba5b21781646f:0xa7d0f9ecf48b2cd4!8m2!3d36.1751927!4d8.6993478!16s%2Fg%2F1q5blh51v!19sChIJb2SBF7Kl-xIR1CyL9Oz50Kc?authuser=0&hl=fr&rclk=1"
+    }
+]

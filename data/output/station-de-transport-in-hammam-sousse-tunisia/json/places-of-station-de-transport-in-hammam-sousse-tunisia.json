@@ -1,0 +1,972 @@
+[
+    {
+        "place_id": "ChIJSzL6DeJ1AhMRRMgiJNEYwV8",
+        "name": "Gare de Sousse",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 82,
+        "website": "http://www.sncft.com.tn/",
+        "owner": {
+            "id": null,
+            "name": "Gare de Sousse (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNOjS7gRrJFe9TBB1_IojPkFg0hb2D_VLSUl6iq=w408-h306-k-no",
+        "main_category": null,
+        "categories": null,
+        "rating": 3.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "73 224 955",
+        "address": "RJJQ+87J Gare de Sousse, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "toilettes",
+                "count": 5
+            },
+            {
+                "keyword": "informations",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Gare+de+Sousse/data=!4m7!3m6!1s0x130275e20dfa324b:0x5fc118d12422c844!8m2!3d35.8306849!4d10.638342!16s%2Fg%2F11hy9jndgc!19sChIJSzL6DeJ1AhMRRMgiJNEYwV8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8Y7geEF1AhMRx4Z7p8IVbzo",
+        "name": "Station Louage de Sousse",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 39,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Louage de Sousse (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN69hrLFl_NBHvUcdUTZbbWx2O2mOrGx9_kdh0F=w408-h306-k-no",
+        "main_category": "Arret de transports en commun",
+        "categories": [
+            "Arret de transports en commun"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Station Louage de Sousse, 1, Sousse 4000",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Station+Louage+de+Sousse/data=!4m7!3m6!1s0x1302754178e08ef1:0x3a6f15c2a77b86c7!8m2!3d35.8093997!4d10.6370762!16s%2Fg%2F1tfsv_12!19sChIJ8Y7geEF1AhMRx4Z7p8IVbzo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJDXqo04B1AhMRmff_M4M0V3s",
+        "name": "Station Service TotalEnergies SOUSSE 1",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 34,
+        "website": "https://services.totalenergies.tn/",
+        "owner": {
+            "id": "105694759701178210118",
+            "name": "Station Service TotalEnergies SOUSSE 1 (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105694759701178210118"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP0KM3H5IvotJANN4XmC9vZgg2sgqoWT1n8iy3y=w408-h306-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 4.2,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "73 219 533",
+        "address": "Station Service TotalEnergies SOUSSE 1, GP 1 Tunis Rd, Route de la Corniche, Sousse 4000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Service+TotalEnergies+SOUSSE+1/data=!4m7!3m6!1s0x13027580d3a87a0d:0x7b57348333fff799!8m2!3d35.8404129!4d10.6221768!16s%2Fg%2F1ptz_2kgk!19sChIJDXqo04B1AhMRmff_M4M0V3s?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJAxTKQLCI_RIRuNIeVtEsgUI",
+        "name": "Station Service STAROIL CHATT MERIEM",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 30,
+        "website": null,
+        "owner": {
+            "id": "109609955550124808054",
+            "name": "Station Service STAROIL CHATT MERIEM (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/109609955550124808054"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNtovZ03h8XyF9dA3QEvLVyCG2h6u4cFLrNq_mn=w408-h306-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service",
+            "Cafe",
+            "Cafeteria",
+            "Station de lavage automobile",
+            "Kiosque",
+            "Magasin",
+            "Bureau de tabac"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "53 958 793",
+        "address": "Station Service STAROIL CHATT MERIEM, CHATT MERIEM, Sousse 4042",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Service+STAROIL+CHATT+MERIEM/data=!4m7!3m6!1s0x12fd88b040ca1403:0x42812cd1561ed2b8!8m2!3d35.959629!4d10.539122!16s%2Fg%2F11b70hkd7m!19sChIJAxTKQLCI_RIRuNIeVtEsgUI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJjyf8EuuK_RIRO2C4Md7rcLY",
+        "name": "Station Shell",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "website": "https://find.shell.com/tn/fuel/TN_10044725-sahloul",
+        "owner": {
+            "id": "109040407098202887846",
+            "name": "Station Shell (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/109040407098202887846"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPr7hYNp6b88knlkwkG6D7XvAXkDh8vGbRxCjPU=w408-h271-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service",
+            "Station de lavage automobile",
+            "Superette",
+            "Restaurant",
+            "Sandwicherie"
+        ],
+        "rating": 4.1,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "71 249 149",
+        "address": "Station Shell, Station de Service Sahloul Rte De, Gp1, Sousse 4054",
+        "review_keywords": [
+            {
+                "keyword": "cafe",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Station+Shell/data=!4m7!3m6!1s0x12fd8aeb12fc278f:0xb670ebde31b8603b!8m2!3d35.8198916!4d10.5952211!16s%2Fg%2F1w44h9lc!19sChIJjyf8EuuK_RIRO2C4Md7rcLY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJX41EQf-K_RIRGe2ENpeKb6M",
+        "name": "Kiosque Shell Sahloul",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": "https://find.shell.com/tn/fuel/TN_10090457-sahloul-ii",
+        "owner": {
+            "id": "117399525866137112689",
+            "name": "Kiosque Shell Sahloul (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117399525866137112689"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMiMR3iE8MoLC82zjW49kgN2Sjf-7_TewG63MuO=w426-h240-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service",
+            "Station de lavage automobile",
+            "Superette",
+            "Restaurant"
+        ],
+        "rating": 3.8,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "71 249 149",
+        "address": "Kiosque Shell Sahloul, Route De Sousse De Gp1, Rue El Fell, Sousse 4054",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kiosque+Shell+Sahloul/data=!4m7!3m6!1s0x12fd8aff41448d5f:0xa36f8a973684ed19!8m2!3d35.8379895!4d10.5790261!16s%2Fg%2F11dylyhq8p!19sChIJX41EQf-K_RIRGe2ENpeKb6M?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJC-AZsIyJ_RIR_LPFRJfMDPE",
+        "name": "Station service Agil GPL KANTAOUI",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station service Agil GPL KANTAOUI (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOcKiN5s0wY7XMzW9B7___uQfGv4vealXD9V_aU=w408-h267-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 3.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VHPW+MJ6 Station service Agil GPL KANTAOUI, Rue de la Tourterelle, Hammam Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+service+Agil+GPL+KANTAOUI/data=!4m7!3m6!1s0x12fd898cb019e00b:0xf10ccc9744c5b3fc!8m2!3d35.8866706!4d10.5965039!16s%2Fg%2F11b7b3k6zp!19sChIJC-AZsIyJ_RIR_LPFRJfMDPE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJn4yTyGqK_RIRL-PcPa19pPw",
+        "name": "Arret de Bus Hammam-Sousse Menchia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Arret de Bus Hammam-Sousse Menchia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO32oE3QCrhtJcwrLbyfwrq4jeThh44ew4i27OU=w408-h306-k-no",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 2.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Arret de Bus Hammam-Sousse Menchia, Hammam Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Arr%C3%AAt+de+Bus+Hammam-Sousse+Menchia/data=!4m7!3m6!1s0x12fd8a6ac8938c9f:0xfca47dad3ddce32f!8m2!3d35.8585918!4d10.5981508!16s%2Fg%2F11g_rk637!19sChIJn4yTyGqK_RIRL-PcPa19pPw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7TrB3md1AhMRjJtcuir3Z3s",
+        "name": "Station de Transport Terrestre",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de Transport Terrestre (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMh56apuRNVZPBGTns4jS8mRQDW2wQF4924Tr2K=w408-h306-k-no",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 3.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Station de Transport Terrestre, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+Transport+Terrestre/data=!4m7!3m6!1s0x13027567dec13aed:0x7b67f72aba5c9b8c!8m2!3d35.8143774!4d10.630389!16s%2Fg%2F1tml7lq8!19sChIJ7TrB3md1AhMRjJtcuir3Z3s?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJT2O0IIp1AhMRywNz8O4--Mk",
+        "name": "lti El Ksar Resort & Thalasso",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": "http://www.lti.de/hotels/lti-el-ksar-resort-thalasso/",
+        "owner": {
+            "id": "112933306762886103916",
+            "name": "lti El Ksar Resort & Thalasso (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/112933306762886103916"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO3kg5IbdiZqCuimXBcGIAArKwcd_bv7shy_xQN=w768-h240-k-no",
+        "main_category": "Gare",
+        "categories": [
+            "Gare"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "73 240 460",
+        "address": "lti El Ksar Resort & Thalasso, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "hotel",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/lti+El+Ksar+Resort+%26+Thalasso/data=!4m7!3m6!1s0x1302758a20b4634f:0xc9f83eeef07303cb!8m2!3d35.8514695!4d10.6214027!16s%2Fg%2F11b7xs2jjn!19sChIJT2O0IIp1AhMRywNz8O4--Mk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJrw2qzmqK_RIReMSa6AggUBs",
+        "name": "Station Louage Hammam Sousse - Menchiya",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Louage Hammam Sousse - Menchiya (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPUhDpyfFfuuvmjtuTHQFoQHKnqgXR0weyB0NtQ=w408-h725-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 4.2,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "53 130 705",
+        "address": "VH5X+9HM Station Louage Hammam Sousse - Menchiya, Hammam Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Louage+Hammam+Sousse+-+Menchiya/data=!4m7!3m6!1s0x12fd8a6aceaa0daf:0x1b502008e89ac478!8m2!3d35.8584551!4d10.5989125!16s%2Fg%2F11f3xh2z2c!19sChIJrw2qzmqK_RIReMSa6AggUBs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZfLMd3R1AhMRaxm3TaGFuk0",
+        "name": "Station Bus Sousse Terminal",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Bus Sousse Terminal (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO-92FFA09Gx8PYxy5Zwfmf1XjvXjCaMrEwxzLX=w408-h544-k-no",
+        "main_category": "Station de taxis",
+        "categories": [
+            "Station de taxis"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "RJHQ+8HV Station Bus Sousse Terminal, Bd Yahia Ibn Omar, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Bus+Sousse+Terminal/data=!4m7!3m6!1s0x1302757477ccf265:0x4dba85a14db7196b!8m2!3d35.8283629!4d10.638912!16s%2Fg%2F11c1n9pv07!19sChIJZfLMd3R1AhMRaxm3TaGFuk0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZ84_7faK_RIRKlz9bO4LgkM",
+        "name": "Station de louage Sahloul",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de louage Sahloul (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMMmc5ujXKG43_YBUeDUx75h-VQQEuEyq88nf7D=w408-h306-k-no",
+        "main_category": "Societe de transport en bus et autocar",
+        "categories": [
+            "Societe de transport en bus et autocar"
+        ],
+        "rating": 3.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "RHMR+R2C Station de louage Sahloul, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+louage+Sahloul/data=!4m7!3m6!1s0x12fd8af6ed3fce67:0x43820bee6cfd5c2a!8m2!3d35.8345566!4d10.5900153!16s%2Fg%2F11g6zh0dt1!19sChIJZ84_7faK_RIRKlz9bO4LgkM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJm46a3guK_RIRxELvCBJbQqI",
+        "name": "lti Thalassa Sousse",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": "104174766362385753042",
+            "name": "lti Thalassa Sousse (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/104174766362385753042"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOZGeKXZ83krFoI9ilvAEsA7eT3zyLF0O3EHW_g=w768-h240-k-no",
+        "main_category": "Gare",
+        "categories": [
+            "Gare"
+        ],
+        "rating": 3.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "73 275 355",
+        "address": "lti Thalassa Sousse, Av. 14 Janvier, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/lti+Thalassa+Sousse/data=!4m7!3m6!1s0x12fd8a0bde9a8e9b:0xa2425b1208ef42c4!8m2!3d35.8623964!4d10.6156616!16s%2Fg%2F11btwvstn2!19sChIJm46a3guK_RIRxELvCBJbQqI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJT9-f6TqK_RIREs5VHtTGxvs",
+        "name": "Shell Hammam Sousse",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": "https://find.shell.com/tn/fuel/TN_10090458-akouda",
+        "owner": {
+            "id": "112532851823074114870",
+            "name": "Shell Hammam Sousse (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/112532851823074114870"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7K9qDtiiUUGYE8b7_8cfxQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=15.357655&pitch=0&thumbfov=100",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service",
+            "Station de lavage automobile",
+            "Superette"
+        ],
+        "rating": 2.5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "71 249 149",
+        "address": "Shell Hammam Sousse, Route de Tunis Gp1 Borne Km 134 Oued Ennachef,ak Hamem Akouda, 4011",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Shell+Hammam+Sousse/data=!4m7!3m6!1s0x12fd8a3ae99fdf4f:0xfbc6c6d41e55ce12!8m2!3d35.869078!4d10.5877183!16s%2Fg%2F11gdkk92jr!19sChIJT9-f6TqK_RIREs5VHtTGxvs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJzVDvrGqK_RIROxzELWbpay4",
+        "name": "Station service Agil knaz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": "111513304023825793762",
+            "name": "Station service Agil knaz (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111513304023825793762"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO0I1eftOpCbVuC7Fh34DFHYrheK9kYLxbzlXVU=w408-h544-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 3.7,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "Station service Agil knaz, Av. de la republique, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+service+Agil+knaz/data=!4m7!3m6!1s0x12fd8a6aacef50cd:0x2e6be9662dc41c3b!8m2!3d35.8588016!4d10.5976184!16s%2Fg%2F11b7cj73ff!19sChIJzVDvrGqK_RIROxzELWbpay4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7XdS1YN1AhMRV5on9FsE1E8",
+        "name": "Shell",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": "https://find.shell.com/tn/fuel/TN_10044720-sousse-nord",
+        "owner": {
+            "id": "101003254980136467997",
+            "name": "Shell (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101003254980136467997"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IQWMJ1dFhRyemcO-OJbcBA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=24.028322&pitch=0&thumbfov=100",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service",
+            "Station de lavage automobile",
+            "Superette"
+        ],
+        "rating": 4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "71 249 149",
+        "address": "Shell, Avenue Leopold Senghor, Rue Leopold Senghor, Sousse 4001",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Shell/data=!4m7!3m6!1s0x13027583d55277ed:0x4fd4045bf4279a57!8m2!3d35.8375722!4d10.6253746!16s%2Fg%2F1ptwg6t7j!19sChIJ7XdS1YN1AhMRV5on9FsE1E8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ64g0Bu2J_RIRs1gG7j3iPvw",
+        "name": "Station Agil",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Agil (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP_UebgZvJbRDdqaQS6t-eE4m8gk_zcjn883fpJ=w408-h306-k-no",
+        "main_category": "Station essence de carburants alternatifs",
+        "categories": [
+            "Station essence de carburants alternatifs"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "VHVX+7W2 Station Agil, Hammam Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Agil/data=!4m7!3m6!1s0x12fd89ed063488eb:0xfc3ee23dee0658b3!8m2!3d35.8931404!4d10.5997648!16s%2Fg%2F11fx8qr1ck!19sChIJ64g0Bu2J_RIRs1gG7j3iPvw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9weuPyqK_RIRZeryxNOvpjE",
+        "name": "OLA Sousse Nord",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": "117820652892614356963",
+            "name": "OLA Sousse Nord (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117820652892614356963"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM1yiYZJLCIj1Y6MNGEpsK8ABq2beJqsLSZp0KP=w408-h306-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 3.2,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "73 308 740",
+        "address": "OLA Sousse Nord, P1, Hammam Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/OLA+Sousse+Nord/data=!4m7!3m6!1s0x12fd8a2a3fae07f7:0x31a6afd3c4f2ea65!8m2!3d35.8805903!4d10.5788375!16s%2Fg%2F1hc3bqfjd!19sChIJ9weuPyqK_RIRZeryxNOvpjE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJMzjiGYF1AhMRUgWSD2gIj80",
+        "name": "OLA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "OLA (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipObAGtS6ryl_TcL7Isafpfv4bAnX6AHtPydnTD2=w408-h306-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 4.9,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "RJQF+G7M OLA, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/OLA/data=!4m7!3m6!1s0x1302758119e23833:0xcd8f08680f920552!8m2!3d35.8388384!4d10.6231664!16s%2Fg%2F11fxxtfyck!19sChIJMzjiGYF1AhMRUgWSD2gIj80?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJTcjeqUKL_RIR0aewBMpLu00",
+        "name": "Lavage ben hamouda",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Lavage ben hamouda (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPc47WM7XnvV65AvPRGxI_DisMSBTUQzamw7VcN=w426-h240-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "26 249 159",
+        "address": "RJF9+X5Q Lavage ben hamouda, Rue du Commandant Bejaoui, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lavage+ben+hamouda/data=!4m7!3m6!1s0x12fd8b42a9dec84d:0x4dbb4bca04b0a7d1!8m2!3d35.8249595!4d10.6179803!16s%2Fg%2F11j95thwvn!19sChIJTcjeqUKL_RIR0aewBMpLu00?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJmereHruK_RIRpipMMil3kfQ",
+        "name": "Essalam",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Essalam (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 3.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Essalam, Erriadh, 4023",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Essalam/data=!4m7!3m6!1s0x12fd8abb1edeea99:0xf4917729324c2aa6!8m2!3d35.8071378!4d10.6067955!16s%2Fg%2F1tpmd7nh!19sChIJmereHruK_RIRpipMMil3kfQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJBz5XQICJ_RIRFGJSEXik8Kk",
+        "name": "Staroil",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Staroil (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TflQtSzA-ejS-fpFnUdU_w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=59.784283&pitch=0&thumbfov=100",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VHMG+GFV Staroil, Hammam Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Staroil/data=!4m7!3m6!1s0x12fd898040573e07:0xa9f0a47811526214!8m2!3d35.8838711!4d10.5761681!16s%2Fg%2F11f263pdwy!19sChIJBz5XQICJ_RIRFGJSEXik8Kk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJvWhyzESL_RIR_lQFPN4X2Yw",
+        "name": "Station de Transport Akouda - Chott Mariem",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de Transport Akouda - Chott Mariem (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Station de taxis",
+        "categories": [
+            "Station de taxis"
+        ],
+        "rating": 3.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VH8C+HCH Station de Transport Akouda - Chott Mariem, Akouda",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+Transport+Akouda+-+Chott+Mariem/data=!4m7!3m6!1s0x12fd8b44cc7268bd:0x8cd917de3c0554fe!8m2!3d35.8664495!4d10.5711124!16s%2Fg%2F11fj0p0jxm!19sChIJvWhyzESL_RIR_lQFPN4X2Yw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJXx8d7faK_RIRDvd8Iv-AaoM",
+        "name": "Station des louages Sahloul",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station des louages Sahloul (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Arret de transports en commun",
+        "categories": [
+            "Arret de transports en commun"
+        ],
+        "rating": 3.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Station des louages Sahloul, Hammam Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+des+louages+Sahloul/data=!4m7!3m6!1s0x12fd8af6ed1d1f5f:0x836a80ff227cf70e!8m2!3d35.8345658!4d10.590012!16s%2Fg%2F1hhxlv5xr!19sChIJXx8d7faK_RIRDvd8Iv-AaoM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJH-8giG6K_RIRDDAFK1cYScQ",
+        "name": "Arret Sousse-Hammam Sousse - Sahloul",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Arret Sousse-Hammam Sousse - Sahloul (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Y2_-8q63MU8d63VG911iwA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=254.52429&pitch=0&thumbfov=100",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Arret Sousse-Hammam Sousse - Sahloul, P1, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Arr%C3%A9t+Sousse-Hammam+Sousse+-+Sahloul/data=!4m7!3m6!1s0x12fd8a6e8820ef1f:0xc44918572b05300c!8m2!3d35.8520396!4d10.6055725!16s%2Fg%2F1ptwj1d7_!19sChIJH-8giG6K_RIRDDAFK1cYScQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ61mk5D6K_RIR9uOKDd2tZvU",
+        "name": "Bus Station Sidi Ibrahim Errahba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bus Station Sidi Ibrahim Errahba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8VlpteOvwdNKZHI9VLMuxw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=195.44577&pitch=0&thumbfov=100",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Bus Station Sidi Ibrahim Errahba, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bus+Station+Sidi+Ibrahim+Errahba/data=!4m7!3m6!1s0x12fd8a3ee4a459eb:0xf566addd0d8ae3f6!8m2!3d35.862317!4d10.593527!16s%2Fg%2F1vgx2vxx!19sChIJ61mk5D6K_RIR9uOKDd2tZvU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJM1fbCrqI_RIR67PA1tmEOfc",
+        "name": "Station BUS STS Sousse-Hergla",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station BUS STS Sousse-Hergla (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOMLxMHatz19-vqzJOneBXab8eQkaT6PL3qX1-6=w408-h544-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 2.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "XG4R+P99 Station BUS STS Sousse-Hergla, Unnamed Road, Sidi Bou Ali",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+BUS+STS+Sousse-Hergla/data=!4m7!3m6!1s0x12fd88ba0adb5733:0xf73984d9d6c0b3eb!8m2!3d35.9567975!4d10.5409963!16s%2Fg%2F11c1mz8154!19sChIJM1fbCrqI_RIR67PA1tmEOfc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJc-5HxmKK_RIReT6Kw5wXaYU",
+        "name": "Arret Bus 13C",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Arret Bus 13C (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMZ60iDHKl5Bb5-wbTlZo8jqiW8wdu0NPWkWyGG=w426-h240-k-no",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Arret Bus 13C, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Arr%C3%AAt+Bus+13C/data=!4m7!3m6!1s0x12fd8a62c647ee73:0x8569179cc38a3e79!8m2!3d35.8380203!4d10.6076002!16s%2Fg%2F11b62x_00p!19sChIJc-5HxmKK_RIReT6Kw5wXaYU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_Sn5HkKK_RIRQYhn2NgeyWY",
+        "name": "Arret Bus 13B",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Arret Bus 13B (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ry1Q0413Bpiw_iR1YmZ_ww&cb_client=search.gws-prod.gps&w=408&h=240&yaw=224.62921&pitch=0&thumbfov=100",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Arret Bus 13B, Bd Hedi Chaker, Hammam Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Arr%C3%AAt+Bus+13B/data=!4m7!3m6!1s0x12fd8a421ef929fd:0x66c91ed8d8678841!8m2!3d35.8534603!4d10.5958629!16s%2Fg%2F1tj5t42z!19sChIJ_Sn5HkKK_RIRQYhn2NgeyWY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdTqk_IiL_RIRbMrUhU7h7Rs",
+        "name": "Station de taxis collectifs chott Maryam",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de taxis collectifs chott Maryam (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LByuWzZHrT6Za5I2Y1GaGQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=104.37187&pitch=0&thumbfov=100",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "VH5X+F94 Station de taxis collectifs chott Maryam, Menchia Bus Stop Hammam Sousse, Hmm sws@,",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+taxis+collectifs+chott+Maryam/data=!4m7!3m6!1s0x12fd8b88fca43a75:0x1bede14e85d4ca6c!8m2!3d35.8586296!4d10.5984599!16s%2Fg%2F11q3_dn41_!19sChIJdTqk_IiL_RIRbMrUhU7h7Rs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJlUwWPnCK_RIRyxaBt9pltME",
+        "name": "Arret Sousse - Hammam Sousse - Sahloul",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Arret Sousse - Hammam Sousse - Sahloul (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=VampNdc7MH_F3jCzXQT4wg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=26.06922&pitch=0&thumbfov=100",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Arret Sousse - Hammam Sousse - Sahloul, P1, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Arr%C3%A9t+Sousse+-+Hammam+Sousse+-+Sahloul/data=!4m7!3m6!1s0x12fd8a703e164c95:0xc1b465dab78116cb!8m2!3d35.8484697!4d10.6095314!16s%2Fg%2F1ptzd3wcg!19sChIJlUwWPnCK_RIRyxaBt9pltME?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJv_xsOXiL_RIRXeKv3G-cRDo",
+        "name": "Station de taxi collective de Sahloul",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de taxi collective de Sahloul (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NXm3pJZKd4aKvNUDgMLKJA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=265.27948&pitch=0&thumbfov=100",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "VH5X+C84 Station de taxi collective de Sahloul, Hammam Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+taxi+collective+de+Sahloul/data=!4m7!3m6!1s0x12fd8b78396cfcbf:0x3a449c6fdcafe25d!8m2!3d35.8585103!4d10.5983359!16s%2Fg%2F11swm7djvv!19sChIJv_xsOXiL_RIRXeKv3G-cRDo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJy-Vo0mmL_RIRZsS53P1amzE",
+        "name": "Kiosque OLA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Kiosque OLA (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YQsZdtInfOLrQDXNMG8WfA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=59.668118&pitch=0&thumbfov=100",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VHJH+9J5 Kiosque OLA, P1, Hammam Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kiosque+OLA/data=!4m7!3m6!1s0x12fd8b69d268e5cb:0x319b5afddcb9c466!8m2!3d35.8808967!4d10.5790988!16s%2Fg%2F11kp84r80t!19sChIJy-Vo0mmL_RIRZsS53P1amzE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJUS2Vh3mK_RIRWQm-a1D_89g",
+        "name": "Arret Sousse - Hammam Sousse - Sahloul",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Arret Sousse - Hammam Sousse - Sahloul (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zTMHuEwqW9qsjGs6opboyg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=68.89092&pitch=0&thumbfov=100",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Arret Sousse - Hammam Sousse - Sahloul, P1 Route de tunis, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Arr%C3%A9t+Sousse+-+Hammam+Sousse+-+Sahloul/data=!4m7!3m6!1s0x12fd8a7987952d51:0xd8f3ff506bbe0959!8m2!3d35.8445562!4d10.6141046!16s%2Fg%2F1ptxfyhzf!19sChIJUS2Vh3mK_RIRWQm-a1D_89g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ96FDnj6K_RIRnLOSa_OWwJw",
+        "name": "Station service DCA Tunisia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station service DCA Tunisia (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "lundi",
+            "mardi",
+            "mercredi",
+            "jeudi",
+            "vendredi"
+        ],
+        "phone": null,
+        "address": "VH7V+R7M Station service DCA Tunisia, Rue, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+service+DCA+Tunisia/data=!4m7!3m6!1s0x12fd8a3e9e43a1f7:0x9cc096f36b92b39c!8m2!3d35.8645805!4d10.5931619!16s%2Fg%2F11g69_3gk1!19sChIJ96FDnj6K_RIRnLOSa_OWwJw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJyX6iUdyL_RIRiYuHhO1pyCU",
+        "name": "Station Louage Hopital Sahloul",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Louage Hopital Sahloul (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPotMI3bLnKPIgEJeDgQOu_Nlpw7KHE3OSx6y4c=w408-h240-k-no-pi-0-ya20-ro-0-fo100",
+        "main_category": "Station de taxis",
+        "categories": [
+            "Station de taxis"
+        ],
+        "rating": 2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "RHMR+R2V Station Louage Hopital Sahloul, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Louage+Hopital+Sahloul/data=!4m7!3m6!1s0x12fd8bdc51a27ec9:0x25c869ed84878b89!8m2!3d35.8346147!4d10.5900448!16s%2Fg%2F11s40v97nz!19sChIJyX6iUdyL_RIRiYuHhO1pyCU?authuser=0&hl=fr&rclk=1"
+    }
+]

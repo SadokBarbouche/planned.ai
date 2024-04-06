@@ -1,0 +1,660 @@
+[
+    {
+        "place_id": "ChIJw6hzNM6W-BIRcmuoMnzLRn8",
+        "name": "Desparados",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Desparados (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNAXXQ-SCI2i6hkSnJep-jDgRxgVPwam9yqp4GN=w426-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": "10:00-20:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": null,
+        "address": "CQH4+7C8 Desparados, Unnamed Road, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Desparados/data=!4m7!3m6!1s0x12f896ce3473a8c3:0x7f46cb7c32a86b72!8m2!3d34.4281526!4d8.756087!16s%2Fg%2F11c6cxclqy!19sChIJw6hzNM6W-BIRcmuoMnzLRn8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJacIzTv-W-BIRsOYRIfK-qBY",
+        "name": "TOMATO",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 25,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "TOMATO (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOuDtmp7MdpM3e9DejerxjF6CKorXsuwa7jd2bg=w426-h240-k-no",
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:00-21:00",
+        "closed_on": [],
+        "phone": "23 429 319",
+        "address": "CQ9R+CH7 TOMATO, Ctre, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/TOMATO/data=!4m7!3m6!1s0x12f896ff4e33c269:0x16a8bef22111e6b0!8m2!3d34.4185381!4d8.7914228!16s%2Fg%2F11c2qls56b!19sChIJacIzTv-W-BIRsOYRIfK-qBY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtYFh9FSX-BIRLU15p-lmqJs",
+        "name": "Mix Max +",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": "https://www.facebook.com/Mix-Max-1196930583793404",
+        "owner": {
+            "id": null,
+            "name": "Mix Max + (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNlmBQdgMpwR-Ib2j9paVM1hTx6VFhTzQWUGwkx=w408-h535-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "95 538 720",
+        "address": "CQGM+6HV Mix Max +, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mix+Max+%2B/data=!4m7!3m6!1s0x12f89754f46181b5:0x9ba866e9a7794d2d!8m2!3d34.4256114!4d8.7839365!16s%2Fg%2F11fs8r0kh6!19sChIJtYFh9FSX-BIRLU15p-lmqJs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJt-nMUWmX-BIRwYv6l10YeD4",
+        "name": "RESTO SOLAS",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": "https://m.facebook.com/profile.php%3Fid%3D100074120465587%26tsid%3D0.8582983252328997%26source%3Dresult",
+        "owner": {
+            "id": "100008689077981056826",
+            "name": "RESTO SOLAS (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100008689077981056826"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNZWNNhLwi-dLh4RrPsK5aAIh_Pzxiglu1IgkMm=w426-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-21:30",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "95 296 832",
+        "address": "CQCQ+CFC RESTO SOLAS, Gafsa 2100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/RESTO+SOLAS/data=!4m7!3m6!1s0x12f8976951cce9b7:0x3e78185d97fa8bc1!8m2!3d34.4212117!4d8.7888617!16s%2Fg%2F11pc9jfnw2!19sChIJt-nMUWmX-BIRwYv6l10YeD4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJw-Awa1aW-BIRklirBo7hvs4",
+        "name": "Minima Coffee Shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Minima Coffee Shop (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPycH7S1dKUxdBeyqUZdvNMdE5ztaqmo__pq-JR=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Restaurant"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": "20 334 013",
+        "address": "CQCV+2F4 Minima Coffee Shop, pres de Pharmacie Gharbia Doualy, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Minima+Coffee+Shop/data=!4m7!3m6!1s0x12f896566b30e0c3:0xcebee18e06ab5892!8m2!3d34.4200126!4d8.7936876!16s%2Fg%2F11hd7dw3l0!19sChIJw-Awa1aW-BIRklirBo7hvs4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJB8mRg_mW-BIR6W3cvK7Jb_c",
+        "name": "Fricasse HAMMA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Fricasse HAMMA (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNT9FRcMEEpooNMn8VG0AutAcSfmxUamNyBjufF=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-20:00",
+        "closed_on": [],
+        "phone": "28 153 940",
+        "address": "CQCP+WR6 Fricasse HAMMA, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fricass%C3%A9+HAMMA/data=!4m7!3m6!1s0x12f896f98391c907:0xf76fc9aebcdc6de9!8m2!3d34.4222797!4d8.7870255!16s%2Fg%2F11gbf9gqkm!19sChIJB8mRg_mW-BIR6W3cvK7Jb_c?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJWYmEO_-W-BIReC36BCIUk70",
+        "name": "Mia Cucina",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mia Cucina (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMkke31ZEgPty0FrFyOtthU4ouAMwvI-_eS0dDX=w426-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:00-23:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "21 252 005",
+        "address": "CQ9R+64R Mia Cucina, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mia+Cucina/data=!4m7!3m6!1s0x12f896ff3b848959:0xbd93142204fa2d78!8m2!3d34.4181148!4d8.7902755!16s%2Fg%2F11csp866wx!19sChIJWYmEO_-W-BIReC36BCIUk70?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-a9RUuSW-BIRpQDaYftrxf8",
+        "name": "SoCrunchy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "SoCrunchy (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNpodz0uFPv3_PGwTeZ1Hj7Ke0lfkbphmjau_gT=w408-h272-k-no",
+        "main_category": "Creperie",
+        "categories": [
+            "Creperie"
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "CQCH+R6X SoCrunchy, Unnamed Road, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/SoCrunchy/data=!4m7!3m6!1s0x12f896e45251aff9:0xffc56bfb61da00a5!8m2!3d34.4221192!4d8.7780989!16s%2Fg%2F11fzfbxff7!19sChIJ-a9RUuSW-BIRpQDaYftrxf8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-75tf26X-BIRCwoMxGfuds4",
+        "name": "Spicy Burger",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Spicy Burger (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPxa16ncz94FaPaqhIgMOdP_wvHkcf-9g4ILMOA=w408-h306-k-no",
+        "main_category": "Restaurant de hamburgers",
+        "categories": [
+            "Restaurant de hamburgers"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "20 108 481",
+        "address": "CQCM+XV9 Spicy Burger, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Spicy+Burger/data=!4m7!3m6!1s0x12f8976e7f6dbefb:0xce76ee67c40c0a0b!8m2!3d34.4224057!4d8.7847207!16s%2Fg%2F11nn87nk5b!19sChIJ-75tf26X-BIRCwoMxGfuds4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJTSd1iw-X-BIR0LsZmZbtEwk",
+        "name": "Pizzeria tozriana",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pizzeria tozriana (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNEnDaoEgTlRLeAU6W71J4tgeup-sH0YijV3Jdk=w526-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": "97 389 592",
+        "address": "CQH4+G69 Pizzeria tozriana, Unnamed Road, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pizzeria+tozriana/data=!4m7!3m6!1s0x12f8970f8b75274d:0x913ed969919bbd0!8m2!3d34.4287757!4d8.7555976!16s%2Fg%2F11fmt20knh!19sChIJTSd1iw-X-BIR0LsZmZbtEwk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJu348ZeyX-BIRRnuCXZjLeds",
+        "name": "lblby wld bd@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "https://www.facebook.com/profile.php%3Fid%3D100091448336864%26mibextid%3DZbWKwL",
+        "owner": {
+            "id": "110331974221876929197",
+            "name": "lblby wld bd@ (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/110331974221876929197"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMMyrQHbB_oZ6BPKQ2JlMxEocCHThISYrXf6kGm=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "15:00-01:00",
+        "closed_on": [],
+        "phone": "29 235 009",
+        "address": "lblby wld bd@, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%84%D8%A8%D9%84%D8%A7%D8%A8%D9%8A+%D9%88%D9%84%D8%AF+%D8%A8%D8%AF%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x12f897ec653c7ebb:0xdb79cb985d827b46!8m2!3d34.4166949!4d8.7888322!16s%2Fg%2F11qntwnxn6!19sChIJu348ZeyX-BIRRnuCXZjLeds?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7W4qNTeR-BIRn_LWHUB1KL4",
+        "name": "Barbecue GAFSA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://bbq-mutton-barbecue-restaurant.business.site/%3Futm_source%3Dgmb%26utm_medium%3Dreferral",
+        "owner": {
+            "id": "105404390205562613458",
+            "name": "Barbecue GAFSA (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105404390205562613458"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOABx9oB4vlWm7rI9-C0scQ8przY8ITlBOqw1L3=w408-h408-k-no",
+        "main_category": "Restaurant de grillades",
+        "categories": [
+            "Restaurant de grillades",
+            "Restaurant de riz"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "56 012 657",
+        "address": "CPCW+7F Barbecue GAFSA, rue tozeur, Gafsa 2100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Barbecue+GAFSA/data=!4m7!3m6!1s0x12f89137352a6eed:0xbe2875401dd6f29f!8m2!3d34.4205779!4d8.7461767!16s%2Fg%2F11p6skfhqd!19sChIJ7W4qNTeR-BIRn_LWHUB1KL4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8SQAyQ-X-BIRkkaVa9SfvIE",
+        "name": "SIX 12",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "SIX 12 (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMQRu2xyyiobq2yK9gGGkh7mF-SnbfWYHtEonz-=w408-h306-k-no",
+        "main_category": "Restaurant de hamburgers",
+        "categories": [
+            "Restaurant de hamburgers"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "26 087 471",
+        "address": "SIX 12, 2100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/SIX+12/data=!4m7!3m6!1s0x12f8970fc90024f1:0x81bc9fd46b954692!8m2!3d34.4223183!4d8.785231!16s%2Fg%2F11ts3dgdd1!19sChIJ8SQAyQ-X-BIRkkaVa9SfvIE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1xUGcgyX-BIRk5cYG5Yf2JI",
+        "name": "Fricasse/Metabga chez Ibrahim Bendhaher",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Fricasse/Metabga chez Ibrahim Bendhaher (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant servant le petit-dejeuner",
+        "categories": [
+            "Restaurant servant le petit-dejeuner"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "20 787 132",
+        "address": "CQCV+77M Fricasse/Metabga chez Ibrahim Bendhaher, Place Pasteur, Doualy, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fricass%C3%A9%2FMetabga+chez+Ibrahim+Bendhaher/data=!4m7!3m6!1s0x12f8970c720615d7:0x92d81f961b189793!8m2!3d34.4207135!4d8.7931576!16s%2Fg%2F11fcr486t8!19sChIJ1xUGcgyX-BIRk5cYG5Yf2JI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJHa9jD0aX-BIRKDszHCJ8OaQ",
+        "name": "tarkina ltrkyn@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "tarkina ltrkyn@ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOAK1K-ALWomcE9e1u8heOqFntV6wKEV7h53heo=w408-h725-k-no",
+        "main_category": "Restauration rapide",
+        "categories": [
+            "Restauration rapide"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "58 870 767",
+        "address": "CQCQ+4FV tarkina ltrkyn@, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/tarkina+%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D9%86%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x12f897460f63af1d:0xa4397c221c333b28!8m2!3d34.4203652!4d8.7886741!16s%2Fg%2F11rfcz13gt!19sChIJHa9jD0aX-BIRKDszHCJ8OaQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJg6HE8kCX-BIRs0-iELXg61c",
+        "name": "MaMa Pizza",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "100964976126272187570",
+            "name": "MaMa Pizza (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100964976126272187570"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNbe_cnULg75GFsCHfwFiR4bYDJNV2Qc9X5mE_W=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "54 410 216",
+        "address": "MaMa Pizza, Avenue Palestine Gafsa Sud, 2100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/MaMa+Pizza/data=!4m7!3m6!1s0x12f89740f2c4a183:0x57ebe0b510a24fb3!8m2!3d34.4228175!4d8.7839943!16s%2Fg%2F11s34qp191!19sChIJg6HE8kCX-BIRs0-iELXg61c?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJXy-pOIeX-BIR57mC6eifjss",
+        "name": "Bubble waffle",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bubble waffle (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPHaUDKfSMotPDxRrbNNvEwT_0GSTz2ZlCyi-6I=w408-h408-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "09:30-22:00",
+        "closed_on": [],
+        "phone": "23 930 291",
+        "address": "CQMJ+6GQ Bubble waffle, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bubble+waffle/data=!4m7!3m6!1s0x12f8978738a92f5f:0xcb8e9fe8e982b9e7!8m2!3d34.4329614!4d8.7813059!16s%2Fg%2F11sd1jjft5!19sChIJXy-pOIeX-BIR57mC6eifjss?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJgTh7aNuX-BIRitSwx2GX_7k",
+        "name": "Pizzeria pasta bella",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pizzeria pasta bella (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP8tHVvh1pAAsBBzN-h8cHFPHpohTb9WkT8vbrF=w426-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "99 803 444",
+        "address": "CQH4+Q4M Pizzeria pasta bella, Unnamed Road, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pizzeria+pasta+bella/data=!4m7!3m6!1s0x12f897db687b3881:0xb9ff9761c7b0d48a!8m2!3d34.4294736!4d8.7552895!16s%2Fg%2F11h_vbddqs!19sChIJgTh7aNuX-BIRitSwx2GX_7k?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtQ2mEnuX-BIRhByXzuTTjQ4",
+        "name": "D'ma9+",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "D'ma9+ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNp0xCB8ZPu8H2wne3Ys31pYL7k33uiJNGQpYfN=w426-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "24 189 897",
+        "address": "CQCR+QF6 D'ma9+, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/D%27ma9%2B/data=!4m7!3m6!1s0x12f8977b12a60db5:0xe8dd3e4ce971c84!8m2!3d34.421957!4d8.7910823!16s%2Fg%2F11l5t68g7d!19sChIJtQ2mEnuX-BIRhByXzuTTjQ4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJMTxHEKmX-BIRi_zrdS4JoGs",
+        "name": "Restaurant Kerrou",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant Kerrou (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "CQH6+8WX Restaurant Kerrou, P3, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+Kerrou/data=!4m7!3m6!1s0x12f897a910473c31:0x6ba0092e75ebfc8b!8m2!3d34.4280912!4d8.7621683!16s%2Fg%2F11tfhp1k_s!19sChIJMTxHEKmX-BIRi_zrdS4JoGs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJb4ZIwwaX-BIR8zkw6b7EFZg",
+        "name": "mT`m lkhym@ sydy bwzyd",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mT`m lkhym@ sydy bwzyd (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "50 886 093",
+        "address": "mT`m lkhym@ sydy bwzyd, Institut superieur des etudes technologiques de Gafsa, Tryq qfS@ mqbl",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D8%B7%D8%B9%D9%85+%D8%A7%D9%84%D8%AE%D9%8A%D9%85%D8%A9+%D8%B3%D9%8A%D8%AF%D9%8A+%D8%A8%D9%88%D8%B2%D9%8A%D8%AF%E2%80%AD/data=!4m7!3m6!1s0x12f89706c348866f:0x9815c4bee93039f3!8m2!3d34.4298014!4d8.7623744!16s%2Fg%2F11frtdn369!19sChIJb4ZIwwaX-BIR8zkw6b7EFZg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJP6-hxKeX-BIRXzzEagzkxPE",
+        "name": "mTbq@ qfSy@ `lmy@ `nd `m lnjy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mTbq@ qfSy@ `lmy@ `nd `m lnjy (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOkLfHS4_4j1BqmZao2I_3tiuFTrtXC50rDBj_u=w408-h725-k-no",
+        "main_category": "Restaurant tunisien",
+        "categories": [
+            "Restaurant tunisien"
+        ],
+        "rating": 5,
+        "workday_timing": "10:00-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "CQFH+6PQ mTbq@ qfSy@ `lmy@ `nd `m lnjy, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D8%B7%D8%A8%D9%82%D8%A9+%D9%82%D9%81%D8%B5%D9%8A%D8%A9+%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9+%D8%B9%D9%86%D8%AF+%D8%B9%D9%85+%D8%A7%D9%84%D9%86%D8%A7%D8%AC%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x12f897a7c4a1af3f:0xf1c4e40c6ac43c5f!8m2!3d34.4222866!4d8.7793068!16s%2Fg%2F11swthgdf7!19sChIJP6-hxKeX-BIRXzzEagzkxPE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJkfk8nCaX-BIRgR3pIxRC26c",
+        "name": "Oj snacks",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "111156630943392805964",
+            "name": "Oj snacks (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111156630943392805964"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMyd2-5ZUXk1OAGpMF0j0a4_Vfd5Eh0d2kz02JQ=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "18:00-00:00",
+        "closed_on": [],
+        "phone": "54 902 419",
+        "address": "Oj snacks, P3, Gafsa 2151",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Oj+snacks/data=!4m7!3m6!1s0x12f897269c3cf991:0xa7db421423e91d81!8m2!3d34.4182318!4d8.8096738!16s%2Fg%2F11klt16jr8!19sChIJkfk8nCaX-BIRgR3pIxRC26c?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJp6nxEiuR-BIRf0ff18lqHj8",
+        "name": "dream parc",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "dream parc (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMKy2DcX-CB5LmxhgDvW8QhkpRZpQXxn4yvDLor=w408-h544-k-no",
+        "main_category": "Cafe et restaurant de grillades",
+        "categories": [
+            "Cafe et restaurant de grillades"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "CPCW+7FM dream parc, rue tozeur, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/dream+parc/data=!4m7!3m6!1s0x12f8912b12f1a9a7:0x3f1e6ac9d7df477f!8m2!3d34.4207126!4d8.7461639!16s%2Fg%2F11dx95_fhz!19sChIJp6nxEiuR-BIRf0ff18lqHj8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJT4rFaUyX-BIRsmfsxJ-h4rM",
+        "name": "Grillade de viande et de poisson",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Grillade de viande et de poisson (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "CQG6+RWM Grillade de viande et de poisson, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Grillade+de+viande+et+de+poisson/data=!4m7!3m6!1s0x12f8974c69c58a4f:0xb3e2a19fc4ec67b2!8m2!3d34.4270802!4d8.7623064!16s%2Fg%2F11r5y2ymt0!19sChIJT4rFaUyX-BIRsmfsxJ-h4rM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZdnN3laX-BIR3ZkywJ_fl2Q",
+        "name": "l'oasis",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "l'oasis (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "CQJ2+9XQ l'oasis, Avenue Ahmed Zarrouk, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/l%27oasis/data=!4m7!3m6!1s0x12f89756decdd965:0x6497df9fc03299dd!8m2!3d34.4309739!4d8.7524925!16s%2Fg%2F11rstclfbm!19sChIJZdnN3laX-BIR3ZkywJ_fl2Q?authuser=0&hl=fr&rclk=1"
+    }
+]

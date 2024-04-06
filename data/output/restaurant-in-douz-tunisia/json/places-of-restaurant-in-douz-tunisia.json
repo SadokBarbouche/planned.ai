@@ -1,0 +1,874 @@
+[
+    {
+        "place_id": "ChIJ19GyrCmIVhIR_de2hLrbFPo",
+        "name": "Restaurant ElBey",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 279,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant ElBey (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPAEf-K6DcX7xfJmcjvMjC6E7ZQAMmdVIejHhqu=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.1,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": "20 081 659",
+        "address": "FX9G+8V7 Restaurant ElBey, Douz",
+        "review_keywords": [
+            {
+                "keyword": "magique",
+                "count": 13
+            },
+            {
+                "keyword": "decor",
+                "count": 10
+            },
+            {
+                "keyword": "palmier",
+                "count": 9
+            },
+            {
+                "keyword": "tente",
+                "count": 9
+            },
+            {
+                "keyword": "serveur",
+                "count": 7
+            },
+            {
+                "keyword": "experience",
+                "count": 7
+            },
+            {
+                "keyword": "desert",
+                "count": 6
+            },
+            {
+                "keyword": "sud",
+                "count": 5
+            },
+            {
+                "keyword": "cuisine",
+                "count": 5
+            },
+            {
+                "keyword": "alcool",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Restaurant+ElBey/data=!4m7!3m6!1s0x12568829acb2d1d7:0xfa14dbba84b6d7fd!8m2!3d33.4682998!4d8.9771699!16s%2Fg%2F11ddxqc03h!19sChIJ19GyrCmIVhIR_de2hLrbFPo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJMdHyReSHVhIRS6CbjA4s44E",
+        "name": "Restaurant La Porte De Sahara",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 172,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant La Porte De Sahara (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPmW7O3qNVD5SgxTcksWObn02hX2uxnIf7DpZml=w426-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.9,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": "98 801 217",
+        "address": "F23C+455 Restaurant La Porte De Sahara, Douz",
+        "review_keywords": [
+            {
+                "keyword": "soupe",
+                "count": 20
+            },
+            {
+                "keyword": "cuisine traditionnelle",
+                "count": 15
+            },
+            {
+                "keyword": "droit de propriete",
+                "count": 9
+            },
+            {
+                "keyword": "entree",
+                "count": 9
+            },
+            {
+                "keyword": "brik",
+                "count": 7
+            },
+            {
+                "keyword": "vegetariens",
+                "count": 7
+            },
+            {
+                "keyword": "ramadan",
+                "count": 6
+            },
+            {
+                "keyword": "menu",
+                "count": 6
+            },
+            {
+                "keyword": "couscous",
+                "count": 6
+            },
+            {
+                "keyword": "plat principal",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Restaurant+La+Porte+De+Sahara/data=!4m7!3m6!1s0x125687e445f2d131:0x81e32c0e8c9ba04b!8m2!3d33.4527513!4d9.0204856!16s%2Fg%2F11gg_v2402!19sChIJMdHyReSHVhIRS6CbjA4s44E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZ_om_O-HVhIRlJHy32hKgx0",
+        "name": "Hotel 20 mars",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 82,
+        "website": "http://www.nefzaoua-voyages.com/",
+        "owner": {
+            "id": null,
+            "name": "Hotel 20 mars (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGDV4Yctidz251UKH65KzBFPbZq2m24tulugVwP8SrCMC0uDK9xytSMV-KfS5lOen6v0aTKQdQVNudc11Id7N0y-2Nl0A9pJXtB7lYdlPsGEQf8RYBDccPGClgOzu71smPd0rvQse_IHQvKSqMtQWAR8qdVwC-yPT2VdaKvaTHyMN8-iJQTGVtm3Q=w408-h271-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 472 920",
+        "address": "F24F+CP3 Hotel 20 mars, Douz",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 13
+            },
+            {
+                "keyword": "desert",
+                "count": 4
+            },
+            {
+                "keyword": "chambre",
+                "count": 4
+            },
+            {
+                "keyword": "qualite",
+                "count": 4
+            },
+            {
+                "keyword": "wifi",
+                "count": 4
+            },
+            {
+                "keyword": "nettoyage",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+20+mars/data=!4m10!3m9!1s0x125687effc26fa67:0x1d834a68dff29194!5m2!4m1!1i2!8m2!3d33.4560247!4d9.024303!16s%2Fg%2F1tg4hj89!19sChIJZ_om_O-HVhIRlJHy32hKgx0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJmaUYcs-HVhIRBfpjzcj-ogY",
+        "name": "TEJ ELKHAYEM",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 59,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "TEJ ELKHAYEM (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMPLE8UhmS3R8DZb-KMqufGMd1Xb2i3kiHroXHX=w507-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "98 454 435",
+        "address": "C2MG+4W7 TEJ ELKHAYEM, ZONE TOURISTIQUE, Douz",
+        "review_keywords": [
+            {
+                "keyword": "chameau",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/TEJ+ELKHAYEM/data=!4m7!3m6!1s0x125687cf7218a599:0x6a2fec8cd63fa05!8m2!3d33.4327914!4d9.0272838!16s%2Fg%2F11gh2j1hhc!19sChIJmaUYcs-HVhIRBfpjzcj-ogY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJM1lhm7eHVhIRdkALcVJ_JOc",
+        "name": "casa catering",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": null,
+        "owner": {
+            "id": "117756555773380564588",
+            "name": "casa catering (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117756555773380564588"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMHRXsew1XJCjqMC-LW9BpkMnkKNlPHi5f0FOc3=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.8,
+        "workday_timing": "20:00-00:30",
+        "closed_on": [],
+        "phone": "29 480 719",
+        "address": "casa catering, 4200, Douz",
+        "review_keywords": [
+            {
+                "keyword": "pizza",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/casa+catering/data=!4m7!3m6!1s0x125687b79b615933:0xe7247f52710b4076!8m2!3d33.4568261!4d9.0248257!16s%2Fg%2F11fnxpp76l!19sChIJM1lhm7eHVhIRdkALcVJ_JOc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJY3ngNSyHVhIRMDGU-WFu8QI",
+        "name": "Cafe Sahara",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Sahara (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMIHXeLVFmExqsO_mnTApZQzDp_275Znqk4SgAe=w408-h305-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "54 336 633",
+        "address": "F24F+RRC Cafe Sahara, Unnamed Road, Douz",
+        "review_keywords": [
+            {
+                "keyword": "agneau",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Cafe+Sahara/data=!4m7!3m6!1s0x1256872c35e07963:0x2f16e61f9943130!8m2!3d33.4570671!4d9.0245182!16s%2Fg%2F11g0s4ynm1!19sChIJY3ngNSyHVhIRMDGU-WFu8QI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJQ0qn_--HVhIRm9_JiTQeloU",
+        "name": "Cafe L'orient Douz ... mqh~ lshrq",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe L'orient Douz ... mqh~ lshrq (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMby_M3ZpBgapQJBiNrq4Hy1QLGefrmipneA6jb=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.9,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "51 059 151",
+        "address": "F24F+CJX Cafe L'orient Douz ... mqh~ lshrq, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+L%27orient+Douz+...+%D9%85%D9%82%D9%87%D9%89+%D8%A7%D9%84%D8%B4%D8%B1%D9%82%E2%80%AD/data=!4m7!3m6!1s0x125687efffa74a43:0x85961e3489c9df9b!8m2!3d33.456109!4d9.0240973!16s%2Fg%2F11b_3gd925!19sChIJQ0qn_--HVhIRm9_JiTQeloU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJCzA8-u-HVhIRKOK4nHysAG8",
+        "name": "dr lswq Dar El Souk",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "dr lswq Dar El Souk (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOyF12EO2y7iOSeS3aAytbZe9ngWKYswvfj5krb=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "F24F+7P8 dr lswq Dar El Souk, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%AF%D8%A7%D8%B1+%D8%A7%D9%84%D8%B3%D9%88%D9%82+Dar+El+Souk%E2%80%AD/data=!4m7!3m6!1s0x125687effa3c300b:0x6f00ac7c9cb8e228!8m2!3d33.4556502!4d9.0243243!16s%2Fg%2F11c1hjvxfp!19sChIJCzA8-u-HVhIRKOK4nHysAG8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJO225t0GHVhIR5CEt75b9Imc",
+        "name": "Restaurant pizza Venezia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant pizza Venezia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOhRRjOV-sndmmZtPN43hrZrLi7z0Pje83ph2pW=w408-h306-k-no",
+        "main_category": "Restaurant familial",
+        "categories": [
+            "Restaurant familial"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "28 604 035",
+        "address": "F25C+7RG Restaurant pizza Venezia, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+pizza+Venezia/data=!4m7!3m6!1s0x12568741b7b96d3b:0x6722fd96ef2d21e4!8m2!3d33.458187!4d9.0220653!16s%2Fg%2F11sfk5yc8v!19sChIJO225t0GHVhIR5CEt75b9Imc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJNe515--HVhIRBLsJvD-AjBM",
+        "name": "Cafe de la Republique",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe de la Republique (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "05:30-01:00",
+        "closed_on": [],
+        "phone": "75 470 011",
+        "address": "F24G+74H Cafe de la Republique, C206, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+de+la+Republique/data=!4m7!3m6!1s0x125687efe775ee35:0x138c803fbc09bb04!8m2!3d33.455684!4d9.025344!16s%2Fg%2F1tfhvtph!19sChIJNe515--HVhIRBLsJvD-AjBM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJiVIvaVd9VhIRoLI5aS5YQWQ",
+        "name": "cafe saraya",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe saraya (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNX_67UT8tLq3OrFjlfyn-1DRXfY9wRbRs7uJ8L=w408-h244-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "F2CF+M43 cafe saraya, C206, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+saraya/data=!4m7!3m6!1s0x12567d57692f5289:0x6441582e6939b2a0!8m2!3d33.4716269!4d9.0228014!16s%2Fg%2F11css6616x!19sChIJiVIvaVd9VhIRoLI5aS5YQWQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJCWNmQGmHVhIRalHVGXdfoSI",
+        "name": "Magic food",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://www.facebook.com/profile.php%3Fid%3D100088987624929%26mibextid%3DZbWKwL",
+        "owner": {
+            "id": null,
+            "name": "Magic food (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOfFVeKu8LOtp40IFZI2a2v0Uc3N8nxe6KApm_p=w408-h463-k-no",
+        "main_category": "Restaurant familial",
+        "categories": [
+            "Restaurant familial"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "22 880 889",
+        "address": "F25C+RGJ Magic food, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Magic+food/data=!4m7!3m6!1s0x1256876940666309:0x22a15f7719d5516a!8m2!3d33.4593688!4d9.0214541!16s%2Fg%2F11sd9dwlpg!19sChIJCWNmQGmHVhIRalHVGXdfoSI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZUTgw8-HVhIRIMpJuSZAH1E",
+        "name": "Vero gusto",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Vero gusto (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNR7t71PQoI63GOBtFBEPkNCT-sZODc_Qck9nXF=w408-h272-k-no",
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "93 610 257",
+        "address": "F24C+F7G Vero gusto, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vero+gusto/data=!4m7!3m6!1s0x125687cfc3e04465:0x511f4026b949ca20!8m2!3d33.456185!4d9.0206877!16s%2Fg%2F11h914bpqy!19sChIJZUTgw8-HVhIRIMpJuSZAH1E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJJ2VAQJmHVhIRF_qHOIwgqoU",
+        "name": "patisserie abderrahim",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "patisserie abderrahim (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNkhvUnrW0mFVMw4145GbxAvrGFQ4uOxvG655wJ=w519-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "04:30-19:30",
+        "closed_on": [],
+        "phone": "97 570 019",
+        "address": "F24F+4J8 patisserie abderrahim, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/patisserie+abderrahim/data=!4m7!3m6!1s0x1256879940406527:0x85aa208c3887fa17!8m2!3d33.455217!4d9.0240526!16s%2Fg%2F11smkb8w2r!19sChIJJ2VAQJmHVhIRF_qHOIwgqoU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2Qm6H9eHVhIRZm46U0ppzj0",
+        "name": "Compagnie Des Sables Douz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Compagnie Des Sables Douz (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNEGg9nj0OjHf92ZNRCNA52uFxfO8g-2G2IeEm8=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.8,
+        "workday_timing": "15:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "C2J8+PPH Compagnie Des Sables Douz, zone touristique, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Compagnie+Des+Sables+Douz/data=!4m7!3m6!1s0x125687d71fba09d9:0x3dce694a533a6e66!8m2!3d33.4318051!4d9.0168703!16s%2Fg%2F11d_2bk40g!19sChIJ2Qm6H9eHVhIRZm46U0ppzj0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJvVR5yLGHVhIRZtp1ClClAxY",
+        "name": "Restaurant \"Chez Magic\"",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": "112387032651305928388",
+            "name": "Restaurant \"Chez Magic\" (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/112387032651305928388"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMprrBB4N7P62eG7lNZEfKNtS3NqKy4FnL7mTq4=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.3,
+        "workday_timing": "10:00-22:00",
+        "closed_on": [],
+        "phone": "21 731 781",
+        "address": "Restaurant \"Chez Magic\", Avenue des Martyrs, Douz 4260",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+%22Chez+Magic%22/data=!4m7!3m6!1s0x125687b1c87954bd:0x1603a5500a75da66!8m2!3d33.4549831!4d9.02368!16s%2Fg%2F11h0b9lvn6!19sChIJvVR5yLGHVhIRZtp1ClClAxY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJkwFlcQmHVhIRtb5jb4bmIJY",
+        "name": "Fast food klt sry`@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Fast food klt sry`@ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOIeoLqngbzNkxXEnGgtrQ7a8Dck1V-7l4nP7WA=w408-h306-k-no",
+        "main_category": "Restauration rapide",
+        "categories": [
+            "Restauration rapide"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "F248+RHR Fast food klt sry`@, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fast+food+%D8%A7%D9%83%D9%84%D8%A7%D8%AA+%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x1256870971650193:0x9620e6866f63beb5!8m2!3d33.4571071!4d9.0163855!16s%2Fg%2F11hf3c_dvc!19sChIJkwFlcQmHVhIRtb5jb4bmIJY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJUR0qROSHVhIRthou7WHfQkU",
+        "name": "Cafe Clasico , Douz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Clasico , Douz (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM3vG9-gX5vLehd9u0F6HL_UpHmHa4Ycig0I7Hv=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "90 212 317",
+        "address": "F23C+34H Cafe Clasico , Douz, rue de Hnich, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Clasico+,+Douz/data=!4m7!3m6!1s0x125687e4442a1d51:0x4542df61ed2e1ab6!8m2!3d33.4526865!4d9.020352!16s%2Fg%2F11f54sydhr!19sChIJUR0qROSHVhIRthou7WHfQkU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJJeG_n_yHVhIRxk62oyDuMnI",
+        "name": "sahara",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "sahara (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNrZKT_xNz__UZujB5oVKmB0PRuGNDtn_eH_8pl=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "F22M+P84 sahara, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/sahara/data=!4m7!3m6!1s0x125687fc9fbfe125:0x7232ee20a3b64ec6!8m2!3d33.4517682!4d9.0333332!16s%2Fg%2F11hfnd915s!19sChIJJeG_n_yHVhIRxk62oyDuMnI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5atcwi-HVhIRBX0gv5Vwm7I",
+        "name": "Le_Bon_Jour_12",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Le_Bon_Jour_12 (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMNVpyBzkwZtwL5KZNqJRt1H2ZNB4xZgKIs5Sc0=w408-h271-k-no",
+        "main_category": "Restauration rapide",
+        "categories": [
+            "Restauration rapide"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "20 797 527",
+        "address": "F25P+WCF Le_Bon_Jour_12, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Le_Bon_Jour_12/data=!4m7!3m6!1s0x1256872fc25cabe5:0xb29b7095bf207d05!8m2!3d33.4598395!4d9.0360739!16s%2Fg%2F11tj8_2292!19sChIJ5atcwi-HVhIRBX0gv5Vwm7I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJNTkTUOqHVhIRi_iZlXngvaE",
+        "name": "Chappati Iheb",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Chappati Iheb (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restauration rapide",
+        "categories": [
+            "Restauration rapide"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "F25C+7WW Chappati Iheb, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Chappati+Iheb/data=!4m7!3m6!1s0x125687ea50133935:0xa1bde0799599f88b!8m2!3d33.4582443!4d9.0223255!16s%2Fg%2F11sdfxqz89!19sChIJNTkTUOqHVhIRi_iZlXngvaE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1yP2AfmHVhIR_e57yr_hmg0",
+        "name": "la casa plus",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "114951177500904906289",
+            "name": "la casa plus (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114951177500904906289"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOXw2RGQDAVg-ZDQWqtEEx1wNu2FGjCBlrvuGIl=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "27 218 690",
+        "address": "F25G+9R7 la casa plus, Avenue Mohamed Marzougui, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/la+casa+plus/data=!4m7!3m6!1s0x125687f901f623d7:0xd9ae1bfca7beefd!8m2!3d33.4585095!4d9.0270445!16s%2Fg%2F11vkjkv0ls!19sChIJ1yP2AfmHVhIR_e57yr_hmg0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJv5msRcyHVhIRcNWVWvR9eKs",
+        "name": "Restaurant belhabib",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant belhabib (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPmFWjvrxC5PWxu2wqHztlHhsbzZ1C8OFJVCP6_=w426-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Restaurant belhabib, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+belhabib/data=!4m7!3m6!1s0x125687cc45ac99bf:0xab787df45a95d570!8m2!3d33.4551648!4d9.0257011!16s%2Fg%2F11s93xt9nw!19sChIJv5msRcyHVhIRcNWVWvR9eKs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2c9HNR6HVhIRAF4RWYESL-A",
+        "name": "Restaurant SAIF",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant SAIF (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMikohEE3nx2Ixq3EYhz2-_gtbvYWD38OIh4X1s=w408-h530-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-23:00",
+        "closed_on": [],
+        "phone": "20 279 293",
+        "address": "F25G+RH2 Restaurant SAIF, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+SAIF/data=!4m7!3m6!1s0x1256871e3547cfd9:0xe02f128159115e00!8m2!3d33.4595198!4d9.0263875!16s%2Fg%2F11g192lysz!19sChIJ2c9HNR6HVhIRAF4RWYESL-A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJcwApGwCHVhIRSxtbfHgiZNU",
+        "name": "Dar Ali baba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar Ali baba (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "25 493 907",
+        "address": "F27J+CC Dar Ali baba, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Ali+baba/data=!4m7!3m6!1s0x125687001b290073:0xd56422787c5b1b4b!8m2!3d33.4635435!4d9.0310348!16s%2Fg%2F11vpwl0756!19sChIJcwApGwCHVhIRSxtbfHgiZNU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZd6H50SHVhIRzPMT29XJ_KU",
+        "name": "King",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "King (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restauration rapide",
+        "categories": [
+            "Restauration rapide"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "F27F+88M King, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/King/data=!4m7!3m6!1s0x12568744e787de65:0xa5fcc9d5db13f3cc!8m2!3d33.4633269!4d9.0233058!16s%2Fg%2F11rd5k57_y!19sChIJZd6H50SHVhIRzPMT29XJ_KU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJbSQ4KQCHVhIRr7jlq_PEcew",
+        "name": "Pizzeria Marella",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pizzeria Marella (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN4JgIHPfaizTvj8Uj3yicF9U_zzD73a9C7Bb9w=w408-h495-k-no",
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "28 319 288",
+        "address": "F24G+Q8Q Pizzeria Marella, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pizzeria+Marella/data=!4m7!3m6!1s0x125687002938246d:0xec71c4f3abe5b8af!8m2!3d33.4567955!4d9.0243639!16s%2Fg%2F11y2j_b2fz!19sChIJbSQ4KQCHVhIRr7jlq_PEcew?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJPxE5Z5OHVhIRV-s3wVdatRk",
+        "name": "Cafe Jdayda",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "111361370837334110978",
+            "name": "Cafe Jdayda (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111361370837334110978"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNxIoIOHSI1vBLLALJWROKucep0sJ4P2Zx4DMDO=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "04:30-23:30",
+        "closed_on": [],
+        "phone": "20 517 824",
+        "address": "F24G+CC7 Cafe Jdayda, Rue Yahia Ben mhemed, Douz 4260",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Jdayda/data=!4m7!3m6!1s0x125687936739113f:0x19b55a57c137eb57!8m2!3d33.4560183!4d9.0259166!16s%2Fg%2F11ssx6pgk5!19sChIJPxE5Z5OHVhIRV-s3wVdatRk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJr4UiH_mHVhIRI1fK06jAIMQ",
+        "name": "Le biscuit Douz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "101810658160746567952",
+            "name": "Le biscuit Douz (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101810658160746567952"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMRX0Fg8vga0BdX2CestVxAXJEztTHv-pjRkuQ5=w408-h306-k-no",
+        "main_category": "Patisserie",
+        "categories": [
+            "Patisserie"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "28 660 540",
+        "address": "Le biscuit Douz, souk, Douz 4260",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Le+biscuit+Douz/data=!4m7!3m6!1s0x125687f91f2285af:0xc420c0a8d3ca5723!8m2!3d33.4550441!4d9.0257661!16s%2Fg%2F11p68h_h0x!19sChIJr4UiH_mHVhIRI1fK06jAIMQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJHypk9u-HVhIReAKPzs56fJU",
+        "name": "Cafe Azouza",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Azouza (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "98 765 850",
+        "address": "F24F+4J8 Cafe Azouza, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Azouza/data=!4m7!3m6!1s0x125687eff6642a1f:0x957c7acece8f0278!8m2!3d33.455293!4d9.024086!16s%2Fg%2F11g7z0kxs3!19sChIJHypk9u-HVhIReAKPzs56fJU?authuser=0&hl=fr&rclk=1"
+    }
+]

@@ -1,0 +1,306 @@
+[
+    {
+        "place_id": "ChIJ3bmGLTtJ_RIRX40B6HlnUmc",
+        "name": "Gare Hammam Lif",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 36,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare Hammam Lif (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNfnxY_XgcVGh4gxx0g0xRE67lOaoeQFUnwmLA0=w426-h240-k-no",
+        "main_category": "Gare",
+        "categories": [
+            "Gare"
+        ],
+        "rating": 3.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare Hammam Lif, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+Hammam+Lif/data=!4m7!3m6!1s0x12fd493b2d86b9dd:0x67526779e8018d5f!8m2!3d36.7293916!4d10.3350717!16s%2Fg%2F1tf90ptm!19sChIJ3bmGLTtJ_RIRX40B6HlnUmc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJr1GKtDxJ_RIRlyIWYTIMn80",
+        "name": "Game Zone hammam-lif",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": "http://www.game-zone-hammamlif.com/",
+        "owner": {
+            "id": "106156027819133096663",
+            "name": "Game Zone hammam-lif (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106156027819133096663"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOjy74SHoRN7vfZDnyIpPqtk63SDuK4smCgiHpR=w408-h306-k-no",
+        "main_category": "Salle de jeux video",
+        "categories": [
+            "Salle de jeux video"
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-22:00",
+        "closed_on": [],
+        "phone": "58 584 577",
+        "address": "Game Zone hammam-lif, Av. de la mer mediterannee, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Game+Zone+hammam-lif/data=!4m7!3m6!1s0x12fd493cb48a51af:0xcd9f0c3261162297!8m2!3d36.7296507!4d10.331959!16s%2Fg%2F11f40kypp6!19sChIJr1GKtDxJ_RIRlyIWYTIMn80?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJJe-FmDxJ_RIR86IoASJrilc",
+        "name": "Cafe El Bey",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": "105653737381789498150",
+            "name": "Cafe El Bey (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105653737381789498150"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP2JmoKrgh5psrajppeWqUg3s3oIG1VdKOpGpI=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 3.3,
+        "workday_timing": "05:00-02:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe El Bey, Av. de la mer mediterannee, Hammam-Lif 2050",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+El+Bey/data=!4m7!3m6!1s0x12fd493c9885ef25:0x578a6b220128a2f3!8m2!3d36.7307908!4d10.3324741!16s%2Fg%2F1hc8dlh82!19sChIJJe-FmDxJ_RIR86IoASJrilc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJEx4ENRBJ_RIRhYgTNeC-4T4",
+        "name": "Larym",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": "http://www.larym.tn/",
+        "owner": {
+            "id": "115308801350693304903",
+            "name": "Larym (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/115308801350693304903"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMsgnbY3fXalXybe1SjAZ_WBVQYUpWSzOM0U9cT=w408-h272-k-no",
+        "main_category": "Institut de beaute",
+        "categories": [
+            "Institut de beaute",
+            "Hammam",
+            "Spa"
+        ],
+        "rating": 3.9,
+        "workday_timing": "09:00-18:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "23 440 359",
+        "address": "Larym, 04 Avenue de la Republique, RN1, Hammam-Lif 2050",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Larym/data=!4m7!3m6!1s0x12fd491035041e13:0x3ee1bee035138885!8m2!3d36.7333733!4d10.3177258!16s%2Fg%2F11b5phvq72!19sChIJEx4ENRBJ_RIRhYgTNeC-4T4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJG7htGa5J_RIRmeLxyxpXCPk",
+        "name": "Hammam lif",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hammam lif (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPX6OBE26ZbA4N9YgqGXMJqflGQNiwoNNny97mn=w426-h240-k-no",
+        "main_category": "Marche",
+        "categories": [
+            "Marche"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "50 751 756",
+        "address": "P8FP+834 Hammam lif, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hammam+lif/data=!4m7!3m6!1s0x12fd49ae196db81b:0xf908571acbf1e299!8m2!3d36.7232639!4d10.3352131!16s%2Fg%2F11ry6sz8zp!19sChIJG7htGa5J_RIRmeLxyxpXCPk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJQzUU4DJJ_RIRDK_fkZGyP8Y",
+        "name": "Hammam-Lif",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN7Zypn0KvpBFI1eBF1YiA6T8mLmko5PPuJu7zp=w408-h306-k-no",
+        "main_category": "Point d'eau",
+        "categories": [
+            "Point d'eau"
+        ],
+        "rating": 3.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hammam-Lif/data=!4m7!3m6!1s0x12fd4932e0143543:0xc63fb29191dfaf0c!8m2!3d36.7313083!4d10.3490877!16s%2Fg%2F1z264q1qm!19sChIJQzUU4DJJ_RIRDK_fkZGyP8Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJo0_TljtJ_RIRyHNQk844aHQ",
+        "name": "Electro Nabli",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": "115653460644497347365",
+            "name": "Electro Nabli (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/115653460644497347365"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNE_hONzPSdcJvkVkieC_U_sykJBa2XszTJGelT=w408-h725-k-no",
+        "main_category": "Magasin d'ameublement et de decoration",
+        "categories": [
+            "Magasin d'ameublement et de decoration"
+        ],
+        "rating": 3.9,
+        "workday_timing": "08:30-19:30",
+        "closed_on": [],
+        "phone": "23 994 416",
+        "address": "Electro Nabli, Avenue de la mer, Rue de Mediterranee, Hammam-Lif 2050",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Electro+Nabli/data=!4m7!3m6!1s0x12fd493b96d34fa3:0x746838ce935073c8!8m2!3d36.7326908!4d10.3339178!16s%2Fg%2F113f31cdw!19sChIJo0_TljtJ_RIRyHNQk844aHQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJl5zdjf1P_RIRcgQWcCKTi4U",
+        "name": "Plage",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Plage (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNlV0HPBhunJGgZ3whCwyI3SVeuPPCYyzkvIJjx=w408-h862-k-no",
+        "main_category": "Pavillon de plage",
+        "categories": [
+            "Pavillon de plage"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "P98P+V2V Plage, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Plage/data=!4m7!3m6!1s0x12fd4ffd8ddd9c97:0x858b932270160472!8m2!3d36.7172448!4d10.3850372!16s%2Fg%2F11v0lsdlqt!19sChIJl5zdjf1P_RIRcgQWcCKTi4U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJe5Q8DftO_RIR-iqPE5gS390",
+        "name": "Mer de Hammam Chatt",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Mer",
+        "categories": [
+            "Mer"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Mer de Hammam Chatt",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mer+de+Hammam+Chatt/data=!4m7!3m6!1s0x12fd4efb0d3c947b:0xdddf1298138f2afa!8m2!3d36.721577!4d10.3764593!16s%2Fg%2F12vsxfw53!19sChIJe5Q8DftO_RIR-iqPE5gS390?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_dRXsT9J_RIRqmLiKCeRQpg",
+        "name": "Bet 216 H.lif",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bet 216 H.lif (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMtXajtHQKaWosZRWxzs1DAnKzQ7wMTL1ptSpCt=w408-h725-k-no",
+        "main_category": "Casino",
+        "categories": [
+            "Casino"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "24 462 903",
+        "address": "P8JM+R8C Bet 216 H.lif, Av. de la mer mediterannee, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bet+216+H.lif/data=!4m7!3m6!1s0x12fd493fb157d4fd:0x9842912728e262aa!8m2!3d36.7321874!4d10.3333708!16s%2Fg%2F11tjccbhxs!19sChIJ_dRXsT9J_RIRqmLiKCeRQpg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqwX_fDtJ_RIR8UxrmV5rznw",
+        "name": "Banette",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Banette (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Boulangerie",
+        "categories": [
+            "Boulangerie"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "P8JM+J72 Banette, Av. de la mer mediterannee, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Banette/data=!4m7!3m6!1s0x12fd493b7cff05ab:0x7cce6b5e996b4cf1!8m2!3d36.7315181!4d10.3331522!16s%2Fg%2F1tm3m4fy!19sChIJqwX_fDtJ_RIR8UxrmV5rznw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJVVUVsCRJ_RIRe4EI8hKsDnI",
+        "name": "Municipalite d'Hammam-Lif",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Municipalite d'Hammam-Lif (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=s7GxZ37lEby20HeMcrANpA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=23.883429&pitch=0&thumbfov=100",
+        "main_category": "Hotel de ville",
+        "categories": [
+            "Hotel de ville"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "P8HM+FFX Municipalite d'Hammam-Lif, RN1, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Municipalit%C3%A9+d%27Hammam-Lif/data=!4m7!3m6!1s0x12fd4924b0155555:0x720eac12f208817b!8m2!3d36.7287346!4d10.3337387!16s%2Fg%2F11txv23376!19sChIJVVUVsCRJ_RIRe4EI8hKsDnI?authuser=0&hl=fr&rclk=1"
+    }
+]

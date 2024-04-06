@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": "ChIJs0iHBsdl-RIRHdjKQZ6xUMM",
+        "name": "Bir Chabane",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Drinking water",
+        "categories": [
+            "Drinking water"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Bir Chabane",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bir+Chabane/data=!4m7!3m6!1s0x12f965c7068748b3:0xc350b19e41cad81d!8m2!3d35.4544444!4d8.7283333!16s%2Fg%2F1w8g39dl!19sChIJs0iHBsdl-RIRHdjKQZ6xUMM?authuser=0&hl=fr&rclk=1"
+    }
+]

@@ -1,0 +1,177 @@
+[
+    {
+        "place_id": "ChIJkYJBwEwS-xIRgvzYsaqRMcc",
+        "name": "Gare Ferroviaire de Jendouba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare Ferroviaire de Jendouba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPY_jOlWrub_6kJa3jiIBwPm4TBoo93MJ2Oz-MN=w408-h555-k-no",
+        "main_category": "Gare",
+        "categories": [
+            "Gare"
+        ],
+        "rating": 3.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare Ferroviaire de Jendouba, P17, Jendouba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+Ferroviaire+de+Jendouba/data=!4m7!3m6!1s0x12fb124cc0418291:0xc73191aab1d8fc82!8m2!3d36.5009704!4d8.7775482!16s%2Fg%2F1td81dbt!19sChIJkYJBwEwS-xIRgvzYsaqRMcc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJUxsPyk4S-xIRvv0sGXnzg6g",
+        "name": "Societe De Transport Regional Jendouba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "http://www.srtj.com.tn/",
+        "owner": {
+            "id": null,
+            "name": "Societe De Transport Regional Jendouba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPX1CmI7Ub6VIYIBpfEyYFrqz6_A5sSkn3ahK_z=w408-h545-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 3.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "78 600 690",
+        "address": "FQWG+547 Societe De Transport Regional Jendouba, Jendouba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Soci%C3%A9t%C3%A9+De+Transport+R%C3%A9gional+Jendouba/data=!4m7!3m6!1s0x12fb124eca0f1b53:0xa883f379192cfdbe!8m2!3d36.4954055!4d8.7752937!16s%2Fg%2F11dy77t3mt!19sChIJUxsPyk4S-xIRvv0sGXnzg6g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ74ZoIU8S-xIRjdlG9czzIs4",
+        "name": "Gare 9 Avril Autobus",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare 9 Avril Autobus (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNbMM3osphXZlpxXgcIzKO99PKUZdvCzfCT7UPz=w408-h544-k-no",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare 9 Avril Autobus, Av. 9 Avril, Jendouba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+9+Avril+Autobus/data=!4m7!3m6!1s0x12fb124f216886ef:0xce22f3ccf546d98d!8m2!3d36.4934398!4d8.7768075!16s%2Fg%2F1tdkzskh!19sChIJ74ZoIU8S-xIRjdlG9czzIs4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3Yoc8FES-xIRZPfKvJ1h38U",
+        "name": "Station des Autobus",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station des Autobus (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Station des Autobus, Jendouba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+des+Autobus/data=!4m7!3m6!1s0x12fb1251f01c8add:0xc5df619dbccaf764!8m2!3d36.4953804!4d8.7819064!16s%2Fg%2F1vbbcs4t!19sChIJ3Yoc8FES-xIRZPfKvJ1h38U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJsRI6yE4S-xIRVEsPzRvIK3M",
+        "name": "Station Routierre de Transport en Commun de Jendouba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Routierre de Transport en Commun de Jendouba (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Arret de transports en commun",
+        "categories": [
+            "Arret de transports en commun"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Station Routierre de Transport en Commun de Jendouba, Jendouba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Routierre+de+Transport+en+Commun+de+Jendouba/data=!4m7!3m6!1s0x12fb124ec83a12b1:0x732bc81bcd0f4b54!8m2!3d36.4948453!4d8.7753113!16s%2Fg%2F1tct5ydm!19sChIJsRI6yE4S-xIRVEsPzRvIK3M?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJRXc9u2oT-xIR9Tc8E9DAVV8",
+        "name": "Station Louages Jendouba-bBousalem",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Louages Jendouba-bBousalem (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNprk3jRvjZoGCvuet2qGpa6C8NZ9qA4-uQLvpy=w408-h306-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "GQ2J+XV6 Station Louages Jendouba-bBousalem, Enour, Jendouba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Louages+Jendouba-bBousalem/data=!4m7!3m6!1s0x12fb136abb3d7745:0x5f55c0d0133c37f5!8m2!3d36.5024027!4d8.7821364!16s%2Fg%2F11sqsfnb__!19sChIJRXc9u2oT-xIR9Tc8E9DAVV8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJc7i_rlES-xIRJ2yD5k1D8LM",
+        "name": "Station des Autobus #2",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station des Autobus #2 (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Station des Autobus #2, Jendouba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+des+Autobus+%232/data=!4m7!3m6!1s0x12fb1251aebfb873:0xb3f0434de6836c27!8m2!3d36.4936468!4d8.7834942!16s%2Fg%2F1vkr0q4v!19sChIJc7i_rlES-xIRJ2yD5k1D8LM?authuser=0&hl=fr&rclk=1"
+    }
+]

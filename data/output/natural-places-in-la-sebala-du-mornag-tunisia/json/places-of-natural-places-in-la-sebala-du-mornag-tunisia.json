@@ -1,0 +1,507 @@
+[
+    {
+        "place_id": "ChIJX-cowYU5_RIRz8B8E63aI78",
+        "name": "kshshm@ bHyr@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 29,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "kshshm@ bHyr@ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOgiuQT7vtFxBeFSIoxtgOaTWTvymYoztt451ef=w408-h544-k-no",
+        "main_category": "Lac ouvert a la baignade",
+        "categories": [
+            "Lac ouvert a la baignade"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "J6G9+PM7 kshshm@ bHyr@, Mornag",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%83%D8%B4%D8%A7%D8%B4%D9%85%D8%A9+%D8%A8%D8%AD%D9%8A%D8%B1%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x12fd3985c128e75f:0xbf23daad137cc0cf!8m2!3d36.626789!4d10.219182!16s%2Fg%2F11fvhc2n8d!19sChIJX-cowYU5_RIRz8B8E63aI78?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6UHeHSJI_RIRjlCM6XB5wSk",
+        "name": "Mornag Eco Farm",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": "https://www.facebook.com/pages/Mornag-Eco-Farm/556454417727821%3Ffref%3Dts",
+        "owner": {
+            "id": null,
+            "name": "Mornag Eco Farm (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNi3pprip5te1Cs10p3J8m6I1djeCTlwzFBYA_a=w408-h306-k-no",
+        "main_category": "Jardin botanique",
+        "categories": [
+            "Jardin botanique",
+            "Divertissements"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Mornag Eco Farm, C35",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mornag+Eco+Farm/data=!4m7!3m6!1s0x12fd48221dde41e9:0x29c17970e98c508e!8m2!3d36.7041967!4d10.2656802!16s%2Fg%2F1pp2vlpqz!19sChIJ6UHeHSJI_RIRjlCM6XB5wSk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ10wsP3AY_RIRKiBlSBroCIQ",
+        "name": "Jebel Oust",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPQcgJNof_uSKnw1Jxr-Ll4JHdjCJ1aP-oG4g7L=w408-h306-k-no",
+        "main_category": "Sommet montagneux",
+        "categories": [
+            "Sommet montagneux"
+        ],
+        "rating": 3.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Jebel Oust",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Jebel+Oust/data=!4m7!3m6!1s0x12fd18703f2c4cd7:0x8408e81a4865202a!8m2!3d36.52!4d10.0488889!16s%2Fg%2F1tfsw8mb!19sChIJ10wsP3AY_RIRKiBlSBroCIQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJNcGJYlVJ_RIRJaJ-hJJZhm0",
+        "name": "Miel Chammakhi - Bio",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://www.facebook.com/MielBioChammakhi/",
+        "owner": {
+            "id": null,
+            "name": "Miel Chammakhi - Bio (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Epicerie",
+        "categories": [
+            "Epicerie"
+        ],
+        "rating": 3.7,
+        "workday_timing": "08:00-19:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "98 831 263",
+        "address": "M7JR+475 Miel Chammakhi - Bio, Mornag",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Miel+Chammakhi+-+Bio/data=!4m7!3m6!1s0x12fd49556289c135:0x6d865992847ea225!8m2!3d36.6802748!4d10.2907359!16s%2Fg%2F11h64q19x9!19sChIJNcGJYlVJ_RIRJaJ-hJJZhm0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJcRoCKis8_RIRGfrNrYXxkWc",
+        "name": "Ain Fouara",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain Fouara",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+Fouara/data=!4m7!3m6!1s0x12fd3c2b2a021a71:0x6791f185adcdfa19!8m2!3d36.5625!4d10.1675!16s%2Fg%2F11byl4ncfb!19sChIJcRoCKis8_RIRGfrNrYXxkWc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJpRFBHp1J_RIR9dMStwjogwM",
+        "name": "Coins de beaute",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "102866052564091010657",
+            "name": "Coins de beaute (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/102866052564091010657"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPXAtZkFkT3z5hzgq3hA7qSaOtouNWqvJZiXuFO=w426-h240-k-no",
+        "main_category": "Salon de manucure",
+        "categories": [
+            "Salon de manucure"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-18:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "55 530 305",
+        "address": "Coins de beaute, C35, Mornag 2090",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coins+de+beaut%C3%A9/data=!4m7!3m6!1s0x12fd499d1e4111a5:0x383e808b712d3f5!8m2!3d36.6818759!4d10.287804!16s%2Fg%2F11j9360v8b!19sChIJpRFBHp1J_RIR9dMStwjogwM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJU9FQJuk9_RIRt_RaVXvact4",
+        "name": "Ain Safsaf",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain Safsaf",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+Safsaf/data=!4m7!3m6!1s0x12fd3de92650d153:0xde72da7b555af4b7!8m2!3d36.5372222!4d10.1561111!16s%2Fg%2F11bc8d5rrf!19sChIJU9FQJuk9_RIRt_RaVXvact4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-89G07U-_RIR-AkbMdNZE9o",
+        "name": "Ain el Kahola",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain el Kahola",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+el+Kahola/data=!4m7!3m6!1s0x12fd3eb5d346cffb:0xda1359d3311b09f8!8m2!3d36.5980556!4d10.19!16s%2Fg%2F11bc8d0x1y!19sChIJ-89G07U-_RIR-AkbMdNZE9o?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJkanAszU5_RIR9Orr5bsHawo",
+        "name": "Ain Deboubia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP-Nq98Z-MFi-CfB9iOmZH7xZ7j_HLjY6BnnInH=w408-h725-k-no",
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain Deboubia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+Deboubia/data=!4m7!3m6!1s0x12fd3935b3c0a991:0xa6b07bbe5ebeaf4!8m2!3d36.6061111!4d10.1952778!16s%2Fg%2F11bc8cr0ct!19sChIJkanAszU5_RIR9Orr5bsHawo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJG66zEIRD_RIRLbaFOpGXk1I",
+        "name": "Ain ed Dib",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN1-D4QU9jEURC51Z0eGlXOo9_VGBOJiICD6jdW=w426-h240-k-no",
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain ed Dib",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+ed+Dib/data=!4m7!3m6!1s0x12fd438410b3ae1b:0x529397913a85b62d!8m2!3d36.5797222!4d10.3880556!16s%2Fg%2F11byl90ynm!19sChIJG66zEIRD_RIRLbaFOpGXk1I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJrQHYZ6U-_RIRDs30G_lHSPM",
+        "name": "Ain el Hallalif",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain el Hallalif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+el+Hallalif/data=!4m7!3m6!1s0x12fd3ea567d801ad:0xf34847f91bf4cd0e!8m2!3d36.5925!4d10.18!16s%2Fg%2F11bylc70t4!19sChIJrQHYZ6U-_RIRDs30G_lHSPM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJR3aXLtU__RIRvxHRoXXSMgM",
+        "name": "Ain Oum Kseiba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain Oum Kseiba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+Oum+Kseiba/data=!4m7!3m6!1s0x12fd3fd52e977647:0x332d275a1d111bf!8m2!3d36.5175!4d10.2155556!16s%2Fg%2F11bymzpwjg!19sChIJR3aXLtU__RIRvxHRoXXSMgM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJA0_WZZVP_RIRNKXPR-ErUbQ",
+        "name": "Ferme",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Vegetation",
+        "categories": [
+            "Vegetation"
+        ],
+        "rating": 2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ferme, Cite Seltenne",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ferme/data=!4m7!3m6!1s0x12fd4f9565d64f03:0xb4512be147cfa534!8m2!3d36.6896648!4d10.4152498!16s%2Fg%2F12hkm30bv!19sChIJA0_WZZVP_RIRNKXPR-ErUbQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJTeTIbtM__RIRDPCJM8YbEBs",
+        "name": "Ain es Safsaf",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain es Safsaf",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+es+Safsaf/data=!4m7!3m6!1s0x12fd3fd36ec8e44d:0x1b101bc63389f00c!8m2!3d36.5213889!4d10.2169444!16s%2Fg%2F11byl5mx4r!19sChIJTeTIbtM__RIRDPCJM8YbEBs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_XvZI8U-_RIRLzxfT2uWQFI",
+        "name": "Ain en Nahal",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain en Nahal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+en+Nahal/data=!4m7!3m6!1s0x12fd3ec523d97bfd:0x5240966b4f5f3c2f!8m2!3d36.5888889!4d10.2027778!16s%2Fg%2F11bymzr7wl!19sChIJ_XvZI8U-_RIRLzxfT2uWQFI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJmYgaTfs9_RIRI1mY1HBBLWY",
+        "name": "Ain Guettar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain Guettar",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+Guettar/data=!4m7!3m6!1s0x12fd3dfb4d1a8899:0x662d4170d4985923!8m2!3d36.5302778!4d10.1638889!16s%2Fg%2F11bym_ldv8!19sChIJmYgaTfs9_RIRI1mY1HBBLWY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJT_j4UGc-_RIRvQGSwICW2tU",
+        "name": "Ain el Amari",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain el Amari",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+el+Amari/data=!4m7!3m6!1s0x12fd3e6750f8f84f:0xd5da9680c09201bd!8m2!3d36.5541667!4d10.1922222!16s%2Fg%2F11byl2ylmk!19sChIJT_j4UGc-_RIRvQGSwICW2tU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJDaxjU4Q-_RIRtTq9S2NyS-c",
+        "name": "Ain el Kerma",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain el Kerma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+el+Kerma/data=!4m7!3m6!1s0x12fd3e845363ac0d:0xe74b72634bbd3ab5!8m2!3d36.5688889!4d10.1786111!16s%2Fg%2F11byl2pbhg!19sChIJDaxjU4Q-_RIRtTq9S2NyS-c?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJkalXU6Vd_RIRY32ceKpGR74",
+        "name": "Jebel en Nahla",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNjbKYGd_S_AUHgsG8YH59YU5ZbHTrIWe6kByK_=w408-h272-k-no",
+        "main_category": "Sommet montagneux",
+        "categories": [
+            "Sommet montagneux"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Jebel en Nahla",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Jebel+en+Nahla/data=!4m7!3m6!1s0x12fd5da55357a991:0xbe4746aa789c7d63!8m2!3d36.5225!4d10.4958333!16s%2Fg%2F1tqks76w!19sChIJkalXU6Vd_RIRY32ceKpGR74?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4SczIR5P_RIRgLMUb9KatP0",
+        "name": "Bir el Bey",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Drinking water",
+        "categories": [
+            "Drinking water"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Bir el Bey",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bir+el+Bey/data=!4m7!3m6!1s0x12fd4f1e213327e1:0xfdb49ad26f14b380!8m2!3d36.7147222!4d10.3761111!16s%2Fg%2F1tjcrkwm!19sChIJ4SczIR5P_RIRgLMUb9KatP0?authuser=0&hl=fr&rclk=1"
+    }
+]

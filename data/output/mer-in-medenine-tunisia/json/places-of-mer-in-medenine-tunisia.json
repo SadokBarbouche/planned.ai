@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": "ChIJhaldE33XVBIRckjCuWpAS3o",
+        "name": "Restaurant fruit de mer",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant fruit de mer (lmlk)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "mT`m",
+        "categories": [
+            "mT`m"
+        ],
+        "rating": 4,
+        "workday_timing": "6S-1m",
+        "closed_on": [
+            "ljm`@"
+        ],
+        "phone": "53 348 364",
+        "address": "8FVQ+7MQ Restaurant fruit de mer, Medenine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+fruit+de+mer/@33.3432084,10.4892486,17z/data=!3m1!4b1!4m6!3m5!1s0x1254d77d135da985:0x7a4b406ab9c24872!8m2!3d33.3432084!4d10.4892486!16s%2Fg%2F11f7khmq0d?authuser=0&entry=ttu"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "place_id": "ChIJbbADtCI--RIR_DeVXAGxqEM",
+        "name": "Station des Bus",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station des Bus (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Societe de transport en bus et autocar",
+        "categories": [
+            "Societe de transport en bus et autocar"
+        ],
+        "rating": 3.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "77 472 210",
+        "address": "5RHX+35Q Station des Bus, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+des+Bus/data=!4m7!3m6!1s0x12f93e22b403b06d:0x43a8b1015c9537fc!8m2!3d35.17771!4d8.8479689!16s%2Fg%2F11c2jvg3yh!19sChIJbbADtCI--RIR_DeVXAGxqEM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJDyIoTz0--RIRVGpG1_Z9uVI",
+        "name": "STE REGIONALE DE TRANSPORT DE KASSERINE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "STE REGIONALE DE TRANSPORT DE KASSERINE (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNgt9sR29tVo-_aqfyqBY8tNBAa1HPICcHhxwoJ=w408-h544-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 2.6,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [
+            "samedi",
+            "dimanche"
+        ],
+        "phone": "77 473 600",
+        "address": "5RGX+X4P STE REGIONALE DE TRANSPORT DE KASSERINE, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/STE+REGIONALE+DE+TRANSPORT+DE+KASSERINE/data=!4m7!3m6!1s0x12f93e3d4f28220f:0x52b97df6d7466a54!8m2!3d35.1774627!4d8.8478209!16s%2Fg%2F11c1ng_jvy!19sChIJDyIoTz0--RIRVGpG1_Z9uVI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0eMl9O0V-RIRStskK3qedvY",
+        "name": "Base Transport Gaz Kasserine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Base Transport Gaz Kasserine (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Administration",
+        "categories": [
+            "Administration"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "5RFF+GX9 Base Transport Gaz Kasserine, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Base+Transport+Gaz+Kasserine/data=!4m7!3m6!1s0x12f915edf425e3d1:0xf6769e7a2b24db4a!8m2!3d35.1737765!4d8.8249958!16s%2Fg%2F11c6w17f9f!19sChIJ0eMl9O0V-RIRStskK3qedvY?authuser=0&hl=fr&rclk=1"
+    }
+]

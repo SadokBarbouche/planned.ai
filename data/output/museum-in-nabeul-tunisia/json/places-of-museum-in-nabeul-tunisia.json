@@ -1,0 +1,263 @@
+[
+    {
+        "place_id": "ChIJtWOBHp4wHRMRWuy_0HaNcUE",
+        "name": "Musee archeologique de Kerkouane",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 117,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee archeologique de Kerkouane (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOT5NQzZJb6HpGXXT-2kKomfX9EMp4b-xJFU9Ht=w408-h306-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique",
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "09:00-16:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "W3XX+4G6 Musee archeologique de Kerkouane, Kerkouane",
+        "review_keywords": [
+            {
+                "keyword": "site archeologique",
+                "count": 8
+            },
+            {
+                "keyword": "ruines",
+                "count": 5
+            },
+            {
+                "keyword": "vie",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+arch%C3%A9ologique+de+Kerkouane/data=!4m7!3m6!1s0x131d309e1e8163b5:0x41718d76d0bfec5a!8m2!3d36.9477853!4d11.0987567!16s%2Fm%2F05b5n_k!19sChIJtWOBHp4wHRMRWuy_0HaNcUE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtQdQXpSYAhMRoRO4cnDaw2c",
+        "name": "Musee Neapolis",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 58,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee Neapolis (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNcykpjCK98U33XK0n2_BxWkvuOXCI5dyn0hltB=w408-h306-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique"
+        ],
+        "rating": 4.1,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "24 178 773",
+        "address": "FP2P+8G3 Musee Neapolis, Nabeul",
+        "review_keywords": [
+            {
+                "keyword": "mosaiques",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+N%C3%A9apolis/data=!4m7!3m6!1s0x130298945e5007b5:0x67c3da7072b813a1!8m2!3d36.4507529!4d10.736297!16s%2Fg%2F1hdyxvfnq!19sChIJtQdQXpSYAhMRoRO4cnDaw2c?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJIUlACBZj_RIRWsvvpGMsCww",
+        "name": "Musee carrefour des civilisations et des religions",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 42,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee carrefour des civilisations et des religions (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMbkDIIy35XSt_Lpqx72ZY7dP_WocPM-jHEK6DA=w408-h544-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.2,
+        "workday_timing": "10:00-18:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "9G8M+J8F Musee carrefour des civilisations et des religions, Bi'r al Harariqah, Yasmine Hammamet",
+        "review_keywords": [
+            {
+                "keyword": "histoire",
+                "count": 6
+            },
+            {
+                "keyword": "passionne",
+                "count": 4
+            },
+            {
+                "keyword": "connaissances",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+carrefour+des+civilisations+et+des+religions/data=!4m7!3m6!1s0x12fd631608404921:0xc0b2c63a4efcb5a!8m2!3d36.3665516!4d10.533295!16s%2Fg%2F11fmyq_zkf!19sChIJIUlACBZj_RIRWsvvpGMsCww?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJp9ipRS1Y_RIRmtF0yiYMZQA",
+        "name": "Musee du Marabout Sidi-Jedidi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee du Marabout Sidi-Jedidi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNHDag8fWjsNYW1n97bJ921FCF9p4uKXyDrYtef=w408-h726-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JHVG+V5X Musee du Marabout Sidi-Jedidi, Zaouiet Djedidi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+du+Marabout+Sidi-Jedidi/data=!4m7!3m6!1s0x12fd582d45a9d8a7:0x650c26ca74d19a!8m2!3d36.6447476!4d10.5754797!16s%2Fg%2F1w4nnlh4!19sChIJp9ipRS1Y_RIRmtF0yiYMZQA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJn7o0OfRj_RIR8P1xJ6af8jU",
+        "name": "Musee Dar khadija Hammamet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee Dar khadija Hammamet (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPdQXT1TbNsvE_bzQEf3rzVPSKSHuR_QhetmOYq=w408-h544-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "9JV7+H7Q Musee Dar khadija Hammamet, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Dar+khadija+Hammamet/data=!4m7!3m6!1s0x12fd63f43934ba9f:0x35f29fa62771fdf0!8m2!3d36.3939243!4d10.6132682!16s%2Fg%2F11gf97r59n!19sChIJn7o0OfRj_RIR8P1xJ6af8jU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJb_MzTpSYAhMRRZxEZEsXiH4",
+        "name": "Nabeul Museum",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Nabeul Museum (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO2pSrt8ZObsfFuZHbkiH7WgI7CdQnPoRjZrWxD=w408-h306-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique",
+            "Musee"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "FP2P+7HC Nabeul Museum, Nabeul",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Nabeul+Museum/data=!4m7!3m6!1s0x130298944e33f36f:0x7e88174b64449c45!8m2!3d36.4506915!4d10.7363967!16s%2Fm%2F0130pvlb!19sChIJb_MzTpSYAhMRRZxEZEsXiH4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJn_VOlQOeAhMRjhUPoV5UbLc",
+        "name": "Dar Zayen",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar Zayen (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOnaAYnwN3iBAQcWTMU2wgSmT2XkfU-3ovV5dH_=w427-h240-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "9JV7+44W Dar Zayen, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Zayen/data=!4m7!3m6!1s0x13029e03954ef59f:0xb76c545ea10f158e!8m2!3d36.3928729!4d10.6128429!16s%2Fg%2F11c5613s86!19sChIJn_VOlQOeAhMRjhUPoV5UbLc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuSC0cpSYAhMR41mEb6llJkE",
+        "name": "Statue Ibn Khaldoun",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Statue Ibn Khaldoun (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMl17omn3vejwORY_gU3pIJdOkc37XgXMPZbvoC=w408-h614-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4,
+        "workday_timing": "08:30-18:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "FP2P+MWP Statue Ibn Khaldoun, Nabeul",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Statue+Ibn+Khaldoun/data=!4m7!3m6!1s0x1302989472b420b9:0x412665a96f8459e3!8m2!3d36.4517242!4d10.7373387!16s%2Fg%2F11g72lr9mq!19sChIJuSC0cpSYAhMR41mEb6llJkE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJswncCh2ZAhMRUPFjU3yaD9Q",
+        "name": "Horloge solaire",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Horloge solaire (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bMSSpmjL1pRIf86_aH3ctQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=234.83275&pitch=0&thumbfov=100",
+        "main_category": "Musee historique",
+        "categories": [
+            "Musee historique"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Horloge solaire, 25 Av. Habib Bourguiba, Nabeul",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Horloge+solaire/data=!4m7!3m6!1s0x1302991d0adc09b3:0xd40f9a7c5363f150!8m2!3d36.4491001!4d10.7367791!16s%2Fg%2F11fkqzjtyp!19sChIJswncCh2ZAhMRUPFjU3yaD9Q?authuser=0&hl=fr&rclk=1"
+    }
+]

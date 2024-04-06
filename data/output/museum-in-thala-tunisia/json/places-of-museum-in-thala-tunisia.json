@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": "ChIJIcYIz0Vj-RIRepCYB_tBQag",
+        "name": "dar thala",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "dar thala (lmlk)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNA7QkX5LWqXH5vWFHoVaOedjbcT625yHqw6GTg=w408-h306-k-no",
+        "main_category": "mtHf",
+        "categories": [
+            "mtHf"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "54 256 959",
+        "address": "HM9C+JWJ dar thala, Thala",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/dar+thala/@35.5690994,8.6722778,17z/data=!3m1!4b1!4m6!3m5!1s0x12f96345cf08c621:0xa84141fb0798907a!8m2!3d35.5690994!4d8.6722778!16s%2Fg%2F11h2k2nqhs?authuser=0&entry=ttu"
+    }
+]

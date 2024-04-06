@@ -1,0 +1,137 @@
+[
+    {
+        "place_id": "ChIJFVs5UhsU-xIRwnMc5UnGxjE",
+        "name": "Bulla Regia - Site Archeologique",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 300,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bulla Regia - Site Archeologique (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM6ibVxVzcNjVJMVIxBl77hyVYcxjVnwrdzdFac=w408-h306-k-no",
+        "main_category": "Site archeologique",
+        "categories": [
+            "Site archeologique",
+            "Attraction touristique"
+        ],
+        "rating": 4.7,
+        "workday_timing": "08:00-19:00",
+        "closed_on": [],
+        "phone": "96 014 141",
+        "address": "Bulla Regia - Site Archeologique, C 59 Bullaregia,, Jendouba",
+        "review_keywords": [
+            {
+                "keyword": "mosaiques",
+                "count": 32
+            },
+            {
+                "keyword": "villas",
+                "count": 13
+            },
+            {
+                "keyword": "souterrain",
+                "count": 11
+            },
+            {
+                "keyword": "touristique",
+                "count": 9
+            },
+            {
+                "keyword": "maison",
+                "count": 8
+            },
+            {
+                "keyword": "sol",
+                "count": 7
+            },
+            {
+                "keyword": "thermes",
+                "count": 6
+            },
+            {
+                "keyword": "temples",
+                "count": 6
+            },
+            {
+                "keyword": "amphitheatre",
+                "count": 5
+            },
+            {
+                "keyword": "architecture",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Bulla+Regia+-+Site+Arch%C3%A9ologique/data=!4m7!3m6!1s0x12fb141b52395b15:0x31c6c649e51c73c2!8m2!3d36.5597081!4d8.7542218!16s%2Fg%2F12vrw100f!19sChIJFVs5UhsU-xIRwnMc5UnGxjE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJrfilUlkb-xIRbrLApZ1iIa0",
+        "name": "Musee archeologique de Chemtou",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 56,
+        "website": "http://www.chimtou.com/",
+        "owner": {
+            "id": null,
+            "name": "Musee archeologique de Chemtou (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOh2lmPHeM8i69Bs1UEQI5KR2ytI10CN_1ZYUIA=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Musee archeologique",
+            "Attraction touristique"
+        ],
+        "rating": 4.3,
+        "workday_timing": "09:30-15:00",
+        "closed_on": [],
+        "phone": "96 014 141",
+        "address": "FHQG+VQX Musee archeologique de Chemtou, Wadi Maliz",
+        "review_keywords": [
+            {
+                "keyword": "marbre",
+                "count": 6
+            },
+            {
+                "keyword": "histoire",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+arch%C3%A9ologique+de+Chemtou/data=!4m7!3m6!1s0x12fb1b5952a5f8ad:0xad21629da5c0b26e!8m2!3d36.489747!4d8.5769759!16s%2Fm%2F05b1qln!19sChIJrfilUlkb-xIRbrLApZ1iIa0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJrzw2LAMU-xIRG4RqGWXdhv8",
+        "name": "Baths of Julia Memmia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 34,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Baths of Julia Memmia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPB3pqlcjqyErXesX6eL7fo8YTFYSAa1YvJphB4=w408-h306-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:30-17:30",
+        "closed_on": [],
+        "phone": "21 944 773",
+        "address": "Baths of Julia Memmia, C 59",
+        "review_keywords": [
+            {
+                "keyword": "site archeologique",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Baths+of+Julia+Memmia/data=!4m7!3m6!1s0x12fb14032c363caf:0xff86dd65196a841b!8m2!3d36.5576728!4d8.7541254!16s%2Fm%2F05b5_01!19sChIJrzw2LAMU-xIRG4RqGWXdhv8?authuser=0&hl=fr&rclk=1"
+    }
+]

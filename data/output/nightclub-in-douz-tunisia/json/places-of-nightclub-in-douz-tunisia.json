@@ -1,0 +1,382 @@
+[
+    {
+        "place_id": "ChIJlcgIttmHVhIRIxrOdHN7IUY",
+        "name": "Sun Palm Douz",
+        "description": "Chambres et suites de style decontracte dans hotel standard avec piscine exterieure, restaurant et hammam.",
+        "is_spending_on_ads": false,
+        "reviews": 4669,
+        "website": "http://www.goldenyasmin.com/",
+        "owner": {
+            "id": "114355028698076258064",
+            "name": "Sun Palm Douz (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114355028698076258064"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHE6sNubzdh9bdAbjHiRxhQfxrn9QSKQPcuEWS6sNufeTJ9X2XKjG49iVjBqxMceh0YgSjIs3vXnbYZb6zTd-eWuHkurbjW4r6XEfo-f531W5WyRStZbVWRGV6CbrCvpfO7eN052VfgRQzBXlXfGCmQpNnCgoQlwzSkuMITxKselxnv-tE1ZUI7=w408-h272-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 470 123",
+        "address": "Sun Palm Douz, Zone Touristique Bp 98, Douz 4260",
+        "review_keywords": [
+            {
+                "keyword": "piscine",
+                "count": 252
+            },
+            {
+                "keyword": "desert",
+                "count": 172
+            },
+            {
+                "keyword": "excursion",
+                "count": 78
+            },
+            {
+                "keyword": "quad",
+                "count": 21
+            },
+            {
+                "keyword": "sucree",
+                "count": 20
+            },
+            {
+                "keyword": "dromadaire",
+                "count": 12
+            },
+            {
+                "keyword": "palmiers",
+                "count": 10
+            },
+            {
+                "keyword": "oasis",
+                "count": 9
+            },
+            {
+                "keyword": "dunes",
+                "count": 8
+            },
+            {
+                "keyword": "escale",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sun+Palm+Douz/data=!4m10!3m9!1s0x125687d9b608c895:0x46217b7374ce1a23!5m2!4m1!1i2!8m2!3d33.4358315!4d9.0159386!16s%2Fg%2F1td8dxw1!19sChIJlcgIttmHVhIRIxrOdHN7IUY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3f____OHVhIRqL79-G_DNfY",
+        "name": "Sahara Douz",
+        "description": "Elegant hotel aux allures de chateau avec restaurant, bars, piscines interieure et exterieure, spa.",
+        "is_spending_on_ads": false,
+        "reviews": 951,
+        "website": "http://www.saharadouz.com/",
+        "owner": {
+            "id": null,
+            "name": "Sahara Douz (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEWniRiM7Jjk6xb9NylXlLGKDu8LhNlmako8SN3mDj6hq5XzEFffukyYw5h4F6jJdW2namUPIh-XdGrye6OeZ-oIUkulx2sLi-JryT_tH1z2l-n9YsySqstWwwYwJ5BADAycjTHkCEoZBmmfyIH-CYmlNeoQjzz1ZwK0k-5kbXeIB-wdSr1JoceZg=w408-h271-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 470 864",
+        "address": "Sahara Douz, Zone Touristique De Douz, Douz, 4260, 4260",
+        "review_keywords": [
+            {
+                "keyword": "piscine",
+                "count": 78
+            },
+            {
+                "keyword": "desert",
+                "count": 50
+            },
+            {
+                "keyword": "chambre",
+                "count": 32
+            },
+            {
+                "keyword": "buffet",
+                "count": 23
+            },
+            {
+                "keyword": "boissons",
+                "count": 14
+            },
+            {
+                "keyword": "bar",
+                "count": 14
+            },
+            {
+                "keyword": "excursion",
+                "count": 13
+            },
+            {
+                "keyword": "chicha",
+                "count": 10
+            },
+            {
+                "keyword": "oasis",
+                "count": 5
+            },
+            {
+                "keyword": "chameau",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sahara+Douz/data=!4m10!3m9!1s0x125687f3ffffffdd:0xf635c36ff8fdbea8!5m2!4m1!1i2!8m2!3d33.4353323!4d9.0200085!16s%2Fg%2F1pxxrv1m1!19sChIJ3f____OHVhIRqL79-G_DNfY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJMdHyReSHVhIRS6CbjA4s44E",
+        "name": "Restaurant La Porte De Sahara",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 172,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant La Porte De Sahara (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPmW7O3qNVD5SgxTcksWObn02hX2uxnIf7DpZml=w426-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.9,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": "98 801 217",
+        "address": "F23C+455 Restaurant La Porte De Sahara, Douz",
+        "review_keywords": [
+            {
+                "keyword": "soupe",
+                "count": 20
+            },
+            {
+                "keyword": "cuisine traditionnelle",
+                "count": 15
+            },
+            {
+                "keyword": "droit de propriete",
+                "count": 9
+            },
+            {
+                "keyword": "entree",
+                "count": 9
+            },
+            {
+                "keyword": "brik",
+                "count": 7
+            },
+            {
+                "keyword": "vegetariens",
+                "count": 7
+            },
+            {
+                "keyword": "ramadan",
+                "count": 6
+            },
+            {
+                "keyword": "menu",
+                "count": 6
+            },
+            {
+                "keyword": "couscous",
+                "count": 6
+            },
+            {
+                "keyword": "plat principal",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Restaurant+La+Porte+De+Sahara/data=!4m7!3m6!1s0x125687e445f2d131:0x81e32c0e8c9ba04b!8m2!3d33.4527513!4d9.0204856!16s%2Fg%2F11gg_v2402!19sChIJMdHyReSHVhIRS6CbjA4s44E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJgRdX1yXAVxIRwluRY9zlDlU",
+        "name": "Sahara Lounge",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 133,
+        "website": "http://www.sahara-lounge.com/",
+        "owner": {
+            "id": null,
+            "name": "Sahara Lounge (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPGka0EMjD07dBpp8V3ZjB4b-mRtBcanN0rlnvb=w408-h544-k-no",
+        "main_category": "Bar lounge",
+        "categories": [
+            "Bar lounge",
+            "Parc",
+            "Centre de loisirs",
+            "Salon de the"
+        ],
+        "rating": 4.1,
+        "workday_timing": "09:00-22:00",
+        "closed_on": [],
+        "phone": "50 287 900",
+        "address": "W47Q+WV9 Sahara Lounge, Route de la Berka, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "la nature",
+                "count": 8
+            },
+            {
+                "keyword": "palmiers",
+                "count": 5
+            },
+            {
+                "keyword": "enfants",
+                "count": 5
+            },
+            {
+                "keyword": "prix",
+                "count": 4
+            },
+            {
+                "keyword": "tyrolienne",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sahara+Lounge/data=!4m7!3m6!1s0x1257c025d7571781:0x550ee5dc63915bc2!8m2!3d33.9147891!4d8.139721!16s%2Fg%2F124ych528!19sChIJgRdX1yXAVxIRwluRY9zlDlU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJbYEF7--HVhIRHhQB8T7XLXs",
+        "name": "Souk Douz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 115,
+        "website": null,
+        "owner": {
+            "id": "106555826425883095450",
+            "name": "Souk Douz (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106555826425883095450"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOf8K5xqr5ruPLWNVF3rN0GWI8d6gg8u59GVS0a=w408-h305-k-no",
+        "main_category": "Marche",
+        "categories": [
+            "Marche"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "98 483 885",
+        "address": "Souk Douz, Douz 4260",
+        "review_keywords": [
+            {
+                "keyword": "desert",
+                "count": 4
+            },
+            {
+                "keyword": "touristes",
+                "count": 3
+            },
+            {
+                "keyword": "souvenirs",
+                "count": 3
+            },
+            {
+                "keyword": "place",
+                "count": 3
+            },
+            {
+                "keyword": "artisans",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Souk+Douz/data=!4m7!3m6!1s0x125687efef05816d:0x7b2dd73ef101141e!8m2!3d33.4553495!4d9.0248511!16s%2Fg%2F11btn1cppn!19sChIJbYEF7--HVhIRHhQB8T7XLXs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJmaUYcs-HVhIRBfpjzcj-ogY",
+        "name": "TEJ ELKHAYEM",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 59,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "TEJ ELKHAYEM (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMPLE8UhmS3R8DZb-KMqufGMd1Xb2i3kiHroXHX=w507-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "98 454 435",
+        "address": "C2MG+4W7 TEJ ELKHAYEM, ZONE TOURISTIQUE, Douz",
+        "review_keywords": [
+            {
+                "keyword": "chameau",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/TEJ+ELKHAYEM/data=!4m7!3m6!1s0x125687cf7218a599:0x6a2fec8cd63fa05!8m2!3d33.4327914!4d9.0272838!16s%2Fg%2F11gh2j1hhc!19sChIJmaUYcs-HVhIRBfpjzcj-ogY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJTxcBhyaHVhIR3sUhTYucT6E",
+        "name": "Douz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Douz (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN6MzvWV4hIyiP6FrVW2dnnGEfwstNnXECWgHvB=w408-h861-k-no",
+        "main_category": "Constructeur immobilier",
+        "categories": [
+            "Constructeur immobilier"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Douz",
+        "review_keywords": [
+            {
+                "keyword": "festival",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Douz/data=!4m7!3m6!1s0x125687268701174f:0xa14f9c8b4d21c5de!8m2!3d33.4614354!4d9.0294708!16s%2Fg%2F11kplj280y!19sChIJTxcBhyaHVhIR3sUhTYucT6E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJKT4H26qHVhIRgVAZzBw0XZQ",
+        "name": "Sahara Museum",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Sahara Museum (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPt43Twealh35ZTmBiGtyapwlv5UsPjV5Vp1NDz=w408-h546-k-no",
+        "main_category": "Musee du patrimoine",
+        "categories": [
+            "Musee du patrimoine"
+        ],
+        "rating": 4.7,
+        "workday_timing": "09:30-16:30",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": null,
+        "address": "F229+W8V Sahara Museum, Unnamed Road, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sahara+Museum/data=!4m7!3m6!1s0x125687aadb073e29:0x945d341ccc195081!8m2!3d33.4523692!4d9.0183059!16s%2Fm%2F0n8jg5k!19sChIJKT4H26qHVhIRgVAZzBw0XZQ?authuser=0&hl=fr&rclk=1"
+    }
+]

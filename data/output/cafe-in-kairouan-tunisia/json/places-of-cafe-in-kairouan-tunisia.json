@@ -1,0 +1,705 @@
+[
+    {
+        "place_id": "ChIJLSfIgYPF_RIRl7PMm9JCCa4",
+        "name": "GO Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 63,
+        "website": "http://www.gocafe.tn/",
+        "owner": {
+            "id": "112450648408136355518",
+            "name": "GO Cafe (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/112450648408136355518"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN8dE-4Z3en6LXzj740UIu_491dQ_f9gC-1iyn_=w426-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant",
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "10:00-00:00",
+        "closed_on": [],
+        "phone": "24 101 831",
+        "address": "GO Cafe, Medina de, Rue Mouley Taieb, en face de la Mosquee des Trois Portes Cite Jraba, Kairouan 3100",
+        "review_keywords": [
+            {
+                "keyword": "ramadan",
+                "count": 4
+            },
+            {
+                "keyword": "mosquee",
+                "count": 4
+            },
+            {
+                "keyword": "dejeuner",
+                "count": 4
+            },
+            {
+                "keyword": "tunisien",
+                "count": 3
+            },
+            {
+                "keyword": "touristes",
+                "count": 3
+            },
+            {
+                "keyword": "architecture d'interieur",
+                "count": 3
+            },
+            {
+                "keyword": "culture",
+                "count": 3
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/GO+Caf%C3%A9/data=!4m7!3m6!1s0x12fdc58381c8272d:0xae0942d29bccb397!8m2!3d35.6775987!4d10.1023824!16s%2Fg%2F11j0rgs5d6!19sChIJLSfIgYPF_RIRl7PMm9JCCa4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJbRy9Pz_F_RIR-JL0tLpyXZM",
+        "name": "Chez Mamie",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 55,
+        "website": null,
+        "owner": {
+            "id": "117801815030220277321",
+            "name": "Chez Mamie (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117801815030220277321"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO9UlH2rxTTYkxU_d8lotbKbeR5JDCcQ03_eZQ5=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Restaurant brunch"
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-23:00",
+        "closed_on": [],
+        "phone": "50 333 411",
+        "address": "Chez Mamie, 270 rue om iyadh houmet jemaa kairouan, Kairouan 3100",
+        "review_keywords": [
+            {
+                "keyword": "mosquee",
+                "count": 3
+            },
+            {
+                "keyword": "smoothies",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Chez+Mamie/data=!4m7!3m6!1s0x12fdc53f3fbd1c6d:0x935d72bab4f492f8!8m2!3d35.682578!4d10.103667!16s%2Fg%2F11c76n042j!19sChIJbRy9Pz_F_RIR-JL0tLpyXZM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJk0KqllXF_RIRUz9Sl9JQHSU",
+        "name": "cafe hermess",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 43,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe hermess (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMRdbUGzdDxmlfbkgkbepLnXQT4aecz0OCn9URV=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "04:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "M39J+VP7 cafe hermess, Av. Mongi Slim, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+hermess/data=!4m7!3m6!1s0x12fdc55596aa4293:0x251d50d297523f53!8m2!3d35.6696631!4d10.0817934!16s%2Fg%2F11c20c35b7!19sChIJk0KqllXF_RIRUz9Sl9JQHSU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2zeoqOzF_RIRMwffeICZPc8",
+        "name": "Ci Gusta Kairouan",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 32,
+        "website": "http://www.cigusta.com/",
+        "owner": {
+            "id": "114225223844960716542",
+            "name": "Ci Gusta Kairouan (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114225223844960716542"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPPiTFualoF2lxAS5dq4eMeEav52kNFb3TKXmQd=w408-h306-k-no",
+        "main_category": "Restaurant de sundae",
+        "categories": [
+            "Restaurant de sundae"
+        ],
+        "rating": 4,
+        "workday_timing": "08:30-22:00",
+        "closed_on": [],
+        "phone": "25 450 864",
+        "address": "Ci Gusta Kairouan, Av. Mohamed Ibn Sahnoun, Kairouan",
+        "review_keywords": [
+            {
+                "keyword": "pizza",
+                "count": 4
+            },
+            {
+                "keyword": "gaufres",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ci+Gusta+Kairouan/data=!4m7!3m6!1s0x12fdc5eca8a837db:0xcf3d998078df0733!8m2!3d35.6752867!4d10.1088666!16s%2Fg%2F11g0j6j5hp!19sChIJ2zeoqOzF_RIRMwffeICZPc8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJT9UOKELF_RIRl7rz-CvU3R0",
+        "name": "Cafe Chic",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "website": "https://www.facebook.com/Cafe-Chic-190166681399711/",
+        "owner": {
+            "id": null,
+            "name": "Cafe Chic (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOt8tYaaDY_ijxtRdsAE7S7tMLIxruAil5FSFjy=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "77 277 819",
+        "address": "M3MW+MXW Cafe Chic, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Chic/data=!4m7!3m6!1s0x12fdc542280ed54f:0x1dddd42bf8f3ba97!8m2!3d35.6842428!4d10.097445!16s%2Fg%2F11c1q7nbqx!19sChIJT9UOKELF_RIRl7rz-CvU3R0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJc1ZluhLF_RIRu2fHzeZXvBY",
+        "name": "Cafe Les Veterants",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Les Veterants (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN9a4BAfp0oU_-87JIyZDRsWyoArKfPzorW659S=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "M4W3+7G5 Cafe Les Veterants, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Les+V%C3%A9t%C3%A9rants/data=!4m7!3m6!1s0x12fdc512ba655673:0x16bc57e6cdc767bb!8m2!3d35.6956325!4d10.1038599!16s%2Fg%2F1td10g_6!19sChIJc1ZluhLF_RIRu2fHzeZXvBY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJR8mbNkjF_RIRBRXzliFO6DM",
+        "name": "Fratello Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Fratello Cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNImRnBFH83lu1BlH1zDPSkgP523HncVfy4z6BR=w408-h341-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.6,
+        "workday_timing": "06:00-22:00",
+        "closed_on": [],
+        "phone": "77 229 270",
+        "address": "M4F2+3Q7 Fratello Cafe, Av. de La Republique, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fratello+Caf%C3%A9/data=!4m7!3m6!1s0x12fdc548369bc947:0x33e84e2196f31505!8m2!3d35.6726728!4d10.101927!16s%2Fg%2F11gc6brw12!19sChIJR8mbNkjF_RIRBRXzliFO6DM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJf8lTb0jF_RIR2NApmWjH3MU",
+        "name": "Cafe Taktak",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Taktak (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMiWRnS1dqUskQ4026EO1Kz5mVLYu5CUqb_Xtf_=w408-h541-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.9,
+        "workday_timing": "05:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "M4F2+H9H Cafe Taktak, Av. Du 20 Mars, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Taktak/data=!4m7!3m6!1s0x12fdc5486f53c97f:0xc5dcc7689929d0d8!8m2!3d35.6739471!4d10.1009856!16s%2Fg%2F11hbqds0qv!19sChIJf8lTb0jF_RIR2NApmWjH3MU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3Vf1nz_F_RIR2Sj72MLGJOU",
+        "name": "Espace Ben Rejeb",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": "https://www.ben-rejeb.com/",
+        "owner": {
+            "id": "110961345170447861257",
+            "name": "Espace Ben Rejeb (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/110961345170447861257"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPyzDGNrwscAkfGFqMot3AU-kPQT7nSP6JtRGWY=w408-h291-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "10:00-00:00",
+        "closed_on": [],
+        "phone": "98 507 533",
+        "address": "Espace Ben Rejeb, street about zamaa lbalawi, Av. de la Republique, Kairouan 3100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Espace+Ben+Rejeb/data=!4m7!3m6!1s0x12fdc53f9ff557dd:0xe524c6c2d8fb28d9!8m2!3d35.6830277!4d10.1045567!16s%2Fg%2F1tds3y3f!19sChIJ3Vf1nz_F_RIR2Sj72MLGJOU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuWKdKkLF_RIR71m-XKc2ryc",
+        "name": "Miami",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Miami (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMmasGbSciIaItzWebjuB5ifnAiQF6rLnCKMprN=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-21:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "M3MX+F26 Miami, Rue Des Aglabiles, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Miami/data=!4m7!3m6!1s0x12fdc5422a9d62b9:0x27af36a75cbe59ef!8m2!3d35.6836738!4d10.0975222!16s%2Fg%2F1hd_301bm!19sChIJuWKdKkLF_RIR71m-XKc2ryc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8_EL7XfF_RIRmUcgqEvlKi8",
+        "name": "City Lounge cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "City Lounge cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM_iPcz_dehua6D47rD_36MLAJDIypzECAlQxbT=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "City Lounge cafe, afh 1 kairouan, 3100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/City+Lounge+cafe/data=!4m7!3m6!1s0x12fdc577ed0bf1f3:0x2f2ae54ba8204799!8m2!3d35.6885427!4d10.0946527!16s%2Fg%2F11nrwt1t1d!19sChIJ8_EL7XfF_RIRmUcgqEvlKi8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJP5_dy1_R_RIRIjT7aBJgteo",
+        "name": "mqh~ `bd llh",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mqh~ `bd llh (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMgl8tVDvMYsv6abrS9J6q8cDbIjvn2F5fna10b=w408-h725-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "50 046 744",
+        "address": "M38C+PG7 mqh~ `bd llh, Av. Mongi Slim, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D9%82%D9%87%D9%89+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%84%D9%87%E2%80%AD/data=!4m7!3m6!1s0x12fdd15fcbdd9f3f:0xeab5601268fb3422!8m2!3d35.6667841!4d10.0712887!16s%2Fg%2F11j8h6s94g!19sChIJP5_dy1_R_RIRIjT7aBJgteo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJQ9CRnWnF_RIRZ1UCT8rEeuQ",
+        "name": "Cafe La Terrasse",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": "100472275846073776107",
+            "name": "Cafe La Terrasse (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100472275846073776107"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMxwU-WmvRn0-mfGtypSxXlc9y8pnFL3CME0u_7=w408-h408-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe La Terrasse, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+La+Terrasse/data=!4m7!3m6!1s0x12fdc5699d91d043:0xe47ac4ca4f025567!8m2!3d35.6890217!4d10.0966971!16s%2Fg%2F11cs3q6zkc!19sChIJQ9CRnWnF_RIRZ1UCT8rEeuQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJL3Emk43F_RIRqWTA6LOsFzY",
+        "name": "Cafe in beb el khoukha",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe in beb el khoukha (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMtGDEB_cSyqNgNdxJ4pv2taiE3hWHXMdvb9ENb=w408-h320-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "M4J3+4PF Cafe in beb el khoukha, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+in+beb+el+khoukha/data=!4m7!3m6!1s0x12fdc58d9326712f:0x3617acb3e8c064a9!8m2!3d35.6803172!4d10.1042985!16s%2Fg%2F11s854r3ps!19sChIJL3Emk43F_RIRqWTA6LOsFzY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJB4ZtbBnP_RIRrxAUHKNkf6s",
+        "name": "Cafe saraya",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe saraya (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xT1aimIPB5HU8tI8CkzvoA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=283.82236&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "24 060 225",
+        "address": "M39H+HJR Cafe saraya, Av. Mongi Slim, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+saraya/data=!4m7!3m6!1s0x12fdcf196c6d8607:0xab7f64a31c1410af!8m2!3d35.6689857!4d10.0790137!16s%2Fg%2F11h4_dztjy!19sChIJB4ZtbBnP_RIRrxAUHKNkf6s?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJEzgDc73b_RIRtPLO4X6S14w",
+        "name": "Cactus bistro kairouan",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cactus bistro kairouan (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMq7u4_3g2A4sIUkKQojMgZSSazzFIodBrkVgXr=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Cactus bistro kairouan, 187 Rue Beit Al Hekma, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cactus+bistro+kairouan/data=!4m7!3m6!1s0x12fddbbd73033813:0x8cd7927ee1cef2b4!8m2!3d35.6547507!4d10.0869737!16s%2Fg%2F11jyz6tpc7!19sChIJEzgDc73b_RIRtPLO4X6S14w?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJyQkVf33F_RIRlpsDxtJKfgc",
+        "name": "Espace Dolce Vita (Cafe Picine)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Espace Dolce Vita (Cafe Picine) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMt2GWne2-c4qhJi82b_QnraDaV2XdZz1Z16OAC=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "M4H4+M3F Espace Dolce Vita (Cafe Picine), `qb@,, Boulevard H Chaker, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Espace+Dolce+Vita+%28Caf%C3%A9+Picine%29/data=!4m7!3m6!1s0x12fdc57d7f1509c9:0x77e4ad2c6039b96!8m2!3d35.6791993!4d10.1051599!16s%2Fg%2F11rxp77fzx!19sChIJyQkVf33F_RIRlpsDxtJKfgc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJsUNqlDnF_RIRevP3sSmeofA",
+        "name": "Coffee Time",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Coffee Time (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPhkb6xjCybbCqMNowJGkuvftHt2penFiIiNsl2=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "05:00-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "M4G5+F2H Coffee Time, nhj khmys l`lwyny, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+Time/data=!4m7!3m6!1s0x12fdc539946a43b1:0xf0a19e29b1f7f37a!8m2!3d35.6761854!4d10.1075999!16s%2Fg%2F11c5rwjfzj!19sChIJsUNqlDnF_RIRevP3sSmeofA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJsYFF3YrF_RIRKD6_b6ni0Vo",
+        "name": "Cafe maure barrouta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe maure barrouta (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOXcnExSbrl4V4gN-G2thigUFLAI8i9csy7dBTu=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe maure barrouta, Bir Barrouta, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+maure+barrouta/data=!4m7!3m6!1s0x12fdc58add4581b1:0x5ad1e2a96fbf3e28!8m2!3d35.6760329!4d10.1007804!16s%2Fg%2F11r3m35yjy!19sChIJsYFF3YrF_RIRKD6_b6ni0Vo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJo0mnODfF_RIRSy78CiAUalg",
+        "name": "Cafe Kaser Ennour",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://m.facebook.com/profile.php%3Fid%3D253885388146852%26ref%3Dcontent_filter",
+        "owner": {
+            "id": null,
+            "name": "Cafe Kaser Ennour (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPcByXI6WRWHpaiV7-YqbX-nlJHzimPUojp6dQF=w408-h271-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "53 025 689",
+        "address": "M3QR+5VW Cafe Kaser Ennour, Unnamed Road, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Kaser+Ennour/data=!4m7!3m6!1s0x12fdc53738a749a3:0x586a14200afc2e4b!8m2!3d35.6879837!4d10.0921931!16s%2Fg%2F11fwpgyfy2!19sChIJo0mnODfF_RIRSy78CiAUalg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJT2yGTkjF_RIRLO-bHT01rU0",
+        "name": "el clasico",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "el clasico (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN1Ql2zTJJMPEvdQ5uhDtUZgbj2vocxn-hqYb1m=w408-h510-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "99 591 349",
+        "address": "M4F2+4FH el clasico, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/el+clasico/data=!4m7!3m6!1s0x12fdc5484e866c4f:0x4dad353d1d9bef2c!8m2!3d35.6728081!4d10.1012441!16s%2Fg%2F11g8n718sf!19sChIJT2yGTkjF_RIRLO-bHT01rU0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1y6YWUrF_RIRoCcFwmwPAVI",
+        "name": "mqh~ lfTnsy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "116065125714673314133",
+            "name": "mqh~ lfTnsy (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/116065125714673314133"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP4AuvSZ8q1rXkWRqhghEPDYOobOMMWk2X70WuX=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "mqh~ lfTnsy, Unnamed Road, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D9%82%D9%87%D9%89+%D8%A7%D9%84%D9%81%D8%B7%D9%86%D8%A7%D8%B3%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x12fdc54a59982ed7:0x52010f6cc20527a0!8m2!3d35.6673357!4d10.1012216!16s%2Fg%2F11gcm23qb3!19sChIJ1y6YWUrF_RIRoCcFwmwPAVI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJjXGV8MrF_RIRVggJTG_bYjY",
+        "name": "Dosis coffee shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://instagram.com/fastryexpress%3Figshid%3DOGQ5ZDc2ODk2ZA%3D%3D",
+        "owner": {
+            "id": "108145877340342764952",
+            "name": "Dosis coffee shop (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108145877340342764952"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN-BT6miVhFxDPoAJnkHMYTMK0l4vAoTktiyRfK=w408-h326-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-22:00",
+        "closed_on": [],
+        "phone": "93 319 007",
+        "address": "M4H4+3P5 Dosis coffee shop, Avenue khmais alouini, Kairouan 3100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dosis+coffee+shop/data=!4m7!3m6!1s0x12fdc5caf095718d:0x3662db6f4c090856!8m2!3d35.6776875!4d10.1068125!16s%2Fg%2F11vk_7zsnj!19sChIJjXGV8MrF_RIRVggJTG_bYjY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJb-98-T3R_RIRHL59kMVBIp4",
+        "name": "qhw@ Hmz@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "qhw@ Hmz@ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM5xKSjhr7HwTIXaWhvkXykcz8dXmjZCiept5v8=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "M37H+5PW qhw@ Hmz@, Unnamed Road, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%82%D9%87%D9%88%D8%A9+%D8%AD%D9%85%D8%B2%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x12fdd13df97cef6f:0x9e2241c5907dbe1c!8m2!3d35.6629983!4d10.0793187!16s%2Fg%2F11rxmc6_6n!19sChIJb-98-T3R_RIRHL59kMVBIp4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1dSctrbF_RIRffqjlT1lANM",
+        "name": "mqh~ lshrTny (qhw@ blmyn)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mqh~ lshrTny (qhw@ blmyn) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uE1qMm-q6kBnpwN2dSPWkg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=79.155334&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "04:00-02:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "M3HQ+5J2 mqh~ lshrTny (qhw@ blmyn), C87, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D9%82%D9%87%D9%89+%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A7%D9%86%D9%8A+%28%D9%82%D9%87%D9%88%D8%A9+%D8%A8%D9%84%D9%85%D9%8A%D9%86%29%E2%80%AD/data=!4m7!3m6!1s0x12fdc5b6b69cd4d5:0xd300653d95a3fa7d!8m2!3d35.677884!4d10.0890208!16s%2Fg%2F11rxyk9n8r!19sChIJ1dSctrbF_RIRffqjlT1lANM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJv9GsbgDF_RIRPca2cBklrLE",
+        "name": "Main Street Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Main Street Coffee (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "M4F4+FV4 Main Street Coffee, Av. Mohamed Ibn Sahnoun, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Main+Street+Coffee/data=!4m7!3m6!1s0x12fdc5006eacd1bf:0xb1ac251970b6c63d!8m2!3d35.6894596!4d10.0983309!16s%2Fg%2F11vr04ryfq!19sChIJv9GsbgDF_RIRPca2cBklrLE?authuser=0&hl=fr&rclk=1"
+    }
+]

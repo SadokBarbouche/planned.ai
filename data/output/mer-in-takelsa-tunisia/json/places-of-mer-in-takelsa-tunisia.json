@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": "ChIJe5Q8DftO_RIR-iqPE5gS390",
+        "name": "Mer de Hammam Chatt",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Mer",
+        "categories": [
+            "Mer"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Mer de Hammam Chatt",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mer+de+Hammam+Chatt/data=!4m7!3m6!1s0x12fd4efb0d3c947b:0xdddf1298138f2afa!8m2!3d36.721577!4d10.3764593!16s%2Fg%2F12vsxfw53!19sChIJe5Q8DftO_RIR-iqPE5gS390?authuser=0&hl=fr&rclk=1"
+    }
+]

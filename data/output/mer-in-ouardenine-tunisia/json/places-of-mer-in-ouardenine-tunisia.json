@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": "ChIJlQYhcNALAhMRPzHufGGxcnI",
+        "name": "Marche Municipal Ouardanine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Marche Municipal Ouardanine (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMPYL4utG1tRrRlPxm06BxPy29rap7w6GszZny3=w408-h544-k-no",
+        "main_category": "Marche aux poissons et fruits de mer",
+        "categories": [
+            "Marche aux poissons et fruits de mer"
+        ],
+        "rating": 4.5,
+        "workday_timing": "06:30-18:00",
+        "closed_on": [],
+        "phone": "56 808 228",
+        "address": "PM5G+W4G Marche Municipal Ouardanine, Rue Farhat Hached, Ouardanine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/March%C3%A9+Municipal+Ouardanine/data=!4m7!3m6!1s0x13020bd070210695:0x7272b1617cee313f!8m2!3d35.7098085!4d10.6753206!16s%2Fg%2F11b7pzt04v!19sChIJlQYhcNALAhMRPzHufGGxcnI?authuser=0&hl=fr&rclk=1"
+    }
+]

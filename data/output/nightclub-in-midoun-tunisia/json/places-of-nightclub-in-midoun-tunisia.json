@@ -1,0 +1,257 @@
+[
+    {
+        "place_id": "ChIJWTNEvx-YqhMRov645VCgkdU",
+        "name": "fndq 'ldyn 4",
+        "description": "Complexe balneaire convivial tout compris, restaurants simples, bars, piscine exterieure et sports nautiques.",
+        "is_spending_on_ads": false,
+        "reviews": 524,
+        "website": "https://www.aldiana.com/de-de/djerba-atlantide",
+        "owner": {
+            "id": "105424313490800447700",
+            "name": "fndq 'ldyn 4 (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105424313490800447700"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNJ194oQPXR-fYab0X56cCu_DXl0gQmOFAdLkM3=w408-h272-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 730 622",
+        "address": "fndq 'ldyn 4, Zone touristique BP 48, Midoun, Djerba 4116",
+        "review_keywords": [
+            {
+                "keyword": "plage",
+                "count": 36
+            },
+            {
+                "keyword": "spectacle vivant",
+                "count": 13
+            },
+            {
+                "keyword": "sport",
+                "count": 12
+            },
+            {
+                "keyword": "animations",
+                "count": 10
+            },
+            {
+                "keyword": "divertissement",
+                "count": 8
+            },
+            {
+                "keyword": "souhait",
+                "count": 8
+            },
+            {
+                "keyword": "fils",
+                "count": 7
+            },
+            {
+                "keyword": "tennis",
+                "count": 6
+            },
+            {
+                "keyword": "boite de nuit",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/%D9%81%D9%86%D8%AF%D9%82+%D8%A3%D9%84%D8%AF%D9%8A%D8%A7%D9%86%D8%A7+%D9%A4%E2%80%AD/data=!4m10!3m9!1s0x13aa981fbf443359:0xd591a050e5b8fea2!5m2!4m1!1i2!8m2!3d33.8396982!4d11.0016165!16s%2Fg%2F1wf4qqhk!19sChIJWTNEvx-YqhMRov645VCgkdU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJlcqGZN2WqhMRWGCKif46wJk",
+        "name": "Club Med Djerba",
+        "description": "Hotel de choix proposant chambres et bungalows chics avec restaurant haut de gamme, 3 piscines et spa.",
+        "is_spending_on_ads": false,
+        "reviews": 423,
+        "website": "http://www.clubmed.com/DDOC",
+        "owner": {
+            "id": "108636749570604683840",
+            "name": "Club Med Djerba (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108636749570604683840"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNKFHZDwKSTJM1VZVETn_6wK_9eJJLpR_57GvRz=w408-h267-k-no",
+        "main_category": "Complexe hotelier",
+        "categories": [
+            "Complexe hotelier"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 750 501",
+        "address": "Club Med Djerba, BP 160, Midoun 4116",
+        "review_keywords": [
+            {
+                "keyword": "algues",
+                "count": 21
+            },
+            {
+                "keyword": "spectacles",
+                "count": 20
+            },
+            {
+                "keyword": "animation",
+                "count": 20
+            },
+            {
+                "keyword": "GO",
+                "count": 14
+            },
+            {
+                "keyword": "present",
+                "count": 10
+            },
+            {
+                "keyword": "catamaran",
+                "count": 9
+            },
+            {
+                "keyword": "sportives",
+                "count": 9
+            },
+            {
+                "keyword": "qualite",
+                "count": 8
+            },
+            {
+                "keyword": "hamza",
+                "count": 6
+            },
+            {
+                "keyword": "alpha",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Club+Med+Djerba/data=!4m10!3m9!1s0x13aa96dd6486ca95:0x99c03afe898a6058!5m2!4m1!1i2!8m2!3d33.780148!4d11.049044!16s%2Fg%2F1td1xybh!19sChIJlcqGZN2WqhMRWGCKif46wJk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJa8yWJGWXqhMRM2i9-i3B3Bg",
+        "name": "Club 66 & Restaurant Neptune",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 37,
+        "website": "https://www.facebook.com/Club66Djerba",
+        "owner": {
+            "id": null,
+            "name": "Club 66 & Restaurant Neptune (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP3YkKvB37wyc99vJ43K2cqEl-QIDGD-j1x_dzi=w408-h306-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque",
+            "Bar lounge",
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "23 845 090",
+        "address": "R2GQ+774 Club 66 & Restaurant Neptune, Djerba Midun",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Club+66+%26+Restaurant+Neptune/data=!4m7!3m6!1s0x13aa97652496cc6b:0x18dcc12dfabd6833!8m2!3d33.825641!4d11.0382169!16s%2Fg%2F11d_t4sfmk!19sChIJa8yWJGWXqhMRM2i9-i3B3Bg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJyfJPWZaZqhMR47ie5yc7V3U",
+        "name": "DOMINO'S PUB",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "DOMINO'S PUB (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM1C_MPj7xh_W0VDRuJ18H2Hdey_77aBg-BKlgI=w408-h725-k-no",
+        "main_category": "Bar lounge",
+        "categories": [
+            "Bar lounge"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "21 773 380",
+        "address": "DOMINO'S PUB, Zone Touristique Midoun Djerba, 4185",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/DOMINO%27S+PUB/data=!4m7!3m6!1s0x13aa9996594ff2c9:0x75573b27e79eb8e3!8m2!3d33.8402726!4d10.9956717!16s%2Fg%2F11jdhcx_yc!19sChIJyfJPWZaZqhMR47ie5yc7V3U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJPWrCLqeXqhMRHg8Um35QHqk",
+        "name": "yadis disco djerba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "yadis disco djerba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM-gQgoIyN8T7SKiTwApgRdYlLgDBSVKwVo4CDL=w408-h544-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4.4,
+        "workday_timing": "23:00-05:00",
+        "closed_on": [],
+        "phone": "56 200 343",
+        "address": "yadis disco djerba, djerba zon tourstque djerba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/yadis+disco+djerba/data=!4m7!3m6!1s0x13aa97a72ec26a3d:0xa91e507e9b140f1e!8m2!3d33.8284696!4d11.0154353!16s%2Fg%2F11s3f6x5vh!19sChIJPWrCLqeXqhMRHg8Um35QHqk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJv7ovaLG9qhMR_WNab_KhjUA",
+        "name": "White Djerba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "White Djerba (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "RWG6+CFJ White Djerba, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/White+Djerba/data=!4m7!3m6!1s0x13aabdb1682fbabf:0x408da1f26f5a63fd!8m2!3d33.8260982!4d10.9111528!16s%2Fg%2F11qf_pbbbh!19sChIJv7ovaLG9qhMR_WNab_KhjUA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8xTlgp-XqhMR_il9u-X3Rl0",
+        "name": "Disco salsa djerba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://www.facebook.com/Salsa-Disco-Djerba-274706255973403/",
+        "owner": {
+            "id": null,
+            "name": "Disco salsa djerba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNJw9ca269JU-A0U_vZoN44tSNGAC0-w_g9OZK7=w408-h408-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "20 184 639",
+        "address": "Disco salsa djerba, Hotel diar yassine,Zone Touristique Midoun, 4126",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Disco+salsa+djerba/data=!4m7!3m6!1s0x13aa979f82e514f3:0x5d46f7e5bb7d29fe!8m2!3d33.836198!4d10.9998793!16s%2Fg%2F11m7qdz144!19sChIJ8xTlgp-XqhMR_il9u-X3Rl0?authuser=0&hl=fr&rclk=1"
+    }
+]

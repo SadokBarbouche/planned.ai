@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": "ChIJIzf9fbnD_hIREtTH-TOebNI",
+        "name": "RESTAURANT LA MAMMA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "RESTAURANT LA MAMMA (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMLqhJ-On0wSOTAieqQCA_0RYO-raVDARPNeVGQ=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.4,
+        "workday_timing": "00:00-23:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "98 235 744",
+        "address": "2FMF+GFJ RESTAURANT LA MAMMA, AVENUE HABIB BOURGUIBA, Sidi Bouzid 9100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/RESTAURANT+LA+MAMMA/data=!4m10!3m9!1s0x12fec3b97dfd3723:0xd26c9e33f9c7d412!5m2!4m1!1i2!8m2!3d35.0338325!4d9.4736465!16s%2Fg%2F11ghrkpn5y!19sChIJIzf9fbnD_hIREtTH-TOebNI?authuser=0&hl=fr&rclk=1"
+    }
+]

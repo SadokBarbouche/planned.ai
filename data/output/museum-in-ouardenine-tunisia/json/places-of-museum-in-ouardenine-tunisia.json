@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJQ088evULAhMRXR5JI43d6AU",
+        "name": "Hmm lwrWd@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hmm lwrWd@ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNu-dJF__bxE8efLWU0QPpuklzJKftqSDmGtVUa=w408-h544-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "PM6G+2HC Hmm lwrWd@, Ouardanine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%AD%D9%85%D8%A7%D9%85+%D8%A7%D9%84%D9%88%D8%B1%D9%91%D8%A7%D8%AF%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x13020bf57a3c4f43:0x5e8dd8d23491e5d!8m2!3d35.7100712!4d10.6763969!16s%2Fg%2F11rzts1_tn!19sChIJQ088evULAhMRXR5JI43d6AU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJG1qnlP0PAhMRac-vuso5uH4",
+        "name": "Uzita",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Uzita (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM3oQE7T0vG97G4K8ItuKPGXGlBOzqu_7qH_W99=w408-h406-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "MQP3+QHV Uzita, Menzel Ennour",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Uzita/data=!4m7!3m6!1s0x13020ffd94a75a1b:0x7eb839cabaafcf69!8m2!3d35.6869828!4d10.7539372!16s%2Fg%2F11srqm42n5!19sChIJG1qnlP0PAhMRac-vuso5uH4?authuser=0&hl=fr&rclk=1"
+    }
+]

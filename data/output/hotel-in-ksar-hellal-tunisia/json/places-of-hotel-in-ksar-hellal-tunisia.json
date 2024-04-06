@@ -1,0 +1,368 @@
+[
+    {
+        "place_id": "ChIJGymJWQqK_RIR6UVXmST4jQ4",
+        "name": "Hotel Marhaba Salem",
+        "description": "Hotel en bord de plage avec piscines en interieur et en exterieur, spa, 4 restaurants et 3 bars.",
+        "is_spending_on_ads": false,
+        "reviews": 1662,
+        "website": "http://www.marhabasalem.tn/",
+        "owner": {
+            "id": "108481785392645967866",
+            "name": "Hotel Marhaba Salem (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108481785392645967866"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipONhIid2uUzfPnS7E37JGJUhB-hdxHF2rqElTvA=w426-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "73 240 966",
+        "address": "Hotel Marhaba Salem, Boulevard 14 Janvier 4039 Sousse, Hammam Sousse 4039",
+        "review_keywords": [
+            {
+                "keyword": "animation",
+                "count": 367
+            },
+            {
+                "keyword": "divertir",
+                "count": 90
+            },
+            {
+                "keyword": "danse",
+                "count": 26
+            },
+            {
+                "keyword": "animateurs",
+                "count": 25
+            },
+            {
+                "keyword": "zumba",
+                "count": 16
+            },
+            {
+                "keyword": "momos",
+                "count": 14
+            },
+            {
+                "keyword": "disco",
+                "count": 13
+            },
+            {
+                "keyword": "flechettes",
+                "count": 12
+            },
+            {
+                "keyword": "tir a l'arc",
+                "count": 11
+            },
+            {
+                "keyword": "aquagym",
+                "count": 9
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hotel+Marhaba+Salem/data=!4m10!3m9!1s0x12fd8a0a5989291b:0xe8df824995745e9!5m2!4m1!1i2!8m2!3d35.8594365!4d10.6164423!16s%2Fg%2F1vp5_3hj!19sChIJGymJWQqK_RIR6UVXmST4jQ4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJw3NtiKkjAhMRHT4uUWU-VdI",
+        "name": "Hotel Nour Palace Resort & Thalasso",
+        "description": "Complexe haut de gamme en bord de mer avec acces a la plage, piscines, green d'entrainement, courts de tennis et spa.",
+        "is_spending_on_ads": false,
+        "reviews": 1597,
+        "website": "http://nourpalace.tn/",
+        "owner": {
+            "id": "109655736588926880227",
+            "name": "Hotel Nour Palace Resort & Thalasso (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/109655736588926880227"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGFZ5Uue5hQr1jlrX9h9y03Sl4bLHW7wY7cBp140DBpHaaLO5rbbXp_BARX4B0aV93v-MbrttTNjWoSUg_dRJn2T53CWslLc7J2mjyfY6-qHlwx0voI4CGb-GPa2uliUkh_mDSI7EwR7czW446ES3jBjUjY4hDbserDXKW8kUljZ4QFaFBp0zJH7Q=w411-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel",
+            "Complexe hotelier"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "73 682 500",
+        "address": "B.P. 79, G2PJ+68F Hotel Nour Palace Resort & Thalasso, Zone Touristique Hiboune, Mahdia 5111",
+        "review_keywords": [
+            {
+                "keyword": "animation",
+                "count": 52
+            },
+            {
+                "keyword": "etoiles",
+                "count": 47
+            },
+            {
+                "keyword": "mer",
+                "count": 43
+            },
+            {
+                "keyword": "all inclusive",
+                "count": 16
+            },
+            {
+                "keyword": "toboggans",
+                "count": 15
+            },
+            {
+                "keyword": "transats",
+                "count": 9
+            },
+            {
+                "keyword": "loisirs",
+                "count": 9
+            },
+            {
+                "keyword": "territoire",
+                "count": 7
+            },
+            {
+                "keyword": "voilee",
+                "count": 6
+            },
+            {
+                "keyword": "aquapark",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hotel+Nour+Palace+Resort+%26+Thalasso/data=!4m10!3m9!1s0x130223a9886d73c3:0xd2553e65512e3e1d!5m2!4m1!1i2!8m2!3d35.5366718!4d11.031056!16s%2Fg%2F11bbt861wf!19sChIJw3NtiKkjAhMRHT4uUWU-VdI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJM2ukEL8jAhMROGLerr4S7yY",
+        "name": "Hotel El Mehdi",
+        "description": "Hotel balneaire tout compris a l'ambiance detendue avec chambres sobres, restaurants, animations et piscines.",
+        "is_spending_on_ads": false,
+        "reviews": 1082,
+        "website": "http://www.hotelelmehdi.com/",
+        "owner": {
+            "id": "106283328495745313479",
+            "name": "Hotel El Mehdi (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106283328495745313479"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEpZ3f0v607gUpAS1MEdN2gAYWTy_gfkUJRydnXYKuf--tcjR7zl-BTHOhBwwS1p2xW_1aTeWPuf33fPOeUs1Sm5Q9U8gegQZc5iz2G5UBq0pptphlurHkyYNB37Y6l76nxSYs2uuEopeHFyf95IUVVaZLtlg0lIA_D68B2-_gz-aX85lB1GITvtQ=w426-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel",
+            "Complexe hotelier"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "73 671 300",
+        "address": "Hotel El Mehdi, Route de la corniche, Mahdia 5100",
+        "review_keywords": [
+            {
+                "keyword": "mer",
+                "count": 59
+            },
+            {
+                "keyword": "animation",
+                "count": 38
+            },
+            {
+                "keyword": "toboggans",
+                "count": 16
+            },
+            {
+                "keyword": "all inclusive",
+                "count": 16
+            },
+            {
+                "keyword": "massage",
+                "count": 12
+            },
+            {
+                "keyword": "sable",
+                "count": 11
+            },
+            {
+                "keyword": "village vacances",
+                "count": 6
+            },
+            {
+                "keyword": "lit bebe",
+                "count": 6
+            },
+            {
+                "keyword": "cafeteria",
+                "count": 6
+            },
+            {
+                "keyword": "hammam",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hotel+El+Mehdi/data=!4m10!3m9!1s0x130223bf10a46b33:0x26ef12beaede6238!5m2!4m1!1i2!8m2!3d35.5171842!4d11.0444435!16s%2Fg%2F1vc_sfzx!19sChIJM2ukEL8jAhMROGLerr4S7yY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJC8aGwUltAhMRF2DEaUWlgX4",
+        "name": "Sahara Beach Hotel",
+        "description": "Complexe balneaire simple avec restaurants, bars, tennis, plusieurs piscines et club enfants.",
+        "is_spending_on_ads": false,
+        "reviews": 583,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Sahara Beach Hotel (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHoR9as0UExLaUj5r5h7hu2silkl1dIeV8ATZmWtSt1wOlUnfZ99gHaSG8Zd-C7lsn8sggVjyqrMFhDo03TFo2nTYyaSeexDTE42oOXmS1w8f4-zACZ1IljJzKV1k7fG27fM5HVkb7X1CPvWSYv-f-BgPkpdn-udJjOfw58zJRDgFeeXGltWxDpkQ=w408-h408-k-no",
+        "main_category": "Hebergement",
+        "categories": [
+            "Hebergement"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "73 461 088",
+        "address": "QP7J+W6V Sahara Beach Hotel, Route Tourist. Dkhila, Monastir 5000",
+        "review_keywords": [
+            {
+                "keyword": "piscines",
+                "count": 70
+            },
+            {
+                "keyword": "enfants",
+                "count": 36
+            },
+            {
+                "keyword": "bars",
+                "count": 26
+            },
+            {
+                "keyword": "parc aquatique",
+                "count": 23
+            },
+            {
+                "keyword": "animation",
+                "count": 17
+            },
+            {
+                "keyword": "divertissement",
+                "count": 15
+            },
+            {
+                "keyword": "souriant",
+                "count": 8
+            },
+            {
+                "keyword": "tout compris",
+                "count": 7
+            },
+            {
+                "keyword": "toboggans",
+                "count": 6
+            },
+            {
+                "keyword": "l'equitation",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sahara+Beach+H%C3%B4tel/data=!4m10!3m9!1s0x13026d49c186c60b:0x7e81a54569c46017!5m2!4m1!1i2!8m2!3d35.7648664!4d10.7305349!16s%2Fg%2F1td1ygrw!19sChIJC8aGwUltAhMRF2DEaUWlgX4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJafWQGDwRAhMRmVbOvYeqwTE",
+        "name": "Les oliviers family club",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": "108241854561244214009",
+            "name": "Les oliviers family club (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108241854561244214009"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOXx1xWiVivFohqBunUAmns18-Kc8j8lZ1c0Rza=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.1,
+        "workday_timing": "09:00-23:59",
+        "closed_on": [],
+        "phone": "56 506 352",
+        "address": "Les oliviers family club, Touza",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Les+oliviers+family+club/data=!4m10!3m9!1s0x1302113c1890f569:0x31c1aa87bdce5699!5m2!4m1!1i2!8m2!3d35.6478101!4d10.8283051!16s%2Fg%2F11t0tf25gd!19sChIJafWQGDwRAhMRmVbOvYeqwTE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZ_PBIjANAhMRzwIZZAPUGLQ",
+        "name": "Le Soleil Bella Vista - Couple and family only",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Le Soleil Bella Vista - Couple and family only (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPtnlHznetmg8o2bMkWcz28ND2nzxcnLll-ObGm=w408-h306-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "73 325 334",
+        "address": "QQ98+VPF Le Soleil Bella Vista - Couple and family only, Zone Touristique Skanes, Monastir 5000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Le+Soleil+Bella+Vista+-+Couple+and+family+only/data=!4m10!3m9!1s0x13020d3022c1f367:0xb418d403641902cf!5m2!4m1!1i2!8m2!3d35.7696823!4d10.7668079!16s%2Fg%2F11fd49ks8t!19sChIJZ_PBIjANAhMRzwIZZAPUGLQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ972EFtMRAhMRAcWGhQXuF5Y",
+        "name": "Villa Olympus - Monastir",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://www.mariage.com.tn/product/villa-olympus/",
+        "owner": {
+            "id": "108194154190926017094",
+            "name": "Villa Olympus - Monastir (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108194154190926017094"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNrOtBiZkLR9A0ecvB55iR4hhapSKbYKw5DDY8r=w408-h306-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "50 280 004",
+        "address": "Villa Olympus - Monastir, Rond Point Zitouna, Ksar Hellal 5070",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Villa+Olympus+-+Monastir/data=!4m10!3m9!1s0x130211d31684bdf7:0x9617ee058586c501!5m2!4m1!1i2!8m2!3d35.6456647!4d10.8724189!16s%2Fg%2F11v3t5wnkm!19sChIJ972EFtMRAhMRAcWGhQXuF5Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJUaBTza0jAhMRzzlS33AJbJo",
+        "name": "Dar Set El Kol",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar Set El Kol (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhENyL5wqBG4O0yNhdKxkeAW23tCr6G5g19jsGiOZ4XWXwV1eKua9RCRTC2b_HCFgylwWmkLKOjGaSzEX7g0g61CLDOIX4OvfkuceruwH3MoJY_z_mXHqWR-ChNr088IaUf4ABi1ESs1pTtmPzBbSXgoqjxONSPbi4aSBYeJnliPAo9uuM5F2sXKEQ=w408-h272-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "55 863 400",
+        "address": "Dar Set El Kol, 222 Av. Habib Bourgiba, Mahdia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Set+El+Kol/data=!4m10!3m9!1s0x130223adcd53a051:0x9a6c0970df5239cf!5m2!4m1!1i2!8m2!3d35.5063144!4d11.0587474!16s%2Fg%2F11rwrz7gv3!19sChIJUaBTza0jAhMRzzlS33AJbJo?authuser=0&hl=fr&rclk=1"
+    }
+]

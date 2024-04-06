@@ -1,0 +1,248 @@
+[
+    {
+        "place_id": "ChIJyblzLCwk-xIRwe8wQWScHM8",
+        "name": "El Mouradi Hammam Bourguiba",
+        "description": "Hotel simple avec restaurant buffet, installations sportives, spa et piscine interieure.",
+        "is_spending_on_ads": false,
+        "reviews": 426,
+        "website": "https://www.elmouradi.com/cr2.resa/ui/aba/hotel-descriptif-El%2520Mouradi%2520Hammam%2520Bourguiba-Ain%2520Draham-Tunisie-721-869-1-1-showdate0.aspx",
+        "owner": {
+            "id": "106517984528396193302",
+            "name": "El Mouradi Hammam Bourguiba (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106517984528396193302"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNrM_aDeEdsGWftLaHl2DSQtUTiKCvK8Jmj-24x=w408-h255-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "78 654 200",
+        "address": "El Mouradi Hammam Bourguiba, Hammam Bourguiba, Ain Draham 8136",
+        "review_keywords": [
+            {
+                "keyword": "service",
+                "count": 27
+            },
+            {
+                "keyword": "chambre",
+                "count": 22
+            },
+            {
+                "keyword": "piscine",
+                "count": 19
+            },
+            {
+                "keyword": "naturel",
+                "count": 15
+            },
+            {
+                "keyword": "buffet",
+                "count": 9
+            },
+            {
+                "keyword": "therapie",
+                "count": 8
+            },
+            {
+                "keyword": "montagnes",
+                "count": 8
+            },
+            {
+                "keyword": "massage",
+                "count": 8
+            },
+            {
+                "keyword": "foret",
+                "count": 5
+            },
+            {
+                "keyword": "etoiles",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/El+Mouradi+Hammam+Bourguiba/data=!4m10!3m9!1s0x12fb242c2c73b9c9:0xcf1c9c644130efc1!5m2!4m1!1i2!8m2!3d36.7688157!4d8.5800648!16s%2Fg%2F1td82mct!19sChIJyblzLCwk-xIRwe8wQWScHM8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJOVGLS7C14hIRguF_dMNFQ8U",
+        "name": "LA MENARA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 41,
+        "website": "http://www.lamenara.tn/",
+        "owner": {
+            "id": "113361500000227367193",
+            "name": "LA MENARA (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113361500000227367193"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO1kfiG91wZVnrIMm6tP9fwmcayh10XoBeuX5YT=w408-h725-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "54 847 878",
+        "address": "LA MENARA, 2026 Rue Ali Ben Ayed, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "chambre",
+                "count": 5
+            },
+            {
+                "keyword": "piscine",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/LA+MENARA/data=!4m10!3m9!1s0x12e2b5b04b8b5139:0xc54345c3747fe182!5m2!4m1!1i2!8m2!3d36.8722516!4d10.3452926!16s%2Fg%2F11k4nyktz6!19sChIJOVGLS7C14hIRguF_dMNFQ8U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJb1pS8g47-xIR4EAZRbCDVbA",
+        "name": "Dar Monia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 28,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar Monia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMtZw_yaozBPnjS8S8YcgZWE2LsNs46r7Dkqw0=w408-h271-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "93 801 995",
+        "address": "Dar Monia, Ain Draham",
+        "review_keywords": [
+            {
+                "keyword": "nature",
+                "count": 5
+            },
+            {
+                "keyword": "equipe",
+                "count": 4
+            },
+            {
+                "keyword": "succulents",
+                "count": 3
+            },
+            {
+                "keyword": "foret",
+                "count": 3
+            },
+            {
+                "keyword": "repas",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Monia/data=!4m10!3m9!1s0x12fb3b0ef2525a6f:0xb05583b0451940e0!5m2!4m1!1i2!8m2!3d36.7380417!4d8.6788995!16s%2Fg%2F11p5n8d741!19sChIJb1pS8g47-xIR4EAZRbCDVbA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJr7m_m30HVRIRUyDbNVSmM_A",
+        "name": "Amazig Hotel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Amazig Hotel (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOmJu0t7OmwmeO9C0z74Qo7TkueN0gsJuTD-F6j=w408-h306-k-no",
+        "main_category": "Residence hoteliere",
+        "categories": [
+            "Residence hoteliere"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Amazig Hotel, sulla strada C 104",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Amazi%C9%A3+Hotel/data=!4m10!3m9!1s0x1255077d9bbfb9af:0xf033a65435db2053!5m2!4m1!1i2!8m2!3d33.5469603!4d9.9547525!16s%2Fg%2F11f61frqgn!19sChIJr7m_m30HVRIRUyDbNVSmM_A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJB3aTvlU1-xIRqzB5QkhyXRY",
+        "name": "Dar Daniella - Small Design Luxury Hotel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://www.dardaniella.com/",
+        "owner": {
+            "id": "108979598339780266911",
+            "name": "Dar Daniella - Small Design Luxury Hotel (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108979598339780266911"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPKv16KA6n90E-uN_8vsTV9bjbKgTt7ma6rgYEZ=w426-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "21 359 877",
+        "address": "Dar Daniella - Small Design Luxury Hotel, Rue kroumirie, Tabarka 8110",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Daniella+-+Small+Design+Luxury+Hotel/data=!4m10!3m9!1s0x12fb3555be937607:0x165d7248427930ab!5m2!4m1!1i2!8m2!3d36.9584217!4d8.7543917!16s%2Fg%2F11l21bqf6j!19sChIJB3aTvlU1-xIRqzB5QkhyXRY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqWM1XQA1_RIRzSznTRrpNbI",
+        "name": "Maison du 18eme Siecle",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Maison du 18eme Siecle (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHn87wbT5Js2QPhYujN_PkCyC-xHHrfW3s_prvpEfkCk225C81aMglhwhgCybEhfRpfKWU-M4v6mGbu1blt4YH2bBt8gkwRL5YKtWa-RmGKFpJPmqarjgc6lJ_fTim0O-SAUy1RD0q0qWItg4aSC1BeFSl4ZShWB8Qk3JnGXTZrgBW0DHMBEsMQBQ=w408-h544-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Q5VC+MPP Maison du 18eme Siecle, du Riche, Tunis 1008",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Maison+du+18%C3%A8me+Si%C3%A8cle/data=!4m10!3m9!1s0x12fd35005d3563a9:0xb235e91a4de72ccd!5m2!4m1!1i2!8m2!3d36.794242!4d10.171959!16s%2Fg%2F11y2czp01x!19sChIJqWM1XQA1_RIRzSznTRrpNbI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJzRzbQtHB4hIR6KJvM3lhjnk",
+        "name": "Hotel Ain Meriem Beach Holiday Village",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "http://www.hotel-ain-meriem-beach-holiday-village-bizerte.vivehotels.com/",
+        "owner": {
+            "id": null,
+            "name": "Hotel Ain Meriem Beach Holiday Village (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "27 123 314",
+        "address": "56R5+9F5 Hotel Ain Meriem Beach Holiday Village, la corniche, Rafraf",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hotel+Ain+Meriem+Beach+Holiday+Village/data=!4m10!3m9!1s0x12e2c1d142db1ccd:0x798e6179336fa2e8!5m2!4m1!1i2!8m2!3d37.1908984!4d10.2087311!16s%2Fg%2F11f04fgyvp!19sChIJzRzbQtHB4hIR6KJvM3lhjnk?authuser=0&hl=fr&rclk=1"
+    }
+]

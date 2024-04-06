@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJ3-TOFr5Z-xIRIEcIDX64rvE",
+        "name": "King gym",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "King gym (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Salle de gym",
+        "categories": [
+            "Salle de gym"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-21:00",
+        "closed_on": [],
+        "phone": "55 853 886",
+        "address": "P5HJ+5XF King gym, Av. Farhat Hached, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/King+gym/data=!4m7!3m6!1s0x12fb59be16cee4df:0xf1aeb87e0d084720!8m2!3d36.7279377!4d9.1824102!16s%2Fg%2F11h5w4dcgp!19sChIJ3-TOFr5Z-xIRIEcIDX64rvE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJe3sRK-an_BIR0-WUGpf_lSc",
+        "name": "JOKER CLUB",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "JOKER CLUB (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOyvXGQGF0r6igyhicZ2JP95_ds2aWMhdIzvmeb=w408-h306-k-no",
+        "main_category": "Cafe et restaurant de grillades",
+        "categories": [
+            "Cafe et restaurant de grillades"
+        ],
+        "rating": 4.7,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "53 548 806",
+        "address": "P697+2FH JOKER CLUB, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/JOKER+CLUB/data=!4m7!3m6!1s0x12fca7e62b117b7b:0x2795ff971a94e5d3!8m2!3d36.7175602!4d9.2137303!16s%2Fg%2F11j2zw63_j!19sChIJe3sRK-an_BIR0-WUGpf_lSc?authuser=0&hl=fr&rclk=1"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "place_id": "ChIJCWRKev6W-BIRc2CwSrMvVWY",
+        "name": "Musee archeologique de Gafsa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee archeologique de Gafsa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPTi_zi8VSZJ3GEbb_pqpBlD7DL8guh6WT2Dl-8=w408-h306-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "CQ8P+CR9 Musee archeologique de Gafsa, Gafsa",
+        "review_keywords": [
+            {
+                "keyword": "mosaiques",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+arch%C3%A9ologique+de+Gafsa/data=!4m7!3m6!1s0x12f896fe7a4a6409:0x66552fb34ab06073!8m2!3d34.4160292!4d8.7871081!16s%2Fm%2F05b4y21!19sChIJCWRKev6W-BIRc2CwSrMvVWY?authuser=0&hl=fr&rclk=1"
+    }
+]

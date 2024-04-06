@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJ5foTzf6fAhMRjYHc6CqcS3U",
+        "name": "BORA hammamet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "BORA hammamet (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPRQpF8PTSBKvVjdjZRWdQyXTQugBI6G84hL8Ug=w408-h725-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4.2,
+        "workday_timing": "18:00-04:00",
+        "closed_on": [],
+        "phone": "20 495 507",
+        "address": "CM86+9JV BORA hammamet, Route Touristique, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/BORA+hammamet/data=!4m7!3m6!1s0x13029ffecd13fae5:0x754b9c2ae8dc818d!8m2!3d36.4159808!4d10.6615395!16s%2Fg%2F11gxtkmp4j!19sChIJ5foTzf6fAhMRjYHc6CqcS3U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJvZPHNxI1_RIREjVY0Pxa-AQ",
+        "name": "Chat alhamrouni",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Chat alhamrouni (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rZmC4k7XNBxbtwHoTXeB8g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=269.3608&pitch=0&thumbfov=100",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "R54J+HJV Chat alhamrouni, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Chat+alhamrouni/data=!4m7!3m6!1s0x12fd351237c793bd:0x4f85afcd0583512!8m2!3d36.8064948!4d10.1815316!16s%2Fg%2F11j79xdbf8!19sChIJvZPHNxI1_RIREjVY0Pxa-AQ?authuser=0&hl=fr&rclk=1"
+    }
+]

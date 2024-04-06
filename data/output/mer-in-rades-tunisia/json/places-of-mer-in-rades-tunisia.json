@@ -1,0 +1,79 @@
+[
+    {
+        "place_id": "ChIJT3i6W5lL_RIRDLSY-NK-yLI",
+        "name": "Rades plage",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 60,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Rades plage (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOwHXDwDVNkerSggdcyZIDzRBQVzRUyaW23wvaY=w408-h305-k-no",
+        "main_category": "Pavillon de plage",
+        "categories": [
+            "Pavillon de plage"
+        ],
+        "rating": 3.6,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": null,
+        "address": "Q7HQ+J84 Rades plage, plage, Rades",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Rades+plage/data=!4m7!3m6!1s0x12fd4b995bba784f:0xb2c8bed2f898b40c!8m2!3d36.7790236!4d10.2883235!16s%2Fg%2F11fv74_g8h!19sChIJT3i6W5lL_RIRDLSY-NK-yLI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ430NTUVK_RIRWuEchFvT_gw",
+        "name": "Port de Rades, Zone Petroliere",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 30,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMMsastd4b38wKg629NZO73tFlW_gondNq-_-S_=w408-h306-k-no",
+        "main_category": "Mer",
+        "categories": [
+            "Mer"
+        ],
+        "rating": 3.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Port de Rades, Zone Petroliere",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Port+de+Rades,+Zone+P%C3%A9troli%C3%A8re/data=!4m7!3m6!1s0x12fd4a454d0d7de3:0xcfed35b841ce15a!8m2!3d36.7992001!4d10.2964735!16s%2Fg%2F11r9x8zgl!19sChIJ430NTUVK_RIRWuEchFvT_gw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJWz9MCM1L_RIRJgCtlFZ8OLA",
+        "name": "Rades",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMDTTU5-l688bsf1GFbpJEEqjqJmGuUdUy06wc=w408-h272-k-no",
+        "main_category": "Mer",
+        "categories": [
+            "Mer"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Rades",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Rades/data=!4m7!3m6!1s0x12fd4bcd084c3f5b:0xb0387c5694ad0026!8m2!3d36.7667356!4d10.3020843!16s%2Fg%2F1q5bksjt4!19sChIJWz9MCM1L_RIRJgCtlFZ8OLA?authuser=0&hl=fr&rclk=1"
+    }
+]

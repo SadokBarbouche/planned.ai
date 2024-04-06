@@ -1,0 +1,118 @@
+[
+    {
+        "place_id": "ChIJUZ8gDxxL_RIRq9kzWQ8Q_8Q",
+        "name": "La Mer",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 232,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Mer (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPolgDr-TtIdDat8NbZI3tWpChbQLfI5PTPuDNl=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 3.1,
+        "workday_timing": "12:00-00:00",
+        "closed_on": [],
+        "phone": "21 644 611",
+        "address": "R8C6+F25 La Mer, La Goulette",
+        "review_keywords": [
+            {
+                "keyword": "serveurs",
+                "count": 18
+            },
+            {
+                "keyword": "prix",
+                "count": 18
+            },
+            {
+                "keyword": "vue",
+                "count": 9
+            },
+            {
+                "keyword": "poissons",
+                "count": 6
+            },
+            {
+                "keyword": "qualite",
+                "count": 4
+            },
+            {
+                "keyword": "terrasse",
+                "count": 4
+            },
+            {
+                "keyword": "zero",
+                "count": 4
+            },
+            {
+                "keyword": "elevage",
+                "count": 3
+            },
+            {
+                "keyword": "catastrophique",
+                "count": 3
+            },
+            {
+                "keyword": "couscous",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/La+Mer/data=!4m7!3m6!1s0x12fd4b1c0f209f51:0xc4ff100f5933d9ab!8m2!3d36.8211479!4d10.3101139!16s%2Fg%2F1tf83q23!19sChIJUZ8gDxxL_RIRq9kzWQ8Q_8Q?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJIdfJX2bB4hIRvWEMj4Tj19I",
+        "name": "Lagune de Ghar El Melh",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPifC6j3hvImrBSrxDIPMfLVXr6bDHagQWruIN1=w427-h240-k-no",
+        "main_category": "Lac",
+        "categories": [
+            "Lac"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Lagune de Ghar El Melh",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lagune+de+Ghar+El+Melh/data=!4m7!3m6!1s0x12e2c1665fc9d721:0xd2d7e3848f0c61bd!8m2!3d37.1467539!4d10.1815316!16s%2Fg%2F121v86dh!19sChIJIdfJX2bB4hIRvWEMj4Tj19I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJHQCUNw7F4hIRHyd-GOfdJp4",
+        "name": "Le roi de la mer",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Le roi de la mer (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNigGWwG181KXVtn7Z0cuElC8-ljjyrhLlsfv3Z=w408-h725-k-no",
+        "main_category": "Restaurant de fruits de mer",
+        "categories": [
+            "Restaurant de fruits de mer"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "342F+J73 Le roi de la mer, Kalaate Al Andalouss",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Le+roi+de+la+mer/data=!4m7!3m6!1s0x12e2c50e3794001d:0x9e26dde7187e271f!8m2!3d37.0515297!4d10.1231537!16s%2Fg%2F11svjc8gjc!19sChIJHQCUNw7F4hIRHyd-GOfdJp4?authuser=0&hl=fr&rclk=1"
+    }
+]

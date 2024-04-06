@@ -1,0 +1,539 @@
+[
+    {
+        "place_id": "ChIJ-QCaR2iXqhMR7qBwoBfwAh8",
+        "name": "Ferme aux Crocodiles",
+        "description": "Grand zoo avec crocodiles, nourrissages publics, autres reptiles divers et musee historique.",
+        "is_spending_on_ads": false,
+        "reviews": 3072,
+        "website": "http://djerbaexplore.com/",
+        "owner": {
+            "id": null,
+            "name": "Ferme aux Crocodiles (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPNnucVXzFuykY5GVVzdGS8nA8Yu0FeN4Dw15Cj=w408-h541-k-no",
+        "main_category": "Zoo",
+        "categories": [
+            "Zoo",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-18:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "75 745 277",
+        "address": "R29V+P5X Ferme aux Crocodiles, Unnamed Road, Djerba Midun",
+        "review_keywords": [
+            {
+                "keyword": "tortues",
+                "count": 60
+            },
+            {
+                "keyword": "reptiles",
+                "count": 48
+            },
+            {
+                "keyword": "iguanes",
+                "count": 17
+            },
+            {
+                "keyword": "village",
+                "count": 15
+            },
+            {
+                "keyword": "crocodile du nil",
+                "count": 12
+            },
+            {
+                "keyword": "spectacle",
+                "count": 12
+            },
+            {
+                "keyword": "ile",
+                "count": 11
+            },
+            {
+                "keyword": "musee en plein air",
+                "count": 6
+            },
+            {
+                "keyword": "musee local",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ferme+aux+Crocodiles/data=!4m7!3m6!1s0x13aa9768479a00f9:0x1f02f017a070a0ee!8m2!3d33.8193539!4d11.0429871!16s%2Fm%2F0n8jg6x!19sChIJ-QCaR2iXqhMR7qBwoBfwAh8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJU6a4Nxq7qhMRxMlTUd_iMWA",
+        "name": "Djerbahood",
+        "description": "Village entier orne d'oeuvres de rue realisees par des artistes originaires de plus de 30 pays.",
+        "is_spending_on_ads": false,
+        "reviews": 2921,
+        "website": "http://djerbahood.com/",
+        "owner": {
+            "id": null,
+            "name": "Djerbahood (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNZESc51wM25kBDLPIgBPHwZS-d_VvzkpsFb_Dk=w408-h306-k-no",
+        "main_category": "Musee en plein air",
+        "categories": [
+            "Musee en plein air",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "RVC3+GP4 Djerbahood, Hara Sghira Er Riadh",
+        "review_keywords": [
+            {
+                "keyword": "village",
+                "count": 137
+            },
+            {
+                "keyword": "street art",
+                "count": 130
+            },
+            {
+                "keyword": "artistes",
+                "count": 114
+            },
+            {
+                "keyword": "ruelles",
+                "count": 71
+            },
+            {
+                "keyword": "fresques",
+                "count": 32
+            },
+            {
+                "keyword": "ile",
+                "count": 28
+            },
+            {
+                "keyword": "quartier",
+                "count": 15
+            },
+            {
+                "keyword": "ballade",
+                "count": 15
+            },
+            {
+                "keyword": "bougainvillea",
+                "count": 11
+            },
+            {
+                "keyword": "synagogue",
+                "count": 9
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Djerbahood/data=!4m7!3m6!1s0x13aabb1a37b8a653:0x6031e2df5153c9c4!8m2!3d33.82127!4d10.8543415!16s%2Fg%2F11b6rkdl_f!19sChIJU6a4Nxq7qhMRxMlTUd_iMWA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6xCYZxa5qhMRpXwJba8Cw5A",
+        "name": "Musee de Guellala",
+        "description": "Inspire d'une maison tunisienne, ce musee explore l'artisanat et le folklore local avec des statues de cire.",
+        "is_spending_on_ads": false,
+        "reviews": 2117,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee de Guellala (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOn0eaILMJo9HWebtDiDjE8aG_ZJ-yHDj_AH50Q=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [],
+        "phone": "75 761 114",
+        "address": "PVM8+26Q Musee de Guellala, Guellala 4155",
+        "review_keywords": [
+            {
+                "keyword": "traditions",
+                "count": 97
+            },
+            {
+                "keyword": "ile",
+                "count": 40
+            },
+            {
+                "keyword": "coutumes",
+                "count": 34
+            },
+            {
+                "keyword": "mariage",
+                "count": 31
+            },
+            {
+                "keyword": "patrimoine",
+                "count": 20
+            },
+            {
+                "keyword": "mise en scene",
+                "count": 12
+            },
+            {
+                "keyword": "folklore",
+                "count": 11
+            },
+            {
+                "keyword": "mannequins",
+                "count": 11
+            },
+            {
+                "keyword": "vie quotidienne",
+                "count": 9
+            },
+            {
+                "keyword": "calligraphie",
+                "count": 8
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+de+Guellala/data=!4m7!3m6!1s0x13aab916679810eb:0x90c302af6d097ca5!8m2!3d33.7325783!4d10.8656196!16s%2Fg%2F11hbgb2596!19sChIJ6xCYZxa5qhMRpXwJba8Cw5A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJFaTmRmiXqhMRa-wcXuYdBgc",
+        "name": "Crocodile parc",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 880,
+        "website": "https://www.djerbaexplore.com/les-crocodiles/",
+        "owner": {
+            "id": null,
+            "name": "Crocodile parc (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPswLC1dWcM3xfjCeardFz9i1aOzPS7mB8dbhth=w426-h240-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.6,
+        "workday_timing": "08:00-17:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": null,
+        "address": "R2CW+8QF Crocodile parc, Djerba Midun",
+        "review_keywords": [
+            {
+                "keyword": "reptiles",
+                "count": 15
+            },
+            {
+                "keyword": "tortues",
+                "count": 14
+            },
+            {
+                "keyword": "bebe",
+                "count": 10
+            },
+            {
+                "keyword": "experience",
+                "count": 10
+            },
+            {
+                "keyword": "prix",
+                "count": 10
+            },
+            {
+                "keyword": "famille",
+                "count": 8
+            },
+            {
+                "keyword": "adultes",
+                "count": 5
+            },
+            {
+                "keyword": "iguanes",
+                "count": 3
+            },
+            {
+                "keyword": "spectacle",
+                "count": 3
+            },
+            {
+                "keyword": "fermes",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Crocodile+parc/data=!4m7!3m6!1s0x13aa976846e6a415:0x7061de65e1cec6b!8m2!3d33.8208192!4d11.0469323!16s%2Fg%2F11ggs93hcs!19sChIJFaTmRmiXqhMRa-wcXuYdBgc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJGYHI1WCjqhMRC_dxoqMBEuU",
+        "name": "Dar Jilani",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 209,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar Jilani (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPeLx2G8Bx-bhuxGTLEb-AyJNI4P5siqp5yLctI=w408-h544-k-no",
+        "main_category": "Galerie d'art",
+        "categories": [
+            "Galerie d'art",
+            "Art"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VVCW+Q7J Dar Jilani, Fatou",
+        "review_keywords": [
+            {
+                "keyword": "artiste",
+                "count": 17
+            },
+            {
+                "keyword": "souvenirs",
+                "count": 3
+            },
+            {
+                "keyword": "musee",
+                "count": 3
+            },
+            {
+                "keyword": "image",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Jilani/data=!4m7!3m6!1s0x13aaa360d5c88119:0xe51201a3a271f70b!8m2!3d33.8719641!4d10.8956542!16s%2Fg%2F12hk51hz6!19sChIJGYHI1WCjqhMRC_dxoqMBEuU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4fRNA2mXqhMR5D6yj9oBrcg",
+        "name": "Musee Lalla Hadria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 203,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee Lalla Hadria (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMCa_tbRLfogovi7NkUVr8Uu4NtWcnNxrnFNcDS=w408-h274-k-no",
+        "main_category": "Musee d'histoire locale",
+        "categories": [
+            "Musee d'histoire locale",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": null,
+        "address": "R29W+W22 Musee Lalla Hadria, Djerba Midun",
+        "review_keywords": [
+            {
+                "keyword": "musulmans",
+                "count": 4
+            },
+            {
+                "keyword": "culture",
+                "count": 4
+            },
+            {
+                "keyword": "bijoux",
+                "count": 3
+            },
+            {
+                "keyword": "vetements",
+                "count": 3
+            },
+            {
+                "keyword": "l'art",
+                "count": 3
+            },
+            {
+                "keyword": "parc",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Lalla+Hadria/data=!4m7!3m6!1s0x13aa9769034df4e1:0xc8ad01da8fb23ee4!8m2!3d33.8197621!4d11.045031!16s%2Fg%2F11f3n36w40!19sChIJ4fRNA2mXqhMR5D6yj9oBrcg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJh_qKKOykqhMRgtcSmS5gTIM",
+        "name": "Musee du patrimoine traditionnel de Djerba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 143,
+        "website": "http://www.djerbamuseum.tn/",
+        "owner": {
+            "id": "113241660387296752351",
+            "name": "Musee du patrimoine traditionnel de Djerba (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113241660387296752351"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP7FjgAuGh073eUOR221NVSfQHkPOMQC0tkugp0=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.4,
+        "workday_timing": "09:30-16:30",
+        "closed_on": [
+            "vendredi"
+        ],
+        "phone": "75 650 540",
+        "address": "Musee du patrimoine traditionnel de Djerba, 4180 Ave Habib Thameur, Houmt Souk",
+        "review_keywords": [
+            {
+                "keyword": "ile",
+                "count": 8
+            },
+            {
+                "keyword": "histoire",
+                "count": 7
+            },
+            {
+                "keyword": "riche",
+                "count": 6
+            },
+            {
+                "keyword": "tisser",
+                "count": 3
+            },
+            {
+                "keyword": "maquettes",
+                "count": 3
+            },
+            {
+                "keyword": "vie",
+                "count": 3
+            },
+            {
+                "keyword": "poterie",
+                "count": 3
+            },
+            {
+                "keyword": "organise",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+du+patrimoine+traditionnel+de+Djerba/data=!4m7!3m6!1s0x13aaa4ec288afa87:0x834c602e9912d782!8m2!3d33.8798298!4d10.8623621!16s%2Fg%2F1tht3mmq!19sChIJh_qKKOykqhMRgtcSmS5gTIM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJITERPv64qhMRKq3cbTy8V0o",
+        "name": "jm` yty",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 121,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "jm` yty (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPVtyo58fYQ-4wkdveKRlMu0fzMsJ6wG8LLUY_j=w408-h251-k-no",
+        "main_category": "Mosquee",
+        "categories": [
+            "Mosquee",
+            "Lieu historique"
+        ],
+        "rating": 4.5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "PV46+PPR jm` yty, Guellala",
+        "review_keywords": [
+            {
+                "keyword": "coucher de soleil",
+                "count": 21
+            },
+            {
+                "keyword": "l'architecture",
+                "count": 5
+            },
+            {
+                "keyword": "mer",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/%D8%AC%D8%A7%D9%85%D8%B9+%D9%8A%D8%A7%D8%AA%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x13aab8fe3e113121:0x4a57bc3c6ddcad2a!8m2!3d33.7068523!4d10.8617533!16s%2Fg%2F12ht6ygg6!19sChIJITERPv64qhMRKq3cbTy8V0o?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJR1qXP2mXqhMRlGbja3NVx44",
+        "name": "Djerba Explore Village",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 31,
+        "website": "https://www.djerbaexplore.com/les-crocodiles/",
+        "owner": {
+            "id": null,
+            "name": "Djerba Explore Village (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN_EP-0Qfb4vI8dXfJki0GKimL26AcxQqkb0ePK=w408-h306-k-no",
+        "main_category": "Musee du patrimoine",
+        "categories": [
+            "Musee du patrimoine"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "R29V+GMM Djerba Explore Village, Djerba Midun",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Djerba+Explore+Village/data=!4m7!3m6!1s0x13aa97693f975a47:0x8ec755736be36694!8m2!3d33.8188293!4d11.0441763!16s%2Fg%2F11d_t22m77!19sChIJR1qXP2mXqhMRlGbja3NVx44?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZ_svtZS5qhMRDC4c4hfzn68",
+        "name": "Biggest jar in the world",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "https://djerbaguide.blogspot.com/",
+        "owner": {
+            "id": null,
+            "name": "Biggest jar in the world (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO6WSoxtIfDP3XxTEcP0ToV3OduQLWCMha4lI6q=w408-h544-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "24 325 323",
+        "address": "PVH4+9H8 Biggest jar in the world, Guellala",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Biggest+jar+in+the+world/data=!4m7!3m6!1s0x13aab994b52ffb67:0xaf9ff317e21c2e0c!8m2!3d33.7284202!4d10.8564458!16s%2Fg%2F11nckvd5ch!19sChIJZ_svtZS5qhMRDC4c4hfzn68?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJX-4f37W7qhMR1qY8AzNbJO4",
+        "name": "jm` bzym Mosquee Bazim",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "jm` bzym Mosquee Bazim (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOxqZQNll562RalEm9mjaK-LNzOV3etWpKFM28j=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "RRG3+3P4 jm` bzym Mosquee Bazim, bzym, jrb@ 4180",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%AC%D8%A7%D9%85%D8%B9+%D8%A8%D8%A7%D8%B2%D9%8A%D9%85+Mosqu%C3%A9e+Bazim%E2%80%AD/data=!4m7!3m6!1s0x13aabbb5df1fee5f:0xee245b33033ca6d6!8m2!3d33.8251407!4d10.8043239!16s%2Fg%2F11gs8xc3cy!19sChIJX-4f37W7qhMR1qY8AzNbJO4?authuser=0&hl=fr&rclk=1"
+    }
+]

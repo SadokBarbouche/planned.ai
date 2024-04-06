@@ -1,0 +1,86 @@
+[
+    {
+        "place_id": "ChIJ8ZUCJSnAVxIRwoArlzAPRj4",
+        "name": "Medina de Tozeur",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 204,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Medina de Tozeur (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNnidti34syxlKFVXVmL6PQWHqlCD7AtlEpUghR=w408-h544-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "W4CQ+7G Medina de Tozeur, Ouled El Hadef, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "briques",
+                "count": 13
+            },
+            {
+                "keyword": "architecture",
+                "count": 11
+            },
+            {
+                "keyword": "ruelles",
+                "count": 6
+            },
+            {
+                "keyword": "desert",
+                "count": 6
+            },
+            {
+                "keyword": "artisans",
+                "count": 4
+            },
+            {
+                "keyword": "touristique",
+                "count": 4
+            },
+            {
+                "keyword": "portes",
+                "count": 4
+            },
+            {
+                "keyword": "dattes",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/M%C3%A9dina+de+Tozeur/data=!4m7!3m6!1s0x1257c029250295f1:0x3e460f30972b80c2!8m2!3d33.9206525!4d8.1386141!16s%2Fg%2F11c30smfj4!19sChIJ8ZUCJSnAVxIRwoArlzAPRj4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJLT-n7FzBVxIRS9F7QE2NUKo",
+        "name": "Maison Des Poissons Tozeur",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Maison Des Poissons Tozeur (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMe1q2OvNO-nOdEIx78tVsJ5WcSwtdFs4uqAZUM=w533-h240-k-no",
+        "main_category": "Marche aux poissons et fruits de mer",
+        "categories": [
+            "Marche aux poissons et fruits de mer"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "51 915 019",
+        "address": "W4FP+CPQ Maison Des Poissons Tozeur, P3, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Maison+Des+Poissons+Tozeur/data=!4m7!3m6!1s0x1257c15ceca73f2d:0xaa508d4d407bd14b!8m2!3d33.9238243!4d8.1372083!16s%2Fg%2F11tdy7xx49!19sChIJLT-n7FzBVxIRS9F7QE2NUKo?authuser=0&hl=fr&rclk=1"
+    }
+]

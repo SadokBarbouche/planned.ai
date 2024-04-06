@@ -1,0 +1,202 @@
+[
+    {
+        "place_id": "ChIJqYLkGmw0_RIRzEZg7el_gng",
+        "name": "Tunis Clock Tower",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 849,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Tunis Clock Tower (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMAWtQPdVtXBsnmNmJHEl2ViuyWnTm6XCRISNZH=w426-h240-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "R52P+3HV Tunis Clock Tower, Av. Habib Bourguiba, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "capitale",
+                "count": 21
+            },
+            {
+                "keyword": "nuit",
+                "count": 15
+            },
+            {
+                "keyword": "symbole",
+                "count": 13
+            },
+            {
+                "keyword": "president",
+                "count": 12
+            },
+            {
+                "keyword": "fontaine",
+                "count": 12
+            },
+            {
+                "keyword": "coeur",
+                "count": 11
+            },
+            {
+                "keyword": "espace",
+                "count": 9
+            },
+            {
+                "keyword": "statue",
+                "count": 7
+            },
+            {
+                "keyword": "place",
+                "count": 6
+            },
+            {
+                "keyword": "cafe",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Tunis+Clock+Tower/data=!4m7!3m6!1s0x12fd346c1ae482a9:0x78827fe9ed6046cc!8m2!3d36.8002396!4d10.1864206!16s%2Fg%2F11cs2gsvjr!19sChIJqYLkGmw0_RIRzEZg7el_gng?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJq6oVMIsz_RIRNvhJ639n32Y",
+        "name": "Monument Place de la Kasbah",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 205,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Monument Place de la Kasbah (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPZW2NKRAaKDkBxHsxziTs3a-BhjMT8QeBl8-Qx=w408-h306-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "Q5X8+3MQ Monument Place de la Kasbah, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "ministere",
+                "count": 3
+            },
+            {
+                "keyword": "drapeau",
+                "count": 3
+            },
+            {
+                "keyword": "symbole",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Monument+Place+de+la+Kasbah/data=!4m7!3m6!1s0x12fd338b3015aaab:0x66df677feb49f836!8m2!3d36.7977022!4d10.1667476!16s%2Fg%2F11dybdnm04!19sChIJq6oVMIsz_RIRNvhJ639n32Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJVVWVVAo0_RIRUdAAFaw-89w",
+        "name": "Tourbet El Bey: The Royal Mausoleum",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 83,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Tourbet El Bey: The Royal Mausoleum (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOrmJxyQW0ewJYflHN4Vxvbcf9Dwb5YfqbBwTT1=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:30-15:30",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": null,
+        "address": "Tourbet El Bey: The Royal Mausoleum, 7 Rue du Chateau, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "histoire",
+                "count": 10
+            },
+            {
+                "keyword": "tombes",
+                "count": 3
+            },
+            {
+                "keyword": "monument",
+                "count": 3
+            },
+            {
+                "keyword": "pays",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Tourbet+El+Bey:+The+Royal+Mausoleum/data=!4m7!3m6!1s0x12fd340a54955555:0xdcf33eac1500d051!8m2!3d36.7936528!4d10.1730395!16s%2Fg%2F1228rr61!19sChIJVVWVVAo0_RIRUdAAFaw-89w?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_Q1F-Ocj4xIRcjU13kuZxPA",
+        "name": "Municipalite de Menzel Bourguiba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Municipalite de Menzel Bourguiba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMBY9d2AkzDrc9cU9YViRzG3A3nvQ5uNkur9Avg=w408-h544-k-no",
+        "main_category": "Administration municipale",
+        "categories": [
+            "Administration municipale"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "5Q4R+4RF Municipalite de Menzel Bourguiba, Menzel Bourguiba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Municipalit%C3%A9+de+Menzel+Bourguiba/data=!4m7!3m6!1s0x12e323e7f8450dfd:0xf0c4994bde353572!8m2!3d37.1553032!4d9.7920477!16s%2Fg%2F11fht6p2p3!19sChIJ_Q1F-Ocj4xIRcjU13kuZxPA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJETHtqqwj4xIRmqgP3MlDKAk",
+        "name": "Eglise Sainte-Therese-de-l'Enfant-Jesus de Ferryville",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Eglise Sainte-Therese-de-l'Enfant-Jesus de Ferryville (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOgUSvRXW0HhblKKwByILnbEEwp1Aa4YDNRiqhp=w408-h545-k-no",
+        "main_category": "Eglise",
+        "categories": [
+            "Eglise",
+            "Eglise catholique"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "5Q5V+6C8 Eglise Sainte-Therese-de-l'Enfant-Jesus de Ferryville, Menzel Bourguiba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C3%89glise+Sainte-Th%C3%A9r%C3%A8se-de-l%27Enfant-J%C3%A9sus+de+Ferryville/data=!4m7!3m6!1s0x12e323acaaed3111:0x92843c9dc0fa89a!8m2!3d37.1580403!4d9.7935626!16s%2Fg%2F11g88dxltj!19sChIJETHtqqwj4xIRmqgP3MlDKAk?authuser=0&hl=fr&rclk=1"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "place_id": "ChIJZ9v3rxi14hIR_ju6-RwNezo",
+        "name": "Damous",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Damous (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOynimaijoruLkPpLn-iUtKQR7ZL-_UYucLYGhU=w408-h497-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 5,
+        "workday_timing": "14:00-00:00",
+        "closed_on": [
+            "samedi",
+            "dimanche"
+        ],
+        "phone": null,
+        "address": "Damous, 13 Istanboul Rd, La Marsa 1057",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Damous/data=!4m7!3m6!1s0x12e2b518aff7db67:0x3a7b0d1cf9ba3bfe!8m2!3d36.8906755!4d10.3138628!16s%2Fg%2F11ng0p3zdc!19sChIJZ9v3rxi14hIR_ju6-RwNezo?authuser=0&hl=fr&rclk=1"
+    }
+]

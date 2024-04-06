@@ -1,0 +1,229 @@
+[
+    {
+        "place_id": "ChIJscxTCC4tABMR8KVTAqWBmlE",
+        "name": "Hotel Les Oliviers Palace",
+        "description": "Logements raffines dans un hotel majestueux avec spa et restaurant elegant accueillant des concerts.",
+        "is_spending_on_ads": false,
+        "reviews": 443,
+        "website": "https://www.goldenyasmin.com/",
+        "owner": {
+            "id": "110409984061226850021",
+            "name": "Hotel Les Oliviers Palace (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/110409984061226850021"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGpTkIZsBoQ7VwJ6npnXkkbk9jy5CCGHg5EiybWUpFgTuBzXAHkFhkHdMD__LOTXc0MfG3OAQt9WCgiWRnEEBQSHSEf3mRtwQCU-wGKb5yQwIJZA5-iBm587340IBNAuhApW_p5P-Ck4qnda_1YKt7JVJfdZBVxRQGZGcK0riG5asDlvqWxPjPy3Q=w408-h276-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "74 201 999",
+        "address": "Hotel Les Oliviers Palace, 25 Av. Hedi Chaker, Sfax 3000",
+        "review_keywords": [
+            {
+                "keyword": "service",
+                "count": 24
+            },
+            {
+                "keyword": "chambres",
+                "count": 13
+            },
+            {
+                "keyword": "prix",
+                "count": 8
+            },
+            {
+                "keyword": "port",
+                "count": 7
+            },
+            {
+                "keyword": "bravo",
+                "count": 6
+            },
+            {
+                "keyword": "mer",
+                "count": 6
+            },
+            {
+                "keyword": "renove",
+                "count": 6
+            },
+            {
+                "keyword": "luxueux",
+                "count": 5
+            },
+            {
+                "keyword": "pizza",
+                "count": 4
+            },
+            {
+                "keyword": "anis",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hotel+Les+Oliviers+Palace/data=!4m10!3m9!1s0x13002d2e0853ccb1:0x519a81a50253a5f0!5m2!4m1!1i2!8m2!3d34.7309195!4d10.7655462!16s%2Fg%2F1tfj585v!19sChIJscxTCC4tABMR8KVTAqWBmlE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJO-ohfgq_ARMRqgPB5Xszl5s",
+        "name": "Residence-Camping El Kahena",
+        "description": "Chambres meublees simplement dans un hotel de style decontracte face a la plage avec vue sur la mer et restaurant.",
+        "is_spending_on_ads": false,
+        "reviews": 64,
+        "website": "https://www.facebook.com/pages/category/Hotel-Resort/R%25C3%25A9sidence-et-camping-EL-KAHENA-111625492187606/%3Flocale2%3Dfr_FR",
+        "owner": {
+            "id": "104557247518251111172",
+            "name": "Residence-Camping El Kahena (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/104557247518251111172"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFwtKiS1hnYIss-2xPWRDWSDOlro_m7cYdGl2ilzajbhqNvWHPaRLxnN0JumG43Elml4YZKNnQnyOPOm2DhKdjGi50aG4M1dALNlrdnV8iU2fnA1d7xx7K6eKf4WJgziN7tqC145mzwZfAvBk8ng3H_20ViJxnAI-beSYzaYKuXG3iwSg7256rz=w408-h306-k-no",
+        "main_category": "Residence hoteliere",
+        "categories": [
+            "Residence hoteliere",
+            "Restaurant"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "74 896 002",
+        "address": "Residence-Camping El Kahena, Residence et camping EL KAHENA Ellouza par jebeniana - Sfax 3016 - Tunisie, Sfax 3016",
+        "review_keywords": [
+            {
+                "keyword": "mer",
+                "count": 10
+            },
+            {
+                "keyword": "prix",
+                "count": 7
+            },
+            {
+                "keyword": "terrasse",
+                "count": 3
+            },
+            {
+                "keyword": "proprete",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/R%C3%A9sidence-Camping+El+Kahena/data=!4m10!3m9!1s0x1301bf0a7e21ea3b:0x9b97337be5c103aa!5m2!4m1!1i2!8m2!3d35.020311!4d11.006073!16s%2Fg%2F124svvtqw!19sChIJO-ohfgq_ARMRqgPB5Xszl5s?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdQ0TECstABMReKmSMvj_Ims",
+        "name": "Dar Baya Hotel Restaurant Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 58,
+        "website": "https://www.dar-baya.com/",
+        "owner": {
+            "id": "109813191799142503799",
+            "name": "Dar Baya Hotel Restaurant Cafe (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/109813191799142503799"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMGWgKDHjq4tPpnj4s9NkURbv_aQmzXMriQomdp=w408-h306-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel",
+            "Cafe",
+            "Love hotel",
+            "Restaurant"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "74 200 814",
+        "address": "Dar Baya Hotel Restaurant Cafe, 110 Rue Cheikh Tijani, Sfax",
+        "review_keywords": [
+            {
+                "keyword": "l'histoire",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Baya+Hotel+Restaurant+Caf%C3%A9/data=!4m10!3m9!1s0x13002d2b10130d75:0x6b22fff83292a978!5m2!4m1!1i2!8m2!3d34.7363284!4d10.7587136!16s%2Fg%2F11c2y8_cx9!19sChIJdQ0TECstABMReKmSMvj_Ims?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ60Hliy4tABMRvk2076M6rzM",
+        "name": "Hotel El layali",
+        "description": "Hebergements meubles simplement dans hotel simple avec petit-dejeuner gratuit.",
+        "is_spending_on_ads": false,
+        "reviews": 37,
+        "website": "http://www.hotelellayeli.com.tn/",
+        "owner": {
+            "id": null,
+            "name": "Hotel El layali (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEvbaWcqqIT17u5kGLWjS_OXO-wYn5bFJtyafXIiIfs80Rh4l0sq4fVwuZ6O13PmYWIWnBCPW5Gh_-jJ4wJGnx3gsItjVgxXIxP0Gxjc9W2wsL7UVCie0uI91wJ8hlWL8xoxikfTvhzDasvnWVkpOSYqDedmNJOLBKhVR0fJ87RJk-jyXGX51AM=w408-h270-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "74 228 998",
+        "address": "PQJ7+66G Hotel El layali, Rue Ali Bach Hamba, Sfax 3000",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+El+layali/data=!4m10!3m9!1s0x13002d2e8be541eb:0x33af3aa3efb44dbe!5m2!4m1!1i2!8m2!3d34.7305573!4d10.7630799!16s%2Fg%2F11c1ny67dj!19sChIJ60Hliy4tABMRvk2076M6rzM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJp8TFnRgtABMRv4oejhN97Mg",
+        "name": "LARIMAR HOTEL SFAX",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": "https://larimarhotelsfax.com.tn/",
+        "owner": {
+            "id": "103864973590494801242",
+            "name": "LARIMAR HOTEL SFAX (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103864973590494801242"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNtXqEJFlicBS4T_3b4gc6KnKDTrSCnIx2PuQvf=w408-h271-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "29 228 260",
+        "address": "LARIMAR HOTEL SFAX, Rue tazarka, Sfax",
+        "review_keywords": [
+            {
+                "keyword": "chambres",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/LARIMAR+HOTEL+SFAX/data=!4m10!3m9!1s0x13002d189dc5c4a7:0xc8ec7d138e1e8abf!5m2!4m1!1i2!8m2!3d34.7325889!4d10.7684011!16s%2Fg%2F11kx4npbfp!19sChIJp8TFnRgtABMRv4oejhN97Mg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJCehZuRHTARMRZj_r6zwgBjI",
+        "name": "Dar Salma",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar Salma (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOUoHavCLZz-Qh-zsNuskgYQClBxcgHAAH0_w7-=w408-h306-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QPJH+J84 Dar Salma, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Salma/data=!4m10!3m9!1s0x1301d311b959e809:0x3206203cebeb3f66!5m2!4m1!1i2!8m2!3d34.7819953!4d10.7304184!16s%2Fg%2F11rq93xzmk!19sChIJCehZuRHTARMRZj_r6zwgBjI?authuser=0&hl=fr&rclk=1"
+    }
+]

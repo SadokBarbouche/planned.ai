@@ -1,0 +1,298 @@
+[
+    {
+        "place_id": "ChIJ45cjaD_F_RIRHrojZwgOIYk",
+        "name": "Mosquee Okba Ibn Nafaa",
+        "description": "Celebre mosquee datant du VIIe siecle avec murs imposants, minaret carre et ornements architecturaux.",
+        "is_spending_on_ads": false,
+        "reviews": 2209,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mosquee Okba Ibn Nafaa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNEL5TfujiOvcePKvWqK5nPcjo2E41qK7BFskET=w408-h306-k-no",
+        "main_category": "Mosquee",
+        "categories": [
+            "Mosquee",
+            "Lieu historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "08:00-14:00",
+        "closed_on": [],
+        "phone": "76 489 133",
+        "address": "M4J3+GMV Mosquee Okba Ibn Nafaa, Rue De La Kasbah, Kairouan",
+        "review_keywords": [
+            {
+                "keyword": "histoire",
+                "count": 104
+            },
+            {
+                "keyword": "monument",
+                "count": 38
+            },
+            {
+                "keyword": "colonnes",
+                "count": 24
+            },
+            {
+                "keyword": "minaret",
+                "count": 24
+            },
+            {
+                "keyword": "oqba ibn nafi al-fihri",
+                "count": 21
+            },
+            {
+                "keyword": "civilisation islamique",
+                "count": 13
+            },
+            {
+                "keyword": "marbre",
+                "count": 12
+            },
+            {
+                "keyword": "edifice",
+                "count": 10
+            },
+            {
+                "keyword": "cadran solaire",
+                "count": 9
+            },
+            {
+                "keyword": "djellaba",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mosqu%C3%A9e+Okba+Ibn+Nafaa/data=!4m7!3m6!1s0x12fdc53f682397e3:0x89210e086723ba1e!8m2!3d35.6813693!4d10.1041651!16zL20vMGYyNmZz!19sChIJ45cjaD_F_RIRHrojZwgOIYk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJOWjha2rF_RIRRqLXG1-5anQ",
+        "name": "Bassins des Aghlabides",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 480,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bassins des Aghlabides (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPy_tb4qyhSmZKvreOpGr_lR2_9u2nYB_ETcyhT=w408-h306-k-no",
+        "main_category": "Lieu historique",
+        "categories": [
+            "Lieu historique",
+            "Site historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.1,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "M3PW+R5V Bassins des Aghlabides, Av. de la Republique, Kairouan",
+        "review_keywords": [
+            {
+                "keyword": "tourisme",
+                "count": 10
+            },
+            {
+                "keyword": "ixe siecle",
+                "count": 9
+            },
+            {
+                "keyword": "monument historique",
+                "count": 8
+            },
+            {
+                "keyword": "civilisation islamique",
+                "count": 7
+            },
+            {
+                "keyword": "lac de barrage",
+                "count": 7
+            },
+            {
+                "keyword": "aqueduc",
+                "count": 6
+            },
+            {
+                "keyword": "pluie",
+                "count": 6
+            },
+            {
+                "keyword": "ouvrage hydraulique",
+                "count": 5
+            },
+            {
+                "keyword": "parcs",
+                "count": 5
+            },
+            {
+                "keyword": "alimentation en eau potable",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Bassins+des+Aghlabides/data=!4m7!3m6!1s0x12fdc56a6be16839:0x746ab95f1bd7a246!8m2!3d35.6871107!4d10.0954229!16s%2Fg%2F121zpg5t!19sChIJOWjha2rF_RIRRqLXG1-5anQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJbbGJmlzF_RIRSE8EhcDda4M",
+        "name": "Mausolee du Barbier",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 353,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mausolee du Barbier (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNRaOis4u_uBdkzIEFRHVtofiJVLxuO_tJgK5Xk=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:00-19:00",
+        "closed_on": [],
+        "phone": "77 231 897",
+        "address": "Mausolee du Barbier, Mosquee du Barbier, Av. de la Republique, Kairouan 3100",
+        "review_keywords": [
+            {
+                "keyword": "mosquee",
+                "count": 12
+            },
+            {
+                "keyword": "histoire",
+                "count": 11
+            },
+            {
+                "keyword": "architecture",
+                "count": 10
+            },
+            {
+                "keyword": "sahaba",
+                "count": 8
+            },
+            {
+                "keyword": "musulmans",
+                "count": 8
+            },
+            {
+                "keyword": "mosaiques",
+                "count": 8
+            },
+            {
+                "keyword": "carreaux",
+                "count": 7
+            },
+            {
+                "keyword": "circoncision",
+                "count": 5
+            },
+            {
+                "keyword": "tombeau",
+                "count": 5
+            },
+            {
+                "keyword": "espace",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mausol%C3%A9e+du+Barbier/data=!4m7!3m6!1s0x12fdc55c9a89b16d:0x836bddc085044f48!8m2!3d35.682061!4d10.090226!16s%2Fg%2F1tgldk1j!19sChIJbbGJmlzF_RIRSE8EhcDda4M?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJJVGCiEfF_RIRsaU-TnuijLw",
+        "name": "Mosquee des trois portes",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 54,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mosquee des trois portes (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP2oxuYeAlDYd14akbPemo-ybM9j-MpAwzoXIS_=w408-h544-k-no",
+        "main_category": "Mosquee",
+        "categories": [
+            "Mosquee",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "M4G3+W3W Mosquee des trois portes, Avineda De Kortoba, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mosqu%C3%A9e+des+trois+portes/data=!4m7!3m6!1s0x12fdc54788825125:0xbc8ca27b4e3ea5b1!8m2!3d35.6773608!4d10.1027013!16s%2Fg%2F120p4gml!19sChIJJVGCiEfF_RIRsaU-TnuijLw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9zIbsv_F_RIRz6PH4l3OMXw",
+        "name": "La Mosqur E du Barbier (Sidi Sahib,'Abou Zamaa El-Balaoui, Zawiya)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Mosqur E du Barbier (Sidi Sahib,'Abou Zamaa El-Balaoui, Zawiya) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM_YxCWaAtgSUnPifvfgiFySJUDLOf9ZZWWVVG1=w408-h306-k-no",
+        "main_category": "Mosquee",
+        "categories": [
+            "Mosquee",
+            "Lieu historique"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "M3JR+Q4W La Mosqur E du Barbier (Sidi Sahib,'Abou Zamaa El-Balaoui, Zawiya), Unnamed Road, Kairouan",
+        "review_keywords": [
+            {
+                "keyword": "mausolee",
+                "count": 3
+            },
+            {
+                "keyword": "musulmans",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/La+Mosqu%E0%B8%A3+E+du+Barbier+%28Sidi+Sahib,%27Abou+Zamaa+El-Balaoui,+Zawiya%29/data=!4m7!3m6!1s0x12fdc5ffb21b32f7:0x7c31ce5de2c7a3cf!8m2!3d35.6819896!4d10.0903402!16s%2Fg%2F11h6jfzd1k!19sChIJ9zIbsv_F_RIRz6PH4l3OMXw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7QWtsL7F_RIRRBU5mnWPtBU",
+        "name": "Sidi Ghariani",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Sidi Ghariani (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNMIL6w3IkxxrXacin3ncNIAjfDoO_IQo7RCeHJ=w408-h306-k-no",
+        "main_category": "Lieu historique",
+        "categories": [
+            "Lieu historique",
+            "Musee",
+            "Tombeau"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "M4F2+WG7 Sidi Ghariani, Kairouan",
+        "review_keywords": [
+            {
+                "keyword": "mausolee",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sidi+Ghariani/data=!4m7!3m6!1s0x12fdc5beb0ad05ed:0x15b48f759a391544!8m2!3d35.6751601!4d10.1015943!16s%2Fg%2F11sdsqqnrz!19sChIJ7QWtsL7F_RIRRBU5mnWPtBU?authuser=0&hl=fr&rclk=1"
+    }
+]

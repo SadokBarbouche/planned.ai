@@ -1,0 +1,174 @@
+[
+    {
+        "place_id": "ChIJofj8XrNyAhMReB_1tnqU5ZY",
+        "name": "Palais Presidentiel de Bourguiba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 277,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Palais Presidentiel de Bourguiba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNrPAltitzWU6QErQHZpOzlfZ7Q-OMEJngBozdq=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.2,
+        "workday_timing": "09:00-16:45",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": null,
+        "address": "QQHM+MMC Palais Presidentiel de Bourguiba, Monastir",
+        "review_keywords": [
+            {
+                "keyword": "l'histoire",
+                "count": 13
+            },
+            {
+                "keyword": "architecture",
+                "count": 10
+            },
+            {
+                "keyword": "marbre",
+                "count": 5
+            },
+            {
+                "keyword": "renover",
+                "count": 5
+            },
+            {
+                "keyword": "jardins",
+                "count": 4
+            },
+            {
+                "keyword": "vie",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Palais+Pr%C3%A9sidentiel+de+Bourguiba/data=!4m7!3m6!1s0x130272b35efcf8a1:0x96e5947ab6f51f78!8m2!3d35.7791806!4d10.7841401!16s%2Fg%2F1269mlfj8!19sChIJofj8XrNyAhMReB_1tnqU5ZY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ__8_R80SAhMRTb3_-cxXq3M",
+        "name": "Palais Des Sciences De Monastir",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 85,
+        "website": "http://www.psm.rnu.tn/",
+        "owner": {
+            "id": null,
+            "name": "Palais Des Sciences De Monastir (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOLpWkw9gXZk1xZYs39CYsIOf2fxQXHiQZ_3MHG=w408-h306-k-no",
+        "main_category": "Musee scientifique",
+        "categories": [
+            "Musee scientifique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:30-17:30",
+        "closed_on": [
+            "samedi",
+            "dimanche"
+        ],
+        "phone": "73 463 556",
+        "address": "QRCM+V2F Palais Des Sciences De Monastir, Monastir",
+        "review_keywords": [
+            {
+                "keyword": "salle de conference",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Palais+Des+Sciences+De+Monastir/data=!4m7!3m6!1s0x130212cd473fffff:0x73ab57ccf9ffbd4d!8m2!3d35.7721858!4d10.8325367!16s%2Fg%2F11c60pf_dp!19sChIJ__8_R80SAhMRTb3_-cxXq3M?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJezthyoptAhMRVC4OzvkgUOo",
+        "name": "Panneau \"I Love Monastir\"",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "website": "https://www.facebook.com/ILoveMonastir",
+        "owner": {
+            "id": null,
+            "name": "Panneau \"I Love Monastir\" (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMOTu-jGn2V4fG8If1wpGiPPmViVYUGzyn28Uc_=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QRGM+R74 Panneau \"I Love Monastir\", Rte de la Falaise, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Panneau+%22I+Love+Monastir%22/data=!4m7!3m6!1s0x13026d8aca613b7b:0xea5020f9ce0e2e54!8m2!3d35.7770062!4d10.8331943!16s%2Fg%2F11h57x9857!19sChIJezthyoptAhMRVC4OzvkgUOo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJNaPOJ69zAhMRj9-w0gLldpU",
+        "name": "Musee Habib Bourguiba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": "https://www.facebook.com/Mus%25C3%25A9e-Leader-Habib-Bourguiba-1023833361037895/",
+        "owner": {
+            "id": "100401933048320553855",
+            "name": "Musee Habib Bourguiba (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100401933048320553855"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMbFRmX-nOMD10WjWvAVJBNh2D4wjiZXUfDkGwd=w426-h240-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.4,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "73 529 555",
+        "address": "Musee Habib Bourguiba, Monastir",
+        "review_keywords": [
+            {
+                "keyword": "president",
+                "count": 3
+            },
+            {
+                "keyword": "palais",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Habib+Bourguiba/data=!4m7!3m6!1s0x130273af27cea335:0x9576e502d2b0df8f!8m2!3d35.7785007!4d10.7841242!16s%2Fg%2F11f9wnq9zr!19sChIJNaPOJ69zAhMRj9-w0gLldpU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdbb20l5tAhMR58PTUpbMAOs",
+        "name": "Musee du Ribat",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": "https://www.tunisiepatrimoine.tn/ar/%25D9%2585%25D8%25B9%25D8%25A7%25D9%2584%25D9%2585/%25D8%25B1%25D8%25A8%25D8%25A7%25D8%25B7-%25D8%25A7%25D9%2584%25D9%2585%25D9%2586%25D8%25B3%25D8%25AA%25D9%258A%25D8%25B1/%25D9%2586%25D8%25B8%25D8%25B1%25D8%25A9-%25D8%25B9%25D8%25A7%25D9%2585%25D8%25A9/",
+        "owner": {
+            "id": null,
+            "name": "Musee du Ribat (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNSGpE6lE4uf0yJa2E7U3WleD1yvSd4cBMNQZac=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.8,
+        "workday_timing": "08:00-19:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "QRGM+F6M Musee du Ribat, Rte de la Falaise, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+du+Ribat/data=!4m7!3m6!1s0x13026d5ed2f6b675:0xeb00cc9652d3c3e7!8m2!3d35.7760251!4d10.8330426!16s%2Fg%2F11twr0j17c!19sChIJdbb20l5tAhMR58PTUpbMAOs?authuser=0&hl=fr&rclk=1"
+    }
+]

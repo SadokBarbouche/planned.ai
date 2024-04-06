@@ -1,0 +1,86 @@
+[
+    {
+        "place_id": "ChIJj1Ym40ek-xIRNGpBQERSIwo",
+        "name": "Musee des arts et traditions populaires du Kef",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 62,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee des arts et traditions populaires du Kef (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPB9ro6mJjHF7-XyLqO2pm6ZDmVPYDrE3ZOvFLo=w408-h272-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "5PM8+43C Musee des arts et traditions populaires du Kef, Rue de la Kasbah, Le Kef",
+        "review_keywords": [
+            {
+                "keyword": "vie",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+des+arts+et+traditions+populaires+du+Kef/data=!4m7!3m6!1s0x12fba447e326568f:0xa23524440416a34!8m2!3d36.1828035!4d8.7151304!16s%2Fg%2F11bxjdjz7c!19sChIJj1Ym40ek-xIRNGpBQERSIwo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJufoA13-l-xIR3UqQg3ZAgZk",
+        "name": "El kasba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "El kasba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPREDx9KVkcbFyvRDZXJ539P4GrFdUAvr0-OBpV=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "El kasba, 13 Rue Kheireddine, El Kef 7100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/El+kasba/data=!4m7!3m6!1s0x12fba57fd700fab9:0x9981407683904add!8m2!3d36.1810523!4d8.7130112!16s%2Fg%2F11q23v4hrq!19sChIJufoA13-l-xIR3UqQg3ZAgZk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqafFxqml-xIRgfXDblXjy90",
+        "name": "Circuit culturel et touristique de la medina du kef - Museum Lab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://museumlab.tn/",
+        "owner": {
+            "id": "111859237642939519626",
+            "name": "Circuit culturel et touristique de la medina du kef - Museum Lab (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111859237642939519626"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7G2KQvS3gKoAswp--W67xMNoZo5_l4k7t0tkF=w408-h306-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "samedi",
+            "dimanche"
+        ],
+        "phone": "20 276 643",
+        "address": "Circuit culturel et touristique de la medina du kef - Museum Lab, P17, Le Kef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Circuit+culturel+et+touristique+de+la+m%C3%A9dina+du+kef+-+Museum+Lab/data=!4m7!3m6!1s0x12fba5a9c6c5a7a9:0xddcbe3556ec3f581!8m2!3d36.181303!4d8.7197247!16s%2Fg%2F11sh082zwh!19sChIJqafFxqml-xIRgfXDblXjy90?authuser=0&hl=fr&rclk=1"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": "ChIJK33N5vELAhMRvBchyclo8TE",
+        "name": "SAVANA CLUB",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "SAVANA CLUB (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Bar lounge",
+        "categories": [
+            "Bar lounge"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QMJV+5P SAVANA CLUB, Sahline",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/SAVANA+CLUB/data=!4m7!3m6!1s0x13020bf1e6cd7d2b:0x31f168c9c92117bc!8m2!3d35.7804618!4d10.6942752!16s%2Fg%2F11s3csrb0p!19sChIJK33N5vELAhMRvBchyclo8TE?authuser=0&hl=fr&rclk=1"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJS5H9XQrvqhMRLXEOY9CH0Qs",
+        "name": "Gare de Zarzis",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare de Zarzis (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMfl1WE_BpLEqNv3mqy7yq9e9ouw2zT655ybcSr=w408-h244-k-no",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare de Zarzis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+de+Zarzis/data=!4m7!3m6!1s0x13aaef0a5dfd914b:0xbd187d0630e712d!8m2!3d33.498873!4d11.114969!16s%2Fg%2F1jkyf2h18!19sChIJS5H9XQrvqhMRLXEOY9CH0Qs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJm23NdRfvqhMR4J21XivYjVg",
+        "name": "Agence technique de transport terrestre",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Agence technique de transport terrestre (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "F4X7+QWH Agence technique de transport terrestre, Zarzis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Agence+technique+de+transport+terrestre/data=!4m7!3m6!1s0x13aaef1775cd6d9b:0x588dd82b5eb59de0!8m2!3d33.4994443!4d11.1148534!16s%2Fg%2F11mw7b1yf5!19sChIJm23NdRfvqhMR4J21XivYjVg?authuser=0&hl=fr&rclk=1"
+    }
+]

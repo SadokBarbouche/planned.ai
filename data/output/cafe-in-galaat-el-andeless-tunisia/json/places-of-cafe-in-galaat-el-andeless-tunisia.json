@@ -1,0 +1,915 @@
+[
+    {
+        "place_id": "ChIJg_rm-nQ0_RIR2guj6aUCaC0",
+        "name": "EL ALI Resto & Cafe Culturel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 532,
+        "website": "https://instagram.com/resto_el_ali%3Figshid%3DOGQ2MjdiOTE%3D",
+        "owner": {
+            "id": "114444395705674073490",
+            "name": "EL ALI Resto & Cafe Culturel (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114444395705674073490"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNmihF4SA_zSUh8dCGKe4RqYNiXC3s50L-3MHNO=w408-h271-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant",
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-17:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "71 321 927",
+        "address": "EL ALI Resto & Cafe Culturel, Rue Jamaa Ezzitouna, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "petit dejeuner",
+                "count": 36
+            },
+            {
+                "keyword": "tunisien",
+                "count": 25
+            },
+            {
+                "keyword": "couscous",
+                "count": 16
+            },
+            {
+                "keyword": "musique",
+                "count": 15
+            },
+            {
+                "keyword": "service",
+                "count": 14
+            },
+            {
+                "keyword": "coeur",
+                "count": 13
+            },
+            {
+                "keyword": "tajine",
+                "count": 11
+            },
+            {
+                "keyword": "souk",
+                "count": 7
+            },
+            {
+                "keyword": "cuisine traditionnelle",
+                "count": 7
+            },
+            {
+                "keyword": "entree",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/EL+ALI+Resto+%26+Caf%C3%A9+Culturel/data=!4m7!3m6!1s0x12fd3474fae6fa83:0x2d6802a5e9a30bda!8m2!3d36.7981557!4d10.172971!16s%2Fg%2F113hnpbqr!19sChIJg_rm-nQ0_RIR2guj6aUCaC0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJnfGkbZ604hIRFHo1zFvlBCU",
+        "name": "Kahoua El Alia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 409,
+        "website": "https://www.facebook.com/Cafe.Culturel.El.Aliya.La.Marsa",
+        "owner": {
+            "id": null,
+            "name": "Kahoua El Alia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPqQoh62Zk6U1vWcz2nCj0mUerq4C5eKeofXGD-=w408-h544-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-20:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Kahoua El Alia, Cafe des Nattes, Site archeologique de Carthage",
+        "review_keywords": [
+            {
+                "keyword": "touristes",
+                "count": 18
+            },
+            {
+                "keyword": "vue",
+                "count": 16
+            },
+            {
+                "keyword": "chicha",
+                "count": 9
+            },
+            {
+                "keyword": "espace",
+                "count": 9
+            },
+            {
+                "keyword": "jus",
+                "count": 6
+            },
+            {
+                "keyword": "mer",
+                "count": 6
+            },
+            {
+                "keyword": "the a la menthe",
+                "count": 5
+            },
+            {
+                "keyword": "dinar",
+                "count": 5
+            },
+            {
+                "keyword": "payer",
+                "count": 5
+            },
+            {
+                "keyword": "amande",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Kahoua+El+Alia/data=!4m7!3m6!1s0x12e2b49e6da4f19d:0x2504e55bcc357a14!8m2!3d36.871108!4d10.3481667!16s%2Fg%2F1hd_2v7tp!19sChIJnfGkbZ604hIRFHo1zFvlBCU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJiSFXDEM1_RIRyrPgH3UzeQg",
+        "name": "Obladi Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 254,
+        "website": null,
+        "owner": {
+            "id": "118414528732555765080",
+            "name": "Obladi Coffee (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/118414528732555765080"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMT2qhIMCUig0bCKhYeNBybj6mCbsKncn2EZibq=w408-h408-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-22:00",
+        "closed_on": [],
+        "phone": "24 318 745",
+        "address": "Obladi Coffee, Rue du Lac Huron, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 10
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 8
+            },
+            {
+                "keyword": "musique",
+                "count": 8
+            },
+            {
+                "keyword": "serveur",
+                "count": 7
+            },
+            {
+                "keyword": "experience",
+                "count": 7
+            },
+            {
+                "keyword": "brunch",
+                "count": 6
+            },
+            {
+                "keyword": "etudiants",
+                "count": 6
+            },
+            {
+                "keyword": "croissant",
+                "count": 5
+            },
+            {
+                "keyword": "methode d'apprentissage",
+                "count": 3
+            },
+            {
+                "keyword": "sourire",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Obladi+Coffee/data=!4m7!3m6!1s0x12fd35430c572189:0x87933751fe0b3ca!8m2!3d36.8366942!4d10.24654!16s%2Fg%2F11f57k77c7!19sChIJiSFXDEM1_RIRyrPgH3UzeQg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJiYq1Ulsz_RIR-R1c3NNake4",
+        "name": "Le Chat Noir, Espresso bar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 28,
+        "website": null,
+        "owner": {
+            "id": "107428938211296904740",
+            "name": "Le Chat Noir, Espresso bar (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/107428938211296904740"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNUT8RqAiRJvA6qp7iaKkGUmX02vJ_siffAPnFR=w408-h306-k-no",
+        "main_category": "Cafe specialise dans les boissons expresso",
+        "categories": [
+            "Cafe specialise dans les boissons expresso",
+            "Boutique de desserts"
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-21:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "55 621 770",
+        "address": "Le Chat Noir, Espresso bar, 8 Ter, Av. Salah Ben Youssef, Tunis 1013",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Le+Chat+Noir,+Espresso+bar/data=!4m7!3m6!1s0x12fd335b52b58a89:0xee915ad3dc5c1df9!8m2!3d36.8461824!4d10.1591044!16s%2Fg%2F11cn0vh067!19sChIJiYq1Ulsz_RIR-R1c3NNake4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJDzuAL5_L4hIRyzCPFs_JFuw",
+        "name": "Cafe 4U",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe 4U (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMs6VWlBquEcDzm1PmkR8t6HIrJTSHUFvhVgVvq=w408-h307-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "20 244 012",
+        "address": "Cafe 4U, Gouvernorat de l, 33 Palestine, 2083",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+4U/data=!4m7!3m6!1s0x12e2cb9f2f803b0f:0xec16c9cf168f30cb!8m2!3d36.8893843!4d10.1803164!16s%2Fg%2F11j20t95wm!19sChIJDzuAL5_L4hIRyzCPFs_JFuw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJzz_eYgdj-RIRFIPTmLxeC_Y",
+        "name": "Sweet Cafe (qhw@ lrlw)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": "108165276518820125534",
+            "name": "Sweet Cafe (qhw@ lrlw) (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108165276518820125534"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOF_Uh91vnXNI0HQajyoTT0akRdOoF04zont-BI=w408-h306-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "20 261 962",
+        "address": "Sweet Cafe (qhw@ lrlw), P17, Thala",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sweet+Caf%C3%A9+%28%D9%82%D9%87%D9%88%D8%A9+%D8%A7%D9%84%D8%B1%D8%A7%D9%84%D9%88%29%E2%80%AD/data=!4m7!3m6!1s0x12f9630762de3fcf:0xf60b5ebc98d38314!8m2!3d35.5647658!4d8.6748507!16s%2Fg%2F11ght9btry!19sChIJzz_eYgdj-RIRFIPTmLxeC_Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJPzlo7CLT4hIRjA6OLSXfDKQ",
+        "name": "ALTA CAFFE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": "102176679609031855216",
+            "name": "ALTA CAFFE (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/102176679609031855216"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNyXmlveinsaPvAV1K0uLDZJeb5T958ILndG9Is=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Fabricant"
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "70 553 612",
+        "address": "ALTA CAFFE, Route de Bejaoua KM 7, Sidi Thabet 2020",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/ALTA+CAFF%C3%88/data=!4m7!3m6!1s0x12e2d322ec68393f:0xa40cdf252d8e0e8c!8m2!3d36.8928855!4d10.0267889!16s%2Fg%2F1hm3d5wyd!19sChIJPzlo7CLT4hIRjA6OLSXfDKQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJda5LdQSl-xIRqr_aifpIqA0",
+        "name": "Cafe ALA EDDINE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": "103764051645997476279",
+            "name": "Cafe ALA EDDINE (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103764051645997476279"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOahOaiJlFXYxd7LJ8ua7pynPwnB8eCfGArNW6G=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "98 776 767",
+        "address": "Cafe ALA EDDINE, El Kef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+ALA+EDDINE/data=!4m7!3m6!1s0x12fba504754bae75:0xda848fa89dabfaa!8m2!3d36.1565625!4d8.6980625!16s%2Fg%2F11cnwqs1lr!19sChIJda5LdQSl-xIRqr_aifpIqA0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuTQqd3Dq-BIRQAp8OXvABnU",
+        "name": "Cafe les Zidi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe les Zidi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPJqN5PRzPx3kpxdGaV_pOW3mPbGIeRvcRJ_4Ra=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:00-01:00",
+        "closed_on": [],
+        "phone": "25 550 509",
+        "address": "HRXG+7V6 Cafe les Zidi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+les+Zidi/data=!4m7!3m6!1s0x12f8ea70772a34b9:0x7506c07b397c0a40!8m2!3d34.5981554!4d8.8271556!16s%2Fg%2F11bzrgwb4p!19sChIJuTQqd3Dq-BIRQAp8OXvABnU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0xQGbEmk-xIRNONKlkfdaWo",
+        "name": "Cafe Ras el Ain",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "https://www.facebook.com/kefcentre/about/%3Fref%3Dpage_internal",
+        "owner": {
+            "id": null,
+            "name": "Cafe Ras el Ain (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPNFZidiGlyY-uxuSzC2bYPjZfhg0X7Fn2RpXVl=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "5PJ6+47R Cafe Ras el Ain, Le Kef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Ras+el+Ain/data=!4m7!3m6!1s0x12fba4496c0614d3:0x6a69dd47964ae334!8m2!3d36.1803642!4d8.7106485!16s%2Fg%2F11dzdvvj2t!19sChIJ0xQGbEmk-xIRNONKlkfdaWo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJgRiVg8Wl-xIRUzY7oNWZzNw",
+        "name": "cafe l'Artisto",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "https://m.facebook.com/pages/category/Cafeteria/Caf%25C3%25A9-lartisto-110981441389551/",
+        "owner": {
+            "id": null,
+            "name": "cafe l'Artisto (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPMIGw_1DQj41den2AdBzRAKf5bJK9jrkRUKNAs=w408-h360-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "90 054 034",
+        "address": "5PJ6+4FH cafe l'Artisto, Le Kef",
+        "review_keywords": [
+            {
+                "keyword": "la musique",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/cafe+l%27Artisto/data=!4m7!3m6!1s0x12fba5c583951881:0xdccc99d5a03b3653!8m2!3d36.180314!4d8.711236!16s%2Fg%2F11s535r_bg!19sChIJgRiVg8Wl-xIRUzY7oNWZzNw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJl-2jxAtL_RIRbgJtUlqlPSU",
+        "name": "Melody Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Melody Cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM0rAa95N9EgznvEcVD5qC-On6fAastRiVKYD5n=w408-h906-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:00-23:00",
+        "closed_on": [],
+        "phone": "53 242 995",
+        "address": "R8G6+7F3 Melody Cafe, La Goulette",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Melody+Caf%C3%A9/data=!4m7!3m6!1s0x12fd4b0bc4a3ed97:0x253da55a526d026e!8m2!3d36.8256335!4d10.3111769!16s%2Fg%2F11rtc8r1_l!19sChIJl-2jxAtL_RIRbgJtUlqlPSU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJMRLdSwEu_RIRLmKA2wYq6F8",
+        "name": "cafe in",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe in (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOJnQPnSwLTetS4wMipdNyVXgEVh506bXtIMuds=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:30-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Q3HG+P5P cafe in, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+in/data=!4m7!3m6!1s0x12fd2e014bdd1231:0x5fe82a06db80622e!8m2!3d36.7793423!4d10.075453!16s%2Fg%2F11fx8cmjwv!19sChIJMRLdSwEu_RIRLmKA2wYq6F8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJB-jEW3A5_xIR76s6I82OlNA",
+        "name": "Cafe El Nidhal",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe El Nidhal (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOHpb_gcPhNdB8_eySGRyf5dhtsarTOC8__EjcN=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "06:30-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "HCFC+95G Cafe El Nidhal, Menzel Bouzaiane",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+El+Nidhal/data=!4m7!3m6!1s0x12ff39705bc4e807:0xd0948ecd233aabef!8m2!3d34.5734283!4d9.4204455!16s%2Fg%2F11c480jp8z!19sChIJB-jEW3A5_xIR76s6I82OlNA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ23uu5eLK4hIRqX5D_YfB2TI",
+        "name": "Cafe Alakwas",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Alakwas (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7mumjWBeqbkAMlC6sRncTbF2_muuT7JChEWje=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.6,
+        "workday_timing": "05:30-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "V6P8+PXF Cafe Alakwas",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Alakwas/data=!4m7!3m6!1s0x12e2cae2e5ae7bdb:0x32d9c187fd437ea9!8m2!3d36.8868114!4d10.2174116!16s%2Fg%2F11dxssskzg!19sChIJ23uu5eLK4hIRqX5D_YfB2TI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJzQXttNPF4hIRrflpsaHNOoU",
+        "name": "Cafe Mr Kalidoudi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Mr Kalidoudi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNIM7TdSIWV8X2c1s7F1RVEvyWJpNGPErgIY0-8=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": "24 869 501",
+        "address": "3433+C5X Cafe Mr Kalidoudi, Kalaate Al Andalouss",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Mr+Kalidoudi/data=!4m7!3m6!1s0x12e2c5d3b4ed05cd:0x853acda1b169f9ad!8m2!3d37.0536051!4d10.1029791!16s%2Fg%2F11gkr6btgk!19sChIJzQXttNPF4hIRrflpsaHNOoU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJC6L38hfc_RIRlUOZqRPRr9w",
+        "name": "mqh~ lhw lTlq",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mqh~ lhw lTlq (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "mqh~ lhw lTlq, C87",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D9%82%D9%87%D9%89+%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%A1+%D8%A7%D9%84%D8%B7%D9%84%D9%82%E2%80%AD/data=!4m7!3m6!1s0x12fddc17f2f7a20b:0xdcafd113a9994395!8m2!3d35.5814584!4d10.1915038!16s%2Fg%2F1v40222y!19sChIJC6L38hfc_RIRlUOZqRPRr9w?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0Usml2Ef4xIRmUPa_mBy5d0",
+        "name": "CAFE CALETOUS",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "CAFE CALETOUS (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOyINNyDBUeA19cm0hztVrvmWrgLggHz-f_860=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "50 822 671",
+        "address": "7V5C+MGV CAFE CALETOUS, Tryq mnzl `bd lrHmn, Zarzouna",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CAF%C3%89+CALETOUS/data=!4m7!3m6!1s0x12e31f6197264bd1:0xdde57260feda4399!8m2!3d37.2592484!4d9.8712868!16s%2Fg%2F11h1g5nb3m!19sChIJ0Usml2Ef4xIRmUPa_mBy5d0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJQ5z19nfF4hIRL61QWBahnb8",
+        "name": "Cafe wolf mqh~ `ly bl`rby",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": "113436551105098150985",
+            "name": "Cafe wolf mqh~ `ly bl`rby (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113436551105098150985"
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "53 548 666",
+        "address": "3479+487 Cafe wolf mqh~ `ly bl`rby, Kelaat El Andaluus",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+wolf+%D9%85%D9%82%D9%87%D9%89+%D8%B9%D9%84%D9%8A+%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x12e2c577f6f59c43:0xbf9da1165850ad2f!8m2!3d37.0627677!4d10.1183341!16s%2Fg%2F11kj11dywt!19sChIJQ5z19nfF4hIRL61QWBahnb8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJwWpGyu5L_RIRe6zS7m9MsnA",
+        "name": "Let's Drive Coffee Shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": "103258048788086645079",
+            "name": "Let's Drive Coffee Shop (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103258048788086645079"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOdSf1RKMpj3F7PKW6ffKMpwx5RoR0R8kJSl40o=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Cafeteria"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-22:00",
+        "closed_on": [],
+        "phone": "98 372 509",
+        "address": "Let's Drive Coffee Shop, 1 Av. Hedi Chaker, La Goulette 2060",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Let%27s+Drive+Coffee+Shop/data=!4m7!3m6!1s0x12fd4beeca466ac1:0x70b24c6feed2ac7b!8m2!3d36.8388372!4d10.3175778!16s%2Fg%2F11qpsgg6f8!19sChIJwWpGyu5L_RIRe6zS7m9MsnA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJTWLQhlUd_RIRbb776YwJOdc",
+        "name": "Cafe Naffeti",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Naffeti (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "9WF2+FRF Cafe Naffeti, P3, El Fahs",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Naff%C3%A9ti/data=!4m7!3m6!1s0x12fd1d5586d0624d:0xd739098ce9fbbe6d!8m2!3d36.3736979!4d9.9020387!16s%2Fg%2F12ml2vpm4!19sChIJTWLQhlUd_RIRbb776YwJOdc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJMR71baIv-hIR47-z3SW0XqI",
+        "name": "Cafe Allawa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Allawa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMuLs_m2ddTp6aR2lRP-vFVIs1KcE9KLaakw5EI=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "97 253 823",
+        "address": "Q88R+4WM Cafe Allawa, Kalaat Sinan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Allawa/data=!4m7!3m6!1s0x12fa2fa26df51e31:0xa25eb425ddb3bfe3!8m2!3d35.7653479!4d8.342298!16s%2Fg%2F11g1r9x3zd!19sChIJMR71baIv-hIR47-z3SW0XqI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJYTHowH6__BIRlZ3zzAOFmA0",
+        "name": "mqh~ w fD `y'ly lynd",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mqh~ w fD `y'ly lynd (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipObKuGkBs6sLeYjVox-m5_okTyE0cqyKMEEG7P0=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "90 160 399",
+        "address": "mqh~ w fD `y'ly lynd, P5",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D9%82%D9%87%D9%89+%D9%88+%D9%81%D8%B6%D8%A7%D8%A1+%D8%B9%D8%A7%D8%A6%D9%84%D9%8A+%D9%84%D9%8A%D9%86%D8%AF%D8%A7%E2%80%AD/data=!4m7!3m6!1s0x12fcbf7ec0e83161:0xd988503ccf39d95!8m2!3d36.576795!4d9.4995145!16s%2Fg%2F11jv8kq300!19sChIJYTHowH6__BIRlZ3zzAOFmA0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJiW6pSaDJ_hIRDuKhngvr2p0",
+        "name": "Cafe el5el",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe el5el (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPbtqPXwZeySCqMnzmGzh4j6Qls04_gorEyxE-t=w408-h725-k-no",
+        "main_category": "Cafe specialise dans les boissons expresso",
+        "categories": [
+            "Cafe specialise dans les boissons expresso"
+        ],
+        "rating": 5,
+        "workday_timing": "04:00-22:45",
+        "closed_on": [],
+        "phone": null,
+        "address": "57GJ+W3W Cafe el5el, P13, Lessouda",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+el5el/data=!4m7!3m6!1s0x12fec9a049a96e89:0x9ddaeb0b9ea1e20e!8m2!3d35.1773642!4d9.2801902!16s%2Fg%2F11jjk238pt!19sChIJiW6pSaDJ_hIRDuKhngvr2p0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJTY8GDlHZ_xIR99NNs_D-L1I",
+        "name": "CAFE CALDO *WALID*",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "CAFE CALDO *WALID* (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOi5NXGUOJh1_n-eiY4_hut-ta2tSxOWs9JE4A=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "97 426 602",
+        "address": "GGWR+G9 CAFE CALDO *WALID*, Mahares",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CAF%C3%89+CALDO+*WALID*/data=!4m7!3m6!1s0x12ffd9510e068f4d:0x522ffef0b34dd3f7!8m2!3d34.5472326!4d10.5404313!16s%2Fg%2F11k3xnmmr9!19sChIJTY8GDlHZ_xIR99NNs_D-L1I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJnXyadoFP_RIRO6_W1Wq_ck0",
+        "name": "Miraflores Coffee Lounge",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Miraflores Coffee Lounge (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN1J_vm5Q2kXETLA86KcErVSOR0WPJ0UrBd9N-E=w533-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "MCX8+W63 Miraflores Coffee Lounge, Cite Seltenne",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Miraflores+Coffee+Lounge/data=!4m7!3m6!1s0x12fd4f81769a7c9d:0x4d72bf6ad5d6af3b!8m2!3d36.699845!4d10.4155018!16s%2Fg%2F11sd_p2fky!19sChIJnXyadoFP_RIRO6_W1Wq_ck0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJs1hzUdCl-xIRH319Wm92PcE",
+        "name": "mqh~ msk llyl",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mqh~ msk llyl (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "4MVH+89G mqh~ msk llyl, Le Kef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D9%82%D9%87%D9%89+%D9%85%D8%B3%D9%83+%D8%A7%D9%84%D9%84%D9%8A%D9%84%E2%80%AD/data=!4m7!3m6!1s0x12fba5d0517358b3:0xc13d766f5a7d7d1f!8m2!3d36.1433216!4d8.6784495!16s%2Fg%2F11l59_trrs!19sChIJs1hzUdCl-xIRH319Wm92PcE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJExTe5Tpj-RIRAAEuqBlRR54",
+        "name": "Queen \"cafe-resto\"",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Queen \"cafe-resto\" (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMr_koxp_5UZfcKZDm8qJkqfdSeqU8-FUKS0mzX=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "HMV6+FPV Queen \"cafe-resto\", Thala",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Queen+%22caf%C3%A9-resto%22/data=!4m7!3m6!1s0x12f9633ae5de1413:0x9e475119a82e0100!8m2!3d35.5937497!4d8.6617907!16s%2Fg%2F11smz8k1yr!19sChIJExTe5Tpj-RIRAAEuqBlRR54?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJhXiRcADF4hIRXZJs4f2u1MY",
+        "name": "Cafe ridha ezarga",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe ridha ezarga (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOg3rUP53hQYWeVCbLuuQ6IMxfrM2bnErDWNx0T=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "95 552 292",
+        "address": "3448+RV6 Cafe ridha ezarga, Kalaate Al Andalouss",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+ridha+ezarga/data=!4m7!3m6!1s0x12e2c50070917885:0xc6d4aefde16c925d!8m2!3d37.0570343!4d10.1171348!16s%2Fg%2F11ldbbgp_c!19sChIJhXiRcADF4hIRXZJs4f2u1MY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJabEJX8fF4hIRHJpHDD8-p4I",
+        "name": "Cafe el sarjane -qhw@ wld lsrjn",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe el sarjane -qhw@ wld lsrjn (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "348C+76F Cafe el sarjane -qhw@ wld lsrjn, Rue Sadok Rhit, Kelaat El Andaluus",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+el+sarjane+-%D9%82%D9%87%D9%88%D8%A9+%D9%88%D9%84%D8%AF+%D8%A7%D9%84%D8%B3%D8%B1%D8%AC%D8%A7%D9%86%E2%80%AD/data=!4m7!3m6!1s0x12e2c5c75f09b169:0x82a73e3f0c479a1c!8m2!3d37.0662228!4d10.1209798!16s%2Fg%2F11ssdr44f1!19sChIJabEJX8fF4hIRHJpHDD8-p4I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdToPVlYt_RIRtl4teGTW7FI",
+        "name": "Cafe Vaga",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Vaga (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "R3HG+5PW Cafe Vaga, Oued Ellil",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Vaga/data=!4m7!3m6!1s0x12fd2d56560f3a75:0x52ecd664782d5eb6!8m2!3d36.8281227!4d10.0765932!16s%2Fg%2F11v41txnhw!19sChIJdToPVlYt_RIRtl4teGTW7FI?authuser=0&hl=fr&rclk=1"
+    }
+]

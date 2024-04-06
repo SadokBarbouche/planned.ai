@@ -1,0 +1,61 @@
+[
+    {
+        "place_id": "ChIJLVHD7KOX-BIRCpn0YkrZovE",
+        "name": "dar seddik residence d artistes",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": "https://www.facebook.com/mounir.letaief.5",
+        "owner": {
+            "id": "101309453049517576921",
+            "name": "dar seddik residence d artistes (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101309453049517576921"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMO5ue0YAWCt7t9l5U3yaBSMKL6r_zdsEuynbLL=w408-h272-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "21 171 717",
+        "address": "dar seddik residence d artistes, oasis, Gafsa 2100",
+        "review_keywords": [
+            {
+                "keyword": "diner",
+                "count": 4
+            },
+            {
+                "keyword": "chambre",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/dar+seddik+residence+d+artistes/data=!4m10!3m9!1s0x12f897a3ecc3512d:0xf1a2d94a62f4990a!5m2!4m1!1i2!8m2!3d34.4150912!4d8.7793319!16s%2Fg%2F11pz30_5n_!19sChIJLVHD7KOX-BIRCpn0YkrZovE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuftFz3NK-RIR13QFVzpTX2Y",
+        "name": "Hotel de la Jeunesse",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hotel de la Jeunesse (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNv2h6scWy9lCcpH1gPBUZmmwl_e8avspgUnsWI=w408-h544-k-no",
+        "main_category": "Hostel",
+        "categories": [
+            "Hostel"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "77 466 528",
+        "address": "Hotel de la Jeunesse, 40 Av. Habib Bourguiba, Sbeitla",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hotel+de+la+Jeunesse/data=!4m10!3m9!1s0x12f94a73cf45fbb9:0x665f533a570574d7!5m2!4m1!1i2!8m2!3d35.2284444!4d9.1280053!16s%2Fg%2F11c5bdbxgt!19sChIJuftFz3NK-RIR13QFVzpTX2Y?authuser=0&hl=fr&rclk=1"
+    }
+]

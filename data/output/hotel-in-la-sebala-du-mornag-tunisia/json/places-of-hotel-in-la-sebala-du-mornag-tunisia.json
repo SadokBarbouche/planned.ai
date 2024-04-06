@@ -1,0 +1,235 @@
+[
+    {
+        "place_id": "ChIJhep3qyA1-xIRjXLqDwj4lDI",
+        "name": "LA CIGALE TABARKA HOTEL - THALASSO & SPA - GOLF",
+        "description": "Complexe balneaire haut de gamme avec plusieurs restaurants, bar jazz, parcours de golf et spa.",
+        "is_spending_on_ads": false,
+        "reviews": 1033,
+        "website": "http://www.lacigaletabarka.com/",
+        "owner": {
+            "id": "110803477932440512910",
+            "name": "LA CIGALE TABARKA HOTEL - THALASSO & SPA - GOLF (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/110803477932440512910"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFXbfatCOtbyPweHCLnT13aKtO9BPbz6Zjx9fq8iicBlYlSokPh8HUjc9TTWYaW2r7J6qMJqqL1OL1WMdoyeQ5vgL6iMUds9G59yNv6HuwJGtZVvac19jypgBIXyv9byHpJpWUgIc9Pr7Yk8iTb8jZF-6RYFL78nfkf1BDGSoqmP1e6pe8_zRfr=w427-h240-k-no",
+        "main_category": "Complexe hotelier",
+        "categories": [
+            "Complexe hotelier"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "70 019 000",
+        "address": "LA CIGALE TABARKA HOTEL - THALASSO & SPA - GOLF, Zone touristique El Morgene, 1 Tabarka Touristic Road, Tabarka 8110",
+        "review_keywords": [
+            {
+                "keyword": "luxe",
+                "count": 23
+            },
+            {
+                "keyword": "5 etoiles",
+                "count": 23
+            },
+            {
+                "keyword": "vue",
+                "count": 17
+            },
+            {
+                "keyword": "burkini",
+                "count": 13
+            },
+            {
+                "keyword": "cadre",
+                "count": 13
+            },
+            {
+                "keyword": "musulman",
+                "count": 7
+            },
+            {
+                "keyword": "qualite",
+                "count": 6
+            },
+            {
+                "keyword": "maures",
+                "count": 5
+            },
+            {
+                "keyword": "chauffage",
+                "count": 5
+            },
+            {
+                "keyword": "buffet",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/LA+CIGALE+TABARKA+H%C3%94TEL+-+THALASSO+%26+SPA+-+GOLF/data=!4m10!3m9!1s0x12fb3520ab77ea85:0x3294f8080fea728d!5m2!4m1!1i2!8m2!3d36.9550582!4d8.7926405!16s%2Fg%2F11b6b4q3yl!19sChIJhep3qyA1-xIRjXLqDwj4lDI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJWXZ-czlNABMRTw2RxgZXYlM",
+        "name": "Hotel Cercina",
+        "description": "Hotel sobre proposant bar simple ainsi que restaurant avec terrasse et vue sur mer.",
+        "is_spending_on_ads": false,
+        "reviews": 169,
+        "website": null,
+        "owner": {
+            "id": "102986128172343638349",
+            "name": "Hotel Cercina (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/102986128172343638349"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFWaU-Gb38LWdNDZpkNO4xSCF6T_EHmvKUaRwJNoyzqb86rpr5kCdlUxOtKOhgUH699Je0DBeJVkQst4ExdGyuJGMPAAqWgNYzauIEg0H8gPgq55IRfaDUmYN6zisYzaIcO39p2yIT5vxOTJ7GF4ocgtqb1Q--_jhvYeBrdiQZgUhb80ZH7MvVi=w427-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel",
+            "Restaurant"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "74 489 600",
+        "address": "Hotel Cercina, 3025",
+        "review_keywords": [
+            {
+                "keyword": "mer",
+                "count": 9
+            },
+            {
+                "keyword": "chambres",
+                "count": 9
+            },
+            {
+                "keyword": "prix",
+                "count": 8
+            },
+            {
+                "keyword": "service",
+                "count": 6
+            },
+            {
+                "keyword": "cuisine",
+                "count": 4
+            },
+            {
+                "keyword": "ile",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+Cercina/data=!4m10!3m9!1s0x13004d39737e7659:0x53625706c6910d4f!5m2!4m1!1i2!8m2!3d34.6897745!4d11.1344753!16s%2Fg%2F1tdqwyvt!19sChIJWXZ-czlNABMRTw2RxgZXYlM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJpVm30Isz_RIRZnJIPZqHju0",
+        "name": "Dar Ben Gacem",
+        "description": "Maison d'hotes haut de gamme avec logements richement decores, petit-dejeuner gratuit et toit-terrasse.",
+        "is_spending_on_ads": false,
+        "reviews": 130,
+        "website": "http://www.darbengacem.om/",
+        "owner": {
+            "id": "116486323777614233558",
+            "name": "Dar Ben Gacem (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/116486323777614233558"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOXgUL6rse0aLuWkc3eHG17TK8_vVzg6Sfr0aDy=w408-h271-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "71 563 742",
+        "address": "Dar Ben Gacem, 38 Rue du Pacha, Tunis 1006",
+        "review_keywords": [
+            {
+                "keyword": "histoire",
+                "count": 9
+            },
+            {
+                "keyword": "experience",
+                "count": 9
+            },
+            {
+                "keyword": "chambre",
+                "count": 5
+            },
+            {
+                "keyword": "service",
+                "count": 5
+            },
+            {
+                "keyword": "musee",
+                "count": 4
+            },
+            {
+                "keyword": "porte",
+                "count": 4
+            },
+            {
+                "keyword": "coeur",
+                "count": 3
+            },
+            {
+                "keyword": "demeure",
+                "count": 3
+            },
+            {
+                "keyword": "wifi",
+                "count": 3
+            },
+            {
+                "keyword": "confortable",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Ben+Gacem/data=!4m10!3m9!1s0x12fd338bd0b759a5:0xed8e879a3d487266!5m2!4m1!1i2!8m2!3d36.800702!4d10.1677891!16s%2Fg%2F12vr9yqdj!19sChIJpVm30Isz_RIRZnJIPZqHju0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuftFz3NK-RIR13QFVzpTX2Y",
+        "name": "Hotel de la Jeunesse",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hotel de la Jeunesse (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNv2h6scWy9lCcpH1gPBUZmmwl_e8avspgUnsWI=w408-h544-k-no",
+        "main_category": "Hostel",
+        "categories": [
+            "Hostel"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "77 466 528",
+        "address": "Hotel de la Jeunesse, 40 Av. Habib Bourguiba, Sbeitla",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hotel+de+la+Jeunesse/data=!4m10!3m9!1s0x12f94a73cf45fbb9:0x665f533a570574d7!5m2!4m1!1i2!8m2!3d35.2284444!4d9.1280053!16s%2Fg%2F11c5bdbxgt!19sChIJuftFz3NK-RIR13QFVzpTX2Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqWM1XQA1_RIRzSznTRrpNbI",
+        "name": "Maison du 18eme Siecle",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Maison du 18eme Siecle (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHn87wbT5Js2QPhYujN_PkCyC-xHHrfW3s_prvpEfkCk225C81aMglhwhgCybEhfRpfKWU-M4v6mGbu1blt4YH2bBt8gkwRL5YKtWa-RmGKFpJPmqarjgc6lJ_fTim0O-SAUy1RD0q0qWItg4aSC1BeFSl4ZShWB8Qk3JnGXTZrgBW0DHMBEsMQBQ=w408-h544-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Q5VC+MPP Maison du 18eme Siecle, du Riche, Tunis 1008",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Maison+du+18%C3%A8me+Si%C3%A8cle/data=!4m10!3m9!1s0x12fd35005d3563a9:0xb235e91a4de72ccd!5m2!4m1!1i2!8m2!3d36.794242!4d10.171959!16s%2Fg%2F11y2czp01x!19sChIJqWM1XQA1_RIRzSznTRrpNbI?authuser=0&hl=fr&rclk=1"
+    }
+]

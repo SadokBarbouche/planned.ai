@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJi5l-kynXVBIRTw5YIh4KWLI",
+        "name": "Musee des coutumes et traditions de la ville de Medenine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee des coutumes et traditions de la ville de Medenine (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPjX_k4gY_12e_EcK58myPfgIzalYhbHqcBr3Qo=w408-h272-k-no",
+        "main_category": "Musee d'histoire locale",
+        "categories": [
+            "Musee d'histoire locale"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "8FWR+XJF Musee des coutumes et traditions de la ville de Medenine, Unnamed Road, Medenine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+des+coutumes+et+traditions+de+la+ville+de+M%C3%A9denine/data=!4m7!3m6!1s0x1254d729937e998b:0xb2580a1e22580e4f!8m2!3d33.3474331!4d10.4915598!16s%2Fg%2F11f3n381b9!19sChIJi5l-kynXVBIRTw5YIh4KWLI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7YKvY-3XVBIRmEMXQCVaAqQ",
+        "name": "jm` lfrdws",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "jm` lfrdws (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "8GJ4+4HV jm` lfrdws, Medenine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%AC%D8%A7%D9%85%D8%B9+%D8%A7%D9%84%D9%81%D8%B1%D8%AF%D9%88%D8%B3%E2%80%AD/data=!4m7!3m6!1s0x1254d7ed63af82ed:0xa4025a2540174398!8m2!3d33.3303683!4d10.5064119!16s%2Fg%2F11ssfxmhbb!19sChIJ7YKvY-3XVBIRmEMXQCVaAqQ?authuser=0&hl=fr&rclk=1"
+    }
+]

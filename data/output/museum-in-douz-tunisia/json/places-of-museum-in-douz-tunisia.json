@@ -1,0 +1,60 @@
+[
+    {
+        "place_id": "ChIJT_ArCOSHVhIRooNn6t9TX28",
+        "name": "Musee du Sahara de Douz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee du Sahara de Douz (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMin0jf9wpDpZanR_CTw0Yd4epJc1QwYf5co0BH=w408-h315-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique",
+            "Musee"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-16:30",
+        "closed_on": [],
+        "phone": null,
+        "address": "F229+Q9W Musee du Sahara de Douz, Douz",
+        "review_keywords": [
+            {
+                "keyword": "vie",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+du+Sahara+de+Douz/data=!4m7!3m6!1s0x125687e4082bf04f:0x6f5f53dfea6783a2!8m2!3d33.4519782!4d9.0184656!16s%2Fg%2F123dm0hvj!19sChIJT_ArCOSHVhIRooNn6t9TX28?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJKT4H26qHVhIRgVAZzBw0XZQ",
+        "name": "Sahara Museum",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Sahara Museum (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPt43Twealh35ZTmBiGtyapwlv5UsPjV5Vp1NDz=w408-h546-k-no",
+        "main_category": "Musee du patrimoine",
+        "categories": [
+            "Musee du patrimoine"
+        ],
+        "rating": 4.7,
+        "workday_timing": "09:30-16:30",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": null,
+        "address": "F229+W8V Sahara Museum, Unnamed Road, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sahara+Museum/data=!4m7!3m6!1s0x125687aadb073e29:0x945d341ccc195081!8m2!3d33.4523692!4d9.0183059!16s%2Fm%2F0n8jg5k!19sChIJKT4H26qHVhIRgVAZzBw0XZQ?authuser=0&hl=fr&rclk=1"
+    }
+]

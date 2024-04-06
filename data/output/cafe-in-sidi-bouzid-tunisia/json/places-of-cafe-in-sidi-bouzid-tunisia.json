@@ -1,0 +1,893 @@
+[
+    {
+        "place_id": "ChIJ00yiKVbD_hIRbJEPhF49vZM",
+        "name": "Cafe Phinix",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Phinix (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPf4-M3BWQ_qApxjlTKw-y0rw7JgEAAgSCpvhro=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "06:00-02:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "2FH4+HGM Cafe Phinix, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Phinix/data=!4m7!3m6!1s0x12fec35629a24cd3:0x93bd3d5e840f916c!8m2!3d35.0289677!4d9.4563016!16s%2Fg%2F11c57ssfsk!19sChIJ00yiKVbD_hIRbJEPhF49vZM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ16_hgTzD_hIROJjstp5C2xU",
+        "name": "Cafe La piazza",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": null,
+        "owner": {
+            "id": "118221668608668660335",
+            "name": "Cafe La piazza (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/118221668608668660335"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOhuwZkQNMbgv722g_Um1qPq5py8-1xcPJ4IysB=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "07:30-22:30",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": null,
+        "address": "Cafe La piazza, a cote de la pharmacie, Sidi Bouzid",
+        "review_keywords": [
+            {
+                "keyword": "experience",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Cafe+La+piazza/data=!4m7!3m6!1s0x12fec33c81e1afd7:0x15db429eb6ec9838!8m2!3d35.0253128!4d9.476295!16s%2Fg%2F11ts3nmqf9!19sChIJ16_hgTzD_hIROJjstp5C2xU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJXeCXFkXD_hIR5rlXY846hI8",
+        "name": "Cafe El woroud",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe El woroud (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPrs3eIFb3AgBC3MdcSicWSAmNh0fgvKrTIwVW-=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "53 577 616",
+        "address": "2FM9+7FF Cafe El woroud, C125, Sidi Bouzid 9100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+El+woroud/data=!4m7!3m6!1s0x12fec3451697e05d:0x8f843ace6357b9e6!8m2!3d35.0331923!4d9.4686828!16s%2Fg%2F1tml7lq4!19sChIJXeCXFkXD_hIR5rlXY846hI8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJE_Sy_NTD_hIR0ZBzw7XdWEE",
+        "name": "The Lodge",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "The Lodge (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNi69BIuEiW04ySlm-pAQhuP4-Nil7IUvQjG22M=w408-h306-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4.6,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "The Lodge, Unnamed Road, 9100 Av. De Baghdad, Sidi Bouzid",
+        "review_keywords": [
+            {
+                "keyword": "petit dejeuner",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/The+Lodge/data=!4m7!3m6!1s0x12fec3d4fcb2f413:0x4158ddb5c37390d1!8m2!3d35.0335206!4d9.4758589!16s%2Fg%2F11fl0tc775!19sChIJE_Sy_NTD_hIR0ZBzw7XdWEE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6095dXPD_hIRHoJypeSxmXY",
+        "name": "2B Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "2B Coffee (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNXrncQ-ABPYogi-WVq-azJVqYK7nXRI--p2wmZ=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "94 938 209",
+        "address": "2FGG+3J 2B Coffee, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/2B+Coffee/data=!4m7!3m6!1s0x12fec37375794feb:0x7699b1e4a572821e!8m2!3d35.0252603!4d9.4765272!16s%2Fg%2F11p66wthf6!19sChIJ6095dXPD_hIRHoJypeSxmXY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqc8-_0TD_hIRET1gtgBpymA",
+        "name": "Selfie Coffee Shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": "http://selfie.com/",
+        "owner": {
+            "id": null,
+            "name": "Selfie Coffee Shop (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM98mNBoDVlpDGj8u6lAcX2xFVU6RWZwmsN-m5z=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "52 191 809",
+        "address": "2FM9+MX6 Selfie Coffee Shop, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Selfie+Coffee+Shop/data=!4m7!3m6!1s0x12fec344ff3ecfa9:0x60ca6900b6603d11!8m2!3d35.034162!4d9.4699049!16s%2Fg%2F11csp7756b!19sChIJqc8-_0TD_hIRET1gtgBpymA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJX6CEiTDD_hIRpuuX0_XWZ78",
+        "name": "Big 4 Coffee Lounge",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": "113400827436565081842",
+            "name": "Big 4 Coffee Lounge (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113400827436565081842"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMdpAipVeLeW9hb61w2wpnQDMGDvIdPk0CZDvRa=w547-h240-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "52 417 323",
+        "address": "Big 4 Coffee Lounge, Centre Souissi a cote de Boutique Hammadi, Abid, Sidi Bouzid 9100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Big+4+Coffee+Lounge/data=!4m7!3m6!1s0x12fec3308984a05f:0xbf67d6f5d397eba6!8m2!3d35.0322326!4d9.4705995!16s%2Fg%2F11q21pqv5k!19sChIJX6CEiTDD_hIRpuuX0_XWZ78?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJXfiGWWjD_hIR3xvp7cDLhmM",
+        "name": "Casablanca",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": "111913313728586261954",
+            "name": "Casablanca (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111913313728586261954"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOVn71SRZuy8JTih735raz1AAMrVjZE7E_2Iy1h=w408-h544-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "54 771 771",
+        "address": "Casablanca, Bd Mohamed Bouazizi, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Casablanca/data=!4m7!3m6!1s0x12fec3685986f85d:0x6386cbc0ede91bdf!8m2!3d35.0389203!4d9.4911701!16s%2Fg%2F11jpwcnxpf!19sChIJXfiGWWjD_hIR3xvp7cDLhmM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0TNbd0bD_hIR-4xInXa9MmE",
+        "name": "Cafe La Phalene",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe La Phalene (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMpGDK1iIUagH3fI1OLFcV-PJzAV_h76KRNiXon=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": "52 169 197",
+        "address": "2FMF+46Q Cafe La Phalene, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+La+Phal%C3%A8ne/data=!4m7!3m6!1s0x12fec346775b33d1:0x6132bd769d488cfb!8m2!3d35.0328359!4d9.473114!16s%2Fg%2F11c51x09kp!19sChIJ0TNbd0bD_hIR-4xInXa9MmE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJA1SVC1fD_hIRebayoOjlRwI",
+        "name": "La Terasse",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": "106699863244718234171",
+            "name": "La Terasse (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106699863244718234171"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPcKL-peE_PQuU37h5ueIRm3VHWk2sB-NzvKyP3=w408-h408-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "06:30-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "La Terasse, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+Terasse/data=!4m7!3m6!1s0x12fec3570b955403:0x247e5e8a0b2b679!8m2!3d35.0303579!4d9.4591128!16s%2Fg%2F11cs0d95z2!19sChIJA1SVC1fD_hIRebayoOjlRwI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_U11UUTD_hIRl_e8tMfZv3o",
+        "name": "Havana coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": "114986085068210224868",
+            "name": "Havana coffee (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114986085068210224868"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNt2gZzEpa7o9QsXCLDJYKeiR0YTnv1IhFI8Uui=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "28 801 164",
+        "address": "Havana coffee, lTryq lHzmy@ Grb mdyn@ sydy bwzyd,",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Havana+coffee/data=!4m7!3m6!1s0x12fec34451754dfd:0x7abfd9c7b4bcf797!8m2!3d35.0377322!4d9.4582029!16s%2Fg%2F11h22pmys2!19sChIJ_U11UUTD_hIRl_e8tMfZv3o?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZ4_OYUbD_hIRzk3-Vm6uzEc",
+        "name": "Cafe Paris",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Paris (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO81a_cV7MU5wBYqBFfYVvI2CZsiy7o_MS7kGQz=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "2FMF+9JC Cafe Paris, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Paris/data=!4m7!3m6!1s0x12fec34661ce8f67:0x47ccae6e56fe4dce!8m2!3d35.0334338!4d9.4740155!16s%2Fg%2F11d_d4jmg2!19sChIJZ4_OYUbD_hIRzk3-Vm6uzEc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2Viay_TD_hIRNALsU5Gcg8Y",
+        "name": "Kamchatka lounge coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Kamchatka lounge coffee (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMleLihHfk0S7MQpstVlEyZzK7yqlM_bxv2wcyq=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": "97 554 109",
+        "address": "2FMR+3XV Kamchatka lounge coffee, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kamchatka+lounge+coffee/data=!4m7!3m6!1s0x12fec3f4cb9a58d9:0xc6839c9153ec0234!8m2!3d35.0327341!4d9.4924239!16s%2Fg%2F11sxvy2w7b!19sChIJ2Viay_TD_hIRNALsU5Gcg8Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJk-kAJzbD_hIR8W8xDbU6D20",
+        "name": "Cafe BROOKLYN",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "https://www.facebook.com/1131197830365908/posts/1133600320125659/",
+        "owner": {
+            "id": null,
+            "name": "Cafe BROOKLYN (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMz_fjx53wPD5j36817rPdGK2_CYinK9dI5lMK1=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-22:00",
+        "closed_on": [],
+        "phone": "97 222 085",
+        "address": "2FPJ+66W Cafe BROOKLYN, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+BROOKLYN/data=!4m7!3m6!1s0x12fec3362700e993:0x6d0f3ab50d316ff1!8m2!3d35.0356004!4d9.4805903!16s%2Fg%2F11fcsqrjpm!19sChIJk-kAJzbD_hIR8W8xDbU6D20?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJsW--lz7D_hIRKXixL4MhGYQ",
+        "name": "FABRICA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "FABRICA (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNQH_6c06Rm6_h5AZg7GhrbvXxPS4cjKRYHfQOT=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-21:00",
+        "closed_on": [],
+        "phone": "97 900 866",
+        "address": "2FPM+VGQ FABRICA, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/FABRICA/data=!4m7!3m6!1s0x12fec33e97be6fb1:0x841921832fb17829!8m2!3d35.0372063!4d9.4838482!16s%2Fg%2F11f3tstlvc!19sChIJsW--lz7D_hIRKXixL4MhGYQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJa1FVS6TD_hIRDPSKaqfDiEw",
+        "name": "Cafe Mimo's",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Mimo's (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNkMAiScaim-HhrHrRpPPQLAPu1avDIclXk0Gk2=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "2FMF+258 Cafe Mimo's, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Mimo%27s/data=!4m7!3m6!1s0x12fec3a44b55516b:0x4c88c3a76a8af40c!8m2!3d35.0325496!4d9.4729476!16s%2Fg%2F11h04n8qyv!19sChIJa1FVS6TD_hIRDPSKaqfDiEw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqarqhSLD_hIRxZHN5eN1IXg",
+        "name": "Cafe El Amir",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe El Amir (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMKqsS4-oRJZ1v_SOPCHLgHCgRxSxOE3WT3iOYf=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "2FQR+VP8 Cafe El Amir, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+El+Amir/data=!4m7!3m6!1s0x12fec32285eaaaa9:0x782175e3e5cd91c5!8m2!3d35.039663!4d9.4918327!16s%2Fg%2F11dxk_f360!19sChIJqarqhSLD_hIRxZHN5eN1IXg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtSpakXLD_hIRI_CFRZ72nvg",
+        "name": "TO BI GLACE CHEZ AHMED",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "TO BI GLACE CHEZ AHMED (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOwpVtZcevTQnR8rRKFZ4kumtltMxnjxdHe06Fb=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "52 240 916",
+        "address": "TO BI GLACE CHEZ AHMED, Cite wouroud 1 en face de hamadi abid, Sidi Bouzid 9117",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/TO+BI+GLACE+CHEZ+AHMED/data=!4m7!3m6!1s0x12fec372915a2ab5:0xf89ef69e4585f023!8m2!3d35.0334888!4d9.4706921!16s%2Fg%2F11ghppwhl4!19sChIJtSpakXLD_hIRI_CFRZ72nvg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJB1ce5bfD_hIRRuuVvWnlEXA",
+        "name": "Cafe Volcano",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Volcano (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPS9OhppOMMRI5Syccwhh4XOp1oJoNdwNXXTZTi=w408-h351-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "2FQ9+CJ7 Cafe Volcano, Rue union maghrebin, Sidi Bouzid 9100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Volcano/data=!4m7!3m6!1s0x12fec3b7e51e5707:0x7011e569bd95eb46!8m2!3d35.0385397!4d9.4690514!16s%2Fg%2F11fr3cdhk5!19sChIJB1ce5bfD_hIRRuuVvWnlEXA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJRbbYBkzD_hIRZRqhj-YerIM",
+        "name": "The cup",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "The cup (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMhTi1bSNImdEqumO-xPC6vf0sUgGjDdCoehN9L=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "90 747 000",
+        "address": "2FMC+HR6 The cup, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+cup/data=!4m7!3m6!1s0x12fec34c06d8b645:0x83ac1ee68fa11a65!8m2!3d35.0339058!4d9.4720234!16s%2Fg%2F11tn5lj6q6!19sChIJRbbYBkzD_hIRZRqhj-YerIM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3fXb5kvD_hIRUAptJtO6VxA",
+        "name": "Sidi Bouzid",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Sidi Bouzid (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMnEFXjk1_MBPAMEXL1zAt5UsmWG5JfL8fEuozy=w408-h906-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": null,
+        "address": "2FPM+5H8 Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sidi+Bouzid/data=!4m7!3m6!1s0x12fec34be6dbf5dd:0x1057bad3266d0a50!8m2!3d35.0354234!4d9.483967!16s%2Fg%2F11sc_ln29y!19sChIJ3fXb5kvD_hIRUAptJtO6VxA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJLYU3WZvD_hIR691hn-4V47Q",
+        "name": "YAHYAOUI COFFEE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "YAHYAOUI COFFEE (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNiMYNEUDZiDJy1F7FZ4pqtlQcgNw_0Ph5nSxqi=w508-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "97 965 645",
+        "address": "2FQM+2W7 YAHYAOUI COFFEE, Bd Mohamed Bouazizi, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/YAHYAOUI+COFFEE/data=!4m7!3m6!1s0x12fec39b5937852d:0xb4e315ee9f61ddeb!8m2!3d35.0375278!4d9.4847826!16s%2Fg%2F11rpvgn7j9!19sChIJLYU3WZvD_hIR691hn-4V47Q?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ--47zErD_hIRASdu5YobZVw",
+        "name": "Ezzahra cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ezzahra cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNgEd7vAoqUQf0aiWdpXI6W1E92YcZI4Gu4eYxX=w533-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "53 543 906",
+        "address": "Ezzahra cafe, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ezzahra+caf%C3%A9/data=!4m7!3m6!1s0x12fec34acc3beefb:0x5c651b8ae56e2701!8m2!3d35.031033!4d9.4711356!16s%2Fg%2F11tggrcv36!19sChIJ--47zErD_hIRASdu5YobZVw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdfNQnanE_hIRltTaIzXu67U",
+        "name": "COSTA CAFE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "COSTA CAFE (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOWuUN0qfcsnXLS58hyd3T0xrK75fuJSOJ_-a8J=w408-h408-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "27 123 845",
+        "address": "2FH3+393 COSTA CAFE, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/COSTA+CAFE/data=!4m7!3m6!1s0x12fec4a99d50f375:0xb5ebee3523dad496!8m2!3d35.0276358!4d9.453408!16s%2Fg%2F11c6q8p33n!19sChIJdfNQnanE_hIRltTaIzXu67U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJwxIreC7D_hIR8lNLVbNl9zA",
+        "name": "The Gold",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "The Gold (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNdGXSBh55JFT6pBORCecURmkEHlcOkShYIJu3B=w408-h544-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "2FMC+33M The Gold, Bd Mohamed Bouazizi, Sidi Bouzid 9100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+Gold/data=!4m7!3m6!1s0x12fec32e782b12c3:0x30f765b3554b53f2!8m2!3d35.0327143!4d9.4701629!16s%2Fg%2F11t9wtzw68!19sChIJwxIreC7D_hIR8lNLVbNl9zA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJN6ymuSDD_hIRwEC8h47y5eA",
+        "name": "Cafe Restaurant BALANCE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Restaurant BALANCE (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMew-eTBGMZWlZOpIv5D1eJywLlr27PTq9MMRT-=w488-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:00-20:00",
+        "closed_on": [],
+        "phone": "99 417 607",
+        "address": "Cafe Restaurant BALANCE, 9100, Sidi Bouzid 9100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Restaurant+BALANCE/data=!4m7!3m6!1s0x12fec320b9a6ac37:0xe0e5f28e87bc40c0!8m2!3d35.0330632!4d9.4710607!16s%2Fg%2F11p3x9s9m4!19sChIJN6ymuSDD_hIRwEC8h47y5eA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJrZAKOVHD_hIRLhr2jDwTbDk",
+        "name": "The Loft Lounge",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://www.facebook.com/profile.php%3Fid%3D61553937093550",
+        "owner": {
+            "id": null,
+            "name": "The Loft Lounge (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPeqvXsYzM4c0NmOd91W2UPvRJGKISUa_QB3GnE=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "93 386 338",
+        "address": "2FMF+8P4 The Loft Lounge, `mr@ lbrqwqy, Sidi Bouzid 9100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+Loft+Lounge/data=!4m7!3m6!1s0x12fec351390a90ad:0x396c133c8cf61a2e!8m2!3d35.033274!4d9.474314!16s%2Fg%2F11y207swr4!19sChIJrZAKOVHD_hIRLhr2jDwTbDk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJJYBhKx7D_hIRght5Oc3L5eM",
+        "name": "BEN jaloul",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "http://www.facebook.com/1141084022578448",
+        "owner": {
+            "id": null,
+            "name": "BEN jaloul (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOBf1DvO5dMlNbv5A3JkRYCRRUpLZV1G9wLIK4N=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-23:30",
+        "closed_on": [],
+        "phone": "90 122 451",
+        "address": "BEN jaloul, Ecole Primaire Cite El Khadhra, Sidi Bouzid 9100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/BEN+jaloul/data=!4m7!3m6!1s0x12fec31e2b618025:0xe3e5cbcd39791b82!8m2!3d35.0424458!4d9.5002776!16s%2Fg%2F11c44pmj9n!19sChIJJYBhKx7D_hIRght5Oc3L5eM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZdfLe6HD_hIRYK9oT1lvyrQ",
+        "name": "BIG SMARI JUICE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "BIG SMARI JUICE (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOqVn3ciAr7zd-qnobHzQ4SUoryhV2WsJUGWLk3=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-19:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "2FMF+8F2 BIG SMARI JUICE, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/BIG+SMARI+JUICE/data=!4m7!3m6!1s0x12fec3a17bcbd765:0xb4ca6f594f68af60!8m2!3d35.0332707!4d9.4736545!16s%2Fg%2F11jszbhnlp!19sChIJZdfLe6HD_hIRYK9oT1lvyrQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5eWXJxfD_hIRu6NFpRW2GyY",
+        "name": "Kimo cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Kimo cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7oz_NVGPUJyx9G6zmaEuf750IHmQWe1g7_YyJ=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "2FM9+CWH Kimo cafe, C125, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kimo+cafe/data=!4m7!3m6!1s0x12fec3172797e5e5:0x261bb615a545a3bb!8m2!3d35.0335634!4d9.4698444!16s%2Fg%2F11hds3yz4z!19sChIJ5eWXJxfD_hIRu6NFpRW2GyY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJd78xgjLD_hIRhvGJJ7_KoAw",
+        "name": "Cafe Charlotte",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "115162370112324858405",
+            "name": "Cafe Charlotte (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/115162370112324858405"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipODANQraknSCPgo8j8M6qtNC593-7fXzT3CtI9d=w408-h338-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-22:00",
+        "closed_on": [],
+        "phone": "29 147 012",
+        "address": "Cafe Charlotte, Bd Mohamed Bouazizi, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Charlotte/data=!4m7!3m6!1s0x12fec3328231bf77:0xca0cabf2789f186!8m2!3d35.0351927!4d9.4772084!16s%2Fg%2F11j_167126!19sChIJd78xgjLD_hIRhvGJJ7_KoAw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJOaNPvlnD_hIRvPk-Xc5Q6RA",
+        "name": "Cafe Belvue",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Belvue (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNoS5_ogs-vUzSaJJY3Km027lPcTCS7TKEQHBaX=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "53 243 653",
+        "address": "2FPW+8F7 Cafe Belvue, Rue Denmark, Sidi Bouzid 9100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Belvue/data=!4m7!3m6!1s0x12fec359be4fa339:0x10e950ce5d3ef9bc!8m2!3d35.0357952!4d9.4961606!16s%2Fg%2F11f782szw3!19sChIJOaNPvlnD_hIRvPk-Xc5Q6RA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJg98z6KzD_hIRXcwtV7proQw",
+        "name": "Cafe Margoum",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Margoum (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP-xMufnRuYl_NBB-Amk5s955YjBflNJWhMgjmR=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "95 484 870",
+        "address": "2FPR+WC9 Cafe Margoum, Unnamed Road, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Margoum/data=!4m7!3m6!1s0x12fec3ace833df83:0xca16bba572dcc5d!8m2!3d35.0372863!4d9.4911207!16s%2Fg%2F11rd19280t!19sChIJg98z6KzD_hIRXcwtV7proQw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJv2f6l6XD_hIRU7tk0dX2k18",
+        "name": "vivarium cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "114464207584345490932",
+            "name": "vivarium cafe (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114464207584345490932"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipORa4WwfqMAjoldf5b_SmdpIlfwH4cGcSC9fD0m=w408-h408-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "vivarium cafe, 5 rue Palestine, Sidi Bouzid 9100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/vivarium+cafe/data=!4m7!3m6!1s0x12fec3a597fa67bf:0x5f93f6d5d164bb53!8m2!3d35.0392654!4d9.4937173!16s%2Fg%2F11rf4cbnss!19sChIJv2f6l6XD_hIRU7tk0dX2k18?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJwSKr3HnD_hIRy6FNZejHSbM",
+        "name": "Le Biscuit",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Le Biscuit (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPFhufVi4POe3R7ksCu3mbRNIgU03jkriKhCtv7=w408-h431-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-21:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "96 854 091",
+        "address": "Le Biscuit, R125,",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Le+Biscuit/data=!4m7!3m6!1s0x12fec379dcab22c1:0xb349c7e8654da1cb!8m2!3d35.0340335!4d9.4738662!16s%2Fg%2F11rsdg2q51!19sChIJwSKr3HnD_hIRy6FNZejHSbM?authuser=0&hl=fr&rclk=1"
+    }
+]

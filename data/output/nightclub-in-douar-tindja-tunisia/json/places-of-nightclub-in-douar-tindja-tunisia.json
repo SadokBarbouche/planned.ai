@@ -1,0 +1,56 @@
+[
+    {
+        "place_id": "ChIJaSWItdOL_RIROuhvLJsfYGo",
+        "name": "Dar Mjoujem",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "https://www.facebook.com/mootaz.braham.7",
+        "owner": {
+            "id": "106364766944762214459",
+            "name": "Dar Mjoujem (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106364766944762214459"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMRNU-eXhoNiC-iCWnPait2qKYYsVL2mFuiQxo0=w408-h547-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4.6,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [
+            "vendredi"
+        ],
+        "phone": "98 757 516",
+        "address": "Dar Mjoujem, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Mjoujem/data=!4m7!3m6!1s0x12fd8bd3b5882569:0x6a601f9b2c6fe83a!8m2!3d35.8283859!4d10.5959962!16s%2Fg%2F11s42vyv9j!19sChIJaSWItdOL_RIROuhvLJsfYGo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJs1EedUsf4xIROMuCLe4h-1M",
+        "name": "Disco nirvana",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Disco nirvana (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": "00:00-05:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "98 177 607",
+        "address": "8V38+7PC Disco nirvana, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Disco+nirvana/data=!4m7!3m6!1s0x12e31f4b751e51b3:0x53fb21ee2d82cb38!8m2!3d37.3026553!4d9.8676129!16s%2Fg%2F11krh34syq!19sChIJs1EedUsf4xIROMuCLe4h-1M?authuser=0&hl=fr&rclk=1"
+    }
+]

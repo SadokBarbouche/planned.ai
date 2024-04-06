@@ -1,0 +1,186 @@
+[
+    {
+        "place_id": "ChIJa1SMoLXKAhMRUWZOWEBNdis",
+        "name": "Club MC27",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 79,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Club MC27 (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMTHpK0nkdkp8ZtBAKjIHLnncgTNMG2Uo_n14Zh=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "08:00-02:00",
+        "closed_on": [],
+        "phone": "21 414 040",
+        "address": "Q2M2+9MP Club MC27, Manzil Tamim",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Club+MC27/data=!4m7!3m6!1s0x1302cab5a08c546b:0x2b764d40584e6651!8m2!3d36.7834511!4d11.0016891!16s%2Fg%2F11g8nz0jw2!19sChIJa1SMoLXKAhMRUWZOWEBNdis?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJR7mxILkf4xIRGCNRQFzPstQ",
+        "name": "THE MIXTE Cafe Restaurant Chicha Soiree Dansante",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "THE MIXTE Cafe Restaurant Chicha Soiree Dansante (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNXU_cXvpQj4y0pworyxuuCbwzvbpCnfJ1uioWD=w408-h725-k-no",
+        "main_category": "Cafe et restaurant de grillades",
+        "categories": [
+            "Cafe et restaurant de grillades"
+        ],
+        "rating": 4.5,
+        "workday_timing": "04:30-03:30",
+        "closed_on": [],
+        "phone": "55 229 266",
+        "address": "THE MIXTE Cafe Restaurant Chicha Soiree Dansante, 46 Ave Habib Bourguiba, Menzel Abderrahmen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/THE+MIXTE+Caf%C3%A9+Restaurant+Chicha+Soir%C3%A9e+Dansante/data=!4m7!3m6!1s0x12e31fb920b1b947:0xd4b2cf5c40512318!8m2!3d37.2333483!4d9.8674436!16s%2Fg%2F11gtd25s5g!19sChIJR7mxILkf4xIRGCNRQFzPstQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJmZhl9rvLAhMRI3i36mkmxzM",
+        "name": "Club Nautique manzel Temime",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "https://www.facebook.com/Club-Nautique-Manzel-temime-849240088751281/",
+        "owner": {
+            "id": null,
+            "name": "Club Nautique manzel Temime (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNSiocYqTEAQhmOlBZ6MyVnSFFk2_wCse-x6hMp=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "56 278 070",
+        "address": "Club Nautique manzel Temime, Jardin Youssef Temimi, rue de la plage",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Club+Nautique+manzel+Temime/data=!4m7!3m6!1s0x1302cbbbf6659899:0x33c72669eab77823!8m2!3d36.7710494!4d11.0083125!16s%2Fg%2F11h0mpyxjz!19sChIJmZhl9rvLAhMRI3i36mkmxzM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJOSgiKizLAhMRjqTqqsf3ICg",
+        "name": "Menzel temime",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Menzel temime (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Pub",
+        "categories": [
+            "Pub"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QXHM+2VM Menzel temime, Avenue de l'imam sahnoun, Manzil Tamim 8080",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Menzel+temime/data=!4m7!3m6!1s0x1302cb2c2a222839:0x2820f7c7aaeaa48e!8m2!3d36.7775805!4d10.9846613!16s%2Fg%2F11q7dmclc3!19sChIJOSgiKizLAhMRjqTqqsf3ICg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJgzR0GEkf4xIRP08OMKmfSig",
+        "name": "Espace loisir oussema",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Espace loisir oussema (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMWLAjZj69_tvr3zwTCufh1_cy2TdHQac4-zGOI=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "50 609 626",
+        "address": "6RJX+MGV Espace loisir oussema, Menzel Abderrahmen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Espace+loisir+oussema/data=!4m7!3m6!1s0x12e31f4918743483:0x284a9fa9300e4f3f!8m2!3d37.2317469!4d9.8487986!16s%2Fg%2F11jqtdh6jj!19sChIJgzR0GEkf4xIRP08OMKmfSig?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZSgRFArF4hIRaFvTsIlZ5-0",
+        "name": "Mbarek Ghabbarou",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "108343395646523597109",
+            "name": "Mbarek Ghabbarou (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108343395646523597109"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOGhvJ3lJ7ndPnvyHfXvPqVFjEuGjPDuPp5Uxl1=w408-h312-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "lundi",
+            "mardi",
+            "mercredi",
+            "jeudi",
+            "vendredi",
+            "samedi"
+        ],
+        "phone": "22 074 399",
+        "address": "Mbarek Ghabbarou, Kalaate Al Andalouss",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mbarek+Ghabbarou/data=!4m7!3m6!1s0x12e2c50a14112865:0xede75989b0d35b68!8m2!3d37.0603985!4d10.1244033!16s%2Fg%2F11f_j21frm!19sChIJZSgRFArF4hIRaFvTsIlZ5-0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJs1EedUsf4xIROMuCLe4h-1M",
+        "name": "Disco nirvana",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Disco nirvana (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": "00:00-05:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "98 177 607",
+        "address": "8V38+7PC Disco nirvana, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Disco+nirvana/data=!4m7!3m6!1s0x12e31f4b751e51b3:0x53fb21ee2d82cb38!8m2!3d37.3026553!4d9.8676129!16s%2Fg%2F11krh34syq!19sChIJs1EedUsf4xIROMuCLe4h-1M?authuser=0&hl=fr&rclk=1"
+    }
+]

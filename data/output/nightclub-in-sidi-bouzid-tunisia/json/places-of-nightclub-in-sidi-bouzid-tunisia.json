@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": "ChIJrZAKOVHD_hIRLhr2jDwTbDk",
+        "name": "The Loft Lounge",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://www.facebook.com/profile.php%3Fid%3D61553937093550",
+        "owner": {
+            "id": null,
+            "name": "The Loft Lounge (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPeqvXsYzM4c0NmOd91W2UPvRJGKISUa_QB3GnE=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "93 386 338",
+        "address": "2FMF+8P4 The Loft Lounge, `mr@ lbrqwqy, Sidi Bouzid 9100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+Loft+Lounge/data=!4m7!3m6!1s0x12fec351390a90ad:0x396c133c8cf61a2e!8m2!3d35.033274!4d9.474314!16s%2Fg%2F11y207swr4!19sChIJrZAKOVHD_hIRLhr2jDwTbDk?authuser=0&hl=fr&rclk=1"
+    }
+]

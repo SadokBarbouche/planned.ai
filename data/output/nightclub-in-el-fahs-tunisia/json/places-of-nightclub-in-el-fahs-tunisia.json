@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": "ChIJD0SXclv9_BIRUVDBGOUoqpc",
+        "name": "The Drug Shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://www.dragqueenmerch.com/",
+        "owner": {
+            "id": null,
+            "name": "The Drug Shop (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Epicerie",
+        "categories": [
+            "Epicerie"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "20 366 376",
+        "address": "9V9W+JVQ The Drug Shop, P4, El Fahs",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+Drug+Shop/data=!4m7!3m6!1s0x12fcfd5b7297440f:0x97aa28e518c15051!8m2!3d36.3690964!4d9.8972278!16s%2Fg%2F11h194fws0!19sChIJD0SXclv9_BIRUVDBGOUoqpc?authuser=0&hl=fr&rclk=1"
+    }
+]

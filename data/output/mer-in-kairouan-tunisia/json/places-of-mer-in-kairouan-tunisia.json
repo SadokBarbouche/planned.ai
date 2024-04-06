@@ -1,0 +1,70 @@
+[
+    {
+        "place_id": "ChIJ45cjaD_F_RIRHrojZwgOIYk",
+        "name": "Mosquee Okba Ibn Nafaa",
+        "description": "Celebre mosquee datant du VIIe siecle avec murs imposants, minaret carre et ornements architecturaux.",
+        "is_spending_on_ads": false,
+        "reviews": 2209,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mosquee Okba Ibn Nafaa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNEL5TfujiOvcePKvWqK5nPcjo2E41qK7BFskET=w408-h306-k-no",
+        "main_category": "Mosquee",
+        "categories": [
+            "Mosquee",
+            "Lieu historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "08:00-14:00",
+        "closed_on": [],
+        "phone": "76 489 133",
+        "address": "M4J3+GMV Mosquee Okba Ibn Nafaa, Rue De La Kasbah, Kairouan",
+        "review_keywords": [
+            {
+                "keyword": "histoire",
+                "count": 104
+            },
+            {
+                "keyword": "monument",
+                "count": 38
+            },
+            {
+                "keyword": "colonnes",
+                "count": 24
+            },
+            {
+                "keyword": "minaret",
+                "count": 24
+            },
+            {
+                "keyword": "oqba ibn nafi al-fihri",
+                "count": 21
+            },
+            {
+                "keyword": "civilisation islamique",
+                "count": 13
+            },
+            {
+                "keyword": "marbre",
+                "count": 12
+            },
+            {
+                "keyword": "edifice",
+                "count": 10
+            },
+            {
+                "keyword": "cadran solaire",
+                "count": 9
+            },
+            {
+                "keyword": "djellaba",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mosqu%C3%A9e+Okba+Ibn+Nafaa/data=!4m7!3m6!1s0x12fdc53f682397e3:0x89210e086723ba1e!8m2!3d35.6813693!4d10.1041651!16zL20vMGYyNmZz!19sChIJ45cjaD_F_RIRHrojZwgOIYk?authuser=0&hl=fr&rclk=1"
+    }
+]

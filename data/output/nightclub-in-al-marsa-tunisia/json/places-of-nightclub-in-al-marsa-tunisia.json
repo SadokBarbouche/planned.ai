@@ -1,0 +1,240 @@
+[
+    {
+        "place_id": "ChIJgdht4Z614hIRoRjhu9eX5BU",
+        "name": "BSMNT The Club",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 33,
+        "website": "https://basement-theclub.com/",
+        "owner": {
+            "id": "101612273304982936520",
+            "name": "BSMNT The Club (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101612273304982936520"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPKPlw2EPI9gs4xpsNuD2__JNhjXF_63fbDYaT-=w408-h303-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque",
+            "Bar"
+        ],
+        "rating": 4.2,
+        "workday_timing": "20:00-04:00",
+        "closed_on": [
+            "lundi",
+            "mardi",
+            "mercredi"
+        ],
+        "phone": null,
+        "address": "W7CQ+5MQ BSMNT The Club, Gammarth",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/BSMNT+The+Club/data=!4m7!3m6!1s0x12e2b59ee16dd881:0x15e497d7bbe118a1!8m2!3d36.9204708!4d10.2894025!16s%2Fg%2F11pkcc70bq!19sChIJgdht4Z614hIRoRjhu9eX5BU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJPWPnrem14hIREfcqK9KdyTs",
+        "name": "Bla Bla gammarth",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bla Bla gammarth (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMlMbS9ljPUQvsbM0ZrsNeiQ4m2LGeaFj8M3Zns=w408-h272-k-no",
+        "main_category": "Bar",
+        "categories": [
+            "Bar"
+        ],
+        "rating": 4.5,
+        "workday_timing": "14:00-02:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "W846+JW3 Bla Bla gammarth, Marsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bla+Bla+gammarth/data=!4m7!3m6!1s0x12e2b5e9ade7633d:0x3bc99dd22b2af711!8m2!3d36.9065175!4d10.3123098!16s%2Fg%2F11s93ww7rv!19sChIJPWPnrem14hIREfcqK9KdyTs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_zmWk7m14hIRIvwDXiffsiY",
+        "name": "TSpice",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "TSpice (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Bar lounge",
+        "categories": [
+            "Bar lounge"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "21 225 156",
+        "address": "TSpice, Zone touristique Gammarth Tunis, 2070",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/TSpice/data=!4m7!3m6!1s0x12e2b5b9939639ff:0x26b2df275e03fc22!8m2!3d36.9217262!4d10.2908078!16s%2Fg%2F11jkns1v20!19sChIJ_zmWk7m14hIRIvwDXiffsiY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ756OPQC14hIRsfJ7d01RTW0",
+        "name": "Lazy Club",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Lazy Club (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMzX2vg0ATS1fyK7kJBYKFeUE4TrnigN-IXXkZn=w408-h725-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4,
+        "workday_timing": "22:00-04:00",
+        "closed_on": [
+            "lundi",
+            "mardi",
+            "mercredi"
+        ],
+        "phone": null,
+        "address": "W7GF+56G Lazy Club, Gammarth",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lazy+Club/data=!4m7!3m6!1s0x12e2b5003d8e9eef:0x6d4d514d777bf2b1!8m2!3d36.9254413!4d10.2730484!16s%2Fg%2F11y27jv90l!19sChIJ756OPQC14hIRsfJ7d01RTW0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2x2abku14hIRIBzlLqUBTgw",
+        "name": "A Point Le Bar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://instagram.com/apointbar%3Figshid%3DNzZlODBkYWE4Ng%3D%3D%26utm_source%3Dqr",
+        "owner": {
+            "id": "107165644153933908991",
+            "name": "A Point Le Bar (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/107165644153933908991"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO9WESN5Yxx2irfEhz4uSr4NMHyUpNhsB3JmJQN=w408-h338-k-no",
+        "main_category": "Bar lounge",
+        "categories": [
+            "Bar lounge"
+        ],
+        "rating": 4.8,
+        "workday_timing": "14:00-00:00",
+        "closed_on": [],
+        "phone": "95 823 432",
+        "address": "A Point Le Bar, Av de la Promenade, Marsa 2078",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/A+Point+Le+Bar/data=!4m7!3m6!1s0x12e2b54b6e9a1ddb:0xc4e01a52ee51c20!8m2!3d36.9063784!4d10.3125508!16s%2Fg%2F11vj941z66!19sChIJ2x2abku14hIRIBzlLqUBTgw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJUzSKlu-14hIRkTbJxxyi-Vs",
+        "name": "Bodega",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bodega (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPH1JFg6HHuv8kzeeiKEM_Otn5bKVfxSa4os_to=w408-h306-k-no",
+        "main_category": "Bar lounge",
+        "categories": [
+            "Bar lounge"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "W7GF+36F Bodega, Gammarth",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bodega/data=!4m7!3m6!1s0x12e2b5ef968a3453:0x5bf9a21cc7c93691!8m2!3d36.925192!4d10.273053!16s%2Fg%2F11c1cshk2t!19sChIJUzSKlu-14hIRkTbJxxyi-Vs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJkSX6Pm-14hIRPVEuX4_-hhg",
+        "name": "Terraza del marabella",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Terraza del marabella (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNL8vr2w9RCYPhlugjutmX6n6965xQ72OZHVaFR=w408-h544-k-no",
+        "main_category": "Bar lounge",
+        "categories": [
+            "Bar lounge"
+        ],
+        "rating": 4,
+        "workday_timing": "12:00-00:00",
+        "closed_on": [],
+        "phone": "94 060 104",
+        "address": "W847+H5 Terraza del marabella, La Marsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Terraza+del+marabella/data=!4m7!3m6!1s0x12e2b56f3efa2591:0x1886fe8f5f2e513d!8m2!3d36.9063815!4d10.3128982!16s%2Fg%2F11v63gc3ks!19sChIJkSX6Pm-14hIRPVEuX4_-hhg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJiwLuEgS14hIRDHk8i4qLfKo",
+        "name": "Elyssar - lWy Sr",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://www.facebook.com/elyssartunis%3Fmibextid%3DZbWKwL",
+        "owner": {
+            "id": null,
+            "name": "Elyssar - lWy Sr (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPjYE9ZdPcWhJ5yO9e79979rWIHj_QyPayzoVf1=w408-h272-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": "21:00-00:00",
+        "closed_on": [
+            "lundi",
+            "mardi",
+            "dimanche"
+        ],
+        "phone": "54 549 994",
+        "address": "W846+JW3 Elyssar - lWy Sr, Marsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Elyssar+-+%D8%A5%D9%84%D9%91%D9%8A+%D8%B5%D8%A7%D8%B1%E2%80%AD/data=!4m7!3m6!1s0x12e2b50412ee028b:0xaa7c8b8a8b3c790c!8m2!3d36.9066112!4d10.3121234!16s%2Fg%2F11ttb9gylb!19sChIJiwLuEgS14hIRDHk8i4qLfKo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7UB1L0G14hIRGrigiCgkhj0",
+        "name": "Le QG",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Le QG (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BdY_5P_2MeyqY2QhcwXgQg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=47.625923&pitch=0&thumbfov=100",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Le QG, 4 Rue El Khawarizmi, La Marsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Le+QG/data=!4m7!3m6!1s0x12e2b5412f7540ed:0x3d86242888a0b81a!8m2!3d36.876868!4d10.3297651!16s%2Fg%2F11s4zhpg5f!19sChIJ7UB1L0G14hIRGrigiCgkhj0?authuser=0&hl=fr&rclk=1"
+    }
+]

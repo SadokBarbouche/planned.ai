@@ -1,0 +1,144 @@
+[
+    {
+        "place_id": "ChIJ05msY5FvVRIRF2GjZUmFd78",
+        "name": "Hotel l'Oasis Gabes 4 etoiles",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 182,
+        "website": "http://hoteloasisgabes.com/",
+        "owner": {
+            "id": "110865136084225345425",
+            "name": "Hotel l'Oasis Gabes 4 etoiles (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/110865136084225345425"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN2D1yC8LeBEvMLmJmDjkzCDuZ0dSU4hYqaSDA=w408-h270-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 270 381",
+        "address": "Hotel l'Oasis Gabes 4 etoiles, Av.Habib Thameur, Gabes 6000",
+        "review_keywords": [
+            {
+                "keyword": "chambre",
+                "count": 24
+            },
+            {
+                "keyword": "service",
+                "count": 16
+            },
+            {
+                "keyword": "receptionniste",
+                "count": 7
+            },
+            {
+                "keyword": "experience",
+                "count": 7
+            },
+            {
+                "keyword": "clients",
+                "count": 6
+            },
+            {
+                "keyword": "piscine",
+                "count": 6
+            },
+            {
+                "keyword": "prix",
+                "count": 6
+            },
+            {
+                "keyword": "mer",
+                "count": 4
+            },
+            {
+                "keyword": "directeur",
+                "count": 3
+            },
+            {
+                "keyword": "internet",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hotel+l%27Oasis+Gabes+4+%C3%A9toiles/data=!4m10!3m9!1s0x12556f9163ac99d3:0xbf77854965a36117!5m2!4m1!1i2!8m2!3d33.890266!4d10.115372!16s%2Fg%2F11g_x9p943!19sChIJ05msY5FvVRIRF2GjZUmFd78?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7caY4Gu9qhMRlENyGeQ8bec",
+        "name": "Appartement Touta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://djerba--hotel.blogspot.com/",
+        "owner": {
+            "id": null,
+            "name": "Appartement Touta (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhH0M5if8e-ovZSdFmQJohGN38c_VEyBuLS9CG41uaaq1PM1yykP1mQlf6eXPi7V-5B4-J5LtGkdvIP0GPs3D6PTG4s_h5mKP4vN7xnxFtmpWvbHfMjqZ7nz8VVhTyPdjAJiXkaRK9p-yJQVoVeYyY5vyRYIeaCiCBX5CKntFxozrbc4tmqh_pkm=w408-h306-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "58 395 395",
+        "address": "Appartement Touta, C209",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Appartement+Touta/data=!4m10!3m9!1s0x13aabd6be098c6ed:0xe76d3ce419724394!5m2!4m1!1i2!8m2!3d33.8011543!4d10.950762!16s%2Fg%2F11fmp93qtv!19sChIJ7caY4Gu9qhMRlENyGeQ8bec?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2Q4rVPF9VRIRSFFtAnK0pic",
+        "name": "Auberge essanya",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": "114004329328200533840",
+            "name": "Auberge essanya (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114004329328200533840"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM1_f4zn85T--_DR7mlmcBqXfpRzZztwhPSQk9s=w408-h408-k-no",
+        "main_category": "Hostellerie",
+        "categories": [
+            "Hostellerie",
+            "Hebergement d'interieur"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "96 211 420",
+        "address": "Auberge essanya, 6010, Al-Matwiyah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Auberge+essanya/data=!4m10!3m9!1s0x12557df1542b0ed9:0x27a6b472026d5148!5m2!4m1!1i2!8m2!3d34.0536106!4d10.013878!16s%2Fg%2F11fk8c8jkl!19sChIJ2Q4rVPF9VRIRSFFtAnK0pic?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJpybJvxCXqhMRf1tgUlW8XWg",
+        "name": "Aljanna",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Aljanna (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMgp1EblfQ7KfUJDMwGmQq2Sgurha4l8wa5v-gf=w408-h725-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "97 556 810",
+        "address": "R22R+WJF Aljanna, Djerba Tezdaine, Djerba Midoun 4116",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Aljanna/data=!4m10!3m9!1s0x13aa9710bfc926a7:0x685dbc5552605b7f!5m2!4m1!1i2!8m2!3d33.8023123!4d11.0415494!16s%2Fg%2F11f1vwf2r4!19sChIJpybJvxCXqhMRf1tgUlW8XWg?authuser=0&hl=fr&rclk=1"
+    }
+]

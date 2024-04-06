@@ -1,0 +1,368 @@
+[
+    {
+        "place_id": "ChIJwdITejvAVxIRAQkCoMhKWno",
+        "name": "PARC CHAK WAK",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 632,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "PARC CHAK WAK (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMoWCd0a2teSw6Rj71HBSlr1lRvbMO03JNoWQmv=w408-h544-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Parc",
+            "Attraction touristique"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": "76 460 400",
+        "address": "W46W+JJ5 PARC CHAK WAK, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "enfants",
+                "count": 26
+            },
+            {
+                "keyword": "religieux",
+                "count": 13
+            },
+            {
+                "keyword": "dinosaures",
+                "count": 11
+            },
+            {
+                "keyword": "histoire de l'humanite",
+                "count": 7
+            },
+            {
+                "keyword": "musulmans",
+                "count": 6
+            },
+            {
+                "keyword": "evolution humaine",
+                "count": 6
+            },
+            {
+                "keyword": "palmeraie",
+                "count": 5
+            },
+            {
+                "keyword": "civilisations",
+                "count": 5
+            },
+            {
+                "keyword": "maintenance",
+                "count": 5
+            },
+            {
+                "keyword": "oasis",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/PARC+CHAK+WAK/data=!4m7!3m6!1s0x1257c03b7a13d2c1:0x7a5a4ac8a0020901!8m2!3d33.9115125!4d8.1466094!16s%2Fg%2F11f3w6llmw!19sChIJwdITejvAVxIRAQkCoMhKWno?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJt7k0QinAVxIRGamtcwUVeOE",
+        "name": "Musee Dar Cherait",
+        "description": "Musee dans manoir restaure avec expos d'objets anciens, d'oeuvres d'art et de costumes tunisiens traditionnels.",
+        "is_spending_on_ads": false,
+        "reviews": 442,
+        "website": "https://m.facebook.com/darcheraittozeur/",
+        "owner": {
+            "id": null,
+            "name": "Musee Dar Cherait (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPTM0dZvBGucoaNf6tngFBAiBGkHTcghFFoNekO=w408-h723-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": "76 452 100",
+        "address": "W47C+769 Musee Dar Cherait, Rte Touristique, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "histoire de la tunisie",
+                "count": 18
+            },
+            {
+                "keyword": "culturel",
+                "count": 9
+            },
+            {
+                "keyword": "enfants",
+                "count": 8
+            },
+            {
+                "keyword": "tradition",
+                "count": 7
+            },
+            {
+                "keyword": "touristique",
+                "count": 6
+            },
+            {
+                "keyword": "reve",
+                "count": 5
+            },
+            {
+                "keyword": "prix",
+                "count": 5
+            },
+            {
+                "keyword": "evolution",
+                "count": 4
+            },
+            {
+                "keyword": "decor",
+                "count": 3
+            },
+            {
+                "keyword": "langues",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Dar+Chera%C3%AFt/data=!4m7!3m6!1s0x1257c0294234b9b7:0xe178150573ada919!8m2!3d33.9131625!4d8.1206094!16s%2Fg%2F1223q96c!19sChIJt7k0QinAVxIRGamtcwUVeOE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJWcr3ejDAVxIRfWfEgVs7U6g",
+        "name": "Eden Palm",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 209,
+        "website": "http://www.eden-palm.com/",
+        "owner": {
+            "id": "105791739226388732621",
+            "name": "Eden Palm (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105791739226388732621"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMrexcGIo4OrEJSM28Ah6L3SJM6eZOIpJrY0qKQ=w408-h271-k-no",
+        "main_category": "Musee du patrimoine",
+        "categories": [
+            "Musee du patrimoine"
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-23:00",
+        "closed_on": [],
+        "phone": "58 085 059",
+        "address": "Eden Palm, Chem. de l'Ancienne Oasis, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "palmiers",
+                "count": 17
+            },
+            {
+                "keyword": "dattes",
+                "count": 8
+            },
+            {
+                "keyword": "prix",
+                "count": 7
+            },
+            {
+                "keyword": "experience",
+                "count": 4
+            },
+            {
+                "keyword": "degustation",
+                "count": 3
+            },
+            {
+                "keyword": "chocolat",
+                "count": 3
+            },
+            {
+                "keyword": "produit",
+                "count": 3
+            },
+            {
+                "keyword": "apprentissage",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Eden+Palm/data=!4m7!3m6!1s0x1257c0307af7ca59:0xa8533b5b81c4677d!8m2!3d33.9171536!4d8.1469608!16s%2Fg%2F1td8g3x5!19sChIJWcr3ejDAVxIRfWfEgVs7U6g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8ZUCJSnAVxIRwoArlzAPRj4",
+        "name": "Medina de Tozeur",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 204,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Medina de Tozeur (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNnidti34syxlKFVXVmL6PQWHqlCD7AtlEpUghR=w408-h544-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "W4CQ+7G Medina de Tozeur, Ouled El Hadef, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "briques",
+                "count": 13
+            },
+            {
+                "keyword": "architecture",
+                "count": 11
+            },
+            {
+                "keyword": "ruelles",
+                "count": 6
+            },
+            {
+                "keyword": "desert",
+                "count": 6
+            },
+            {
+                "keyword": "artisans",
+                "count": 4
+            },
+            {
+                "keyword": "touristique",
+                "count": 4
+            },
+            {
+                "keyword": "portes",
+                "count": 4
+            },
+            {
+                "keyword": "dattes",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/M%C3%A9dina+de+Tozeur/data=!4m7!3m6!1s0x1257c029250295f1:0x3e460f30972b80c2!8m2!3d33.9206525!4d8.1386141!16s%2Fg%2F11c30smfj4!19sChIJ8ZUCJSnAVxIRwoArlzAPRj4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJhysUOKfqVxIRmMEKn1yv3ZM",
+        "name": "Douar El Hafsi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 30,
+        "website": "http://www.douar-hafsi.com/",
+        "owner": {
+            "id": "113469870598859182372",
+            "name": "Douar El Hafsi (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113469870598859182372"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPjXR2gw7oElGrwEm-etKAlGsOO_4KOsBARin_q=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Diner",
+            "Animateur de soirees et d'evenements",
+            "Pizzeria",
+            "Centre de loisirs",
+            "Restaurant",
+            "Attraction touristique"
+        ],
+        "rating": 4.5,
+        "workday_timing": "20:00-23:00",
+        "closed_on": [],
+        "phone": "26 300 300",
+        "address": "Douar El Hafsi, La Palmeraie de",
+        "review_keywords": [
+            {
+                "keyword": "diner",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Douar+El+Hafsi/data=!4m7!3m6!1s0x1257eaa738142b87:0x93ddaf5c9f0ac198!8m2!3d33.9013889!4d8.1318612!16s%2Fg%2F11hbfkm7gd!19sChIJhysUOKfqVxIRmMEKn1yv3ZM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJxdp23mHrVxIRuHxGUma9iog",
+        "name": "Mausolee d'Abou El Kacem Chebbi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mausolee d'Abou El Kacem Chebbi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMzq-HoX74SdFSPQj23MHHHkhac0QFKZDiRJZin=w408-h544-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "lundi",
+            "dimanche"
+        ],
+        "phone": null,
+        "address": "W47H+MF5 Mausolee d'Abou El Kacem Chebbi, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mausol%C3%A9e+d%27Abou+El+Kacem+Chebbi/data=!4m7!3m6!1s0x1257eb61de76dac5:0x888abd6652467cb8!8m2!3d33.9141309!4d8.1287402!16s%2Fg%2F11h0zh8zvh!19sChIJxdp23mHrVxIRuHxGUma9iog?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1bDeRcbrVxIRcTBdXcN3wR0",
+        "name": "Parc Abou El Kacem Chebbi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Parc Abou El Kacem Chebbi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPuZ5hg8JT_WF3eG2It2g-MKYQJaw_E4CFsR7gc=w408-h306-k-no",
+        "main_category": "Parc commemoratif",
+        "categories": [
+            "Parc commemoratif"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "W489+2RC Parc Abou El Kacem Chebbi, Rte Touristique, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Parc+Abou+El+Kacem+Chebbi/data=!4m7!3m6!1s0x1257ebc645deb0d5:0x1dc177c35d5d3071!8m2!3d33.9150616!4d8.1195305!16s%2Fg%2F11s7yspnjj!19sChIJ1bDeRcbrVxIRcTBdXcN3wR0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJb7Pk8-XrVxIRtATIQXoJa4c",
+        "name": "Statue d'Ibn Chabbat",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Statue d'Ibn Chabbat (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNmD_hFAW9HcvX9KYkLn0Cn8KMbE4p4HJDwKUG1=w408-h872-k-no",
+        "main_category": "Sculpture",
+        "categories": [
+            "Sculpture"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "W4CJ+MC3 Statue d'Ibn Chabbat, Ave Farhat Hached, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Statue+d%27Ibn+Chabbat/data=!4m7!3m6!1s0x1257ebe5f3e4b36f:0x876b097a41c804b4!8m2!3d33.9216321!4d8.1310593!16s%2Fg%2F11mvp5s09p!19sChIJb7Pk8-XrVxIRtATIQXoJa4c?authuser=0&hl=fr&rclk=1"
+    }
+]

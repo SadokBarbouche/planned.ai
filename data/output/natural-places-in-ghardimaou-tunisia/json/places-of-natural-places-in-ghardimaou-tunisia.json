@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": "ChIJIULip1_8-hIRzjE9eP6S_ho",
+        "name": "Oued Medjerda",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Point d'eau",
+        "categories": [
+            "Point d'eau"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Oued Medjerda",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Oued+Medjerda/data=!4m7!3m6!1s0x12fafc5fa7e24221:0x1afe92fe783d31ce!8m2!3d36.4415177!4d8.4233058!16s%2Fg%2F1td82mcs!19sChIJIULip1_8-hIRzjE9eP6S_ho?authuser=0&hl=fr&rclk=1"
+    }
+]

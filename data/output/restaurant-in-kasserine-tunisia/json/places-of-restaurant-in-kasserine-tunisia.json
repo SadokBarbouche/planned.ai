@@ -1,0 +1,732 @@
+[
+    {
+        "place_id": "ChIJW0FRtPcV-RIRHbpPGR6FzrE",
+        "name": "Espace Malouf",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 36,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Espace Malouf (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOE1VT9i3Bxq8P_wlcRFTYXJbZx-M3UvnQon8fx=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:00-01:00",
+        "closed_on": [],
+        "phone": "24 109 302",
+        "address": "5R9M+JWJ Espace Malouf, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Espace+Malouf/data=!4m7!3m6!1s0x12f915f7b451415b:0xb1ce851e194fba1d!8m2!3d35.1690845!4d8.8347565!16s%2Fg%2F11c206xg4m!19sChIJW0FRtPcV-RIRHbpPGR6FzrE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8ylipAwV-RIRjbWl3_jvSL0",
+        "name": "Mac Food Kasserine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mac Food Kasserine (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPp6TOtf9o9hFH3aQHFELf3X9Fk-0Rvc117XORI=w426-h240-k-no",
+        "main_category": "Cafe et restaurant de grillades",
+        "categories": [
+            "Cafe et restaurant de grillades"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "5RC4+C32 Mac Food Kasserine, Unnamed Road, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mac+Food+Kasserine/data=!4m7!3m6!1s0x12f9150ca46229f3:0xbd48eff8dfa5b58d!8m2!3d35.1710245!4d8.805139!16s%2Fg%2F11f61n9qzv!19sChIJ8ylipAwV-RIRjbWl3_jvSL0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJCbvpR_kV-RIR3d0Qw2WqjuM",
+        "name": "Restaurant La Terrasse",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant La Terrasse (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNddh5QoMd1fanerexrXpa7oegtrqbMjMxI4Jtj=w520-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.7,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "99 704 504",
+        "address": "5R8J+FMJ Restaurant La Terrasse, P13, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+La+Terrasse/data=!4m7!3m6!1s0x12f915f947e9bb09:0xe38eaa65c310dddd!8m2!3d35.1662004!4d8.8316489!16s%2Fg%2F11s39r3qjd!19sChIJCbvpR_kV-RIR3d0Qw2WqjuM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJGRyccz4--RIRLwrN8ZKJFJI",
+        "name": "Cafe El Jawhra",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe El Jawhra (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNH6fqn8V7wRI1G8qryHjH3UEnTeOlq6bpQPcBs=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": "93 658 789",
+        "address": "Cafe El Jawhra, 1254 P13, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+El+Jawhra/data=!4m7!3m6!1s0x12f93e3e739c1c19:0x92148992f1cd0a2f!8m2!3d35.1777163!4d8.8533245!16s%2Fg%2F11c55vyzcx!19sChIJGRyccz4--RIRLwrN8ZKJFJI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJL3NnTPcV-RIRa4QaCxEmI8c",
+        "name": "The Diesel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "The Diesel (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPTpuLekKbtR3XEHuIKN98Vua2VwSDfpnYtV2ig=w409-h240-k-no",
+        "main_category": "Cafeteria",
+        "categories": [
+            "Cafeteria"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "54 461 936",
+        "address": "5R9J+3C6 The Diesel, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+Diesel/data=!4m7!3m6!1s0x12f915f74c67732f:0xc72326110b1a846b!8m2!3d35.1676722!4d8.8310178!16s%2Fg%2F11f3zmnz6n!19sChIJL3NnTPcV-RIRa4QaCxEmI8c?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJP9JCDBM_-RIRkdbGOug33Wc",
+        "name": "Donna Margherita",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Donna Margherita (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPGu-Sks5ehpEJN23Aesr1XW9mrJeUkplFXvVxy=w408-h258-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "92 126 004",
+        "address": "5RCQ+3F6 Donna Margherita, P13, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Donna+Margherita/data=!4m7!3m6!1s0x12f93f130c42d23f:0x67dd37e83ac6d691!8m2!3d35.1701511!4d8.8386396!16s%2Fg%2F11j7kpwzs9!19sChIJP9JCDBM_-RIRkdbGOug33Wc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZU2fHBgV-RIR_H0lLZt-4Fw",
+        "name": "Cafe GALAXY",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe GALAXY (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNvQA1etCrFpTBw5yPFs2BLy_uMDxYryU7DniEU=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": "26 383 462",
+        "address": "Cafe GALAXY, Cafe galaxy 1200",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+GALAXY/data=!4m7!3m6!1s0x12f915181c9f4d65:0x5ce07e9b2d257dfc!8m2!3d35.1667803!4d8.8304017!16s%2Fg%2F11ght0b498!19sChIJZU2fHBgV-RIR_H0lLZt-4Fw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJa7IC1xM--RIRowrIEjBCC30",
+        "name": "Wassel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Wassel (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOahclUgCEX5zGEhftreL3WujahCaz4_SMXR9UZ=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": "20:00-00:00",
+        "closed_on": [
+            "lundi",
+            "mardi",
+            "vendredi",
+            "samedi"
+        ],
+        "phone": null,
+        "address": "Wassel, P13, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Wassel/data=!4m7!3m6!1s0x12f93e13d702b26b:0x7d0b423012c80aa3!8m2!3d35.1684647!4d8.8530678!16s%2Fg%2F11gh01xvzz!19sChIJa7IC1xM--RIRowrIEjBCC30?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqTtLfmE_-RIRNyYRKv99Tt8",
+        "name": "Food llqmny",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Food llqmny (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMPmt_apCbQiaaOExDi68apg1n4NP8GwJeodcGj=w426-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": "50 441 803",
+        "address": "5RCQ+RG6 Food llqmny, Rue 18 Janvier 1952, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Food+%D8%A7%D9%84%D9%84%D9%82%D9%85%D8%A7%D9%86%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x12f93f617e4b3ba9:0xdf4e7dff2a112637!8m2!3d35.1720368!4d8.8387586!16s%2Fg%2F11f66tmmq1!19sChIJqTtLfmE_-RIRNyYRKv99Tt8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJE3Dvij4--RIRBOxDqyF-kqw",
+        "name": "Wassel Sandwich",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Wassel Sandwich (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": "23 196 788",
+        "address": "Wassel Sandwich, P13, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Wassel+Sandwich/data=!4m7!3m6!1s0x12f93e3e8aef7013:0xac927e21ab43ec04!8m2!3d35.1788704!4d8.8540789!16s%2Fg%2F11gh09rl0x!19sChIJE3Dvij4--RIRBOxDqyF-kqw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7arzZKgV-RIRRqMUptR6Uc8",
+        "name": "Flamingo Salt &Sugar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Flamingo Salt &Sugar (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOocDQuCtkCK5noLjdYTFhYRHED6j5y5t0Yp-rC=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": "27 770 760",
+        "address": "5RCJ+3X4 Flamingo Salt &Sugar, Rue 14 Janvier, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Flamingo+Salt+%26Sugar/data=!4m7!3m6!1s0x12f915a864f3aaed:0xcf517ad4a614a346!8m2!3d35.1701305!4d8.8324399!16s%2Fg%2F11tx5gxdzn!19sChIJ7arzZKgV-RIRRqMUptR6Uc8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5zD6NoYV-RIRde4z-Kg2UvY",
+        "name": "The Twins Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "The Twins Coffee (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOKaWVmyTlSjLwPKLsoEQ1DIzYf7fm91-o7a-Ka=w408-h267-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "99 452 925",
+        "address": "The Twins Coffee, 14 Rue 18 Janvier 1952, Kasserine 1200",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+Twins+Coffee/data=!4m7!3m6!1s0x12f9158636fa30e7:0xf65236a8f833ee75!8m2!3d35.1687219!4d8.829934!16s%2Fg%2F11rfc81lp7!19sChIJ5zD6NoYV-RIRde4z-Kg2UvY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJTdHryPAV-RIRI0sMeyamHCU",
+        "name": "QUEEN CAFE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "QUEEN CAFE (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOEr7VmEMSWFfboyvSke2rTo1ZtCnRnF0CKvkZE=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": "54 838 767",
+        "address": "QUEEN CAFE, Rue 18 janvier 1952 Kasserine, Kasserine 1200",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/QUEEN+CAFE/data=!4m7!3m6!1s0x12f915f0c8ebd14d:0x251ca6267b0c4b23!8m2!3d35.168476!4d8.830194!16s%2Fg%2F11hbgsb0c7!19sChIJTdHryPAV-RIRI0sMeyamHCU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJq_NVa_cV-RIRwY0_7e_znSA",
+        "name": "Pizzeria Le Maximum sfyn mlky",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pizzeria Le Maximum sfyn mlky (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMpMmAtwjWWao5hglPmhGSK3EXvsUCn6dlqZVuP=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-19:00",
+        "closed_on": [],
+        "phone": "55 440 909",
+        "address": "5R9M+53H Pizzeria Le Maximum sfyn mlky, Rue 18 Janvier 1952, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pizzeria+Le+Maximum+%D8%B3%D9%81%D9%8A%D8%A7%D9%86+%D9%85%D8%A7%D9%84%D9%83%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x12f915f76b55f3ab:0x209df3efed3f8dc1!8m2!3d35.167927!4d8.8327476!16s%2Fg%2F11c6cqx7pb!19sChIJq_NVa_cV-RIRwY0_7e_znSA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJCxd62-M_-RIRyMVAMO_cS_Y",
+        "name": "Bloom cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bloom cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPBeqGuSqFidnTEZJLwvTjpKdBUVf-PTOEXofGw=w543-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "55 533 671",
+        "address": "Bloom cafe, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bloom+caf%C3%A9/data=!4m7!3m6!1s0x12f93fe3db7a170b:0xf64bdcef3040c5c8!8m2!3d35.1781712!4d8.8511265!16s%2Fg%2F11rz7fzr8j!19sChIJCxd62-M_-RIRyMVAMO_cS_Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3ejj0EkV-RIRs099OeunCEk",
+        "name": "ASK Street food",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "ASK Street food (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPlY0y7xU62dN9PR20i9ZMaahgC6P0X8CsbACOb=w408-h544-k-no",
+        "main_category": "Restauration rapide",
+        "categories": [
+            "Restauration rapide"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-17:00",
+        "closed_on": [],
+        "phone": "53 050 768",
+        "address": "5R9J+PVQ ASK Street food, Rue 18 Janvier 1952, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/ASK+Street+food/data=!4m7!3m6!1s0x12f91549d0e3e8dd:0x4908a7eb397d4fb3!8m2!3d35.1693397!4d8.8322327!16s%2Fg%2F11kt3kgbzv!19sChIJ3ejj0EkV-RIRs099OeunCEk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJYWjxhNI_-RIRyNG3ek1_pDQ",
+        "name": "Sketch CoffeeShop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": "101240807707858326014",
+            "name": "Sketch CoffeeShop (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101240807707858326014"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOq9yEBOZtfWyDNTPgmiGtdur83C3ebNO8Elii0=w533-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-23:00",
+        "closed_on": [],
+        "phone": "96 912 209",
+        "address": "Sketch CoffeeShop, Kasserine 1200",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sketch+CoffeeShop/data=!4m7!3m6!1s0x12f93fd284f16861:0x34a47f4d7ab7d1c8!8m2!3d35.1727198!4d8.8509977!16s%2Fg%2F11vrz0_dbm!19sChIJYWjxhNI_-RIRyNG3ek1_pDQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJQYOpKSUV-RIRPBZ4FS5wkNU",
+        "name": "Escape coffee shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://instagram.com/escapeeclub%3Figshid%3DOGQ2MjdiOTE%3D",
+        "owner": {
+            "id": null,
+            "name": "Escape coffee shop (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": "99 508 600",
+        "address": "5RJ8+PQ Escape coffee shop, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Escape+coffee+shop/data=!4m7!3m6!1s0x12f9152529a98341:0xd590702e1578163c!8m2!3d35.1791742!4d8.8157156!16s%2Fg%2F11rpkjdxvy!19sChIJQYOpKSUV-RIRPBZ4FS5wkNU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJIY8VVW4_-RIRYNqCA5gGVHo",
+        "name": "Nirvana coffee shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Nirvana coffee shop (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN2A0PggAayUlcozbLL5hwJ0z3olclFYlXckNmT=w408-h272-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-23:00",
+        "closed_on": [],
+        "phone": "56 729 775",
+        "address": "5VC2+XQH Nirvana coffee shop, Unnamed Road, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Nirvana+coffee+shop/data=!4m7!3m6!1s0x12f93f6e55158f21:0x7a5406980382da60!8m2!3d35.1724387!4d8.8519886!16s%2Fg%2F11fl5qqsl2!19sChIJIY8VVW4_-RIRYNqCA5gGVHo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7c_-zPM_-RIR4M71ypUc54Y",
+        "name": "My Way coffee shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "My Way coffee shop (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOtWeui-cOpfkXrpnl7FDc0Q19dcoHOs9dIdUit=w408-h271-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "97 221 055",
+        "address": "5RFW+PH9 My Way coffee shop, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/My+Way+coffee+shop/data=!4m7!3m6!1s0x12f93ff3ccfecfed:0x86e71c95caf5cee0!8m2!3d35.1742841!4d8.8464926!16s%2Fg%2F11q2yr_bbm!19sChIJ7c_-zPM_-RIR4M71ypUc54Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJg0-oyfs_-RIRUxujl41pFNk",
+        "name": "Creperie la Joie",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Creperie la Joie (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNeN9ZKv0aVKdOVpxdJOcc6JK6iXiqCC_ZFCA8c=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "93 318 998",
+        "address": "5VH3+QRJ Creperie la Joie, Avenue de l'environnement, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cr%C3%AAperie+la+Joie/data=!4m7!3m6!1s0x12f93ffbc9a84f83:0xd914698d97a31b53!8m2!3d35.1794507!4d8.8545158!16s%2Fg%2F11txvpbfbg!19sChIJg0-oyfs_-RIRUxujl41pFNk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJlbZFo4Q_-RIRl0hgSSKRdHk",
+        "name": "La sirene",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La sirene (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPY8IC6StZKV3ISTqcHXK8AmIXXEDrYIcBNRK7F=w408-h544-k-no",
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "5RFP+2H8 La sirene, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+sir%C3%A8ne/data=!4m7!3m6!1s0x12f93f84a345b695:0x7974912249604897!8m2!3d35.1725267!4d8.8364544!16s%2Fg%2F11n0v047l8!19sChIJlbZFo4Q_-RIRl0hgSSKRdHk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtZ7PIlgV-RIRA6h7fdC9P1A",
+        "name": "Pizza hot kasserine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pizza hot kasserine (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN4svzfH0QSeuiTw05RvV3tpYqHu0anQvW1DuWO=w408-h544-k-no",
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "28 740 708",
+        "address": "5R9M+GP5 Pizza hot kasserine, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pizza+hot+kasserine/data=!4m7!3m6!1s0x12f9155822cf9eb5:0x503fbdd07d7ba803!8m2!3d35.1687732!4d8.8343623!16s%2Fg%2F11qqcg5g7c!19sChIJtZ7PIlgV-RIRA6h7fdC9P1A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJOTy1fK8_-RIR04RyMFTK9fA",
+        "name": "Mat3em Salwa Wa Jahida",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "117011960252574405990",
+            "name": "Mat3em Salwa Wa Jahida (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117011960252574405990"
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "93 910 071",
+        "address": "Mat3em Salwa Wa Jahida, 7ay Fate7, Kasserine 1200",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mat3em+Salwa+Wa+Jahida/data=!4m7!3m6!1s0x12f93faf7cb53c39:0xf0f5ca54307284d3!8m2!3d35.1712983!4d8.8509857!16s%2Fg%2F11vbrvmrj7!19sChIJOTy1fK8_-RIR04RyMFTK9fA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJIanx9ZMV-RIRZf0wGA7sz6g",
+        "name": "kasserine resto",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "kasserine resto (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "5R9M+JWJ kasserine resto, Avenue Taieb Mhiri, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/kasserine+resto/data=!4m7!3m6!1s0x12f91593f5f1a921:0xa8cfec0e1830fd65!8m2!3d35.1690829!4d8.8347579!16s%2Fg%2F11pbf8y1yt!19sChIJIanx9ZMV-RIRZf0wGA7sz6g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJhSd6h7QV-RIRfnHtxY8D3OY",
+        "name": "Becha Lounge",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Becha Lounge (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO5eJOalwZ6hr9D6iIy8U3fontihBhSEHw97F4-=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "53 736 098",
+        "address": "5R9J+C6C Becha Lounge, Rue 18 Janvier 1952, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Becha+Lounge/data=!4m7!3m6!1s0x12f915b4877a2785:0xe6dc038fc5ed717e!8m2!3d35.1685632!4d8.8305102!16s%2Fg%2F11mvx9dzsf!19sChIJhSd6h7QV-RIRfnHtxY8D3OY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_2AuojsV-RIR4nlnSeDI_Ts",
+        "name": "Restaurant GUSTO",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant GUSTO (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOBdrU840Jv7xSxcz5mmnLLSoqfxrsLqpqiZx1y=w408-h306-k-no",
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 4,
+        "workday_timing": "05:00-19:30",
+        "closed_on": [],
+        "phone": "58 663 370",
+        "address": "5R9M+FQX Restaurant GUSTO, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+GUSTO/data=!4m7!3m6!1s0x12f9153ba22e60ff:0x3bfdc8e0496779e2!8m2!3d35.1688185!4d8.8344946!16s%2Fg%2F11tdchvcl4!19sChIJ_2AuojsV-RIR4nlnSeDI_Ts?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3wJFg7cV-RIRxL83x0Az8WY",
+        "name": "Mlawi Hlima- mlwy Hlym@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mlawi Hlima- mlwy Hlym@ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNYmISy97ur4XbwtaRkIwR1BonSCa6GS6Ii26PJ=w408-h544-k-no",
+        "main_category": "Restauration rapide",
+        "categories": [
+            "Restauration rapide"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "55 520 520",
+        "address": "5RCM+GWC Mlawi Hlima- mlwy Hlym@, Avenue 14 Janvier, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mlawi+Hlima-+%D9%85%D9%84%D8%A7%D9%88%D9%8A+%D8%AD%D9%84%D9%8A%D9%85%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x12f915b7834502df:0x66f13340c737bfc4!8m2!3d35.1713239!4d8.8347687!16s%2Fg%2F11svdtl5_t!19sChIJ3wJFg7cV-RIRxL83x0Az8WY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJC1xcvrkV-RIRnGntop6whOw",
+        "name": "by` smk , qSb , mT`m )mshwy smk bn khdyj@)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "by` smk , qSb , mT`m )mshwy smk bn khdyj@) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPi2MCEDLj1-jkJymXEmRE_Q5sx0WSLh8ZNQxAg=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-11:01",
+        "closed_on": [],
+        "phone": "98 723 172",
+        "address": "5R7M+49M by` smk , qSb , mT`m )mshwy smk bn khdyj@), Rue Mongi Slim, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%A8%D9%8A%D8%B9+%D8%A7%D8%B3%D9%85%D8%A7%D9%83+%D8%8C+%D9%82%D8%B5%D8%A7%D8%A8+%D8%8C+%D9%85%D8%B7%D8%B9%D9%85+%29%D9%85%D8%B4%D8%A7%D9%88%D9%8A+%D8%A7%D8%B3%D9%85%D8%A7%D9%83+%D8%A8%D9%86+%D8%AE%D8%AF%D9%8A%D8%AC%D8%A9%29%E2%80%AD/data=!4m7!3m6!1s0x12f915b9be5c5c0b:0xec84b09ea2ed699c!8m2!3d35.1628379!4d8.8334316!16s%2Fg%2F11ksnq1pd6!19sChIJC1xcvrkV-RIRnGntop6whOw?authuser=0&hl=fr&rclk=1"
+    }
+]

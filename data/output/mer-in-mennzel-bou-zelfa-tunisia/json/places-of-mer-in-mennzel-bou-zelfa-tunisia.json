@@ -1,0 +1,77 @@
+[
+    {
+        "place_id": "ChIJfx4z2me2AhMRyb9ym5P63jM",
+        "name": "Mer Lebna",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNwjuXFT9qqA43CW9KlOKk6tvc_L08KJeE2MBE=w408-h544-k-no",
+        "main_category": "Point d'eau",
+        "categories": [
+            "Point d'eau"
+        ],
+        "rating": 3.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Mer Lebna",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mer+Lebna/data=!4m7!3m6!1s0x1302b667da331e7f:0x33defa939b72bfc9!8m2!3d36.6835856!4d10.9453814!16s%2Fg%2F12338d2t2!19sChIJfx4z2me2AhMRyb9ym5P63jM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJL-2qUwyZAhMRCiNt100BWrA",
+        "name": "La mer de Nabeul",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La mer de Nabeul (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP0DqLPMfRG_4GMyerlXogUV5uzhTZelpPdxVqu=w408-h306-k-no",
+        "main_category": "Location d'appartement de vacances",
+        "categories": [
+            "Location d'appartement de vacances"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "CPRW+Q57 La mer de Nabeul, Nabeul",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+mer+de+Nabeul/data=!4m7!3m6!1s0x1302990c53aaed2f:0xb05a014dd76d230a!8m2!3d36.4419222!4d10.7454198!16s%2Fg%2F11t062gq9d!19sChIJL-2qUwyZAhMRCiNt100BWrA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJe5Q8DftO_RIR-iqPE5gS390",
+        "name": "Mer de Hammam Chatt",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Mer",
+        "categories": [
+            "Mer"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Mer de Hammam Chatt",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mer+de+Hammam+Chatt/data=!4m7!3m6!1s0x12fd4efb0d3c947b:0xdddf1298138f2afa!8m2!3d36.721577!4d10.3764593!16s%2Fg%2F12vsxfw53!19sChIJe5Q8DftO_RIR-iqPE5gS390?authuser=0&hl=fr&rclk=1"
+    }
+]

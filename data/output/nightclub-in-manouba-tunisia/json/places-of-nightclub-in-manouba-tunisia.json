@@ -1,0 +1,79 @@
+[
+    {
+        "place_id": "ChIJ0_PpSB41_RIRS0srGaV7VU0",
+        "name": "VIP ROOM LOUNGE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": "102208297721377454410",
+            "name": "VIP ROOM LOUNGE (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/102208297721377454410"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMDgHJUyEurTbdmCTqT_mjaAi8R9lsch8rIobUZ=w426-h240-k-no",
+        "main_category": "Bar lounge",
+        "categories": [
+            "Bar lounge"
+        ],
+        "rating": 5,
+        "workday_timing": "12:00-04:00",
+        "closed_on": [],
+        "phone": "52 594 190",
+        "address": "VIP ROOM LOUNGE, 67 Av. Taieb M'Hiri, Belvedere 1003",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/VIP+ROOM+LOUNGE/data=!4m7!3m6!1s0x12fd351e48e9f3d3:0x4d557ba5192b4b4b!8m2!3d36.8160808!4d10.1759976!16s%2Fg%2F11sfx358zc!19sChIJ0_PpSB41_RIRS0srGaV7VU0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtwDNpHMy_RIRefR2TcLpFh0",
+        "name": "Royale Club",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Royale Club (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=MnEn82tnkGTllWFkAKXSjA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=126.15859&pitch=0&thumbfov=100",
+        "main_category": "Salle d'halterophilie",
+        "categories": [
+            "Salle d'halterophilie"
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": null,
+        "address": "R34Q+V63 Royale Club, Manouba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Royale+Club/data=!4m7!3m6!1s0x12fd3273a4cd00b7:0x1d16e9c24d76f479!8m2!3d36.8071374!4d10.0880624!16s%2Fg%2F11fy4fcrg5!19sChIJtwDNpHMy_RIRefR2TcLpFh0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJk5pIClsz_RIRCjIOWCPpwN4",
+        "name": "RAS DAREB 31 INDONESIAN LOUNGE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "RAS DAREB 31 INDONESIAN LOUNGE (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipODV4Qb4EnmMSrRPfGJBnDN0Qbw5ucwheKkI8SF=w408-h305-k-no",
+        "main_category": "Bar lounge",
+        "categories": [
+            "Bar lounge"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "Q5R8+JFR RAS DAREB 31 INDONESIAN LOUNGE, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/RAS+DAREB+31+INDONESIAN+LOUNGE/data=!4m7!3m6!1s0x12fd335b0a489a93:0xdec0e923580e320a!8m2!3d36.7916184!4d10.1661361!16s%2Fg%2F11ftk7dtsc!19sChIJk5pIClsz_RIRCjIOWCPpwN4?authuser=0&hl=fr&rclk=1"
+    }
+]

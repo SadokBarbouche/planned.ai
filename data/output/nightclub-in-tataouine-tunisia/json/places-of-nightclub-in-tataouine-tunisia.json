@@ -1,0 +1,33 @@
+[
+    {
+        "place_id": "ChIJV1VDTQC7VBIRpMoglL21djI",
+        "name": "A7la Ingenierie bacterie",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "A7la Ingenierie bacterie (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": "22:00-04:00",
+        "closed_on": [
+            "lundi",
+            "mardi",
+            "mercredi",
+            "jeudi",
+            "vendredi"
+        ],
+        "phone": null,
+        "address": "W97X+35P A7la Ingenierie bacterie, Best Ingenieur fik ya, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/A7la+Ing%C3%A9nierie+bact%C3%A9rie/data=!4m7!3m6!1s0x1254bb004d435557:0x3276b5bd9420caa4!8m2!3d32.9127144!4d10.3979517!16s%2Fg%2F11vrwt2_k1!19sChIJV1VDTQC7VBIRpMoglL21djI?authuser=0&hl=fr&rclk=1"
+    }
+]

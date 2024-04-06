@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJwXt3xoxH_RIRzgxEh51DOVQ",
+        "name": "Mornag",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mornag (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Bar",
+        "categories": [
+            "Bar"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "M7GG+6MF Mornag",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mornag/data=!4m7!3m6!1s0x12fd478cc6777bc1:0x5439439d87440cce!8m2!3d36.6757246!4d10.2775494!16s%2Fg%2F11v3hghky_!19sChIJwXt3xoxH_RIRzgxEh51DOVQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJu7SCYOVJ_RIRgCS0mxkOA64",
+        "name": "HOUSE MUSIC&ventre materiel informatique&GRAVURE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "HOUSE MUSIC&ventre materiel informatique&GRAVURE (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM78HSERaHvqs058FuJaYaQW3oNSZAZoNUdqkUE=w426-h240-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "98 697 237",
+        "address": "P7JV+759 HOUSE MUSIC&ventre materiel informatique&GRAVURE, Av. de l'independance, Boumhel El Bassatine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/HOUSE+MUSIC%26ventre+mat%C3%A9riel+informatique%26GRAVURE/data=!4m7!3m6!1s0x12fd49e56082b4bb:0xae030e199bb42480!8m2!3d36.7306714!4d10.2929968!16s%2Fg%2F11n_z4v8_b!19sChIJu7SCYOVJ_RIRgCS0mxkOA64?authuser=0&hl=fr&rclk=1"
+    }
+]

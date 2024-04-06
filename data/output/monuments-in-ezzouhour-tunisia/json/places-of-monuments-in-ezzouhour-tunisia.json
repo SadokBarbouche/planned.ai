@@ -1,0 +1,116 @@
+[
+    {
+        "place_id": "ChIJ68eHwcyC_BIR722LjYThEzU",
+        "name": "Dougga",
+        "description": "Ruines en pierre d'une cite du VIe siecle av. J.-C. qui comprend des tombes, des arcs et un theatre romain bien preserve.",
+        "is_spending_on_ads": false,
+        "reviews": 1264,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dougga (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOh8rVfNzbrXpcOXdfafmCzJNQBF8j3c1QKwFff=w408-h307-k-no",
+        "main_category": "Preservation du patrimoine",
+        "categories": [
+            "Preservation du patrimoine",
+            "Lieu historique",
+            "Ruines",
+            "Attraction touristique"
+        ],
+        "rating": 4.8,
+        "workday_timing": "08:30-17:30",
+        "closed_on": [],
+        "phone": "+33 1 45 68 43 78",
+        "address": "C6F9+5PH Dougga, Dougga, Delegation de, Teboursouk",
+        "review_keywords": [
+            {
+                "keyword": "site archeologique",
+                "count": 82
+            },
+            {
+                "keyword": "ruines",
+                "count": 67
+            },
+            {
+                "keyword": "temples",
+                "count": 28
+            },
+            {
+                "keyword": "theatre",
+                "count": 22
+            },
+            {
+                "keyword": "conserve",
+                "count": 20
+            },
+            {
+                "keyword": "antique",
+                "count": 18
+            },
+            {
+                "keyword": "civilisation",
+                "count": 12
+            },
+            {
+                "keyword": "romains",
+                "count": 12
+            },
+            {
+                "keyword": "mosaiques",
+                "count": 11
+            },
+            {
+                "keyword": "voyage dans le temps",
+                "count": 8
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dougga/data=!4m7!3m6!1s0x12fc82ccc187c7eb:0x3513e1848d8b6def!8m2!3d36.4229381!4d9.2193482!16zL20vMDk3bjZ0!19sChIJ68eHwcyC_BIR722LjYThEzU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJVVWVVAo0_RIRUdAAFaw-89w",
+        "name": "Tourbet El Bey: The Royal Mausoleum",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 83,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Tourbet El Bey: The Royal Mausoleum (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOrmJxyQW0ewJYflHN4Vxvbcf9Dwb5YfqbBwTT1=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:30-15:30",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": null,
+        "address": "Tourbet El Bey: The Royal Mausoleum, 7 Rue du Chateau, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "histoire",
+                "count": 10
+            },
+            {
+                "keyword": "tombes",
+                "count": 3
+            },
+            {
+                "keyword": "monument",
+                "count": 3
+            },
+            {
+                "keyword": "pays",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Tourbet+El+Bey:+The+Royal+Mausoleum/data=!4m7!3m6!1s0x12fd340a54955555:0xdcf33eac1500d051!8m2!3d36.7936528!4d10.1730395!16s%2Fg%2F1228rr61!19sChIJVVWVVAo0_RIRUdAAFaw-89w?authuser=0&hl=fr&rclk=1"
+    }
+]

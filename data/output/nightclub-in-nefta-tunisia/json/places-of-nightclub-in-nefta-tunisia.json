@@ -1,0 +1,51 @@
+[
+    {
+        "place_id": "ChIJgRdX1yXAVxIRwluRY9zlDlU",
+        "name": "Sahara Lounge",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 133,
+        "website": "http://www.sahara-lounge.com/",
+        "owner": {
+            "id": null,
+            "name": "Sahara Lounge (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPGka0EMjD07dBpp8V3ZjB4b-mRtBcanN0rlnvb=w408-h544-k-no",
+        "main_category": "Bar lounge",
+        "categories": [
+            "Bar lounge",
+            "Parc",
+            "Centre de loisirs",
+            "Salon de the"
+        ],
+        "rating": 4.1,
+        "workday_timing": "09:00-22:00",
+        "closed_on": [],
+        "phone": "50 287 900",
+        "address": "W47Q+WV9 Sahara Lounge, Route de la Berka, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "la nature",
+                "count": 8
+            },
+            {
+                "keyword": "palmiers",
+                "count": 5
+            },
+            {
+                "keyword": "enfants",
+                "count": 5
+            },
+            {
+                "keyword": "prix",
+                "count": 4
+            },
+            {
+                "keyword": "tyrolienne",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sahara+Lounge/data=!4m7!3m6!1s0x1257c025d7571781:0x550ee5dc63915bc2!8m2!3d33.9147891!4d8.139721!16s%2Fg%2F124ych528!19sChIJgRdX1yXAVxIRwluRY9zlDlU?authuser=0&hl=fr&rclk=1"
+    }
+]

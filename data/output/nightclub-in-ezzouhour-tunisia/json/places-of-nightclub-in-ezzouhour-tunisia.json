@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJvZPHNxI1_RIREjVY0Pxa-AQ",
+        "name": "Chat alhamrouni",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Chat alhamrouni (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=rZmC4k7XNBxbtwHoTXeB8g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=269.3608&pitch=0&thumbfov=100",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "R54J+HJV Chat alhamrouni, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Chat+alhamrouni/data=!4m7!3m6!1s0x12fd351237c793bd:0x4f85afcd0583512!8m2!3d36.8064948!4d10.1815316!16s%2Fg%2F11j79xdbf8!19sChIJvZPHNxI1_RIREjVY0Pxa-AQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ73SrC6r1_RIRR3fi4HEYWic",
+        "name": "dr `bdw lmjrm",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "dr `bdw lmjrm (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QHQJ+JQC dr `bdw lmjrm, shr` 9 'fryl, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%AF%D8%A7%D8%B1+%D8%B9%D8%A8%D8%AF%D9%88+%D8%A7%D9%84%D9%85%D8%AC%D8%B1%D9%85%E2%80%AD/data=!4m7!3m6!1s0x12fdf5aa0bab74ef:0x275a1871e0e27747!8m2!3d35.7890727!4d10.5818783!16s%2Fg%2F11rw_twn2n!19sChIJ73SrC6r1_RIRR3fi4HEYWic?authuser=0&hl=fr&rclk=1"
+    }
+]

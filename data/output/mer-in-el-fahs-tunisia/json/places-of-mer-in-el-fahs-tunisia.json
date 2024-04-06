@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJOXcPk7sd_RIRFMVQf3izeFo",
+        "name": "El fahs",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "El fahs (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOBUziFLzmNueD8x0oX9On7kBdOMXAVBGns0wgz=w408-h544-k-no",
+        "main_category": "Lotissement",
+        "categories": [
+            "Lotissement"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "9WMF+R2Q El fahs, El Fahs",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/El+fahs/data=!4m7!3m6!1s0x12fd1dbb930f7739:0x5a78b3787f50c514!8m2!3d36.3845775!4d9.922622!16s%2Fg%2F11s88zpx5g!19sChIJOXcPk7sd_RIRFMVQf3izeFo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZ7xooo0z_RIRHu4pMcK1JAc",
+        "name": "Fahs",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Fahs (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNjOlEm5AFdxdHdXPLQ8fwf9p8YLkY2nma4uERv=w426-h240-k-no",
+        "main_category": "Residence",
+        "categories": [
+            "Residence"
+        ],
+        "rating": 3.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Fahs, Rue Maarouf Errassafi, El Fahs",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fahs/data=!4m7!3m6!1s0x12fd338da268bc67:0x724b5c23129ee1e!8m2!3d36.3774215!4d9.9103377!16s%2Fg%2F11q35yzdv9!19sChIJZ7xooo0z_RIRHu4pMcK1JAc?authuser=0&hl=fr&rclk=1"
+    }
+]

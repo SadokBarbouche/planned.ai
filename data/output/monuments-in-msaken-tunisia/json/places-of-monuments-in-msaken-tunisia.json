@@ -1,0 +1,229 @@
+[
+    {
+        "place_id": "ChIJNZpBhXN1AhMRwBmaKfis3fU",
+        "name": "Ribat de Sousse",
+        "description": "Construit au VIIIe siecle et agrandi en 821, ce petit fort comprend une tour offrant une vue panoramique.",
+        "is_spending_on_ads": false,
+        "reviews": 3223,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ribat de Sousse (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOWsD599a4gXTuYabBwmaeZRQEOSgsmG1W70nMR=w408-h306-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Lieu historique",
+            "Musee d'histoire locale",
+            "Monument",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-17:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "RJHQ+3G7 Ribat de Sousse, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "marche",
+                "count": 84
+            },
+            {
+                "keyword": "mosquee",
+                "count": 34
+            },
+            {
+                "keyword": "bazars",
+                "count": 23
+            },
+            {
+                "keyword": "souvenirs",
+                "count": 23
+            },
+            {
+                "keyword": "marchander",
+                "count": 15
+            },
+            {
+                "keyword": "port",
+                "count": 15
+            },
+            {
+                "keyword": "vendeur",
+                "count": 14
+            },
+            {
+                "keyword": "viiie siecle",
+                "count": 11
+            },
+            {
+                "keyword": "kasbah",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ribat+de+Sousse/data=!4m7!3m6!1s0x1302757385419a35:0xf5ddacf8299a19c0!8m2!3d35.827671!4d10.6387949!16s%2Fg%2F121rcp8l!19sChIJNZpBhXN1AhMRwBmaKfis3fU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1TeVZnN1AhMRcCHowumDXZk",
+        "name": "Musee magic eye 3D",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 383,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee magic eye 3D (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM9WeVZfAhQh0UDPuNijaiyJr5RQpYJ-SJGrOuk=w408-h305-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.3,
+        "workday_timing": "09:00-19:00",
+        "closed_on": [],
+        "phone": "23 635 000",
+        "address": "RJHR+36J Musee magic eye 3D, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "enfants",
+                "count": 22
+            },
+            {
+                "keyword": "famille",
+                "count": 17
+            },
+            {
+                "keyword": "photo",
+                "count": 11
+            },
+            {
+                "keyword": "experience",
+                "count": 11
+            },
+            {
+                "keyword": "prix",
+                "count": 10
+            },
+            {
+                "keyword": "application",
+                "count": 9
+            },
+            {
+                "keyword": "image",
+                "count": 8
+            },
+            {
+                "keyword": "adultes",
+                "count": 6
+            },
+            {
+                "keyword": "a telecharger",
+                "count": 5
+            },
+            {
+                "keyword": "idee",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+magic+eye+3D/data=!4m7!3m6!1s0x13027573669537d5:0x995d83e9c2e82170!8m2!3d35.82771!4d10.6405059!16s%2Fg%2F11gdjprcvb!19sChIJ1TeVZnN1AhMRcCHowumDXZk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJM3ZhrHp1AhMRgZVi5NAE_Bg",
+        "name": "Musee Dar Essid",
+        "description": "Art regional, objets anciens et expositions historiques sur la vie quotidienne dans un celebre palais.",
+        "is_spending_on_ads": false,
+        "reviews": 216,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee Dar Essid (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPqU1jkLUlwl5-iR24tYTx25xUQ4xE92oDpLGYV=w408-h306-k-no",
+        "main_category": "Musee d'art",
+        "categories": [
+            "Musee d'art",
+            "Musee d'histoire locale",
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "10:00-18:00",
+        "closed_on": [],
+        "phone": "73 220 529",
+        "address": "Musee Dar Essid, Boulevard Yahia Ibn Omar, 65 Rue des Remparts, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "tour",
+                "count": 8
+            },
+            {
+                "keyword": "demeure",
+                "count": 8
+            },
+            {
+                "keyword": "vie quotidienne",
+                "count": 6
+            },
+            {
+                "keyword": "langage",
+                "count": 6
+            },
+            {
+                "keyword": "toits",
+                "count": 6
+            },
+            {
+                "keyword": "vue",
+                "count": 6
+            },
+            {
+                "keyword": "prix",
+                "count": 6
+            },
+            {
+                "keyword": "porte",
+                "count": 5
+            },
+            {
+                "keyword": "terrasse",
+                "count": 5
+            },
+            {
+                "keyword": "interieur",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Dar+Essid/data=!4m7!3m6!1s0x1302757aac617633:0x18fc04d0e4629581!8m2!3d35.827142!4d10.6355029!16s%2Fg%2F12lnj4jw0!19sChIJM3ZhrHp1AhMRgZVi5NAE_Bg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJBzAVU811AhMRt6ePe2-FR40",
+        "name": "Monument des Martyrs",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Monument des Martyrs (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO81Whs6y9d71fXDr5qFWJprhu6i2KGDdULHm2C=w426-h240-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "RJHR+384 Monument des Martyrs, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Monument+des+Martyrs/data=!4m7!3m6!1s0x130275cd53153007:0x8d47856f7b8fa7b7!8m2!3d35.8275651!4d10.6408767!16s%2Fg%2F11s5nw84bm!19sChIJBzAVU811AhMRt6ePe2-FR40?authuser=0&hl=fr&rclk=1"
+    }
+]

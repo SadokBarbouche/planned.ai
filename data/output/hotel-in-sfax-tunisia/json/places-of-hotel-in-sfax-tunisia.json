@@ -1,0 +1,443 @@
+[
+    {
+        "place_id": "ChIJHcqBcNMsABMRStyZI95ezEA",
+        "name": "ibis Sfax",
+        "description": "Chambres conviviales dans hotel de style decontracte avec bar, cuisine internationale et piscine exterieure.",
+        "is_spending_on_ads": false,
+        "reviews": 820,
+        "website": "https://all.accor.com/lien_externe.svlt%3Fgoto%3Dfiche_hotel%26code_hotel%3DA094%26merchantid%3Dseo-maps-TN-A094%26sourceid%3Daw-cen%26utm_medium%3Dseo%2Bmaps%26utm_source%3Dgoogle%2BMaps%26utm_campaign%3Dseo%2Bmaps%26y_source%3D1_MTUzNjAzMjktNzE1LWxvY2F0aW9uLndlYnNpdGU%253D",
+        "owner": {
+            "id": "106183447080292298503",
+            "name": "ibis Sfax (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106183447080292298503"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOky9uCDEkFBRV8KYdZQr5uwo8D7h8qcFEVdeQo=w408-h272-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "70 241 000",
+        "address": "ibis Sfax, Avenue Majida Boulila, Sfax 3000",
+        "review_keywords": [
+            {
+                "keyword": "chambre",
+                "count": 35
+            },
+            {
+                "keyword": "buffet",
+                "count": 20
+            },
+            {
+                "keyword": "piscine",
+                "count": 17
+            },
+            {
+                "keyword": "souriant",
+                "count": 16
+            },
+            {
+                "keyword": "professionnel",
+                "count": 11
+            },
+            {
+                "keyword": "bar",
+                "count": 10
+            },
+            {
+                "keyword": "sous-sol",
+                "count": 8
+            },
+            {
+                "keyword": "hygiene",
+                "count": 6
+            },
+            {
+                "keyword": "qualite de service",
+                "count": 5
+            },
+            {
+                "keyword": "luxueux",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/ibis+Sfax/data=!4m10!3m9!1s0x13002cd37081ca1d:0x40cc5ede2399dc4a!5m2!4m1!1i2!8m2!3d34.7362768!4d10.7484746!16s%2Fg%2F11f3xzvl6_!19sChIJHcqBcNMsABMRStyZI95ezEA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJscxTCC4tABMR8KVTAqWBmlE",
+        "name": "Hotel Les Oliviers Palace",
+        "description": "Logements raffines dans un hotel majestueux avec spa et restaurant elegant accueillant des concerts.",
+        "is_spending_on_ads": false,
+        "reviews": 443,
+        "website": "https://www.goldenyasmin.com/",
+        "owner": {
+            "id": "110409984061226850021",
+            "name": "Hotel Les Oliviers Palace (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/110409984061226850021"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGpTkIZsBoQ7VwJ6npnXkkbk9jy5CCGHg5EiybWUpFgTuBzXAHkFhkHdMD__LOTXc0MfG3OAQt9WCgiWRnEEBQSHSEf3mRtwQCU-wGKb5yQwIJZA5-iBm587340IBNAuhApW_p5P-Ck4qnda_1YKt7JVJfdZBVxRQGZGcK0riG5asDlvqWxPjPy3Q=w408-h276-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "74 201 999",
+        "address": "Hotel Les Oliviers Palace, 25 Av. Hedi Chaker, Sfax 3000",
+        "review_keywords": [
+            {
+                "keyword": "service",
+                "count": 24
+            },
+            {
+                "keyword": "chambres",
+                "count": 13
+            },
+            {
+                "keyword": "prix",
+                "count": 8
+            },
+            {
+                "keyword": "port",
+                "count": 7
+            },
+            {
+                "keyword": "bravo",
+                "count": 6
+            },
+            {
+                "keyword": "mer",
+                "count": 6
+            },
+            {
+                "keyword": "renove",
+                "count": 6
+            },
+            {
+                "keyword": "luxueux",
+                "count": 5
+            },
+            {
+                "keyword": "pizza",
+                "count": 4
+            },
+            {
+                "keyword": "anis",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hotel+Les+Oliviers+Palace/data=!4m10!3m9!1s0x13002d2e0853ccb1:0x519a81a50253a5f0!5m2!4m1!1i2!8m2!3d34.7309195!4d10.7655462!16s%2Fg%2F1tfj585v!19sChIJscxTCC4tABMR8KVTAqWBmlE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJpw6pqCktABMRV5KLW6xX2iE",
+        "name": "Radisson Hotel Sfax",
+        "description": "Logements elegants avec Wi-Fi gratuit dans hotel haut de gamme comprenant restaurant, spa et piscine sur toit.",
+        "is_spending_on_ads": false,
+        "reviews": 403,
+        "website": "https://www.radissonhotels.com/en-us/hotels/radisson-sfax%3Fcid%3Da:se%2Bb:gmb%2Bc:emea%2Bi:local%2Be:rad%2Bd:mea%2Bh:TNSFA1",
+        "owner": {
+            "id": "117869375901322830749",
+            "name": "Radisson Hotel Sfax (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117869375901322830749"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNIawxhP5uz2ZRiUDKmJoMN5GywPnMvJ6TabDEK=w408-h612-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "31 231 000",
+        "address": "Radisson Hotel Sfax, Street Sfax, Rue de Ribat, Sfax 3000",
+        "review_keywords": [
+            {
+                "keyword": "service",
+                "count": 31
+            },
+            {
+                "keyword": "experience",
+                "count": 18
+            },
+            {
+                "keyword": "piscine",
+                "count": 13
+            },
+            {
+                "keyword": "spa",
+                "count": 7
+            },
+            {
+                "keyword": "buffet",
+                "count": 6
+            },
+            {
+                "keyword": "conference",
+                "count": 5
+            },
+            {
+                "keyword": "organisation",
+                "count": 5
+            },
+            {
+                "keyword": "receptionniste",
+                "count": 5
+            },
+            {
+                "keyword": "bar",
+                "count": 5
+            },
+            {
+                "keyword": "etage",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Radisson+Hotel+Sfax/data=!4m10!3m9!1s0x13002d29a8a90ea7:0x21da57ac5b8b9257!5m2!4m1!1i2!8m2!3d34.730238!4d10.7577817!16s%2Fg%2F11fl44fvc6!19sChIJpw6pqCktABMRV5KLW6xX2iE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6b0t6tTSARMR6vR32JDIn9A",
+        "name": "Hotel Borj Dhiafa",
+        "description": "Chambres et suites raffinees dans hotel haut de gamme avec un spa, une piscine interieure et 2 restaurants.",
+        "is_spending_on_ads": false,
+        "reviews": 250,
+        "website": "http://www.hotelborjdhiafa.com/",
+        "owner": {
+            "id": "100527192546498964079",
+            "name": "Hotel Borj Dhiafa (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100527192546498964079"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGwbmg1VxWYg8fVF8gzDaR0KcFtAnk4nJxl9GGokzmSyuzRK0xkjjPpFdVA76RCIkD4KZlbupeJ-eAVSIPn3sMLYt4nxQDqcPSBLOA99noOuuTBNypyPSXsQsED5KEC7Sal3y6QyzUbCTpRpB7HK3kDu4n7vRExigcDul11SdOSY6cz0HsVgXK2=w408-h271-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "74 677 777",
+        "address": "Hotel Borj Dhiafa, Rte Soukra, Sfax 3052",
+        "review_keywords": [
+            {
+                "keyword": "service",
+                "count": 11
+            },
+            {
+                "keyword": "chambres",
+                "count": 7
+            },
+            {
+                "keyword": "cuisine",
+                "count": 6
+            },
+            {
+                "keyword": "architecture",
+                "count": 4
+            },
+            {
+                "keyword": "clients",
+                "count": 4
+            },
+            {
+                "keyword": "climatisation",
+                "count": 4
+            },
+            {
+                "keyword": "suite",
+                "count": 3
+            },
+            {
+                "keyword": "piscine",
+                "count": 3
+            },
+            {
+                "keyword": "experience",
+                "count": 3
+            },
+            {
+                "keyword": "douches",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+Borj+Dhiafa/data=!4m10!3m9!1s0x1301d2d4ea2dbde9:0xd09fc890d877f4ea!5m2!4m1!1i2!8m2!3d34.7250832!4d10.7239298!16s%2Fg%2F1tl5cfrp!19sChIJ6b0t6tTSARMR6vR32JDIn9A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdQ0TECstABMReKmSMvj_Ims",
+        "name": "Dar Baya Hotel Restaurant Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 58,
+        "website": "https://www.dar-baya.com/",
+        "owner": {
+            "id": "109813191799142503799",
+            "name": "Dar Baya Hotel Restaurant Cafe (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/109813191799142503799"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMGWgKDHjq4tPpnj4s9NkURbv_aQmzXMriQomdp=w408-h306-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel",
+            "Cafe",
+            "Love hotel",
+            "Restaurant"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "74 200 814",
+        "address": "Dar Baya Hotel Restaurant Cafe, 110 Rue Cheikh Tijani, Sfax",
+        "review_keywords": [
+            {
+                "keyword": "l'histoire",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Baya+Hotel+Restaurant+Caf%C3%A9/data=!4m10!3m9!1s0x13002d2b10130d75:0x6b22fff83292a978!5m2!4m1!1i2!8m2!3d34.7363284!4d10.7587136!16s%2Fg%2F11c2y8_cx9!19sChIJdQ0TECstABMReKmSMvj_Ims?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJj5bbtSktABMRmM6-T3YenE8",
+        "name": "Hotel Dar El Hana",
+        "description": "Hebergements au mobilier chaleureux dans hotel de style decontracte comprenant salle a manger et terrasse avec vue sur la ville.",
+        "is_spending_on_ads": false,
+        "reviews": 54,
+        "website": "http://www.hotel-darelhana.com/",
+        "owner": {
+            "id": "105405667287434193782",
+            "name": "Hotel Dar El Hana (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105405667287434193782"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHGc9PyJjMi4v9eWJ2grS7tLGWduHGMvljcIjBzkx45U9C898DbY5ZFx_ikAgAbUxze5lBaRe7BmnZ5UENXPDEjjHMQUMqxHkh79fD5PpJg1LRbiNaPqEewwXPCgZ-f-6rLNmcGtCH3hr72RQRQBF90HcUn3hboB0S489EOWoax3Q6ZUxITNTSY=w408-h612-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "74 222 444",
+        "address": "Hotel Dar El Hana, Rue sakiet sidi youssef, Sfax",
+        "review_keywords": [
+            {
+                "keyword": "service",
+                "count": 5
+            },
+            {
+                "keyword": "bar",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+Dar+El+Hana/data=!4m10!3m9!1s0x13002d29b5db968f:0x4f9c1e764fbece98!5m2!4m1!1i2!8m2!3d34.7299234!4d10.7564222!16s%2Fg%2F11fz72m08d!19sChIJj5bbtSktABMRmM6-T3YenE8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ60Hliy4tABMRvk2076M6rzM",
+        "name": "Hotel El layali",
+        "description": "Hebergements meubles simplement dans hotel simple avec petit-dejeuner gratuit.",
+        "is_spending_on_ads": false,
+        "reviews": 37,
+        "website": "http://www.hotelellayeli.com.tn/",
+        "owner": {
+            "id": null,
+            "name": "Hotel El layali (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEvbaWcqqIT17u5kGLWjS_OXO-wYn5bFJtyafXIiIfs80Rh4l0sq4fVwuZ6O13PmYWIWnBCPW5Gh_-jJ4wJGnx3gsItjVgxXIxP0Gxjc9W2wsL7UVCie0uI91wJ8hlWL8xoxikfTvhzDasvnWVkpOSYqDedmNJOLBKhVR0fJ87RJk-jyXGX51AM=w408-h270-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "74 228 998",
+        "address": "PQJ7+66G Hotel El layali, Rue Ali Bach Hamba, Sfax 3000",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+El+layali/data=!4m10!3m9!1s0x13002d2e8be541eb:0x33af3aa3efb44dbe!5m2!4m1!1i2!8m2!3d34.7305573!4d10.7630799!16s%2Fg%2F11c1ny67dj!19sChIJ60Hliy4tABMRvk2076M6rzM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJp8TFnRgtABMRv4oejhN97Mg",
+        "name": "LARIMAR HOTEL SFAX",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": "https://larimarhotelsfax.com.tn/",
+        "owner": {
+            "id": "103864973590494801242",
+            "name": "LARIMAR HOTEL SFAX (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103864973590494801242"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNtXqEJFlicBS4T_3b4gc6KnKDTrSCnIx2PuQvf=w408-h271-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "29 228 260",
+        "address": "LARIMAR HOTEL SFAX, Rue tazarka, Sfax",
+        "review_keywords": [
+            {
+                "keyword": "chambres",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/LARIMAR+HOTEL+SFAX/data=!4m10!3m9!1s0x13002d189dc5c4a7:0xc8ec7d138e1e8abf!5m2!4m1!1i2!8m2!3d34.7325889!4d10.7684011!16s%2Fg%2F11kx4npbfp!19sChIJp8TFnRgtABMRv4oejhN97Mg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJCehZuRHTARMRZj_r6zwgBjI",
+        "name": "Dar Salma",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar Salma (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOUoHavCLZz-Qh-zsNuskgYQClBxcgHAAH0_w7-=w408-h306-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QPJH+J84 Dar Salma, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Salma/data=!4m10!3m9!1s0x1301d311b959e809:0x3206203cebeb3f66!5m2!4m1!1i2!8m2!3d34.7819953!4d10.7304184!16s%2Fg%2F11rq93xzmk!19sChIJCehZuRHTARMRZj_r6zwgBjI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8ZpNQtgsABMRrh40vhM0xxA",
+        "name": "Hotel du Parc Club Sfaxien",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hotel du Parc Club Sfaxien (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNQxv-lnavcIOw1S3unusmmX9jHWnmK112lgpB6=w408-h544-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "74 497 794",
+        "address": "PQG3+49J Hotel du Parc Club Sfaxien, Rue Raed el bjaoui, Sfax 3065",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hotel+du+Parc+Club+Sfaxien/data=!4m10!3m9!1s0x13002cd8424d9af1:0x10c73413be341eae!5m2!4m1!1i2!8m2!3d34.725344!4d10.7533873!16s%2Fg%2F1pty22nhl!19sChIJ8ZpNQtgsABMRrh40vhM0xxA?authuser=0&hl=fr&rclk=1"
+    }
+]

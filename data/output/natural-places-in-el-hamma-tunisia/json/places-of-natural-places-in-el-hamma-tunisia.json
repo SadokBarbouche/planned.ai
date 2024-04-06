@@ -1,0 +1,135 @@
+[
+    {
+        "place_id": "ChIJ_VsTjAudVRIRvDAzYGCM4Vs",
+        "name": "Hammam Chanchou",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 141,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hammam Chanchou (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN2N7jly2basNDAjwe6XaCg9fTjIde5eVmf2OWe=w408-h544-k-no",
+        "main_category": "Hammam",
+        "categories": [
+            "Hammam"
+        ],
+        "rating": 4,
+        "workday_timing": "05:00-20:30",
+        "closed_on": [],
+        "phone": "98 549 738",
+        "address": "VVWG+243 Hammam Chanchou, Chanchou, El Hamma",
+        "review_keywords": [
+            {
+                "keyword": "jacuzzi",
+                "count": 5
+            },
+            {
+                "keyword": "chambre",
+                "count": 4
+            },
+            {
+                "keyword": "gommage",
+                "count": 4
+            },
+            {
+                "keyword": "nettoyage",
+                "count": 4
+            },
+            {
+                "keyword": "prix",
+                "count": 4
+            },
+            {
+                "keyword": "mineraux",
+                "count": 3
+            },
+            {
+                "keyword": "priere",
+                "count": 3
+            },
+            {
+                "keyword": "vetements",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hammam+Chanchou/data=!4m7!3m6!1s0x12559d0b8c135bfd:0x5be18c60603330bc!8m2!3d33.8950089!4d9.8752841!16s%2Fg%2F11bzwp2xl9!19sChIJ_VsTjAudVRIRvDAzYGCM4Vs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6-8yXnWbVRIRqH2Ifau4IMo",
+        "name": "Hammem Sidi Abdelkader",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hammem Sidi Abdelkader (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Hammam",
+        "categories": [
+            "Hammam"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VQMV+RHW Hammem Sidi Abdelkader, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hammem+Sidi+Abdelkader/data=!4m7!3m6!1s0x12559b755e32efeb:0xca20b8ab7d887da8!8m2!3d33.8846235!4d9.7939394!16s%2Fg%2F11lh334d5n!19sChIJ6-8yXnWbVRIRqH2Ifau4IMo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJL9ITwmKdVRIRydjD4rdTvwU",
+        "name": "Bi'r Shanshu",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Drinking water",
+        "categories": [
+            "Drinking water"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Bi'r Shanshu, El Hamma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bi%27r+Shanshu/data=!4m7!3m6!1s0x12559d62c213d22f:0x5bf53b7e2c3d8c9!8m2!3d33.9!4d9.9!16s%2Fg%2F1vnn3fxp!19sChIJL9ITwmKdVRIRydjD4rdTvwU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ98VEoCoVVhIRwofL_8bM7gA",
+        "name": "Bir el Akrech",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Drinking water",
+        "categories": [
+            "Drinking water"
+        ],
+        "rating": 2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Bir el Akrech",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bir+el+Akrech/data=!4m7!3m6!1s0x1256152aa044c5f7:0xeeccc6ffcb87c2!8m2!3d33.8341667!4d8.8802778!16s%2Fg%2F11h0gh48d!19sChIJ98VEoCoVVhIRwofL_8bM7gA?authuser=0&hl=fr&rclk=1"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJHXkD6PaI-BIRFGyO7znbAcE",
+        "name": "Lac de Gafsa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMMfrraZyeW4t70iSeaVmcLtxwObAWjCj7ANcoD=w426-h240-k-no",
+        "main_category": "Lac",
+        "categories": [
+            "Lac"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Lac de Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lac+de+Gafsa/data=!4m7!3m6!1s0x12f888f6e803791d:0xc101db39ef8e6c14!8m2!3d34.4174!4d8.5323!16s%2Fm%2F011jqfdt!19sChIJHXkD6PaI-BIRFGyO7znbAcE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJkXEdKgCX-BIRgt6qGzA0e-A",
+        "name": "dr lHwt",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://www.facebook.com/profile.php%3Fid%3D100089697336396%26mibextid%3DZbWKwL",
+        "owner": {
+            "id": null,
+            "name": "dr lHwt (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Marche aux poissons et fruits de mer",
+        "categories": [
+            "Marche aux poissons et fruits de mer"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "54 697 819",
+        "address": "CR53+545 dr lHwt, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%AF%D8%A7%D8%B1+%D8%A7%D9%84%D8%AD%D9%88%D8%AA%E2%80%AD/data=!4m7!3m6!1s0x12f897002a1d7191:0xe07b34301baade82!8m2!3d34.4078869!4d8.8028594!16s%2Fg%2F11vrzmr305!19sChIJkXEdKgCX-BIRgt6qGzA0e-A?authuser=0&hl=fr&rclk=1"
+    }
+]

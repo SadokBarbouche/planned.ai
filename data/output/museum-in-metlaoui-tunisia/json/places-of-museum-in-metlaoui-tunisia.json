@@ -1,0 +1,446 @@
+[
+    {
+        "place_id": "ChIJZUdtiDkz_RIRZ1qp5OILUxU",
+        "name": "Bardo National Museum",
+        "description": "Artefacts de Carthage et collection de mosaiques romaines la plus importante au monde dans un cadre grandiose.",
+        "is_spending_on_ads": false,
+        "reviews": 2444,
+        "website": "http://www.bardomuseum.tn/",
+        "owner": {
+            "id": "105899130589857135201",
+            "name": "Bardo National Museum (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105899130589857135201"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNOYpCbkavk7kh-3_NeMQ2s12Dbv1ZChdLntn7w=w408-h275-k-no",
+        "main_category": "Musee national",
+        "categories": [
+            "Musee national"
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:30-16:30",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": null,
+        "address": "Bardo National Museum, RN 7, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "mosaique romaine",
+                "count": 58
+            },
+            {
+                "keyword": "histoire de la tunisie",
+                "count": 39
+            },
+            {
+                "keyword": "palais",
+                "count": 33
+            },
+            {
+                "keyword": "islamique",
+                "count": 23
+            },
+            {
+                "keyword": "civilisations",
+                "count": 22
+            },
+            {
+                "keyword": "2015",
+                "count": 14
+            },
+            {
+                "keyword": "1888",
+                "count": 11
+            },
+            {
+                "keyword": "continent",
+                "count": 8
+            },
+            {
+                "keyword": "virgile",
+                "count": 7
+            },
+            {
+                "keyword": "terrorisme",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Bardo+National+Museum/data=!4m7!3m6!1s0x12fd3339886d4765:0x15530be2e4a95a67!8m2!3d36.8093547!4d10.1342091!16s%2Fm%2F047prs0!19sChIJZUdtiDkz_RIRZ1qp5OILUxU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6xCYZxa5qhMRpXwJba8Cw5A",
+        "name": "Musee de Guellala",
+        "description": "Inspire d'une maison tunisienne, ce musee explore l'artisanat et le folklore local avec des statues de cire.",
+        "is_spending_on_ads": false,
+        "reviews": 2117,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee de Guellala (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOn0eaILMJo9HWebtDiDjE8aG_ZJ-yHDj_AH50Q=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [],
+        "phone": "75 761 114",
+        "address": "PVM8+26Q Musee de Guellala, Guellala 4155",
+        "review_keywords": [
+            {
+                "keyword": "traditions",
+                "count": 97
+            },
+            {
+                "keyword": "ile",
+                "count": 40
+            },
+            {
+                "keyword": "coutumes",
+                "count": 34
+            },
+            {
+                "keyword": "mariage",
+                "count": 31
+            },
+            {
+                "keyword": "patrimoine",
+                "count": 20
+            },
+            {
+                "keyword": "mise en scene",
+                "count": 12
+            },
+            {
+                "keyword": "folklore",
+                "count": 11
+            },
+            {
+                "keyword": "mannequins",
+                "count": 11
+            },
+            {
+                "keyword": "vie quotidienne",
+                "count": 9
+            },
+            {
+                "keyword": "calligraphie",
+                "count": 8
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+de+Guellala/data=!4m7!3m6!1s0x13aab916679810eb:0x90c302af6d097ca5!8m2!3d33.7325783!4d10.8656196!16s%2Fg%2F11hbgb2596!19sChIJ6xCYZxa5qhMRpXwJba8Cw5A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJwdITejvAVxIRAQkCoMhKWno",
+        "name": "PARC CHAK WAK",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 632,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "PARC CHAK WAK (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMoWCd0a2teSw6Rj71HBSlr1lRvbMO03JNoWQmv=w408-h544-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Parc",
+            "Attraction touristique"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": "76 460 400",
+        "address": "W46W+JJ5 PARC CHAK WAK, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "enfants",
+                "count": 26
+            },
+            {
+                "keyword": "religieux",
+                "count": 13
+            },
+            {
+                "keyword": "dinosaures",
+                "count": 11
+            },
+            {
+                "keyword": "histoire de l'humanite",
+                "count": 7
+            },
+            {
+                "keyword": "musulmans",
+                "count": 6
+            },
+            {
+                "keyword": "evolution humaine",
+                "count": 6
+            },
+            {
+                "keyword": "palmeraie",
+                "count": 5
+            },
+            {
+                "keyword": "civilisations",
+                "count": 5
+            },
+            {
+                "keyword": "maintenance",
+                "count": 5
+            },
+            {
+                "keyword": "oasis",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/PARC+CHAK+WAK/data=!4m7!3m6!1s0x1257c03b7a13d2c1:0x7a5a4ac8a0020901!8m2!3d33.9115125!4d8.1466094!16s%2Fg%2F11f3w6llmw!19sChIJwdITejvAVxIRAQkCoMhKWno?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJWcr3ejDAVxIRfWfEgVs7U6g",
+        "name": "Eden Palm",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 209,
+        "website": "http://www.eden-palm.com/",
+        "owner": {
+            "id": "105791739226388732621",
+            "name": "Eden Palm (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105791739226388732621"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMrexcGIo4OrEJSM28Ah6L3SJM6eZOIpJrY0qKQ=w408-h271-k-no",
+        "main_category": "Musee du patrimoine",
+        "categories": [
+            "Musee du patrimoine"
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-23:00",
+        "closed_on": [],
+        "phone": "58 085 059",
+        "address": "Eden Palm, Chem. de l'Ancienne Oasis, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "palmiers",
+                "count": 17
+            },
+            {
+                "keyword": "dattes",
+                "count": 8
+            },
+            {
+                "keyword": "prix",
+                "count": 7
+            },
+            {
+                "keyword": "experience",
+                "count": 4
+            },
+            {
+                "keyword": "degustation",
+                "count": 3
+            },
+            {
+                "keyword": "chocolat",
+                "count": 3
+            },
+            {
+                "keyword": "produit",
+                "count": 3
+            },
+            {
+                "keyword": "apprentissage",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Eden+Palm/data=!4m7!3m6!1s0x1257c0307af7ca59:0xa8533b5b81c4677d!8m2!3d33.9171536!4d8.1469608!16s%2Fg%2F1td8g3x5!19sChIJWcr3ejDAVxIRfWfEgVs7U6g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6Qpez2gy_RIRIV9o2O6-lnY",
+        "name": "Musee National Militaire",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 140,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee National Militaire (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN8lpgkip-Ogx_HwKXtqKRk4KskhD6l49FgtqpZ=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-16:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "70 604 018",
+        "address": "Musee National Militaire, 53 Ave Habib Bourguiba, Manouba",
+        "review_keywords": [
+            {
+                "keyword": "histoire militaire",
+                "count": 18
+            },
+            {
+                "keyword": "armes",
+                "count": 14
+            },
+            {
+                "keyword": "palais",
+                "count": 11
+            },
+            {
+                "keyword": "ministere",
+                "count": 7
+            },
+            {
+                "keyword": "architecture",
+                "count": 7
+            },
+            {
+                "keyword": "guide culturel",
+                "count": 5
+            },
+            {
+                "keyword": "guerres",
+                "count": 4
+            },
+            {
+                "keyword": "histoire de la tunisie",
+                "count": 3
+            },
+            {
+                "keyword": "1989",
+                "count": 3
+            },
+            {
+                "keyword": "1984",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+National+Militaire/data=!4m7!3m6!1s0x12fd3268cf5e0ae9:0x7696beeed8685f21!8m2!3d36.8113948!4d10.0984958!16s%2Fg%2F120jr3v2!19sChIJ6Qpez2gy_RIRIV9o2O6-lnY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3di_yywtABMRU5OXy8etjoU",
+        "name": "Musee Dar Jellouli",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 53,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee Dar Jellouli (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOB8UoBnHylFbNUgDKucHUBnWQ6uIuZEr2Q4GuF=w408-h557-k-no",
+        "main_category": "Musee d'art",
+        "categories": [
+            "Musee d'art",
+            "Attraction",
+            "Lieu historique",
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "PQP7+P2H Musee Dar Jellouli, Rue Sidi Ali Ennouri, Sfax 3047",
+        "review_keywords": [
+            {
+                "keyword": "traditions",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Dar+Jellouli/data=!4m7!3m6!1s0x13002d2ccbbfd8dd:0x858eadc7cb979353!8m2!3d34.7368173!4d10.7626226!16s%2Fg%2F1227jzsm!19sChIJ3di_yywtABMRU5OXy8etjoU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJKT4H26qHVhIRgVAZzBw0XZQ",
+        "name": "Sahara Museum",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Sahara Museum (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPt43Twealh35ZTmBiGtyapwlv5UsPjV5Vp1NDz=w408-h546-k-no",
+        "main_category": "Musee du patrimoine",
+        "categories": [
+            "Musee du patrimoine"
+        ],
+        "rating": 4.7,
+        "workday_timing": "09:30-16:30",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": null,
+        "address": "F229+W8V Sahara Museum, Unnamed Road, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sahara+Museum/data=!4m7!3m6!1s0x125687aadb073e29:0x945d341ccc195081!8m2!3d33.4523692!4d9.0183059!16s%2Fm%2F0n8jg5k!19sChIJKT4H26qHVhIRgVAZzBw0XZQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqafFxqml-xIRgfXDblXjy90",
+        "name": "Circuit culturel et touristique de la medina du kef - Museum Lab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://museumlab.tn/",
+        "owner": {
+            "id": "111859237642939519626",
+            "name": "Circuit culturel et touristique de la medina du kef - Museum Lab (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111859237642939519626"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7G2KQvS3gKoAswp--W67xMNoZo5_l4k7t0tkF=w408-h306-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "samedi",
+            "dimanche"
+        ],
+        "phone": "20 276 643",
+        "address": "Circuit culturel et touristique de la medina du kef - Museum Lab, P17, Le Kef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Circuit+culturel+et+touristique+de+la+m%C3%A9dina+du+kef+-+Museum+Lab/data=!4m7!3m6!1s0x12fba5a9c6c5a7a9:0xddcbe3556ec3f581!8m2!3d36.181303!4d8.7197247!16s%2Fg%2F11sh082zwh!19sChIJqafFxqml-xIRgfXDblXjy90?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJq6qqqhp8-BIRbPFnYPDxkrI",
+        "name": "Revolution tunisienne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Revolution tunisienne (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMn6AchbCqTjRHbTYeAf4HU5Fngxwr5vLQfKVU1=w426-h240-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "8C94+PXW Revolution tunisienne, Al-Mitlawi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/R%C3%A9volution+tunisienne/data=!4m7!3m6!1s0x12f87c1aaaaaaaab:0xb292f1f06067f16c!8m2!3d34.3193669!4d8.4074573!16s%2Fg%2F11c2nv9jcw!19sChIJq6qqqhp8-BIRbPFnYPDxkrI?authuser=0&hl=fr&rclk=1"
+    }
+]

@@ -1,0 +1,727 @@
+[
+    {
+        "place_id": "ChIJlcgIttmHVhIRIxrOdHN7IUY",
+        "name": "Sun Palm Douz",
+        "description": "Chambres et suites de style decontracte dans hotel standard avec piscine exterieure, restaurant et hammam.",
+        "is_spending_on_ads": false,
+        "reviews": 4669,
+        "website": "http://www.goldenyasmin.com/",
+        "owner": {
+            "id": "114355028698076258064",
+            "name": "Sun Palm Douz (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114355028698076258064"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHE6sNubzdh9bdAbjHiRxhQfxrn9QSKQPcuEWS6sNufeTJ9X2XKjG49iVjBqxMceh0YgSjIs3vXnbYZb6zTd-eWuHkurbjW4r6XEfo-f531W5WyRStZbVWRGV6CbrCvpfO7eN052VfgRQzBXlXfGCmQpNnCgoQlwzSkuMITxKselxnv-tE1ZUI7=w408-h272-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 470 123",
+        "address": "Sun Palm Douz, Zone Touristique Bp 98, Douz 4260",
+        "review_keywords": [
+            {
+                "keyword": "piscine",
+                "count": 252
+            },
+            {
+                "keyword": "desert",
+                "count": 172
+            },
+            {
+                "keyword": "excursion",
+                "count": 78
+            },
+            {
+                "keyword": "quad",
+                "count": 21
+            },
+            {
+                "keyword": "sucree",
+                "count": 20
+            },
+            {
+                "keyword": "dromadaire",
+                "count": 12
+            },
+            {
+                "keyword": "palmiers",
+                "count": 10
+            },
+            {
+                "keyword": "oasis",
+                "count": 9
+            },
+            {
+                "keyword": "dunes",
+                "count": 8
+            },
+            {
+                "keyword": "escale",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sun+Palm+Douz/data=!4m10!3m9!1s0x125687d9b608c895:0x46217b7374ce1a23!5m2!4m1!1i2!8m2!3d33.4358315!4d9.0159386!16s%2Fg%2F1td8dxw1!19sChIJlcgIttmHVhIRIxrOdHN7IUY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJC_t_doHqVxIRBSdxoDs_X_g",
+        "name": "Hotel Ras El Ain Tozeur",
+        "description": "Hotel de luxe, restaurant de style decontracte, spa, salle de fitness, et piscines interieure et exterieure.",
+        "is_spending_on_ads": false,
+        "reviews": 1042,
+        "website": "https://www.goldenyasmin.com/",
+        "owner": {
+            "id": "105542293437372958323",
+            "name": "Hotel Ras El Ain Tozeur (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105542293437372958323"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHr9qOHJ9GkyDg-Yar8vmj3UJ6pmQH3-mYIdUUl1xmi15bORy48-HOE3OtHHLr76J8tGqNX68-hQZsfhFL-vGG9xgYzyz8loWgiK_179AY9bnFOQhBmOtSlgZZujttlInHt5SGPt8pfeNv0pgFWjmN-xi00RqyKkkLfUIK5majeX4AnYXeR3FmM=w426-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "76 452 003",
+        "address": "Hotel Ras El Ain Tozeur, Bp 141, Tozeur 2200",
+        "review_keywords": [
+            {
+                "keyword": "chambre",
+                "count": 69
+            },
+            {
+                "keyword": "buffet",
+                "count": 22
+            },
+            {
+                "keyword": "desert",
+                "count": 17
+            },
+            {
+                "keyword": "restauration",
+                "count": 13
+            },
+            {
+                "keyword": "excursion",
+                "count": 12
+            },
+            {
+                "keyword": "proprete",
+                "count": 11
+            },
+            {
+                "keyword": "equipe",
+                "count": 10
+            },
+            {
+                "keyword": "massage",
+                "count": 8
+            },
+            {
+                "keyword": "piscine couverte",
+                "count": 7
+            },
+            {
+                "keyword": "service",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+Ras+El+A%C3%AFn+Tozeur/data=!4m10!3m9!1s0x1257ea81767ffb0b:0xf85f3f3ba0712705!5m2!4m1!1i2!8m2!3d33.9129878!4d8.1174973!16s%2Fg%2F1tdjt4t4!19sChIJC_t_doHqVxIRBSdxoDs_X_g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3f____OHVhIRqL79-G_DNfY",
+        "name": "Sahara Douz",
+        "description": "Elegant hotel aux allures de chateau avec restaurant, bars, piscines interieure et exterieure, spa.",
+        "is_spending_on_ads": false,
+        "reviews": 951,
+        "website": "http://www.saharadouz.com/",
+        "owner": {
+            "id": null,
+            "name": "Sahara Douz (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEWniRiM7Jjk6xb9NylXlLGKDu8LhNlmako8SN3mDj6hq5XzEFffukyYw5h4F6jJdW2namUPIh-XdGrye6OeZ-oIUkulx2sLi-JryT_tH1z2l-n9YsySqstWwwYwJ5BADAycjTHkCEoZBmmfyIH-CYmlNeoQjzz1ZwK0k-5kbXeIB-wdSr1JoceZg=w408-h271-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 470 864",
+        "address": "Sahara Douz, Zone Touristique De Douz, Douz, 4260, 4260",
+        "review_keywords": [
+            {
+                "keyword": "piscine",
+                "count": 78
+            },
+            {
+                "keyword": "desert",
+                "count": 50
+            },
+            {
+                "keyword": "chambre",
+                "count": 32
+            },
+            {
+                "keyword": "buffet",
+                "count": 23
+            },
+            {
+                "keyword": "boissons",
+                "count": 14
+            },
+            {
+                "keyword": "bar",
+                "count": 14
+            },
+            {
+                "keyword": "excursion",
+                "count": 13
+            },
+            {
+                "keyword": "chicha",
+                "count": 10
+            },
+            {
+                "keyword": "oasis",
+                "count": 5
+            },
+            {
+                "keyword": "chameau",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sahara+Douz/data=!4m10!3m9!1s0x125687f3ffffffdd:0xf635c36ff8fdbea8!5m2!4m1!1i2!8m2!3d33.4353323!4d9.0200085!16s%2Fg%2F1pxxrv1m1!19sChIJ3f____OHVhIRqL79-G_DNfY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJBy0ku4zqVxIRsAeBnvJtip8",
+        "name": "Residence l'Oued",
+        "description": "Hotel de style marocain avec restaurant a l'ambiance decontractee, piscine exterieure et chambres conviviales.",
+        "is_spending_on_ads": false,
+        "reviews": 162,
+        "website": "http://www.hotel-residence-loued-tozeur.vivehotels.com/",
+        "owner": {
+            "id": null,
+            "name": "Residence l'Oued (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEGwWmdxWB3pKWIupU0WElxkrshJp_MsoTQ8Rv1Tekzueyl5NVyYi7d5WDMRgp3L2NbxoiRAmthlB1Pq7LIEv7Nd0iXxRsSyiq4nQZsYYAft5mva-9x-BekFF6TjH6Q3JqHYiWAMPQnoL4EoOOQgzlXHKtHJNOwC_AJYl0YJMToS5zfATSQJYEm=w408-h408-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "76 463 036",
+        "address": "W47H+942 Residence l'Oued, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "piscine",
+                "count": 16
+            },
+            {
+                "keyword": "prix",
+                "count": 16
+            },
+            {
+                "keyword": "chambre",
+                "count": 12
+            },
+            {
+                "keyword": "nettoyage",
+                "count": 12
+            },
+            {
+                "keyword": "service",
+                "count": 5
+            },
+            {
+                "keyword": "monnaie",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/R%C3%A9sidence+l%E2%80%99Oued/data=!4m10!3m9!1s0x1257ea8cbb242d07:0x9f8a6df29e8107b0!5m2!4m1!1i2!8m2!3d33.913436!4d8.1277689!16s%2Fg%2F1tf8jrfw!19sChIJBy0ku4zqVxIRsAeBnvJtip8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJMz1egoHqVxIR3wTTv4JXWoQ",
+        "name": "Maison D'hotes Dar Saida Beya",
+        "description": "Chambres et suites elegantes dans un hotel haut de gamme avec hammam et patio, petit-dejeuner gratuit.",
+        "is_spending_on_ads": false,
+        "reviews": 83,
+        "website": "http://www.darsaidabeya.com/",
+        "owner": {
+            "id": null,
+            "name": "Maison D'hotes Dar Saida Beya (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHw0nppv0-cJGDyg5hACBRhKM-uOqAcLnq3Tyxv-n51WwF89yci47AaedqYagH2aD4gQpwhh8bqG49D8eak5sNe01Rv9I6IlDxRxDMQP0bX7F0kF6EtrZBlNDQc7TufzPClErNuN9yBOuFAvDwKZjCb2ielAP30MMV8X_D_lJd8rVkgWMQTsQI=w408-h275-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "25 566 066",
+        "address": "W49P+HFM Maison D'hotes Dar Saida Beya, Rue Ahmed El Ayech, Tozeur 2200",
+        "review_keywords": [
+            {
+                "keyword": "hammam",
+                "count": 5
+            },
+            {
+                "keyword": "hotel de charme",
+                "count": 4
+            },
+            {
+                "keyword": "chambres",
+                "count": 4
+            },
+            {
+                "keyword": "confort",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Maison+D%27h%C3%B4tes+Dar+Saida+Beya/data=!4m10!3m9!1s0x1257ea81825e3d33:0x845a5782bfd304df!5m2!4m1!1i2!8m2!3d33.9189642!4d8.1361647!16s%2Fg%2F1tgsl6pb!19sChIJMz1egoHqVxIR3wTTv4JXWoQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZ_om_O-HVhIRlJHy32hKgx0",
+        "name": "Hotel 20 mars",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 82,
+        "website": "http://www.nefzaoua-voyages.com/",
+        "owner": {
+            "id": null,
+            "name": "Hotel 20 mars (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGDV4Yctidz251UKH65KzBFPbZq2m24tulugVwP8SrCMC0uDK9xytSMV-KfS5lOen6v0aTKQdQVNudc11Id7N0y-2Nl0A9pJXtB7lYdlPsGEQf8RYBDccPGClgOzu71smPd0rvQse_IHQvKSqMtQWAR8qdVwC-yPT2VdaKvaTHyMN8-iJQTGVtm3Q=w408-h271-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 472 920",
+        "address": "F24F+CP3 Hotel 20 mars, Douz",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 13
+            },
+            {
+                "keyword": "desert",
+                "count": 4
+            },
+            {
+                "keyword": "chambre",
+                "count": 4
+            },
+            {
+                "keyword": "qualite",
+                "count": 4
+            },
+            {
+                "keyword": "wifi",
+                "count": 4
+            },
+            {
+                "keyword": "nettoyage",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+20+mars/data=!4m10!3m9!1s0x125687effc26fa67:0x1d834a68dff29194!5m2!4m1!1i2!8m2!3d33.4560247!4d9.024303!16s%2Fg%2F1tg4hj89!19sChIJZ_om_O-HVhIRlJHy32hKgx0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuSmBksCHVhIR7hCHFEzC_RE",
+        "name": "Maison Proche de Desert",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 58,
+        "website": null,
+        "owner": {
+            "id": "111045691308711625998",
+            "name": "Maison Proche de Desert (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111045691308711625998"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMqiNV-f50bdMgnw8c7SH4yxZojPRJPoramEdjE=w408-h306-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "96 894 044",
+        "address": "Maison Proche de Desert, Douz",
+        "review_keywords": [
+            {
+                "keyword": "tente",
+                "count": 5
+            },
+            {
+                "keyword": "pain",
+                "count": 5
+            },
+            {
+                "keyword": "diner",
+                "count": 4
+            },
+            {
+                "keyword": "chameaux",
+                "count": 3
+            },
+            {
+                "keyword": "porte",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Maison+Proche+de+Desert/data=!4m10!3m9!1s0x125687c0928129b9:0x11fdc24c148710ee!5m2!4m1!1i2!8m2!3d33.4409465!4d9.0337675!16s%2Fg%2F11c74hfybk!19sChIJuSmBksCHVhIR7hCHFEzC_RE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJD1Y37Vy3VBIRcBBOq4Q3TLA",
+        "name": "Auberge Alferdaous",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 49,
+        "website": "https://www.hotelstunisian.com/auberge-alferdaous/",
+        "owner": {
+            "id": null,
+            "name": "Auberge Alferdaous (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPWIinOxmCbpNcXYKpq8fMcPSDYhRcaW3SloCoD=w408-h306-k-no",
+        "main_category": "Hostel",
+        "categories": [
+            "Hostel"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "90 031 690",
+        "address": "Auberge Alferdaous, 44 Av. habib bourguiba, Tataouine 3200",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 9
+            },
+            {
+                "keyword": "cuisine",
+                "count": 6
+            },
+            {
+                "keyword": "centre ville",
+                "count": 4
+            },
+            {
+                "keyword": "droit de propriete",
+                "count": 4
+            },
+            {
+                "keyword": "payer",
+                "count": 3
+            },
+            {
+                "keyword": "dinar",
+                "count": 3
+            },
+            {
+                "keyword": "wifi",
+                "count": 3
+            },
+            {
+                "keyword": "douche",
+                "count": 3
+            },
+            {
+                "keyword": "pain",
+                "count": 3
+            },
+            {
+                "keyword": "climatisation",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Auberge+Alferdaous/data=!4m10!3m9!1s0x1254b75ced37560f:0xb04c3784ab4e1070!5m2!4m1!1i2!8m2!3d32.9282678!4d10.4488963!16s%2Fg%2F11h11kzbv6!19sChIJD1Y37Vy3VBIRcBBOq4Q3TLA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJe7yzu_CHVhIRWr3yBaDnil0",
+        "name": "Maison d'hote Murmures de civilisation",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 36,
+        "website": "https://www.facebook.com/maison.hotes.douz.tunisie/",
+        "owner": {
+            "id": "100262525887448395123",
+            "name": "Maison d'hote Murmures de civilisation (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100262525887448395123"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOa6wQ0iqoP2CFYPYHqgJVpHv9B4MUlmXa2Bb2R=w408-h272-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "22 364 896",
+        "address": "Maison d'hote Murmures de civilisation, 17 Rue de Combattants, Douz 4260",
+        "review_keywords": [
+            {
+                "keyword": "desert",
+                "count": 6
+            },
+            {
+                "keyword": "salah",
+                "count": 4
+            },
+            {
+                "keyword": "chambres",
+                "count": 4
+            },
+            {
+                "keyword": "voyage",
+                "count": 4
+            },
+            {
+                "keyword": "chambre d'hote",
+                "count": 3
+            },
+            {
+                "keyword": "tente",
+                "count": 3
+            },
+            {
+                "keyword": "repas",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Maison+d%27h%C3%B4te+Murmures+de+civilisation/data=!4m10!3m9!1s0x125687f0bbb3bc7b:0x5d8ae7a005f2bd5a!5m2!4m1!1i2!8m2!3d33.4608622!4d9.024922!16s%2Fg%2F11f0_gj0rp!19sChIJe7yzu_CHVhIRWr3yBaDnil0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJrWziahyJVhIR8WsC4rqFBRU",
+        "name": "Tente ElBey",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "website": null,
+        "owner": {
+            "id": "102109787662893927139",
+            "name": "Tente ElBey (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/102109787662893927139"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPSI4aKVYS2fQYdAn54blvxVH8UwcWwqEU5U7bq=w576-h240-k-no",
+        "main_category": "Hebergement d'interieur",
+        "categories": [
+            "Hebergement d'interieur"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "27 659 520",
+        "address": "Tente ElBey, 3 km route, Zaafrane 4260",
+        "review_keywords": [
+            {
+                "keyword": "experience",
+                "count": 4
+            },
+            {
+                "keyword": "magique",
+                "count": 3
+            },
+            {
+                "keyword": "cuisine",
+                "count": 3
+            },
+            {
+                "keyword": "sommeil",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Tente+ElBey/data=!4m10!3m9!1s0x1256891c6ae26cad:0x150585bae2026bf1!5m2!4m1!1i2!8m2!3d33.46773!4d8.9777256!16s%2Fg%2F11pbb1rzbh!19sChIJrWziahyJVhIR8WsC4rqFBRU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuftFz3NK-RIR13QFVzpTX2Y",
+        "name": "Hotel de la Jeunesse",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hotel de la Jeunesse (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNv2h6scWy9lCcpH1gPBUZmmwl_e8avspgUnsWI=w408-h544-k-no",
+        "main_category": "Hostel",
+        "categories": [
+            "Hostel"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "77 466 528",
+        "address": "Hotel de la Jeunesse, 40 Av. Habib Bourguiba, Sbeitla",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hotel+de+la+Jeunesse/data=!4m10!3m9!1s0x12f94a73cf45fbb9:0x665f533a570574d7!5m2!4m1!1i2!8m2!3d35.2284444!4d9.1280053!16s%2Fg%2F11c5bdbxgt!19sChIJuftFz3NK-RIR13QFVzpTX2Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_YoNzNCHVhIR8m0N5f-w55w",
+        "name": "The Residence Douz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": "https://www.cenizaro.com/theresidence/tunis-dz",
+        "owner": {
+            "id": "112189271696786513499",
+            "name": "The Residence Douz (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/112189271696786513499"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNX_sZ0HfMZ7ZkjyJfiJU8yxn3r2torF4FVfccZ=w408-h272-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel",
+            "Complexe hotelier"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "31 323 238",
+        "address": "The Residence Douz, Tourist Rout, Douz 4260",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+Residence+Douz/data=!4m10!3m9!1s0x125687d0cc0d8afd:0x9ce7b0ffe50d6df2!5m2!4m1!1i2!8m2!3d33.4290136!4d9.0161702!16s%2Fg%2F11stzv8km4!19sChIJ_YoNzNCHVhIR8m0N5f-w55w?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJB2UGn-iHVhIRKLvP-81TJ-0",
+        "name": "La Maison du voyageur",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Maison du voyageur (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGEBVMz7XDAi5ThqedxyNwHW7JDseNO2jWOF0WROsNueF50BPOMNF_helr65g3rALYa4g5fbso66zV2qyfIPS9beDCeyvYBMoMDrPrTWwoCjV1_IFQllGU7xotj9TvARm8ZbyXHG-do7KE05mkMSaJIdDW2Tk32jtmQUAEoU-YmG7puvQKXT10g=w408-h728-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "98 661 438",
+        "address": "C2RJ+6JW La Maison du voyageur, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+Maison+du+voyageur/data=!4m10!3m9!1s0x125687e89f066507:0xed2753cdfbcfbb28!5m2!4m1!1i2!8m2!3d33.4406125!4d9.0315748!16s%2Fg%2F11h6dyty35!19sChIJB2UGn-iHVhIRKLvP-81TJ-0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJN0vv7gS3VBIReCWFOn28W_g",
+        "name": "Dar essadeg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://www.booking.com/hotel/tn/dar-essadeg-tataouine12.fr.html%3Faid%3D376366%26label%3Dfr-51aYADzKCvHZ21Orv3nXsASM193330406601:pl:ta:p1:p22.563.000:ac:ap:neg:fi:tikwd-65526620:lp9075940:li:dem:dm:ppccp%3DUmFuZG9tSVYkc2RlIyh9Ye7BFAsTyVd6vvamF_no64o%26sid%3Df5220773e9ac84bf3977577177c6ecd0%26all_sr_blocks%3D831527901_348345905_2_0_0%3Bcheckin%3D2022-06-21%3Bcheckout%3D2022-06-22%3Bdest_id%3D-731465%3Bdest_type%3Dcity%3Bdist%3D0%3Bgroup_adults%3D2%3Bgroup_children%3D0%3Bhapos%3D2%3Bhighlighted_blocks%3D831527901_348345905_2_0_0%3Bhpos%3D2%3Bmatching_block_id%3D831527901_348345905_2_0_0%3Bno_rooms%3D1%3Breq_adults%3D2%3Breq_children%3D0%3Broom1%3DA,A%3Bsb_price_type%3Dtotal%3Bsr_order%3Dpopularity%3Bsr_pri_blocks%3D831527901_348345905_2_0_0__3000%3Bsrepoch%3D1655398898%3Bsrpvid%3D7c9f78185d370021%3Btype%3Dtotal%3Bucfs%3D1%26",
+        "owner": {
+            "id": "101778497337234972921",
+            "name": "Dar essadeg (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101778497337234972921"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMyatQp-OlT3TVDujR_DuU4qtdbTJbvYVMFnO8D=w408-h306-k-no",
+        "main_category": "Lodge",
+        "categories": [
+            "Lodge",
+            "Hebergement de groupe"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "97 284 185",
+        "address": "Dar essadeg, P19, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+essadeg/data=!4m10!3m9!1s0x1254b704eeef4b37:0xf85bbc7d3a852578!5m2!4m1!1i2!8m2!3d32.9251725!4d10.4409536!16s%2Fg%2F11j0r4k5ky!19sChIJN0vv7gS3VBIReCWFOn28W_g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZYGPuczrVxIRyAv4joITAEc",
+        "name": "Villa Taouzert",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": "103531507136541252507",
+            "name": "Villa Taouzert (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103531507136541252507"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMJPlYbwOwKvIh_rCDPT693mjTDryBHmYcWyDTe=w408-h272-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "58 085 059",
+        "address": "Villa Taouzert, Ancienne Oasis de, Tozeur 2200",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Villa+Taouzert/data=!4m10!3m9!1s0x1257ebccb98f8165:0x470013828ef80bc8!5m2!4m1!1i2!8m2!3d33.9172904!4d8.1476272!16s%2Fg%2F11l1mq987z!19sChIJZYGPuczrVxIRyAv4joITAEc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJS6vcamaHVhIRoh5Dy-IXbT8",
+        "name": "Le Saharien Paradise",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Le Saharien Paradise (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPOtvUpGzGu0y1rj9qxw35vBrJQb_eVIx_t1s6H=w408-h510-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "C2WG+2PM Le Saharien Paradise, Unnamed Road, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Le+Saharien+Paradise/data=!4m10!3m9!1s0x125687666adcab4b:0x3f6d17e2cb431ea2!5m2!4m1!1i2!8m2!3d33.4450801!4d9.0268041!16s%2Fg%2F11frclgvvf!19sChIJS6vcamaHVhIRoh5Dy-IXbT8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3f____OHVhIRfa03Vmnj2UU",
+        "name": "Le Saharien Paradise",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Le Saharien Paradise (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFaKVpGUjmd2s_QOJg7upCWJ-CvF8qkS_NRK-MXvgF_5Uca888AQhoPXFTBfB7tMx1KirVC_js8yDUzt9C0e30ShxzXG6aHmW0c0NXKHgbJjlPEV4R11Z320LFPULVHBq3CAWEG-esHCMN2tsN7frOiZUotSmD_Y_C0_rJH3Cd-sbtwYl-zcqyrBA=w408-h305-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "F26H+HQH Le Saharien Paradise, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Le+Saharien+Paradise/data=!4m10!3m9!1s0x125687f3ffffffdd:0x45d9e3695637ad7d!5m2!4m1!1i2!8m2!3d33.4614354!4d9.0294708!16s%2Fg%2F11b73qnv08!19sChIJ3f____OHVhIRfa03Vmnj2UU?authuser=0&hl=fr&rclk=1"
+    }
+]

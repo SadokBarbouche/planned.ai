@@ -1,0 +1,405 @@
+[
+    {
+        "place_id": "ChIJxz4swkbF_RIRe6JGpA06RiI",
+        "name": "La Kasba",
+        "description": "Hotel de style decontracte, petit-dej. gratuit, restaurant, cafe, piscine exterieure et espace de reception.",
+        "is_spending_on_ads": false,
+        "reviews": 509,
+        "website": "https://www.goldenyasmin.com/",
+        "owner": {
+            "id": "101706252292300859830",
+            "name": "La Kasba (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101706252292300859830"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFrYTkJQFg26vsft0VskF9kLAngmAPMivN0UFelOM2yyA5rxI3EM1ggdHAH6_2EQgCqIe_wrNB4IgyxUhuLuEWPRBVB_tiQUBTwb3xYoyEfVeQisOTGhgaRdPmvehOUhc4UkSYRTTNqAUOLBz7eKhlGdX8hPrIkmP5PkJdI6JPndakQWfNcXOKPcQ=w408-h291-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel",
+            "Lieu historique"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "77 237 301",
+        "address": "La Kasba, 3140 Rue de La Kasbah, Kairouan",
+        "review_keywords": [
+            {
+                "keyword": "service",
+                "count": 26
+            },
+            {
+                "keyword": "piscine",
+                "count": 19
+            },
+            {
+                "keyword": "buffet",
+                "count": 16
+            },
+            {
+                "keyword": "chambres",
+                "count": 15
+            },
+            {
+                "keyword": "etoiles",
+                "count": 14
+            },
+            {
+                "keyword": "architecture",
+                "count": 8
+            },
+            {
+                "keyword": "mosquee",
+                "count": 8
+            },
+            {
+                "keyword": "dejeuner",
+                "count": 8
+            },
+            {
+                "keyword": "souper",
+                "count": 7
+            },
+            {
+                "keyword": "cuisine",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/La+Kasba/data=!4m10!3m9!1s0x12fdc546c22c3ec7:0x22463a0da446a27b!5m2!4m1!1i2!8m2!3d35.6799151!4d10.0992983!16s%2Fg%2F1tpmd7nl!19sChIJxz4swkbF_RIRe6JGpA06RiI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJX4Fk4fa9VBIRtQAx1QVTp7U",
+        "name": "Kenza",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 142,
+        "website": "http://www.kenza-chenini.com/",
+        "owner": {
+            "id": null,
+            "name": "Kenza (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHF8xmvl0R0FRBjwHCXZ-bGuH9wX59H_vaBmfCdTs3ntjvSBOUwOuw605SjQ7SWZu2X2Qr9byO5CRztOcxuLSo4mGwTQbCBkwmxtOg69i-GKDjML9ceo8UvD3dpbJIR7AZ89qHXBGAEE8Hsyw3BlAX33AG4mLKYDYWXYJVdI8r6z6jw_UnJHg=w408-h306-k-no",
+        "main_category": "Hebergement d'interieur",
+        "categories": [
+            "Hebergement d'interieur"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "97 284 086",
+        "address": "Kenza, Chenini Troglodytique 3222 Shanini Shanini, 3222",
+        "review_keywords": [
+            {
+                "keyword": "experience",
+                "count": 25
+            },
+            {
+                "keyword": "chambres",
+                "count": 16
+            },
+            {
+                "keyword": "troglodytes",
+                "count": 12
+            },
+            {
+                "keyword": "grottes",
+                "count": 12
+            },
+            {
+                "keyword": "village",
+                "count": 12
+            },
+            {
+                "keyword": "diner",
+                "count": 7
+            },
+            {
+                "keyword": "prix",
+                "count": 6
+            },
+            {
+                "keyword": "coeur",
+                "count": 4
+            },
+            {
+                "keyword": "magique",
+                "count": 4
+            },
+            {
+                "keyword": "region",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Kenza/data=!4m10!3m9!1s0x1254bdf6e164815f:0xb5a75305d53100b5!5m2!4m1!1i2!8m2!3d32.9113253!4d10.2639852!16s%2Fg%2F1tn8npfc!19sChIJX4Fk4fa9VBIRtQAx1QVTp7U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJD1Y37Vy3VBIRcBBOq4Q3TLA",
+        "name": "Auberge Alferdaous",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 49,
+        "website": "https://www.hotelstunisian.com/auberge-alferdaous/",
+        "owner": {
+            "id": null,
+            "name": "Auberge Alferdaous (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPWIinOxmCbpNcXYKpq8fMcPSDYhRcaW3SloCoD=w408-h306-k-no",
+        "main_category": "Hostel",
+        "categories": [
+            "Hostel"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "90 031 690",
+        "address": "Auberge Alferdaous, 44 Av. habib bourguiba, Tataouine 3200",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 9
+            },
+            {
+                "keyword": "cuisine",
+                "count": 6
+            },
+            {
+                "keyword": "centre ville",
+                "count": 4
+            },
+            {
+                "keyword": "droit de propriete",
+                "count": 4
+            },
+            {
+                "keyword": "payer",
+                "count": 3
+            },
+            {
+                "keyword": "dinar",
+                "count": 3
+            },
+            {
+                "keyword": "wifi",
+                "count": 3
+            },
+            {
+                "keyword": "douche",
+                "count": 3
+            },
+            {
+                "keyword": "pain",
+                "count": 3
+            },
+            {
+                "keyword": "climatisation",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Auberge+Alferdaous/data=!4m10!3m9!1s0x1254b75ced37560f:0xb04c3784ab4e1070!5m2!4m1!1i2!8m2!3d32.9282678!4d10.4488963!16s%2Fg%2F11h11kzbv6!19sChIJD1Y37Vy3VBIRcBBOq4Q3TLA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJLy2KZlnJVBIR2oI0DaBcB_o",
+        "name": "Hotel AL RAYAN Tataouine Nouvelle",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": "http://hotelalrayan.tn/",
+        "owner": {
+            "id": "113401738791775686164",
+            "name": "Hotel AL RAYAN Tataouine Nouvelle (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113401738791775686164"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPpDySMDdkyShxkIhehMf4iQOqDtDvAodft1RCj=w408-h272-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 870 097",
+        "address": "Hotel AL RAYAN Tataouine Nouvelle, Tataouine 3262",
+        "review_keywords": [
+            {
+                "keyword": "piscine",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hotel+AL+RAYAN+Tataouine+Nouvelle/data=!4m10!3m9!1s0x1254c959668a2d2f:0xfa075ca00d3482da!5m2!4m1!1i2!8m2!3d32.99158!4d10.4624472!16s%2Fg%2F11rg4gbdzb!19sChIJLy2KZlnJVBIR2oI0DaBcB_o?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJo2qAVkfF_RIR3EESL8PrE_0",
+        "name": "Dar Hassine Allani",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 33,
+        "website": "https://www.facebook.com/darhassineallani/",
+        "owner": {
+            "id": "117309442297508198446",
+            "name": "Dar Hassine Allani (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117309442297508198446"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOfvIoI4w1S0-iRZs_R61XevhAnJxy_kn_5yMIj=w408-h273-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "25 258 684",
+        "address": "Dar Hassine Allani, 37 Rue El Kadraoui, Kairouan",
+        "review_keywords": [
+            {
+                "keyword": "terrasse",
+                "count": 3
+            },
+            {
+                "keyword": "chambre",
+                "count": 3
+            },
+            {
+                "keyword": "prix",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Hassine+Allani/data=!4m10!3m9!1s0x12fdc54756806aa3:0xfd13ebc32f1241dc!5m2!4m1!1i2!8m2!3d35.679492!4d10.1023196!16s%2Fg%2F1hf1jq04y!19sChIJo2qAVkfF_RIR3EESL8PrE_0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJp1WGmtQ-_BIRbCfqXqhZITE",
+        "name": "Dar El Henchir",
+        "description": "Hotel sobre avec chambres traditionnelles au mobilier ancien, restaurant et terrasse.",
+        "is_spending_on_ads": false,
+        "reviews": 33,
+        "website": "https://www.facebook.com/profile.php/%3Fid%3D100063673205877",
+        "owner": {
+            "id": null,
+            "name": "Dar El Henchir (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhF6iBi034CnQXPHOcNkUsiWxaWwkCi-U3H3sGpiiKDAnduzPhvmVd59Q2uzMOM4b2RDH4Bc8LaSYVHUZRFNYliO-fGo5QvFP9J5HCaxQp6FyyZ7eT6m9z5TAjD2jlx6NL4uUho_SaZP9vBk72nBJXkMFmunHRQPWwtgxyoMdMLxYUe9RE_nM5M=w408-h306-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes",
+            "Lodge"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "23 302 239",
+        "address": "Dar El Henchir, Al-Waslatiyah , km 55 Route De Kairouan Oueslatia , On Main Road To Alwaslatiyah, Ousseltia 3120",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+El+Henchir/data=!4m10!3m9!1s0x12fc3ed49a8655a7:0x312159a85eea276c!5m2!4m1!1i2!8m2!3d35.8279739!4d9.6322095!16s%2Fg%2F11c1xsjfrm!19sChIJp1WGmtQ-_BIRbCfqXqhZITE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJHWWT4x7F_RIR1JC3Jy6VEg8",
+        "name": "Dar Alouini",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 28,
+        "website": "http://dar-alouini.com/",
+        "owner": {
+            "id": null,
+            "name": "Dar Alouini (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOD2WGPZ8l_VPjfxBkTO355IG3nTzW-DbvcmgqF=w408-h306-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "77 231 321",
+        "address": "Dar Alouini, 34 Rue Oum, Iyadh, 3100, Kairouan",
+        "review_keywords": [
+            {
+                "keyword": "hotel de charme",
+                "count": 3
+            },
+            {
+                "keyword": "mosquee",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Alouini/data=!4m10!3m9!1s0x12fdc51ee393651d:0xf12952e27b790d4!5m2!4m1!1i2!8m2!3d35.681692!4d10.1050989!16s%2Fg%2F11gnn0x610!19sChIJHWWT4x7F_RIR1JC3Jy6VEg8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJWYxMOknF_RIRQBh70OLpyOw",
+        "name": "Hotel Ettaoufik",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": "100472591456010179764",
+            "name": "Hotel Ettaoufik (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100472591456010179764"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMOftNyIR_wAMtQ0jLIDC0vUMBEVYRxsfxtiETI=w408-h306-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "51 802 840",
+        "address": "Hotel Ettaoufik, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hotel+Ettaoufik/data=!4m10!3m9!1s0x12fdc5493a4c8c59:0xecc8e9e2d07b1840!5m2!4m1!1i2!8m2!3d35.6717605!4d10.0983877!16s%2Fg%2F11c5rpyffb!19sChIJWYxMOknF_RIRQBh70OLpyOw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6dfsO_bF_RIR9zi3nEFsA1c",
+        "name": "Dar Chama",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": "118124646720048421370",
+            "name": "Dar Chama (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/118124646720048421370"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPezeRAiMybSqz70YEEMrzywFtOMp_NlOAckWWf=w408-h306-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "92 125 743",
+        "address": "Dar Chama, Kairouan 3100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Chama/data=!4m10!3m9!1s0x12fdc5f63becd7e9:0x57036c419cb738f7!5m2!4m1!1i2!8m2!3d35.6779375!4d10.0940625!16s%2Fg%2F11r_xcq_14!19sChIJ6dfsO_bF_RIR9zi3nEFsA1c?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJM3UX9yO3VBIRwhtzPqfusDE",
+        "name": "Tataouineranch",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://destinationdahar.com/places/tataouine-les-bains/",
+        "owner": {
+            "id": "110334790113768333986",
+            "name": "Tataouineranch (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/110334790113768333986"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPjF_IFFnNRjrM-41vCIuv9Bv5cUHAEtXXqgL2s=w408-h271-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes",
+            "Chambre d'hotes"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "WFW9+737 Tataouineranch, Tataouine 3234",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Tataouineranch/data=!4m10!3m9!1s0x1254b723f7177533:0x31b0eea73e731bc2!5m2!4m1!1i2!8m2!3d32.9456066!4d10.4677177!16s%2Fg%2F11st70yl65!19sChIJM3UX9yO3VBIRwhtzPqfusDE?authuser=0&hl=fr&rclk=1"
+    }
+]

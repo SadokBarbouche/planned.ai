@@ -1,0 +1,102 @@
+[
+    {
+        "place_id": "ChIJBVtJBcR7_BIRX0WG5mTfnBc",
+        "name": "Siliana",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Siliana (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOnTvU41Dv_9hRGcgJZsxEEoeusL-NPS_Dtzdj-=w533-h240-k-no",
+        "main_category": "Centre de spiritisme",
+        "categories": [
+            "Centre de spiritisme"
+        ],
+        "rating": 3.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "39Q8+C3H Siliana",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Siliana/data=!4m7!3m6!1s0x12fc7bc405495b05:0x179cdf64e686455f!8m2!3d36.0885641!4d9.3652258!16s%2Fg%2F11khpg2q2c!19sChIJBVtJBcR7_BIRX0WG5mTfnBc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJKyeyWlh7_BIRt8n3pLhTFtc",
+        "name": "Barrage Siliana",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOisOp_oxHdqhwwGp42iUVm9yaZeJRlNzaB5n3g=w408-h306-k-no",
+        "main_category": "Reservoir",
+        "categories": [
+            "Reservoir"
+        ],
+        "rating": 3.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Barrage Siliana",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Barrage+Siliana/data=!4m7!3m6!1s0x12fc7b585ab2272b:0xd71653b8a4f7c9b7!8m2!3d36.1430179!4d9.358984!16s%2Fg%2F1q5bly3mm!19sChIJKyeyWlh7_BIRt8n3pLhTFtc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJA8AacPiO_BIRZy15LwWP2JI",
+        "name": "oued Siliana",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNgEr92h_Kb4gYAYits7ZKyUgcdVgcme20bkvav=w408-h306-k-no",
+        "main_category": "Cours d'eau",
+        "categories": [
+            "Cours d'eau"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "oued Siliana",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/oued+Siliana/data=!4m7!3m6!1s0x12fc8ef8701ac003:0x92d88f052f792d67!8m2!3d36.3529465!4d9.4038463!16s%2Fg%2F1216lb66!19sChIJA8AacPiO_BIRZy15LwWP2JI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJR8WkNV97_BIRNTfeyG5kLVw",
+        "name": "Barrage Siliana",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Barrage Siliana (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPfPPG4-sxOZjnWl2Ne75rRepKTLUrooUIjam70=w408-h306-k-no",
+        "main_category": "Barrage",
+        "categories": [
+            "Barrage"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "5942+75G Barrage Siliana, Siliana",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Barrage+Siliana/data=!4m7!3m6!1s0x12fc7b5f35a4c547:0x5c2d646ec8de3735!8m2!3d36.1556888!4d9.3504467!16s%2Fg%2F11f0_gnzht!19sChIJR8WkNV97_BIRNTfeyG5kLVw?authuser=0&hl=fr&rclk=1"
+    }
+]

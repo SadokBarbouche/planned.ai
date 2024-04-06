@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJpdMsK2gR_RIRngu4G6PWTVs",
+        "name": "Salle des fetes mariem",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Salle des fetes mariem (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "C574+6GP Salle des fetes mariem, Cite Sanabel, Zaghouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Salle+des+fetes+mariem/data=!4m7!3m6!1s0x12fd11682b2cd3a5:0x5b4dd6a31bb80b9e!8m2!3d36.4130815!4d10.1563212!16s%2Fg%2F11f01v8z63!19sChIJpdMsK2gR_RIRngu4G6PWTVs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJcyrugVu14hIRYMVGHiSO7b8",
+        "name": "Midnight club cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Midnight club cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPjP6SLWSgrZcE0jNFHVSQJxBcbcyGP1_N7o74C=w408-h350-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "20 646 926",
+        "address": "V77R+C92 Midnight club cafe, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Midnight+club+caf%C3%A9/data=!4m7!3m6!1s0x12e2b55b81ee2a73:0xbfed8e241e46c560!8m2!3d36.863506!4d10.290888!16s%2Fg%2F11q4gsj6vc!19sChIJcyrugVu14hIRYMVGHiSO7b8?authuser=0&hl=fr&rclk=1"
+    }
+]

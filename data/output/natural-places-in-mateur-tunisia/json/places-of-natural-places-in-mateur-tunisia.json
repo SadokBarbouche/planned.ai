@@ -1,0 +1,177 @@
+[
+    {
+        "place_id": "ChIJ6Yp6khlf4xIRX63QCvC29o0",
+        "name": "Plage Publique Cap Serat",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPoEwmxCfyzlgnhtcqMIoQKyzz_Tyu7-H3e8jmo=w408-h306-k-no",
+        "main_category": "Plage",
+        "categories": [
+            "Plage"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Plage Publique Cap Serat",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Plage+Publique+Cap+Serat/data=!4m7!3m6!1s0x12e35f19927a8ae9:0x8df6b6f00ad0ad5f!8m2!3d37.2195292!4d9.2247351!16s%2Fg%2F11f0424wbk!19sChIJ6Yp6khlf4xIRX63QCvC29o0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJF3ERoyPg4hIRwHJXL2B8gNI",
+        "name": "Ain Bittar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPT8liRaNiv8hZCCG0pOtMN1pPXfTRu4G7uUy-B=w408-h303-k-no",
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain Bittar, Menzel Jemil",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+Bittar/data=!4m7!3m6!1s0x12e2e023a3117117:0xd2807c602f5772c0!8m2!3d37.2479301!4d9.9096116!16s%2Fg%2F1q62mz_rl!19sChIJF3ERoyPg4hIRwHJXL2B8gNI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJo0GQ3dgh4xIRUYtIV1lVZDs",
+        "name": "Lac de Bizerte",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN3W-PtqUjoNTLSYAJ5YCWkCLsKDcGN6w4hIec-=w426-h240-k-no",
+        "main_category": "Lac",
+        "categories": [
+            "Lac"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Lac de Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lac+de+Bizerte/data=!4m7!3m6!1s0x12e321d8dd9041a3:0x3b64555957488b51!8m2!3d37.1946281!4d9.8683073!16s%2Fg%2F1hc5096lz!19sChIJo0GQ3dgh4xIRUYtIV1lVZDs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJw9BpU63Q4hIR4B2EkW8UkFo",
+        "name": "hnshyr THwn@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPU6ySMK5DsiJcNP8sQDT67Dq-oX0GafT3G2VlV=w408-h544-k-no",
+        "main_category": "Agricultural",
+        "categories": [
+            "Agricultural"
+        ],
+        "rating": 2.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "hnshyr THwn@",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%87%D9%86%D8%B4%D9%8A%D8%B1+%D8%B7%D8%A7%D8%AD%D9%88%D9%86%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x12e2d0ad5369d0c3:0x5a90146f91841de0!8m2!3d37.0363401!4d9.9905265!16s%2Fg%2F1w8g39bv!19sChIJw9BpU63Q4hIR4B2EkW8UkFo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJl5VGDW4s4xIR0CIrUdGdIM8",
+        "name": "Ain Terguellache",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain Terguellache",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+Terguellache/data=!4m7!3m6!1s0x12e32c6e0d469597:0xcf209dd1512b22d0!8m2!3d36.95!4d9.8!16s%2Fg%2F11bymy46v5!19sChIJl5VGDW4s4xIR0CIrUdGdIM8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJezjjljvg4hIRjcS9mp45a0I",
+        "name": "`Ayn Bittar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Drinking water",
+        "categories": [
+            "Drinking water"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "`Ayn Bittar",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%60Ayn+Bittar/data=!4m7!3m6!1s0x12e2e03b96e3387b:0x426b399e9abdc48d!8m2!3d37.25!4d9.9166667!16s%2Fg%2F1hbpwntcy!19sChIJezjjljvg4hIRjcS9mp45a0I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJIYClIy_a4hIRKg5yVkQKbdE",
+        "name": "Champ de raisin",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Agricultural",
+        "categories": [
+            "Agricultural"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Champ de raisin",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Champ+de+raisin/data=!4m7!3m6!1s0x12e2da2f23a58021:0xd16d0a4456720e2a!8m2!3d37.0795774!4d9.9975157!16s%2Fg%2F1thr4c_7!19sChIJIYClIy_a4hIRKg5yVkQKbdE?authuser=0&hl=fr&rclk=1"
+    }
+]

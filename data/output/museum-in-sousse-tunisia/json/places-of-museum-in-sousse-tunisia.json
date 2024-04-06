@@ -1,0 +1,140 @@
+[
+    {
+        "place_id": "ChIJQ5uiFG51AhMRn9KSibxecpU",
+        "name": "Musee archeologique de Sousse",
+        "description": "Petit musee dans une casbah historique presentant des mosaiques, des reliques et des objets anciens.",
+        "is_spending_on_ads": false,
+        "reviews": 816,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee archeologique de Sousse (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP5Em_pgGSxstPF-oHXg-TKSunyeEZ07gtgwPQy=w408-h272-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "73 219 011",
+        "address": "RJFP+644 Musee archeologique de Sousse, Rue Abou Kacem Echabi, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "mosaiques",
+                "count": 149
+            },
+            {
+                "keyword": "antique",
+                "count": 18
+            },
+            {
+                "keyword": "prix",
+                "count": 16
+            },
+            {
+                "keyword": "collection",
+                "count": 12
+            },
+            {
+                "keyword": "statues",
+                "count": 11
+            },
+            {
+                "keyword": "valeur",
+                "count": 10
+            },
+            {
+                "keyword": "baptistere",
+                "count": 7
+            },
+            {
+                "keyword": "dinar",
+                "count": 7
+            },
+            {
+                "keyword": "jardin",
+                "count": 7
+            },
+            {
+                "keyword": "poterie",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+arch%C3%A9ologique+de+Sousse/data=!4m7!3m6!1s0x1302756e14a29b43:0x95725ebc8992d29f!8m2!3d35.8230114!4d10.6353131!16s%2Fm%2F05b05cn!19sChIJQ5uiFG51AhMRn9KSibxecpU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJM3ZhrHp1AhMRgZVi5NAE_Bg",
+        "name": "Musee Dar Essid",
+        "description": "Art regional, objets anciens et expositions historiques sur la vie quotidienne dans un celebre palais.",
+        "is_spending_on_ads": false,
+        "reviews": 216,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee Dar Essid (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPqU1jkLUlwl5-iR24tYTx25xUQ4xE92oDpLGYV=w408-h306-k-no",
+        "main_category": "Musee d'art",
+        "categories": [
+            "Musee d'art",
+            "Musee d'histoire locale",
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "10:00-18:00",
+        "closed_on": [],
+        "phone": "73 220 529",
+        "address": "Musee Dar Essid, Boulevard Yahia Ibn Omar, 65 Rue des Remparts, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "tour",
+                "count": 8
+            },
+            {
+                "keyword": "demeure",
+                "count": 8
+            },
+            {
+                "keyword": "vie quotidienne",
+                "count": 6
+            },
+            {
+                "keyword": "langage",
+                "count": 6
+            },
+            {
+                "keyword": "toits",
+                "count": 6
+            },
+            {
+                "keyword": "vue",
+                "count": 6
+            },
+            {
+                "keyword": "prix",
+                "count": 6
+            },
+            {
+                "keyword": "porte",
+                "count": 5
+            },
+            {
+                "keyword": "terrasse",
+                "count": 5
+            },
+            {
+                "keyword": "interieur",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Dar+Essid/data=!4m7!3m6!1s0x1302757aac617633:0x18fc04d0e4629581!8m2!3d35.827142!4d10.6355029!16s%2Fg%2F12lnj4jw0!19sChIJM3ZhrHp1AhMRgZVi5NAE_Bg?authuser=0&hl=fr&rclk=1"
+    }
+]

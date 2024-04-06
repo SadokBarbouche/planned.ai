@@ -1,0 +1,54 @@
+[
+    {
+        "place_id": "ChIJs1EedUsf4xIROMuCLe4h-1M",
+        "name": "Disco nirvana",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Disco nirvana (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": "00:00-05:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "98 177 607",
+        "address": "8V38+7PC Disco nirvana, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Disco+nirvana/data=!4m7!3m6!1s0x12e31f4b751e51b3:0x53fb21ee2d82cb38!8m2!3d37.3026553!4d9.8676129!16s%2Fg%2F11krh34syq!19sChIJs1EedUsf4xIROMuCLe4h-1M?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3f95clYf4xIRfKrtP5cSv9g",
+        "name": "Hanout El Gett",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hanout El Gett (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=bWhmyOFzds1k0Nl7Fmw-dA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=269.49408&pitch=0&thumbfov=100",
+        "main_category": "Bar",
+        "categories": [
+            "Bar"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "52 978 596",
+        "address": "7V94+VQC Hanout El Gett, Unnamed Road, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hanout+El+Gett/data=!4m7!3m6!1s0x12e31f567279ffdd:0xd8bf12973fedaa7c!8m2!3d37.2696762!4d9.8568932!16s%2Fg%2F11fd50bxb0!19sChIJ3f95clYf4xIRfKrtP5cSv9g?authuser=0&hl=fr&rclk=1"
+    }
+]

@@ -1,0 +1,687 @@
+[
+    {
+        "place_id": "ChIJP6_aF-ykqhMR0IdSg5bHKY4",
+        "name": "Cafe Lounge Djerba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 65,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Lounge Djerba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOoLQO5RkQvtk9K4FYZlWD3mwd3j0TOZGcov7wk=w408-h545-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:30-23:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "29 923 085",
+        "address": "VVH7+H5R Cafe Lounge Djerba, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Lounge+Djerba/data=!4m7!3m6!1s0x13aaa4ec17daaf3f:0x8e29c796835287d0!8m2!3d33.8789873!4d10.8628865!16s%2Fg%2F11c1s67z94!19sChIJP6_aF-ykqhMR0IdSg5bHKY4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0568NOakqhMRCGzwYsLaF8Q",
+        "name": "L&L Cafe Restaurant",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 44,
+        "website": null,
+        "owner": {
+            "id": "100663457595586085324",
+            "name": "L&L Cafe Restaurant (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100663457595586085324"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMhPqjcOX3vi0OPDT4M8eDfcf9lYsRlSTncIBPZ=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "05:30-00:00",
+        "closed_on": [],
+        "phone": "75 622 076",
+        "address": "L&L Cafe Restaurant, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/L%26L+Caf%C3%A9+Restaurant/data=!4m7!3m6!1s0x13aaa4e634bc9ed3:0xc417dac262f06c08!8m2!3d33.875714!4d10.8553259!16s%2Fg%2F11g9js0yj7!19sChIJ0568NOakqhMRCGzwYsLaF8Q?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJXZq_L5OkqhMRrSAWgnpmdQU",
+        "name": "Cafe L'arabesque",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 42,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe L'arabesque (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7PAGPaeQS4I7fz-hrH_okjAa7XxhzRAhfTmeI=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "VVH9+P8W Cafe L'arabesque, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+L%27arabesque/data=!4m7!3m6!1s0x13aaa4932fbf9a5d:0x575667a821620ad!8m2!3d33.8793657!4d10.8683406!16s%2Fg%2F11g7285fgz!19sChIJXZq_L5OkqhMRrSAWgnpmdQU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJzwCsf_qkqhMRNFjG9vGQnVg",
+        "name": "Au Quai Crepe Cafe & Co Djerba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 40,
+        "website": "https://www.facebook.com/Au-Quai-622720964601054/",
+        "owner": {
+            "id": "106865255755000184823",
+            "name": "Au Quai Crepe Cafe & Co Djerba (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106865255755000184823"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP13EnDlBMc2TxcNA2il6fLsSY9qDhYKgR5NpiR=w408-h306-k-no",
+        "main_category": "Creperie",
+        "categories": [
+            "Creperie",
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": "27 888 886",
+        "address": "Au Quai Crepe Cafe & Co Djerba, Marina, Houmt Souk 4180",
+        "review_keywords": [
+            {
+                "keyword": "petit dejeuner",
+                "count": 5
+            },
+            {
+                "keyword": "salees",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Au+Quai+Cr%C3%AApe+Caf%C3%A9+%26+Co+Djerba/data=!4m7!3m6!1s0x13aaa4fa7fac00cf:0x589d90f1f6c65834!8m2!3d33.8872469!4d10.8571342!16s%2Fg%2F11ddzd5dyr!19sChIJzwCsf_qkqhMRNFjG9vGQnVg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJN32b5OikqhMRcLQ-Sq1OCNc",
+        "name": "Cafe Ben Daamech",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 38,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Ben Daamech (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOGYRBni0rzT1N5gns8T6zg5LEnyPq_BuIPzAaP=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "05:00-22:00",
+        "closed_on": [],
+        "phone": "21 546 055",
+        "address": "VVG5+CH6 Cafe Ben Daamech, Houmt Souk",
+        "review_keywords": [
+            {
+                "keyword": "jus",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Ben+Daamech/data=!4m7!3m6!1s0x13aaa4e8e49b7d37:0xd7084ead4a3eb470!8m2!3d33.8760298!4d10.8588769!16s%2Fg%2F11cn9kkym3!19sChIJN32b5OikqhMRcLQ-Sq1OCNc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1dgQVuWkqhMRcM8VUYsAhoo",
+        "name": "Kaffa Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 28,
+        "website": null,
+        "owner": {
+            "id": "115271986252871000527",
+            "name": "Kaffa Cafe (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/115271986252871000527"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM6OsnfCIzf8StzUIxUh933f4gvoFfL_gBX71IR=w408-h306-k-no",
+        "main_category": "Cafe specialise dans les boissons expresso",
+        "categories": [
+            "Cafe specialise dans les boissons expresso"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-23:30",
+        "closed_on": [],
+        "phone": "23 588 033",
+        "address": "Kaffa Cafe, 04, avenue Habib bourguiba Houmet souk - djerba, 4128",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kaffa+Caf%C3%A9/data=!4m7!3m6!1s0x13aaa4e55610d8d5:0x8a86008b5115cf70!8m2!3d33.8832815!4d10.8563956!16s%2Fg%2F11bxb93ykk!19sChIJ1dgQVuWkqhMRcM8VUYsAhoo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4d66Nj-lqhMRyXCaQj1zUik",
+        "name": "Cafe Le Garage",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "website": "https://www.facebook.com/profile.php%3Fid%3D100086913193624",
+        "owner": {
+            "id": "111747202138642803814",
+            "name": "Cafe Le Garage (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111747202138642803814"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMe2bWhKcB8A3D74MMebZR_1fHvXdy2CZ8Zuq5c=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Restaurant brunch",
+            "Patisserie",
+            "Salon de the"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-23:00",
+        "closed_on": [],
+        "phone": "24 005 646",
+        "address": "Cafe Le Garage, Avenue Bechir Sfar, Houmt Souk 4180",
+        "review_keywords": [
+            {
+                "keyword": "petit dejeuner",
+                "count": 6
+            },
+            {
+                "keyword": "prix",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Le+Garage/data=!4m7!3m6!1s0x13aaa53f36badee1:0x2952733d429a70c9!8m2!3d33.8749049!4d10.8565143!16s%2Fg%2F11tjl4hd5p!19sChIJ4d66Nj-lqhMRyXCaQj1zUik?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJpTF70eikqhMR5JHEdumsuGg",
+        "name": "Cafe de Haj'hsan mqh~ lHj Hsn",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe de Haj'hsan mqh~ lHj Hsn (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO7vEq271x0l_VrHw0-QnRATM47eHzUPenq3qMZ=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "05:30-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "VVH5+4C8 Cafe de Haj'hsan mqh~ lHj Hsn, Rue Habib Bou Gatfa, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+de+Haj%27hsan+%D9%85%D9%82%D9%87%D9%89+%D8%A7%D9%84%D8%AD%D8%A7%D8%AC+%D8%AD%D8%B3%D9%86%E2%80%AD/data=!4m7!3m6!1s0x13aaa4e8d17b31a5:0x68b8ace976c491e4!8m2!3d33.8777949!4d10.858572!16s%2Fg%2F11cpq1s536!19sChIJpTF70eikqhMR5JHEdumsuGg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJUeKOyXmlqhMRGIT7wVswIF0",
+        "name": "Cafe The Baklawa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe The Baklawa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPcOmDdKxiyIke-4bUCWdmXEUk6WeQ2EP94TZ0=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VVH5+27P Cafe The Baklawa, Rue Habib Bou Gatfa, Houmt Souk 4180",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Th%C3%A9+Baklawa/data=!4m7!3m6!1s0x13aaa579c98ee251:0x5d20305bc1fb8418!8m2!3d33.8775938!4d10.8582065!16s%2Fg%2F11ssdghkjk!19sChIJUeKOyXmlqhMRGIT7wVswIF0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJbZ8APOakqhMRqddhMV6HZGk",
+        "name": "Cafe Nespresso",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Nespresso (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNtlGY4d_TMg6KhNMBOqQIy8Sp1PtJHLmn2Jtbp=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "VVG4+M53 Cafe Nespresso, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Nespresso/data=!4m7!3m6!1s0x13aaa4e63c009f6d:0x6964875e3161d7a9!8m2!3d33.876626!4d10.8554063!16s%2Fg%2F11g9drt2rn!19sChIJbZ8APOakqhMRqddhMV6HZGk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2XSuTNykqhMRvtsOC4Te3Sk",
+        "name": "Cafe JERBA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe JERBA (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN1VZvLiFCGDZPMwUOWJLsxFdiz0TpLwc2GOmka=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "VVC3+42M Cafe JERBA, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+JERBA/data=!4m7!3m6!1s0x13aaa4dc4cae74d9:0x29ddde840b0edbbe!8m2!3d33.8703457!4d10.8525358!16s%2Fg%2F11cs176qm9!19sChIJ2XSuTNykqhMRvtsOC4Te3Sk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJBXtAvJOkqhMRZ9kjhc0U0E8",
+        "name": "Cafe la Coupole",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe la Coupole (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOsu-pUvS04yUr2jyxbLEHbOpBbZrtadPZz6xAs=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "54 064 200",
+        "address": "VVHC+G98 Cafe la Coupole, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+la+Coupole/data=!4m7!3m6!1s0x13aaa493bc407b05:0x4fd014cd8523d967!8m2!3d33.8787955!4d10.8709549!16s%2Fg%2F11fxt_004m!19sChIJBXtAvJOkqhMRZ9kjhc0U0E8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJnyeO_NilqhMR6KRn1w6O0W8",
+        "name": "Cafe Du Souk",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": "117244601159372314512",
+            "name": "Cafe Du Souk (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117244601159372314512"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOkKbOp_YbAKOaJqbViKY38UVfonFq5hcs_nlni=w546-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.9,
+        "workday_timing": "06:00-00:30",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe Du Souk, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Du+Souk/data=!4m7!3m6!1s0x13aaa5d8fc8e279f:0x6fd18e0ed767a4e8!8m2!3d33.8768615!4d10.8594617!16s%2Fg%2F11t89_6m53!19sChIJnyeO_NilqhMR6KRn1w6O0W8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8au6f5ulqhMRwomxVAvvA10",
+        "name": "Cafe restaurant Timo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": "109423230627824876705",
+            "name": "Cafe restaurant Timo (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/109423230627824876705"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOm87DoJbS5yRWlzQG6T6OYtLA8QfhI6BkQTwJg=w408-h255-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant",
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "52 355 715",
+        "address": "Cafe restaurant Timo, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+restaurant+Timo/data=!4m7!3m6!1s0x13aaa59b7fbaabf1:0x5d03ef0b54b189c2!8m2!3d33.8838744!4d10.8555988!16s%2Fg%2F11svgg2413!19sChIJ8au6f5ulqhMRwomxVAvvA10?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJjSkbcSGlqhMRXMT6Qmj6VQQ",
+        "name": "Cafe De Paris",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe De Paris (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO2bDGC-Gbri4axsFjVt-g5gz5m8_Fo1zTJEEmD=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "VRCR+934 Cafe De Paris, Unnamed Road, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+De+Paris/data=!4m7!3m6!1s0x13aaa521711b298d:0x455fa6842fac45c!8m2!3d33.8708821!4d10.8401934!16s%2Fg%2F11c2pn2xdl!19sChIJjSkbcSGlqhMRXMT6Qmj6VQQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ44X7y72lqhMR1xM-Fl-sK2c",
+        "name": "Cafe Mondial",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://www.facebook.com/profile.php%3Fid%3D100077698854559%26mibextid%3DZbWKwL",
+        "owner": {
+            "id": "108988940361504548480",
+            "name": "Cafe Mondial (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108988940361504548480"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNtD6KkeEhkuUkGMG3uYrmkAUHtuvezVqh_fXvX=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Boulangerie",
+            "Patisserie",
+            "Restaurant"
+        ],
+        "rating": 4.3,
+        "workday_timing": "05:00-21:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "75 627 555",
+        "address": "Cafe Mondial, La zone industrielle de Houmt Souk, Djerba, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Mondial/data=!4m7!3m6!1s0x13aaa5bdcbfb85e3:0x672bac5f163e13d7!8m2!3d33.8628719!4d10.8650674!16s%2Fg%2F11q83zgpg0!19sChIJ44X7y72lqhMR1xM-Fl-sK2c?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJo3TQ5uukqhMRizy23BOK_Bk",
+        "name": "Cafe Cactus",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Cactus (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPqWGdw8JArzkpHhpbMKnDLbkeTg-1pImgz8AEh=w408-h734-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "75 620 374",
+        "address": "VVG6+JXQ Cafe Cactus, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Cactus/data=!4m7!3m6!1s0x13aaa4ebe6d074a3:0x19fc8a13dcb63c8b!8m2!3d33.8765923!4d10.8624761!16s%2Fg%2F11c2qsz0c5!19sChIJo3TQ5uukqhMRizy23BOK_Bk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJhWc_adukqhMRoOGHf3XEjB4",
+        "name": "Cafe L'opera",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe L'opera (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=NJK6L5VAamwoWNRQL06eWw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=240.06143&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": "98 235 795",
+        "address": "VV83+HVQ Cafe L'opera, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+L%27op%C3%A9ra/data=!4m7!3m6!1s0x13aaa4db693f6785:0x1e8cc4757f87e1a0!8m2!3d33.8664747!4d10.8547433!16s%2Fg%2F11c6zxvsr7!19sChIJhWc_adukqhMRoOGHf3XEjB4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJR90nCdmkqhMRh0U8tO2pmPs",
+        "name": "Cafe Tam Tam",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Tam Tam (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mmzOgo8liKuP8U4XQsG8OA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=182.55305&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "05:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "VR8X+5GX Cafe Tam Tam, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Tam+Tam/data=!4m7!3m6!1s0x13aaa4d90927dd47:0xfb98a9edb43c4587!8m2!3d33.8654845!4d10.8488565!16s%2Fg%2F11c2np940g!19sChIJR90nCdmkqhMRh0U8tO2pmPs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJyYP5gJakqhMRhGIRyGkYGDk",
+        "name": "Cafe Calypso",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Calypso (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNY6YLMpWJb2iT-tGs33tcAup_bfsLEgeWVfsY5=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "VVFF+M9C Cafe Calypso, Unnamed Road, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Calypso/data=!4m7!3m6!1s0x13aaa49680f983c9:0x39181869c8116284!8m2!3d33.8741959!4d10.8734018!16s%2Fg%2F11fy5ggtdc!19sChIJyYP5gJakqhMRhGIRyGkYGDk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJf23OsyGlqhMR1Hvexm3hQVc",
+        "name": "Cafe Sourour",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Sourour (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMkmaPVnjN1SlrGCjLIGg9M2hNMP53x3TTrrOam=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "29 552 429",
+        "address": "VRCR+VQQ Cafe Sourour, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Sourour/data=!4m7!3m6!1s0x13aaa521b3ce6d7f:0x5741e16dc6de7bd4!8m2!3d33.8722109!4d10.8419917!16s%2Fg%2F11ggvwcztd!19sChIJf23OsyGlqhMR1Hvexm3hQVc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZYUMaoalqhMRM42lfbIMuaY",
+        "name": "Cafeteria wassim",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafeteria wassim (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPTTaYIWaAlsyYnQiBG6YfJfGlNZ5PT4JaQx-aS=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-22:00",
+        "closed_on": [],
+        "phone": "24 122 614",
+        "address": "VVP2+9JH Cafeteria wassim, Unnamed Road,, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9t%C3%A9ria+wassim/data=!4m7!3m6!1s0x13aaa5866a0c8565:0xa6b90cb27da58d33!8m2!3d33.8859285!4d10.8516225!16s%2Fg%2F11h9k_zm8b!19sChIJZYUMaoalqhMRM42lfbIMuaY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1Z3BqZKlqhMRDCVX83J4XOc",
+        "name": "Cafe el jezira",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe el jezira (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lorOn6HnE2m3BHYOC7t5FQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=289.2692&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": "75 621 232",
+        "address": "Cafe el jezira, 69 C116, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+el+jezira/data=!4m7!3m6!1s0x13aaa592a9c19dd5:0xe75c7872f357250c!8m2!3d33.8734417!4d10.8547783!16s%2Fg%2F11h3ldw8np!19sChIJ1Z3BqZKlqhMRDCVX83J4XOc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJk6ilHVGlqhMRQWannS-0qdI",
+        "name": "Cafe Latina",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "113651782240107310445",
+            "name": "Cafe Latina (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113651782240107310445"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPPg7YkpbF6CFg3UIFjalx77l_MK02pu5wxTIXS=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe Latina, Rue Taha Houssine, Houmt Souk 4180",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Latina/data=!4m7!3m6!1s0x13aaa5511da5a893:0xd2a9b42f9da76641!8m2!3d33.8723532!4d10.8552532!16s%2Fg%2F11sx736pg7!19sChIJk6ilHVGlqhMRQWannS-0qdI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJd0YOT-akqhMRqvvjv3bIcdo",
+        "name": "Cafe Tanit",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Tanit (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YSAqQOcsHWHFtZXkTKELZA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=345.19385&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "75 654 400",
+        "address": "VVG3+GR7 Cafe Tanit, Rue Boumessouer, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Tanit/data=!4m7!3m6!1s0x13aaa4e64f0e4677:0xda71c876bfe3fbaa!8m2!3d33.8762833!4d10.8545324!16s%2Fg%2F11g9dk_zk3!19sChIJd0YOT-akqhMRqvvjv3bIcdo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJUSEoNTalqhMRJ2J0OkCGosc",
+        "name": "Cafe La Rosa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "107159691345704254323",
+            "name": "Cafe La Rosa (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/107159691345704254323"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPCRGfuWdZzyC7TnfE86T4K7M8tzfDSXVspM6cw=w408-h240-k-no-pi0-ya340-ro0-fo100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-19:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe La Rosa, Rue Moncef Bey, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+La+Rosa/data=!4m7!3m6!1s0x13aaa53635282151:0xc7a286403a746227!8m2!3d33.8771615!4d10.8569923!16s%2Fg%2F11shvgjxhb!19sChIJUSEoNTalqhMRJ2J0OkCGosc?authuser=0&hl=fr&rclk=1"
+    }
+]

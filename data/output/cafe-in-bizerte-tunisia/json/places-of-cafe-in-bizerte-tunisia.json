@@ -1,0 +1,783 @@
+[
+    {
+        "place_id": "ChIJj2ktCLgf4xIRDKQi0PH4RHc",
+        "name": "Java Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "website": null,
+        "owner": {
+            "id": "103924145872188192154",
+            "name": "Java Coffee (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103924145872188192154"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNSZdHVGtBcbxQi6XUgmyClFUf0-dYuborstsK_=w408-h306-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4.6,
+        "workday_timing": "06:00-22:00",
+        "closed_on": [],
+        "phone": "52 799 399",
+        "address": "Java Coffee, Av. OMAR EL MOKHTAR, Bizerte",
+        "review_keywords": [
+            {
+                "keyword": "petit dejeuner",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Java+Coffee/data=!4m7!3m6!1s0x12e31fb8082d698f:0x7744f8f1d022a40c!8m2!3d37.2895462!4d9.8632198!16s%2Fg%2F11lg2s9nsw!19sChIJj2ktCLgf4xIRDKQi0PH4RHc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJeaIUK0Qf4xIRiM-rBvhaT48",
+        "name": "Floria coffee shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "website": "http://www.floriacoffee.tn/",
+        "owner": {
+            "id": null,
+            "name": "Floria coffee shop (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNTCXOl0ze5Xy8JUzWnLI1x02ixlTY5MTY1OCVn=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": "20 801 801",
+        "address": "7VQ9+GJR Floria coffee shop, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Floria+coffee+shop/data=!4m7!3m6!1s0x12e31f442b14a279:0x8f4f5af806abcf88!8m2!3d37.288854!4d9.8690268!16s%2Fg%2F11k6ylkvtr!19sChIJeaIUK0Qf4xIRiM-rBvhaT48?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJmcBqxKQf4xIRXtAVqcwvJsI",
+        "name": "Cafe et hotel el Medina, Bizerte",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe et hotel el Medina, Bizerte (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN1sBufMrwITUSU2SQtQhF5cGvdumj-x0ypkf6W=w533-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "22 807 649",
+        "address": "Cafe et hotel el Medina, Bizerte, jm` lqSb@, Bizerte 7000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+et+hotel+el+Medina,+Bizerte/data=!4m7!3m6!1s0x12e31fa4c46ac099:0xc2262fcca915d05e!8m2!3d37.2788325!4d9.8748416!16s%2Fg%2F11sgzbg3bd!19sChIJmcBqxKQf4xIRXtAVqcwvJsI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJA3hwn1ge4xIR31Grxp6u1BM",
+        "name": "london cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "london cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMeHVCDRPziq8PWbRuE_xheLFSKha4dMvujHIOE=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-23:30",
+        "closed_on": [],
+        "phone": null,
+        "address": "7VM4+PXW london cafe, Unnamed Road, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/london+cafe/data=!4m7!3m6!1s0x12e31e589f707803:0x13d4ae9ec6ab51df!8m2!3d37.2843661!4d9.8574611!16s%2Fg%2F11c6d9mr5b!19sChIJA3hwn1ge4xIR31Grxp6u1BM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJM92LuUge4xIRq6Gx0EZTTm0",
+        "name": "cafe restaurant chot",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": "https://www.facebook.com/cafe.chot",
+        "owner": {
+            "id": "106042941664416222775",
+            "name": "cafe restaurant chot (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106042941664416222775"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMePljrWj6K3JzI1Se9KY1GFekpYi40lDoLHRLJ=w408-h544-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": "55 891 298",
+        "address": "cafe restaurant chot, Harbor Drive, Bizerte 7000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/cafe+restaurant+chot/data=!4m7!3m6!1s0x12e31e48b98bdd33:0x6d4e5346d0b1a1ab!8m2!3d37.2779304!4d9.8746509!16s%2Fg%2F11dx8hwfbp!19sChIJM92LuUge4xIRq6Gx0EZTTm0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJlT5sPYUf4xIRs9b0jWha18I",
+        "name": "Cafe Cite Hached",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": null,
+        "owner": {
+            "id": "103687365308911256022",
+            "name": "Cafe Cite Hached (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103687365308911256022"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNcu4TDgWwhQ0VUg7VTnKLwGqNwQtNWz8mBopHg=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe Cite Hached, cite Hached, Bizerte 7001",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Cit%C3%A9+Hached/data=!4m7!3m6!1s0x12e31f853d6c3e95:0xc2d75a688df4d6b3!8m2!3d37.2651387!4d9.8426259!16s%2Fg%2F11j4_r9zyz!19sChIJlT5sPYUf4xIRs9b0jWha18I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJbz_Nc4se4xIRwXAyDP-ytSc",
+        "name": "Cafe Morjen",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Morjen (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNzSS5v-ReKHcUgHyomDuq8bMnGW-_oj7ifGfnU=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.6,
+        "workday_timing": "06:00-23:30",
+        "closed_on": [],
+        "phone": "70 030 380",
+        "address": "7VV3+73J Cafe Morjen, Unnamed Road,, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Morjen/data=!4m7!3m6!1s0x12e31e8b73cd3f6f:0x27b5b2ff0c3270c1!8m2!3d37.2934973!4d9.8526528!16s%2Fg%2F11c5176t9g!19sChIJbz_Nc4se4xIRwXAyDP-ytSc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJaQAAAFQe4xIRMtAg4fhJvb0",
+        "name": "cafe mattino",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": "114330379727082353088",
+            "name": "cafe mattino (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114330379727082353088"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPA3ZtLFKiW1c8TMppgyP0UTI_pgllVTpKEUyAs=w427-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:00-23:30",
+        "closed_on": [],
+        "phone": "72 416 036",
+        "address": "cafe mattino, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+mattino/data=!4m7!3m6!1s0x12e31e5400000069:0xbdbd49f8e120d032!8m2!3d37.2921164!4d9.8671454!16s%2Fg%2F11csrtbyyf!19sChIJaQAAAFQe4xIRMtAg4fhJvb0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJhex45tcf4xIRmMCZuT8Q3dk",
+        "name": "Bloom",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bloom (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMZTCJKJVN5Jy-5KXx6toPpv5Xz3iNCpFOVSBMY=w408-h408-k-no",
+        "main_category": "Cafeteria",
+        "categories": [
+            "Cafeteria",
+            "Salon de the"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-23:00",
+        "closed_on": [],
+        "phone": "94 036 378",
+        "address": "7VX9+62F Bloom, La Corniche, Bizerte 7000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bloom/data=!4m7!3m6!1s0x12e31fd7e678ec85:0xd9dd103fb999c098!8m2!3d37.2980605!4d9.867562!16s%2Fg%2F11rcmjlmhj!19sChIJhex45tcf4xIRmMCZuT8Q3dk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJAzFUvUwe4xIRnmtRU2BTfjw",
+        "name": "Cafe Le coin",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Le coin (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO__CdtKfd8i0JIFoduragMBCsVtGfpzs2kw8rq=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "06:00-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "7V9F+V7Q Cafe Le coin, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Le+coin/data=!4m7!3m6!1s0x12e31e4cbd543103:0x3c7e536053516b9e!8m2!3d37.2697007!4d9.8732238!16s%2Fg%2F11c1lz7yhl!19sChIJAzFUvUwe4xIRnmtRU2BTfjw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJD2I4jWUe4xIRtXgqXNRtxIk",
+        "name": "Lavazza Coffee Shop Bizerte",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Lavazza Coffee Shop Bizerte (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMUrNFjUnMvc2QZqdDFLxSVsQmRASgutnLq5Hw=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "06:30-23:00",
+        "closed_on": [],
+        "phone": "28 855 700",
+        "address": "7VW9+P25 Lavazza Coffee Shop Bizerte, la corniche, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lavazza+Coffee+Shop+Bizerte/data=!4m7!3m6!1s0x12e31e658d38620f:0x89c46dd45c2a78b5!8m2!3d37.2967686!4d9.8676083!16s%2Fg%2F11d_vd9r7v!19sChIJD2I4jWUe4xIRtXgqXNRtxIk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9ekd70we4xIRM2opS-deusM",
+        "name": "Cafe +",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": "117039094361668604929",
+            "name": "Cafe + (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117039094361668604929"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMAbJwM-QDMdnT2OKeeL4gHWC6L5YYwnp60BkEl=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe +, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+%2B/data=!4m7!3m6!1s0x12e31e4cef1de9f5:0xc3ba5ee74b296a33!8m2!3d37.2701278!4d9.8721064!16s%2Fg%2F11f03nqrzd!19sChIJ9ekd70we4xIRM2opS-deusM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJPSoCcgIf4xIRY_RdiO3cTR0",
+        "name": "Cafe Eline",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Eline (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPEs49w7S4oOfv2Y9yWCkrnwbpyz1N2J0Wra6Ak=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:30-23:00",
+        "closed_on": [],
+        "phone": "97 141 209",
+        "address": "7V82+386 Cafe Eline, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Eline/data=!4m7!3m6!1s0x12e31f0272022a3d:0x1d4ddced885df463!8m2!3d37.2651613!4d9.8507767!16s%2Fg%2F11f5pxtw45!19sChIJPSoCcgIf4xIRY_RdiO3cTR0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9S_eeqcf4xIRtwgm3pCCttk",
+        "name": "Woods pastry",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://www.facebook.com/WOODS-Pastry-104591668394697/",
+        "owner": {
+            "id": null,
+            "name": "Woods pastry (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPK7Vt5fhDgRbIyV55rgE2P_pgZzbxQ8DO5mNSA=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.6,
+        "workday_timing": "08:00-23:00",
+        "closed_on": [],
+        "phone": "22 760 237",
+        "address": "8V28+R93 Woods pastry, Corniche, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Woods+pastry/data=!4m7!3m6!1s0x12e31fa77ade2ff5:0xd9b68290de2608b7!8m2!3d37.3020197!4d9.86592!16s%2Fg%2F11p02rqfqc!19sChIJ9S_eeqcf4xIRtwgm3pCCttk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJT24MRfQf4xIRNNeFtgp34vc",
+        "name": "La TASSE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "https://www.facebook.com/profile.php%3Fid%3D100057372861309%26mibextid%3DZbWKwL",
+        "owner": {
+            "id": null,
+            "name": "La TASSE (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMJNZCc6R8sLAldLNbt_dgmF1mRdlDHkKfXW22Y=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "7VW8+F3Q La TASSE, Unnamed Road, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+TASSE/data=!4m7!3m6!1s0x12e31ff4450c6e4f:0xf7e2770ab685d734!8m2!3d37.2962085!4d9.8652348!16s%2Fg%2F11hyxtmd55!19sChIJT24MRfQf4xIRNNeFtgp34vc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqbotz6Qf4xIRkLyeZwcbGxE",
+        "name": "Cafe Le Pirate Bizerte",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Le Pirate Bizerte (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNm-RGbZAGeZz-37tcbuVMoa_TlDy_fLDFfltyW=w408-h544-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "7VGG+82M Cafe Le Pirate Bizerte, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Le+Pirate+Bizerte/data=!4m7!3m6!1s0x12e31fa4cf2dbaa9:0x111b1b07679ebc90!8m2!3d37.2758415!4d9.8750381!16s%2Fg%2F11kqxccxy5!19sChIJqbotz6Qf4xIRkLyeZwcbGxE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJVYJd6aQf4xIRtDRerK0xTvA",
+        "name": "Coffee shop my way",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Coffee shop my way (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNMsC7qWMG0cCYHH9uVp2yCU5TVl4-nR1CV0muF=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "20 997 422",
+        "address": "7VV9+P9C Coffee shop my way, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+shop+my+way/data=!4m7!3m6!1s0x12e31fa4e95d8255:0xf04e31adac5e34b4!8m2!3d37.2943231!4d9.8683892!16s%2Fg%2F11s3qn_6xv!19sChIJVYJd6aQf4xIRtDRerK0xTvA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJl4ZxA40f4xIRHHBCGbOF23A",
+        "name": "Twist Coffee Shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Twist Coffee Shop (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM5gPGbu3D6tgM07Q9BfE_7OQAiwjo-DMaK8JyO=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "7VFF+3C9 Twist Coffee Shop, Av. D'Algerie, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Twist+Coffee+Shop/data=!4m7!3m6!1s0x12e31f8d03718697:0x70db85b31942701c!8m2!3d37.2726594!4d9.8736084!16s%2Fg%2F11qbzfy138!19sChIJl4ZxA40f4xIRHHBCGbOF23A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZ2jvZ0oe4xIRbB6ywEndiCc",
+        "name": "mqh~ lnkhyl",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mqh~ lnkhyl (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN9c3TdWxGoPaV-PmQ1sFTF4FRrjtxAJ3v89o8p=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "7VCH+G76 mqh~ lnkhyl, Quai Nord du Canal de, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D9%82%D9%87%D9%89+%D8%A7%D9%84%D9%86%D8%AE%D9%8A%D9%84%E2%80%AD/data=!4m7!3m6!1s0x12e31e4a67ef6867:0x2788dd49c0b21e6c!8m2!3d37.2712888!4d9.8781379!16s%2Fg%2F11f0_gjhkr!19sChIJZ2jvZ0oe4xIRbB6ywEndiCc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_7JhR1Ie4xIRJ8JY9Lyi6cs",
+        "name": "pause cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": "106733260319578327629",
+            "name": "pause cafe (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106733260319578327629"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMCUxNj0fumRGzHZrwv2weBUsw2qb5woEhG9egO=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "pause cafe, Av. Farhat Hached, Bizerte 7000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/pause+cafe/data=!4m7!3m6!1s0x12e31e524761b2ff:0xcbe9a2bcf458c227!8m2!3d37.2729719!4d9.8664552!16s%2Fg%2F11df50yl44!19sChIJ_7JhR1Ie4xIRJ8JY9Lyi6cs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_W_y27Uf4xIRXfnQcPC2u_o",
+        "name": "TIME CAFE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "TIME CAFE (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOMAA0oX1tsEgGBxDj63H-DyEFvr-YN5BdxMnb0=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "24 367 079",
+        "address": "7VP8+XJ8 TIME CAFE, Unnamed Road, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/TIME+CAF%C3%89/data=!4m7!3m6!1s0x12e31fb5dbf26ffd:0xfabbb6f070d0f95d!8m2!3d37.2874213!4d9.8665847!16s%2Fg%2F11qn96q6mz!19sChIJ_W_y27Uf4xIRXfnQcPC2u_o?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_f9MwU0e4xIR-azQS-Y336k",
+        "name": "CAFE L'ORIENT",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "CAFE L'ORIENT (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM_IDO0r1VM3_QKEO0a2d2AacQnQLM100K41Ea5=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-22:00",
+        "closed_on": [],
+        "phone": "21 599 024",
+        "address": "7VFC+457 CAFE L'ORIENT, Ave Hassen Nouri, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CAFE+L%27ORIENT/data=!4m7!3m6!1s0x12e31e4dc14cfffd:0xa9df37e64bd0acf9!8m2!3d37.2727911!4d9.8704304!16s%2Fg%2F11fxvf306y!19sChIJ_f9MwU0e4xIR-azQS-Y336k?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJLbAfcjUf4xIRA_NDekq6PxY",
+        "name": "Cafe el Borj",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe el Borj (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5pdH_DjczqT1T15hSCtOQA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=221.05225&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe el Borj, 189 ex blvd Saadi Carnot, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+el+Borj/data=!4m7!3m6!1s0x12e31f35721fb02d:0x163fba4a7a43f303!8m2!3d37.2782237!4d9.8694272!16s%2Fg%2F11fnb_btbq!19sChIJLbAfcjUf4xIRA_NDekq6PxY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJt9AKtPIf4xIRj4pOT1_rUvc",
+        "name": "Pause cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pause cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMZzr345yMgt-aykLQufLPFYrhyL24nyFjcAWs=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Pause cafe, 33 Rue Salah Ben Ali, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pause+caf%C3%A9/data=!4m7!3m6!1s0x12e31ff2b40ad0b7:0xf752eb5f4f4e8a8f!8m2!3d37.271493!4d9.8693686!16s%2Fg%2F11kq2dwwsk!19sChIJt9AKtPIf4xIRj4pOT1_rUvc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJi9YRUr4f4xIRPnSS4zy9vGg",
+        "name": "Cafe de la Republique, Bizerte",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe de la Republique, Bizerte (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOGsbL1nqy-j5n6NuYQw2bwRc8kzZNzz1altJf7=w408-h408-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "04:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "7VFF+RCV Cafe de la Republique, Bizerte, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+de+la+R%C3%A9publique,+Bizerte/data=!4m7!3m6!1s0x12e31fbe5211d68b:0x68bcbd3ce392743e!8m2!3d37.2746136!4d9.8735498!16s%2Fg%2F11qq050sdg!19sChIJi9YRUr4f4xIRPnSS4zy9vGg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJL5AGtCMf4xIRo0Dawl_7-4s",
+        "name": "Cafe Raouebi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Raouebi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM5SdCoOT2HecvFpQ-Hv9YXW2TJahykJtXsGykv=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "05:30-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "7VP9+2WV Cafe Raouebi, Unnamed Road, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Raouebi/data=!4m7!3m6!1s0x12e31f23b406902f:0x8bfbfb5fc2da40a3!8m2!3d37.2851226!4d9.8697893!16s%2Fg%2F11h1cppmc2!19sChIJL5AGtCMf4xIRo0Dawl_7-4s?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ18VSAe8f4xIR-RupJWWOffU",
+        "name": "Midtown Coffee & Juice",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://www.facebook.com/bghcoffee",
+        "owner": {
+            "id": null,
+            "name": "Midtown Coffee & Juice (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMWrj_CqDttB2bhHSyq9GKqvRowAF_17WHGn13O=w408-h568-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-20:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "7VCF+V78 Midtown Coffee & Juice, Av. D'Algerie, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Midtown+Coffee+%26+Juice/data=!4m7!3m6!1s0x12e31fef0152c5d7:0xf57d8e6525a91bf9!8m2!3d37.2721636!4d9.873192!16s%2Fg%2F11pdfh0nvh!19sChIJ18VSAe8f4xIR-RupJWWOffU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ68Q5aUcf4xIR9NF1SCVIhSw",
+        "name": "La liga coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La liga coffee (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-23:00",
+        "closed_on": [],
+        "phone": "50 124 627",
+        "address": "7VM2+V45 La liga coffee, Unnamed Road, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+liga+coffee/data=!4m7!3m6!1s0x12e31f476939c4eb:0x2c8548254875d1f4!8m2!3d37.2846464!4d9.8503465!16s%2Fg%2F11mq7_48nc!19sChIJ68Q5aUcf4xIR9NF1SCVIhSw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_WP32aQf4xIRpVkI2iB825A",
+        "name": "El Mundo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://www.facebook.com/EL-Mundo-101230912068459/",
+        "owner": {
+            "id": null,
+            "name": "El Mundo (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9HDtWOo8QxmZddHdmjTuqQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=271.9123&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "El Mundo, Route la corniche Bizerte, 7000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/El+Mundo/data=!4m7!3m6!1s0x12e31fa4d9f763fd:0x90db7c20da0859a5!8m2!3d37.2965953!4d9.8677012!16s%2Fg%2F11q2qr5v5d!19sChIJ_WP32aQf4xIRpVkI2iB825A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJi3gpeAAf4xIRRQ0EMPWvKDs",
+        "name": "Caffeitalia Bizerte",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Caffeitalia Bizerte (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMJ7grVymxbvjRO0NnxEum6P41Po831uXsIIaPx=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "7VFG+FCQ Caffeitalia Bizerte, Rue du Martyr Mohamed Rjiba, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caff%C3%A9italia+Bizerte/data=!4m7!3m6!1s0x12e31f007829788b:0x3b28aff530040d45!8m2!3d37.2736634!4d9.8762342!16s%2Fg%2F11vrlwtg2d!19sChIJi3gpeAAf4xIRRQ0EMPWvKDs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJfdOs0dMf4xIRSEyzvV9ncLQ",
+        "name": "Cafe milano",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe milano (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipORN_JLRLP_KpoA5ETvNQnTaJWSgsHkOd8V_RBR=w408-h272-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe milano, 7000, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+milano/data=!4m7!3m6!1s0x12e31fd3d1acd37d:0xb470675fbdb34c48!8m2!3d37.2692644!4d9.8638473!16s%2Fg%2F11q4ddrh_1!19sChIJfdOs0dMf4xIRSEyzvV9ncLQ?authuser=0&hl=fr&rclk=1"
+    }
+]

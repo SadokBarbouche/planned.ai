@@ -1,0 +1,220 @@
+[
+    {
+        "place_id": "ChIJyblzLCwk-xIRwe8wQWScHM8",
+        "name": "El Mouradi Hammam Bourguiba",
+        "description": "Hotel simple avec restaurant buffet, installations sportives, spa et piscine interieure.",
+        "is_spending_on_ads": false,
+        "reviews": 426,
+        "website": "https://www.elmouradi.com/cr2.resa/ui/aba/hotel-descriptif-El%2520Mouradi%2520Hammam%2520Bourguiba-Ain%2520Draham-Tunisie-721-869-1-1-showdate0.aspx",
+        "owner": {
+            "id": "106517984528396193302",
+            "name": "El Mouradi Hammam Bourguiba (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106517984528396193302"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNrM_aDeEdsGWftLaHl2DSQtUTiKCvK8Jmj-24x=w408-h255-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "78 654 200",
+        "address": "El Mouradi Hammam Bourguiba, Hammam Bourguiba, Ain Draham 8136",
+        "review_keywords": [
+            {
+                "keyword": "service",
+                "count": 27
+            },
+            {
+                "keyword": "chambre",
+                "count": 22
+            },
+            {
+                "keyword": "piscine",
+                "count": 19
+            },
+            {
+                "keyword": "naturel",
+                "count": 15
+            },
+            {
+                "keyword": "buffet",
+                "count": 9
+            },
+            {
+                "keyword": "therapie",
+                "count": 8
+            },
+            {
+                "keyword": "montagnes",
+                "count": 8
+            },
+            {
+                "keyword": "massage",
+                "count": 8
+            },
+            {
+                "keyword": "foret",
+                "count": 5
+            },
+            {
+                "keyword": "etoiles",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/El+Mouradi+Hammam+Bourguiba/data=!4m10!3m9!1s0x12fb242c2c73b9c9:0xcf1c9c644130efc1!5m2!4m1!1i2!8m2!3d36.7688157!4d8.5800648!16s%2Fg%2F1td82mct!19sChIJyblzLCwk-xIRwe8wQWScHM8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJb1pS8g47-xIR4EAZRbCDVbA",
+        "name": "Dar Monia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 28,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar Monia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMtZw_yaozBPnjS8S8YcgZWE2LsNs46r7Dkqw0=w408-h271-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "93 801 995",
+        "address": "Dar Monia, Ain Draham",
+        "review_keywords": [
+            {
+                "keyword": "nature",
+                "count": 5
+            },
+            {
+                "keyword": "equipe",
+                "count": 4
+            },
+            {
+                "keyword": "succulents",
+                "count": 3
+            },
+            {
+                "keyword": "foret",
+                "count": 3
+            },
+            {
+                "keyword": "repas",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Monia/data=!4m10!3m9!1s0x12fb3b0ef2525a6f:0xb05583b0451940e0!5m2!4m1!1i2!8m2!3d36.7380417!4d8.6788995!16s%2Fg%2F11p5n8d741!19sChIJb1pS8g47-xIR4EAZRbCDVbA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ569vpdbBqhMRHaor8nV41O8",
+        "name": "Dar Oomi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": "http://www.dar-oomi.com/",
+        "owner": {
+            "id": "116851657178462886990",
+            "name": "Dar Oomi (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/116851657178462886990"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNgc0qOCz-Wzw5DeTj6vdxOSH-XJSmdjSyaM7vj=w408-h271-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "29 172 388",
+        "address": "Dar Oomi, Km 33 Route de Djerba, Zarzis 4170",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Oomi/data=!4m10!3m9!1s0x13aac1d6a56fafe7:0xefd47875f22baa1d!5m2!4m1!1i2!8m2!3d33.6204589!4d10.9623116!16s%2Fg%2F11k3lx89h9!19sChIJ569vpdbBqhMRHaor8nV41O8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ08P6wCKl-xIR6EpiVq_h0Lg",
+        "name": "Residence Venus",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Residence Venus (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMhMVUsY6CVxqz-w94U9FELQ9Q2vwpda583a9Fr=w408-h306-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "78 204 695",
+        "address": "5PJ5+VWH Residence Venus, Rue de la source, El Kef",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/R%C3%A9sidence+V%C3%A9nus/data=!4m10!3m9!1s0x12fba522c0fac3d3:0xb8d0e1af56624ae8!5m2!4m1!1i2!8m2!3d36.1821974!4d8.7098633!16s%2Fg%2F11h2j6mhb2!19sChIJ08P6wCKl-xIR6EpiVq_h0Lg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJN0vv7gS3VBIReCWFOn28W_g",
+        "name": "Dar essadeg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://www.booking.com/hotel/tn/dar-essadeg-tataouine12.fr.html%3Faid%3D376366%26label%3Dfr-51aYADzKCvHZ21Orv3nXsASM193330406601:pl:ta:p1:p22.563.000:ac:ap:neg:fi:tikwd-65526620:lp9075940:li:dem:dm:ppccp%3DUmFuZG9tSVYkc2RlIyh9Ye7BFAsTyVd6vvamF_no64o%26sid%3Df5220773e9ac84bf3977577177c6ecd0%26all_sr_blocks%3D831527901_348345905_2_0_0%3Bcheckin%3D2022-06-21%3Bcheckout%3D2022-06-22%3Bdest_id%3D-731465%3Bdest_type%3Dcity%3Bdist%3D0%3Bgroup_adults%3D2%3Bgroup_children%3D0%3Bhapos%3D2%3Bhighlighted_blocks%3D831527901_348345905_2_0_0%3Bhpos%3D2%3Bmatching_block_id%3D831527901_348345905_2_0_0%3Bno_rooms%3D1%3Breq_adults%3D2%3Breq_children%3D0%3Broom1%3DA,A%3Bsb_price_type%3Dtotal%3Bsr_order%3Dpopularity%3Bsr_pri_blocks%3D831527901_348345905_2_0_0__3000%3Bsrepoch%3D1655398898%3Bsrpvid%3D7c9f78185d370021%3Btype%3Dtotal%3Bucfs%3D1%26",
+        "owner": {
+            "id": "101778497337234972921",
+            "name": "Dar essadeg (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101778497337234972921"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMyatQp-OlT3TVDujR_DuU4qtdbTJbvYVMFnO8D=w408-h306-k-no",
+        "main_category": "Lodge",
+        "categories": [
+            "Lodge",
+            "Hebergement de groupe"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "97 284 185",
+        "address": "Dar essadeg, P19, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+essadeg/data=!4m10!3m9!1s0x1254b704eeef4b37:0xf85bbc7d3a852578!5m2!4m1!1i2!8m2!3d32.9251725!4d10.4409536!16s%2Fg%2F11j0r4k5ky!19sChIJN0vv7gS3VBIReCWFOn28W_g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqfaBzcGl-xIRg5OeqSzzYTw",
+        "name": "Residence Eddyr",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://m.facebook.com/100045277251772/",
+        "owner": {
+            "id": null,
+            "name": "Residence Eddyr (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFDVtga3FSz_jGgWxM3O426u_WmCmmdo6moHiadskCE3UrE5Id90OWr7N61sPrtmcY1YQeQ-H4Nsq3dUOCbPi_uScIuepgU2b8Yi277r-u4ZAHpmrKAeAgyyx2FtkH_60zUGNKBC9HmTsVDtB70x2ZDU8vnGXhSYks2gPNNeoJa9csSfKqeTP2Wmw=w408-h277-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "99 884 114",
+        "address": "5PGJ+HGV Residence Eddyr, Unnamed Road, Le Kef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/R%C3%A9sidence+Eddyr/data=!4m10!3m9!1s0x12fba5c1cd81f6a9:0x3c61f32ca99e9383!5m2!4m1!1i2!8m2!3d36.176482!4d8.7312974!16s%2Fg%2F11fj_b227h!19sChIJqfaBzcGl-xIRg5OeqSzzYTw?authuser=0&hl=fr&rclk=1"
+    }
+]

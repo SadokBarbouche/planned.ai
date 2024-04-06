@@ -1,0 +1,106 @@
+[
+    {
+        "place_id": "ChIJheUy_jEtABMR-hVe7Kum0LU",
+        "name": "La Palette",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 43,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Palette (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOYe1WU_2Y2NlNYpMAoPT-x7TrssKf6fu9vSFoK=w408-h723-k-no",
+        "main_category": "Bar",
+        "categories": [
+            "Bar",
+            "Restaurant ou cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "11:00-00:00",
+        "closed_on": [],
+        "phone": "25 339 759",
+        "address": "PQJ8+HF6 La Palette, Rue Abou Kacem Chebbi, Sfax 3000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+Palette/data=!4m7!3m6!1s0x13002d31fe32e585:0xb5d0a6abec5e15fa!8m2!3d34.7314!4d10.766141!16s%2Fg%2F1ptz38nwf!19sChIJheUy_jEtABMR-hVe7Kum0LU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJU08Zyi0tABMRWmIMkyeDUxY",
+        "name": "La Regence",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Regence (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOFNzEpga7KSr8lzobMCB87MM4N4_iXrh84Y_36=w408-h249-k-no",
+        "main_category": "Bar",
+        "categories": [
+            "Bar",
+            "Cafe et restaurant de grillades"
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [
+            "vendredi"
+        ],
+        "phone": null,
+        "address": "PQM7+6CH La Regence, Av. Habib Bourguiba, Sfax 3000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+R%C3%A9gence/data=!4m7!3m6!1s0x13002d2dca194f53:0x16538327930c625a!8m2!3d34.7330556!4d10.7636111!16s%2Fg%2F1ptxk33yw!19sChIJU08Zyi0tABMRWmIMkyeDUxY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJncGYkfvVARMRVPu8UiBhEAI",
+        "name": "dHdH `mr",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "dHdH `mr (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "RMHP+XP4 dHdH `mr, El Awabed",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%AF%D8%AD%D8%AF%D8%AD+%D8%B9%D9%85%D8%A7%D8%B1%E2%80%AD/data=!4m7!3m6!1s0x1301d5fb9198c19d:0x210612052bcfb54!8m2!3d34.8298776!4d10.6868394!16s%2Fg%2F11t9nr8lzl!19sChIJncGYkfvVARMRVPu8UiBhEAI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJa3w4-ObTARMR9CFkXLqlmaw",
+        "name": "Pro Disc Djockey",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pro Disc Djockey (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0hjDfrsEW9grZ-yMRQoaiw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=200.38416&pitch=0&thumbfov=100",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "22 983 499",
+        "address": "QP9M+W75 Pro Disc Djockey, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pro+Disc+Djockey/data=!4m7!3m6!1s0x1301d3e6f8387c6b:0xac99a5ba5c6421f4!8m2!3d34.7697632!4d10.7332331!16s%2Fg%2F11hzmqdrpf!19sChIJa3w4-ObTARMR9CFkXLqlmaw?authuser=0&hl=fr&rclk=1"
+    }
+]

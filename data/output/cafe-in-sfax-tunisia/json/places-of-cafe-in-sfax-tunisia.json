@@ -1,0 +1,723 @@
+[
+    {
+        "place_id": "ChIJxdDd6NQsABMRLs86_cVwu6o",
+        "name": "Caffeine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 107,
+        "website": "https://www.facebook.com/caffeinetn/",
+        "owner": {
+            "id": null,
+            "name": "Caffeine (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPHOn2bC96iNux9sDK81BuAz5Rd93kJRYiDtvjW=w408-h306-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the",
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-23:00",
+        "closed_on": [],
+        "phone": "74 417 012",
+        "address": "PQP2+MGV Caffeine, Rue Ibn Aljazzar, Sfax 3079",
+        "review_keywords": [
+            {
+                "keyword": "petit dejeuner",
+                "count": 7
+            },
+            {
+                "keyword": "prix",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Caffeine/data=!4m7!3m6!1s0x13002cd4e8ddd0c5:0xaabb70c5fd3acf2e!8m2!3d34.7367337!4d10.7512861!16s%2Fg%2F11bbt9fc1j!19sChIJxdDd6NQsABMRLs86_cVwu6o?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJV784IdDSARMR7yKDelSzHw0",
+        "name": "Cafe Moulin Rouge",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 62,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Moulin Rouge (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNGUgrYrxU5NIF46GQJOg9uh8kHQokQy9ttSXh8=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "06:00-01:00",
+        "closed_on": [],
+        "phone": "52 957 000",
+        "address": "PQW8+C9X Cafe Moulin Rouge, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Moulin+Rouge/data=!4m7!3m6!1s0x1301d2d02138bf57:0xd1fb3547a8322ef!8m2!3d34.7461202!4d10.7659857!16s%2Fg%2F11zlq4sbm!19sChIJV784IdDSARMR7yKDelSzHw0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJl_SUeiwtABMRV1X1xIBDyj8",
+        "name": "Cafe Diwan",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 38,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Diwan (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM2soymqK3HGD64ODulPgVJe48BNRnr6lS-PbgW=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-19:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": null,
+        "address": "PQM6+JC9 Cafe Diwan, Rue de La Kasbah, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Diwan/data=!4m7!3m6!1s0x13002d2c7a94f497:0x3fca4380c4f55557!8m2!3d34.7340264!4d10.7611025!16s%2Fg%2F1q64gyggr!19sChIJl_SUeiwtABMRV1X1xIBDyj8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJeUgcyxjTARMRYY18NLs5gDE",
+        "name": "Cafe Factory",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 29,
+        "website": "https://www.google.tn/maps/@34.762916,10.7480714,411m/data=!3m1!1e3!10m2!1e2!2e13",
+        "owner": {
+            "id": null,
+            "name": "Cafe Factory (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP175VhM1uiIkQaKYlwnEts7FSmdWYo0QQ6SLLg=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-01:00",
+        "closed_on": [],
+        "phone": "24 300 020",
+        "address": "Cafe Factory, 3031 Rue Abdelaziz Thaalbi, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Factory/data=!4m7!3m6!1s0x1301d318cb1c4879:0x318039bb347c8d61!8m2!3d34.7617826!4d10.7491196!16s%2Fg%2F11cn2mmqm1!19sChIJeUgcyxjTARMRYY18NLs5gDE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJJbkq_dQsABMRu_vNY_Rwlsc",
+        "name": "Cafe Sorrizo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Sorrizo (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMQp4E00pUJg31ufVYCcYzm9gDVbil5geKkXFdh=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-21:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "22 247 377",
+        "address": "PQP2+HW6 Cafe Sorrizo, Avenue de la liberte,, Rue Ahmed Aloulou, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Sorrizo/data=!4m7!3m6!1s0x13002cd4fd2ab925:0xc79670f463cdfbbb!8m2!3d34.7364105!4d10.7522543!16s%2Fg%2F11c5wnhl6s!19sChIJJbkq_dQsABMRu_vNY_Rwlsc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3WWNvtQsABMR7EYM70IeuPM",
+        "name": "Cafe Belvue",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Belvue (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPPg9HAYTaOkD3AIhtsPtHW-LQ0KSRkS2bP_r8o=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "PQP2+V49 Cafe Belvue, Rue Ibn Aljazzar, Sfax 3079",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Belvue/data=!4m7!3m6!1s0x13002cd4be8d65dd:0xf3b81e42ef0c46ec!8m2!3d34.7371727!4d10.7503512!16s%2Fg%2F11b61r4gfs!19sChIJ3WWNvtQsABMR7EYM70IeuPM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJh2q-Gx7TARMRnPsBl5jKOfM",
+        "name": "Camello Coffee Shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Camello Coffee Shop (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOogWaFeeMZqXHgrk5qPYXqfp1MJ5rpP3mVMpB_=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-22:00",
+        "closed_on": [],
+        "phone": "98 762 633",
+        "address": "QQ73+PQ7 Camello Coffee Shop, Tryq, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Camello+Coffee+Shop/data=!4m7!3m6!1s0x1301d31e1bbe6a87:0xf339ca989701fb9c!8m2!3d34.7642827!4d10.7544118!16s%2Fg%2F11ggmbsk_2!19sChIJh2q-Gx7TARMRnPsBl5jKOfM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJQ1y0Ab0sABMR2Qw6h2N0p5I",
+        "name": "Cafe Tunis",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Tunis (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPHgcd8ZrnjNvUFNOKkS516EhMmX5lqM72xAMmj=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "PPCF+JFJ Cafe Tunis, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Tunis/data=!4m7!3m6!1s0x13002cbd01b45c43:0x92a77463873a0cd9!8m2!3d34.7215846!4d10.7236386!16s%2Fg%2F11c7653920!19sChIJQ1y0Ab0sABMR2Qw6h2N0p5I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJIVPLy9csABMRbJqGClKUatI",
+        "name": "Cafe Al Kadisiya (Bogga)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Al Kadisiya (Bogga) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNL6RG4LpqWyoAxYrB0mGGmsNW5hjrCpjf-YrkM=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "PQH3+VGJ Cafe Al Kadisiya (Bogga), Rue de Mauritanie, Sfax 3049",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Al+Kadisiya+%28Bogga%29/data=!4m7!3m6!1s0x13002cd7cbcb5321:0xd26a94520a869a6c!8m2!3d34.7297051!4d10.7537647!16s%2Fg%2F11b6q1fw4j!19sChIJIVPLy9csABMRbJqGClKUatI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJKahMNdDSARMR_Cbq7U1Ueww",
+        "name": "Cafe Kalaa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Kalaa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP5MtPfisdiuD5krT7QFm3MtHUaHtO4J-8HF_MB=w408-h305-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-01:00",
+        "closed_on": [],
+        "phone": "28 465 565",
+        "address": "PQW7+3WW Cafe Kalaa, Rue el fadhel ben achour, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Kalaa/data=!4m7!3m6!1s0x1301d2d0354ca829:0xc7b544dedea26fc!8m2!3d34.7452381!4d10.7648192!16s%2Fg%2F11c58tfmh6!19sChIJKahMNdDSARMR_Cbq7U1Ueww?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJs_kwiyzTARMRmG15aM8IitI",
+        "name": "Cafe Castello",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Castello (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNhbyI0mmFhYMUwcV7TuINFJE_bll2Z5F5GL2Ym=w408-h401-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "PPRX+C4H Cafe Castello, nhj mHmd SlH, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Castello/data=!4m7!3m6!1s0x1301d32c8b30f9b3:0xd28a08cf68796d98!8m2!3d34.7410559!4d10.7478627!16s%2Fg%2F11cs0b5w3n!19sChIJs_kwiyzTARMRmG15aM8IitI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJPSMA99nSARMRVsROE7NAHUw",
+        "name": "Cafe Relax",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Relax (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOx7oe6PbWlchLJYGWyS8cKYA8gjVj0sctyhNvR=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "PQX6+P53 Cafe Relax, Rue Ibn Abi Dhiaf, Sfax 3069",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Relax/data=!4m7!3m6!1s0x1301d2d9f700233d:0x4c1d40b3134ec456!8m2!3d34.7492692!4d10.7604291!16s%2Fg%2F11bbyhf989!19sChIJPSMA99nSARMRVsROE7NAHUw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJl1TkCS4tABMRvQkyYtwoNbA",
+        "name": "Cafe Chic",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Chic (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP5axcMGMfCmEVib1ED5bGGd4E7gAYi-uyrLCob=w426-h240-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe Chic, 85 Av. Hedi Chaker Sfax 3000 Av. Hedi Chaker, Sfax 3000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Chic/data=!4m7!3m6!1s0x13002d2e09e45497:0xb03528dc623209bd!8m2!3d34.7315494!4d10.7651987!16s%2Fg%2F11c606y1q5!19sChIJl1TkCS4tABMRvQkyYtwoNbA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJwcIdiUMtABMRBrGfkKUuTng",
+        "name": "Bubbly Coffee Shop - Bubble Tea",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "http://facebook.com/bubblycoffeeshop/",
+        "owner": {
+            "id": null,
+            "name": "Bubbly Coffee Shop - Bubble Tea (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPf2FbeChWFasw6FORSft8ed15Vi_Rjt71CvgG8=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": "50 034 466",
+        "address": "PQJ6+P4H Bubbly Coffee Shop - Bubble Tea, Rue de Kairouan, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bubbly+Coffee+Shop+-+Bubble+Tea/data=!4m7!3m6!1s0x13002d43891dc2c1:0x784e2ea5909fb106!8m2!3d34.7318122!4d10.7603611!16s%2Fg%2F11t4hm_ns4!19sChIJwcIdiUMtABMRBrGfkKUuTng?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJs1_B8xEtABMRYO7kUcRHUSc",
+        "name": "Coffee Time",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Coffee Time (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMJMCQU6_WfFaihW-VRWQ0mqeH7soyaVKOmVrPH=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-10:00",
+        "closed_on": [],
+        "phone": "98 416 068",
+        "address": "PQM6+3H9 Coffee Time, Leopold sedar senghor, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+Time/data=!4m7!3m6!1s0x13002d11f3c15fb3:0x275147c451e4ee60!8m2!3d34.7326653!4d10.7614776!16s%2Fg%2F11fb128999!19sChIJs1_B8xEtABMRYO7kUcRHUSc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJQ_GFpmXTARMRoqR_SXZmeWI",
+        "name": "Leader Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": "106518080812415550374",
+            "name": "Leader Cafe (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106518080812415550374"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOyAT0ihUc2qI8ypL_9Yak3zP0GrR5CehXWCChY=w408-h408-k-no",
+        "main_category": "Cafeteria",
+        "categories": [
+            "Cafeteria",
+            "Cafe",
+            "Salon de the"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "23 425 999",
+        "address": "Leader Cafe, Route de l'afrane 5 km",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Leader+Cafe/data=!4m7!3m6!1s0x1301d365a685f143:0x62796676497fa4a2!8m2!3d34.7708599!4d10.719167!16s%2Fg%2F11c547d7qk!19sChIJQ_GFpmXTARMRoqR_SXZmeWI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJFXR6ZfQtABMREQju7P2qLPo",
+        "name": "Cafe Freud",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Freud (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPqC4y-e6aT_ZgxUFSyosB-ASLE5t5vFjL6hlEp=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-00:59",
+        "closed_on": [],
+        "phone": null,
+        "address": "PPJP+HH6 Cafe Freud, Rte de la Soukra, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Freud/data=!4m7!3m6!1s0x13002df4657a7415:0xfa2caafdecee0811!8m2!3d34.7314128!4d10.7364052!16s%2Fg%2F11jz_rfng6!19sChIJFXR6ZfQtABMREQju7P2qLPo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJDdzX9YgtABMRry_52jeNXnw",
+        "name": "Rio Cafe",
+        "description": "Restaurant avec service au comptoir proposant specialites mexicaines, dont tortillas artisanales, burritos et tacos.",
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": "107648611205286077601",
+            "name": "Rio Cafe (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/107648611205286077601"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNqXmOIzrQgjjYEhUmmvw1s6GjFc8V2CHZvDZPE=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "22 301 592",
+        "address": "Rio Cafe, km 1 Rte de Gabes, Sfax 3000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Rio+Caf%C3%A9/data=!4m7!3m6!1s0x13002d88f5d7dc0d:0x7c5e8d37daf92faf!8m2!3d34.7288623!4d10.7449616!16s%2Fg%2F11c2j9ygjr!19sChIJDdzX9YgtABMRry_52jeNXnw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJhT2ZyGTTARMRadanpPTwfp8",
+        "name": "Cafe jumeaux",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "https://www.facebook.com/cafejumeaux",
+        "owner": {
+            "id": null,
+            "name": "Cafe jumeaux (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNwFwMKVB4zoDEIRw_8t9Bel99ddxOqqLVjfrjN=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:30-21:00",
+        "closed_on": [],
+        "phone": "44 678 524",
+        "address": "Cafe jumeaux, 3027 Rue Hedi Nouira, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+jumeaux/data=!4m7!3m6!1s0x1301d364c8993d85:0x9f7ef0f4a4a7d669!8m2!3d34.7405705!4d10.7551035!16s%2Fg%2F11jpybnc6h!19sChIJhT2ZyGTTARMRadanpPTwfp8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0WtK7CDTARMRhGZAZNu1eio",
+        "name": "LA CASA DEL CAFFE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "LA CASA DEL CAFFE (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOJ20HNNQMkooROWj2Q5JxDqPqcF0ydH3vtw5sP=w493-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "LA CASA DEL CAFFE, 115 Rte El Ain, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/LA+CASA+DEL+CAFFE/data=!4m7!3m6!1s0x1301d320ec4a6bd1:0x2a7ab5db64406684!8m2!3d34.7638067!4d10.7147633!16s%2Fg%2F11j946z0b_!19sChIJ0WtK7CDTARMRhGZAZNu1eio?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJhxKFScQsABMRdp-PeQjjSzw",
+        "name": "Cafe Bonjour",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Bonjour (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNCHAc3d75UWtMwnQWTc2FMA33uJ3RIH1gUI2eD=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "PPGQ+5PF Cafe Bonjour, Rte de Gabes, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Bonjour/data=!4m7!3m6!1s0x13002cc449851287:0x3c4be308798f9f76!8m2!3d34.7254416!4d10.7393045!16s%2Fg%2F11c2j7tm6n!19sChIJhxKFScQsABMRdp-PeQjjSzw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5QIKUsQtABMRX6EDUgjc1IY",
+        "name": "Cafe ghanja",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe ghanja (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNVc_LxdSo1vUv-KICN_scGWGxecZG8BHG9oVmy=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "PQQ3+6F2 Cafe ghanja, Unnamed Road, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+ghanja/data=!4m7!3m6!1s0x13002dc4520a02e5:0x86d4dc085203a15f!8m2!3d34.7380076!4d10.7536378!16s%2Fg%2F11p15pr9nz!19sChIJ5QIKUsQtABMRX6EDUgjc1IY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJrdmTxS0tABMRtT5nUVrOha4",
+        "name": "Cafe de Tunis",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe de Tunis (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPx2KRBpsJQyNeothMbXCUYePGZ7QpT_o5PjSJO=w408-h544-k-no",
+        "main_category": "Bar",
+        "categories": [
+            "Bar",
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "PQM7+2JQ Cafe de Tunis, Av. Habib Bourguiba, Sfax 3000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+de+Tunis/data=!4m7!3m6!1s0x13002d2dc593d9ad:0xae85ce5a51673eb5!8m2!3d34.7325948!4d10.7641034!16s%2Fg%2F1ptwjkkvq!19sChIJrdmTxS0tABMRtT5nUVrOha4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJO2KrdFQtABMR7-gp3ob3UK0",
+        "name": "Cafe patron",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe patron (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMCuO66u9V5yBNqc23QIpCblJ97sR4E2DrfPAWe=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "PQJ2+H24 Cafe patron, Rue Atlas, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+patron/data=!4m7!3m6!1s0x13002d5474ab623b:0xad50f786de29e8ef!8m2!3d34.7313824!4d10.7500676!16s%2Fg%2F11kyxq6lqw!19sChIJO2KrdFQtABMR7-gp3ob3UK0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9cCJbC8tABMRaI2AwuivPv4",
+        "name": "Coffee Pirate",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Coffee Pirate (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPls8GjqVD1wgr3C78JEh91VEQMPN-nnsnbSubd=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-09:00",
+        "closed_on": [],
+        "phone": "98 431 735",
+        "address": "PQH6+2W7 Coffee Pirate, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+Pirate/data=!4m7!3m6!1s0x13002d2f6c89c0f5:0xfe3eafe8c2808d68!8m2!3d34.7275407!4d10.7622898!16s%2Fg%2F11c6cy8p7c!19sChIJ9cCJbC8tABMRaI2AwuivPv4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ35p54BvTARMRrKmAxbA1t6E",
+        "name": "Cafe carre d'or",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe carre d'or (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=b1egwja-E3hKGdW9EF6BuA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=16.081621&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QP36+H9R Cafe carre d'or, P13, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+carr%C3%A9+d%27or/data=!4m7!3m6!1s0x1301d31be0799adf:0xa1b735b0c580a9ac!8m2!3d34.7539842!4d10.7108894!16s%2Fg%2F11qpl2hgnm!19sChIJ35p54BvTARMRrKmAxbA1t6E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJH460w9YsABMRRBMc5YNn8G0",
+        "name": "Cafe El Helmia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "113145720583572863030",
+            "name": "Cafe El Helmia (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113145720583572863030"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN8Fjvfpa8RJauTrckHXq_4xUma_fm93iBXOREp=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": null,
+        "address": "Cafe El Helmia, 3049, Sfax 3049",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+El+Helmia/data=!4m7!3m6!1s0x13002cd6c3b48e1f:0x6df06783e51c1344!8m2!3d34.7310481!4d10.7504717!16s%2Fg%2F11bz08rq9m!19sChIJH460w9YsABMRRBMc5YNn8G0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9Yd_DTPTARMR7sVZmpTTTtQ",
+        "name": "Cafe berlin",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe berlin (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOJcdcltznYt2IDRnPElXeenaS5ehlaY9MnVPFB=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "05:00-23:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": null,
+        "address": "Cafe berlin, Cite des jardins, Route de Tunis, Imm Safa: Ndeg 12 Sfax, 3000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+berlin/data=!4m7!3m6!1s0x1301d3330d7f87f5:0xd44ed3949a59c5ee!8m2!3d34.7590687!4d10.7629266!16s%2Fg%2F11p715kmb2!19sChIJ9Yd_DTPTARMR7sVZmpTTTtQ?authuser=0&hl=fr&rclk=1"
+    }
+]

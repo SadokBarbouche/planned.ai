@@ -1,0 +1,304 @@
+[
+    {
+        "place_id": "ChIJ5foTzf6fAhMRjYHc6CqcS3U",
+        "name": "BORA hammamet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "BORA hammamet (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPRQpF8PTSBKvVjdjZRWdQyXTQugBI6G84hL8Ug=w408-h725-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4.2,
+        "workday_timing": "18:00-04:00",
+        "closed_on": [],
+        "phone": "20 495 507",
+        "address": "CM86+9JV BORA hammamet, Route Touristique, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/BORA+hammamet/data=!4m7!3m6!1s0x13029ffecd13fae5:0x754b9c2ae8dc818d!8m2!3d36.4159808!4d10.6615395!16s%2Fg%2F11gxtkmp4j!19sChIJ5foTzf6fAhMRjYHc6CqcS3U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJPwfMDPFj_RIR6Vfe4fywcNE",
+        "name": "Shiva Hammamet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Shiva Hammamet (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPFl8G5WwgcVcnIVs5NWZ8fMMUllhX9yX8adfDL=w408-h544-k-no",
+        "main_category": "Bar lounge",
+        "categories": [
+            "Bar lounge"
+        ],
+        "rating": 4,
+        "workday_timing": "12:00-04:00",
+        "closed_on": [],
+        "phone": "23 773 222",
+        "address": "9HW7+FV2 Shiva Hammamet, Yasmine Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Shiva+Hammamet/data=!4m7!3m6!1s0x12fd63f10ccc073f:0xd170b0fce1de57e9!8m2!3d36.3961258!4d10.5646423!16s%2Fg%2F11lgy8rfw3!19sChIJPwfMDPFj_RIR6Vfe4fywcNE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_____xyeAhMRulf3y3YJimw",
+        "name": "WHITE CLUB",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "WHITE CLUB (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP9eBAmnveeDDynT6wGlv4SHrPQ1AhYUFTZ6NU=w408-h281-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4.1,
+        "workday_timing": "22:00-04:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "9HV4+7V8 WHITE CLUB, avenue de la paix, Yasmine Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/WHITE+CLUB/data=!4m7!3m6!1s0x13029e1cffffffff:0x6c8a0976cbf757ba!8m2!3d36.3931506!4d10.5572166!16s%2Fg%2F11ggc1t1nv!19sChIJ_____xyeAhMRulf3y3YJimw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6dyQOZBj_RIRFyB1LA75iQU",
+        "name": "Bolivar Beach Bar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bolivar Beach Bar (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO_RtgDjSYkptDmSwZEe6tD25EEoheFYqPmKR0O=w408-h306-k-no",
+        "main_category": "Bar lounge",
+        "categories": [
+            "Bar lounge"
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-23:00",
+        "closed_on": [],
+        "phone": "21 724 160",
+        "address": "9GCR+8QH Bolivar Beach Bar, Yasmine Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bolivar+Beach+Bar/data=!4m7!3m6!1s0x12fd63903990dce9:0x589f90e2c752017!8m2!3d36.3708209!4d10.5419783!16s%2Fg%2F11b_2mrsdg!19sChIJ6dyQOZBj_RIRFyB1LA75iQU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJza5ENMFj_RIRbDokm7lfHBw",
+        "name": "Ibiza nightclub",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ibiza nightclub (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPWnQn2HGrkFzM5UXVBdWzMyduWKgZ03yv1hSMj=w408-h725-k-no",
+        "main_category": "Bar",
+        "categories": [
+            "Bar"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "9G9Q+X2R Ibiza nightclub, Unnamed Road, Yasmine Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ibiza+nightclub/data=!4m7!3m6!1s0x12fd63c13444aecd:0x1c1c5fb99b243a6c!8m2!3d36.3699934!4d10.5375097!16s%2Fg%2F11h_11dxrb!19sChIJza5ENMFj_RIRbDokm7lfHBw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJLSp0Yddj_RIRXFCNMdIt4J0",
+        "name": "Billions Club",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Billions Club (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOw-mRmc4MJLqTlaWqObt2KznAt8f1BSyhShfeO=w408-h306-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Billions Club, la Paix, Sud 8050,, Rue de Hammamet, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Billions+Club/data=!4m7!3m6!1s0x12fd63d761742a2d:0x9de02dd2318d505c!8m2!3d36.3953451!4d10.5635811!16s%2Fg%2F11c2qt9lcm!19sChIJLSp0Yddj_RIRXFCNMdIt4J0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_____xyeAhMRnimC2qVmCSg",
+        "name": "Golden Bar Paradis Palace",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Golden Bar Paradis Palace (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPtFnoF_0OAd869eporvO0HTmjA18UKAqTol8Q=w408-h725-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": "20:00-01:00",
+        "closed_on": [],
+        "phone": "72 226 330",
+        "address": "CJ4C+VXX Golden Bar Paradis Palace, avenue de la paix, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Golden+Bar+Paradis+Palace/data=!4m7!3m6!1s0x13029e1cffffffff:0x280966a5da82299e!8m2!3d36.4072253!4d10.6224798!16s%2Fg%2F11ggc1x4vp!19sChIJ_____xyeAhMRnimC2qVmCSg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJL7kTkSGfAhMRRHuQ7MYcysY",
+        "name": "Disco Blue",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Disco Blue (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6eGYXKRSmpHtE_OO4Pejuw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=327.3774&pitch=0&thumbfov=100",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4.7,
+        "workday_timing": "23:00-04:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Disco Blue, 2096 Bd de l'Environnment, Mrezga",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Disco+Blue/data=!4m7!3m6!1s0x13029f219113b92f:0xc6ca1cc6ec907b44!8m2!3d36.4229303!4d10.6734069!16s%2Fg%2F11m_yzp36c!19sChIJL7kTkSGfAhMRRHuQ7MYcysY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJHWGCdbFl_RIRZFaINaXTO-E",
+        "name": "BarZar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "117515064883369597057",
+            "name": "BarZar (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117515064883369597057"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO8DFU4w9nYzrW_uR_fuu2hlUiM0nWgtPwGSROv=w432-h240-k-no",
+        "main_category": "Bar lounge",
+        "categories": [
+            "Bar lounge"
+        ],
+        "rating": 5,
+        "workday_timing": "17:00-00:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "54 998 125",
+        "address": "BarZar, en face de l hotel hasdrubal, yasmin hammamet avenue abu dhabi residence villa noria, 8050",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/BarZar/data=!4m7!3m6!1s0x12fd65b17582611d:0xe13bd3a535885664!8m2!3d36.3566342!4d10.5265528!16s%2Fg%2F11vj76w3l3!19sChIJHWGCdbFl_RIRZFaINaXTO-E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuQO1WiFh_RIR05gnsxjfdjA",
+        "name": "kryr Sbry lGyZwy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "http://www.bhamakizbyy.com/",
+        "owner": {
+            "id": null,
+            "name": "kryr Sbry lGyZwy (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=flk7Gk9N4SDKcSM3luQi0A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=111.413635&pitch=0&thumbfov=100",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "CH36+Q53 kryr Sbry lGyZwy, Hammamet Sud",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%83%D8%B1%D9%8A%D8%A7%D8%B1+%D8%B5%D8%A8%D8%B1%D9%8A+%D8%A7%D9%84%D8%BA%D9%8A%D8%B8%D8%A7%D9%88%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x12fd61215ab503b9:0x3076df18b32798d3!8m2!3d36.4043753!4d10.5604182!16s%2Fg%2F11f71635x0!19sChIJuQO1WiFh_RIR05gnsxjfdjA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJzYYRa5Vj_RIRAY2oJCTGx2k",
+        "name": "Sunrise pool Hammamet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://www.facebook.com/sunrisehm/",
+        "owner": {
+            "id": "107932035528653200578",
+            "name": "Sunrise pool Hammamet (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/107932035528653200578"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOmQSIm6PJWQD9Yb0ku0Z_ORK_ZsLoXleu-6h4_=w408-h282-k-no",
+        "main_category": "Bar lounge",
+        "categories": [
+            "Bar lounge"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-20:00",
+        "closed_on": [],
+        "phone": "21 464 647",
+        "address": "9Hw7+CHR Sunrise pool Hammamet, Rue Ker Kavane, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sunrise+pool+Hammamet/data=!4m7!3m6!1s0x12fd63956b1186cd:0x69c7c62424a88d01!8m2!3d36.3962536!4d10.5627888!16s%2Fg%2F11s3zsd9nl!19sChIJzYYRa5Vj_RIRAY2oJCTGx2k?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJX33N8hlh_RIRGoE3kx18NxI",
+        "name": "Dj aymen",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://www.facebook.com/aymen.hammamet.5",
+        "owner": {
+            "id": null,
+            "name": "Dj aymen (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOuY5VmwVsHR3bVaiod2NAzXXF9j8xg90CpRExo=w408-h306-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "22 109 010",
+        "address": "Dj aymen, Ecole de la Garde nationale et de la Protection Civile de Bir Bouregba, rue, Bir Bou Rekba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dj+aymen/data=!4m7!3m6!1s0x12fd6119f2cd7d5f:0x12377c1d9337811a!8m2!3d36.4302124!4d10.5772509!16s%2Fg%2F11h6m3mc7p!19sChIJX33N8hlh_RIRGoE3kx18NxI?authuser=0&hl=fr&rclk=1"
+    }
+]

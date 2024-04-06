@@ -1,0 +1,128 @@
+[
+    {
+        "place_id": "ChIJodJP03pz-BIRERB0jNArhx0",
+        "name": "Chaine du Thaljah",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNWN7w5m3TQE4kmCVadC3TZQ6zyOSG3opgmwLvN=w408-h306-k-no",
+        "main_category": "Sommet montagneux",
+        "categories": [
+            "Sommet montagneux"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Chaine du Thaljah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cha%C3%AEne+du+Thaljah/data=!4m7!3m6!1s0x12f8737ad34fd2a1:0x1d872bd08c741011!8m2!3d34.3333333!4d8.1666667!16s%2Fg%2F11cmhzbf21!19sChIJodJP03pz-BIRERB0jNArhx0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJN4WkgLNz-BIRsRH1c2jFY-E",
+        "name": "Rawaa natural beauty",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "113562175177586887134",
+            "name": "Rawaa natural beauty (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113562175177586887134"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOAZK18vpb9Y29z8cGxt7fucBbJlaDRxnCSPt6M=w408-h408-k-no",
+        "main_category": "Magasin de bougies",
+        "categories": [
+            "Magasin de bougies",
+            "Magasin bio"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Rawaa natural beauty, 2140",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Rawaa+natural+beauty/data=!4m7!3m6!1s0x12f873b380a48537:0xe163c56873f511b1!8m2!3d34.3855823!4d8.1538229!16s%2Fg%2F11l2cz8bgs!19sChIJN4WkgLNz-BIRsRH1c2jFY-E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9-YIHZssVhIRLn1xL7IZwDw",
+        "name": "Aine Morra",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Aine Morra",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Aine+Morra/data=!4m7!3m6!1s0x12562c9b1d08e6f7:0x3cc019b22f717d2e!8m2!3d34.1161111!4d8.5152778!16s%2Fg%2F11byl68qf5!19sChIJ9-YIHZssVhIRLn1xL7IZwDw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJATgP7cD0VxIR5DhIfXxZTQE",
+        "name": "Bir el Oua",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO6oYLR_gEqBO4YJ-wr8M2gB3jnaKVSAH8_XoZU=w408-h306-k-no",
+        "main_category": "Drinking water",
+        "categories": [
+            "Drinking water"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Bir el Oua",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bir+el+Oua/data=!4m7!3m6!1s0x1257f4c0ed0f3801:0x14d597c7d4838e4!8m2!3d33.9216667!4d7.8488889!16s%2Fg%2F1th1x1yg!19sChIJATgP7cD0VxIR5DhIfXxZTQE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJv6xZ6T0AVhIRiG45vWjkq6c",
+        "name": "Bi'r Umm al `Ali",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOBK2s9g0TbqGocq-LtKiM3ZjvmOIol77s-skl0=w408-h306-k-no",
+        "main_category": "Drinking water",
+        "categories": [
+            "Drinking water"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Bi'r Umm al `Ali",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bi%27r+Umm+al+%60Ali/data=!4m7!3m6!1s0x1256003de959acbf:0xa7abe468bd396e88!8m2!3d34.15!4d9.1666667!16s%2Fg%2F1td2phq7!19sChIJv6xZ6T0AVhIRiG45vWjkq6c?authuser=0&hl=fr&rclk=1"
+    }
+]

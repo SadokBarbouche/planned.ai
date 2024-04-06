@@ -1,0 +1,336 @@
+[
+    {
+        "place_id": "ChIJO68hcAnxVxIRkXTmKC7aRPk",
+        "name": "Ong Jmal",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 687,
+        "website": "https://galaxytours.com/starwars-tunisia-film-sites/ong-jemel-outcrop/",
+        "owner": {
+            "id": null,
+            "name": "Ong Jmal (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNbWMrRJQUWSXU3VLpIVn2un0PUgbga6v4CYqw7=w426-h240-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "Ong Jmal, Eriguet dunes, Chott el-Gharsa",
+        "review_keywords": [
+            {
+                "keyword": "desert",
+                "count": 42
+            },
+            {
+                "keyword": "star wars",
+                "count": 33
+            },
+            {
+                "keyword": "experience",
+                "count": 14
+            },
+            {
+                "keyword": "dunes",
+                "count": 13
+            },
+            {
+                "keyword": "film",
+                "count": 11
+            },
+            {
+                "keyword": "paysage",
+                "count": 11
+            },
+            {
+                "keyword": "4x4",
+                "count": 8
+            },
+            {
+                "keyword": "cou",
+                "count": 6
+            },
+            {
+                "keyword": "sel",
+                "count": 5
+            },
+            {
+                "keyword": "site",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ong+Jmal/data=!4m7!3m6!1s0x1257f1097021af3b:0xf944da2e28e67491!8m2!3d34.0161407!4d7.9123195!16s%2Fg%2F11bc8cx5fc!19sChIJO68hcAnxVxIRkXTmKC7aRPk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8ZUCJSnAVxIRwoArlzAPRj4",
+        "name": "Medina de Tozeur",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 204,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Medina de Tozeur (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNnidti34syxlKFVXVmL6PQWHqlCD7AtlEpUghR=w408-h544-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "W4CQ+7G Medina de Tozeur, Ouled El Hadef, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "briques",
+                "count": 13
+            },
+            {
+                "keyword": "architecture",
+                "count": 11
+            },
+            {
+                "keyword": "ruelles",
+                "count": 6
+            },
+            {
+                "keyword": "desert",
+                "count": 6
+            },
+            {
+                "keyword": "artisans",
+                "count": 4
+            },
+            {
+                "keyword": "touristique",
+                "count": 4
+            },
+            {
+                "keyword": "portes",
+                "count": 4
+            },
+            {
+                "keyword": "dattes",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/M%C3%A9dina+de+Tozeur/data=!4m7!3m6!1s0x1257c029250295f1:0x3e460f30972b80c2!8m2!3d33.9206525!4d8.1386141!16s%2Fg%2F11c30smfj4!19sChIJ8ZUCJSnAVxIRwoArlzAPRj4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJjWoZ8JmMVxIRxTA0HB61D6s",
+        "name": "Corbeille de Nefta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 174,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Corbeille de Nefta (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMPxBrBBZvV7gzOgOZGvZDNwc8cr220TLC9uJPF=w408-h306-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "VVHF+6Q8 Corbeille de Nefta, P3, Nefta",
+        "review_keywords": [
+            {
+                "keyword": "eau",
+                "count": 11
+            },
+            {
+                "keyword": "palmiers",
+                "count": 7
+            },
+            {
+                "keyword": "desert",
+                "count": 6
+            },
+            {
+                "keyword": "oasis",
+                "count": 5
+            },
+            {
+                "keyword": "irrigation",
+                "count": 4
+            },
+            {
+                "keyword": "cafe",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Corbeille+de+Nefta/data=!4m7!3m6!1s0x12578c99f0196a8d:0xab0fb51e1c3430c5!8m2!3d33.8780495!4d7.8744389!16s%2Fg%2F124yg6rxw!19sChIJjWoZ8JmMVxIRxTA0HB61D6s?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJBT4HRZCMVxIReiLPIMNcmxY",
+        "name": "La medina de Nefta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 68,
+        "website": null,
+        "owner": {
+            "id": "104661396608906095492",
+            "name": "La medina de Nefta (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/104661396608906095492"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7H2no3lDTTg4jpuGowfuUFeVZMoAyO2Li-VYd=w408-h306-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique"
+        ],
+        "rating": 4.2,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "La medina de Nefta, Unnamed Road, Naftah",
+        "review_keywords": [
+            {
+                "keyword": "portes",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/La+medina+de+Nefta/data=!4m7!3m6!1s0x12578c9045073e05:0x169b5cc320cf227a!8m2!3d33.8694242!4d7.8849425!16s%2Fg%2F11f3jk3n0s!19sChIJBT4HRZCMVxIReiLPIMNcmxY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZzqhpaKMVxIR1scSTCq2e2A",
+        "name": "Villa Dar Zargouni",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Villa Dar Zargouni (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEYdh4eumbqmB0FxtjQ-t1mD_DibXt-UsqIXBmDqenfzDz8SdhhmincY0YewDAKc-ecj0TotlppThMG6axMwJbGewjTV1_Luf3q9ypnQSZWtP70oYo9wl0hhdRKdhdV7gyZVH5zbafz3OfSqarguiCDleKoFpHObKZ221fKTcsSm41nZztfEDE=w408-h271-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "98 621 920",
+        "address": "VVHJ+PW6 Villa Dar Zargouni, Route Sahara Palace, Naftah 2240",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Villa+Dar+Zargouni/data=!4m10!3m9!1s0x12578ca2a5a13a67:0x607bb62a4c12c7d6!5m2!4m1!1i2!8m2!3d33.8792834!4d7.8822619!16s%2Fg%2F1tqks4nx!19sChIJZzqhpaKMVxIR1scSTCq2e2A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJN4rqf4SMVxIRbME0LedpKqU",
+        "name": "Zaouia de Sidi Bou Ali Al-Sunni Nefti",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Zaouia de Sidi Bou Ali Al-Sunni Nefti (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNsIwrw6Nrl0-2HNdBJFrsnshNqgZdALCc1n2rr=w408-h544-k-no",
+        "main_category": "Lieu de culte",
+        "categories": [
+            "Lieu de culte"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "23 067 767",
+        "address": "VV8H+333 Zaouia de Sidi Bou Ali Al-Sunni Nefti, Nefta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Zaouia+de+Sidi+Bou+Ali+Al-Sunni+Nefti/data=!4m7!3m6!1s0x12578c847fea8a37:0xa52a69e72d34c16c!8m2!3d33.8651419!4d7.8776674!16s%2Fg%2F11g6nky9cy!19sChIJN4rqf4SMVxIRbME0LedpKqU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJoxsQkZqMVxIRzrtPxlqtPFU",
+        "name": "Mosquee Sidi M'Khareg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mosquee Sidi M'Khareg (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO4xIZxNHQoeZ1lR84ghDXv20EnGqMliLShJKc=w408-h306-k-no",
+        "main_category": "Mosquee",
+        "categories": [
+            "Mosquee",
+            "Lieu historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VV9J+RWJ Mosquee Sidi M'Khareg, P3, Nefta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mosqu%C3%A9e+Sidi+M%27Khareg/data=!4m7!3m6!1s0x12578c9a91101ba3:0x553cad5ac64fbbce!8m2!3d33.8695838!4d7.8822634!16s%2Fg%2F124ypgl08!19sChIJoxsQkZqMVxIRzrtPxlqtPFU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJk56BapCMVxIRxKv5xd8oOOY",
+        "name": "Musee des civilisations arabo-berberes Ibn-Khaldoun",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee des civilisations arabo-berberes Ibn-Khaldoun (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMFy5FdyicwG9uC2yzGPTXTmwd_YebXwaUJET0g=w408-h306-k-no",
+        "main_category": "Musee du patrimoine",
+        "categories": [
+            "Musee du patrimoine"
+        ],
+        "rating": 4.8,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "samedi"
+        ],
+        "phone": null,
+        "address": "VV9M+JQ6 Musee des civilisations arabo-berberes Ibn-Khaldoun, Unnamed Road, nfT@,, Naftah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+des+civilisations+arabo-berb%C3%A8res+Ibn-Khaldoun/data=!4m7!3m6!1s0x12578c906a819e93:0xe63828dfc5f9abc4!8m2!3d33.8690402!4d7.884397!16s%2Fg%2F11f3n38kj9!19sChIJk56BapCMVxIRxKv5xd8oOOY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9aPR79uNVxIRl790a68-mYI",
+        "name": "Yamen HD Nefta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "118293692132634504533",
+            "name": "Yamen HD Nefta (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/118293692132634504533"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPtWJtQCX1ZUadNJYFacEJuvcL59dlOy6ROzYgg=w408-h272-k-no",
+        "main_category": "Studio de photographie",
+        "categories": [
+            "Studio de photographie"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Yamen HD Nefta, nfT@,",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Yamen+HD+Nefta/data=!4m7!3m6!1s0x12578ddbefd1a3f5:0x82993eaf6b74bf97!8m2!3d33.8706645!4d7.8905064!16s%2Fg%2F11mvrmz35c!19sChIJ9aPR79uNVxIRl790a68-mYI?authuser=0&hl=fr&rclk=1"
+    }
+]

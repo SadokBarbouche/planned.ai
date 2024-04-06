@@ -1,0 +1,708 @@
+[
+    {
+        "place_id": "ChIJC_t_doHqVxIRBSdxoDs_X_g",
+        "name": "Hotel Ras El Ain Tozeur",
+        "description": "Hotel de luxe, restaurant de style decontracte, spa, salle de fitness, et piscines interieure et exterieure.",
+        "is_spending_on_ads": false,
+        "reviews": 1042,
+        "website": "https://www.goldenyasmin.com/",
+        "owner": {
+            "id": "105542293437372958323",
+            "name": "Hotel Ras El Ain Tozeur (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105542293437372958323"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHr9qOHJ9GkyDg-Yar8vmj3UJ6pmQH3-mYIdUUl1xmi15bORy48-HOE3OtHHLr76J8tGqNX68-hQZsfhFL-vGG9xgYzyz8loWgiK_179AY9bnFOQhBmOtSlgZZujttlInHt5SGPt8pfeNv0pgFWjmN-xi00RqyKkkLfUIK5majeX4AnYXeR3FmM=w426-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "76 452 003",
+        "address": "Hotel Ras El Ain Tozeur, Bp 141, Tozeur 2200",
+        "review_keywords": [
+            {
+                "keyword": "chambre",
+                "count": 69
+            },
+            {
+                "keyword": "buffet",
+                "count": 22
+            },
+            {
+                "keyword": "desert",
+                "count": 17
+            },
+            {
+                "keyword": "restauration",
+                "count": 13
+            },
+            {
+                "keyword": "excursion",
+                "count": 12
+            },
+            {
+                "keyword": "proprete",
+                "count": 11
+            },
+            {
+                "keyword": "equipe",
+                "count": 10
+            },
+            {
+                "keyword": "massage",
+                "count": 8
+            },
+            {
+                "keyword": "piscine couverte",
+                "count": 7
+            },
+            {
+                "keyword": "service",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+Ras+El+A%C3%AFn+Tozeur/data=!4m10!3m9!1s0x1257ea81767ffb0b:0xf85f3f3ba0712705!5m2!4m1!1i2!8m2!3d33.9129878!4d8.1174973!16s%2Fg%2F1tdjt4t4!19sChIJC_t_doHqVxIRBSdxoDs_X_g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJTTF4AzTrVxIRKAzjuIX02pc",
+        "name": "Anantara Sahara Tozeur Resort & Villas",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 384,
+        "website": "https://www.anantara.com/sahara-tozeur%3Futm_source%3DGoogleMyBusiness%26utm_medium%3DGMB%26utm_term%3DTozeur%26utm_content%3DHome%26utm_campaign%3DGoogle_GMB",
+        "owner": {
+            "id": "106009733832937234221",
+            "name": "Anantara Sahara Tozeur Resort & Villas (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106009733832937234221"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNMv2Fq7YyUGK0BnjEYb-To_nDqW6teTUUCGvaA=w408-h272-k-no",
+        "main_category": "Complexe hotelier",
+        "categories": [
+            "Complexe hotelier"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "70 100 800",
+        "address": "Anantara Sahara Tozeur Resort & Villas, Mrah lahwar 2200, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "desert",
+                "count": 45
+            },
+            {
+                "keyword": "chambre",
+                "count": 38
+            },
+            {
+                "keyword": "vue",
+                "count": 11
+            },
+            {
+                "keyword": "souriant",
+                "count": 11
+            },
+            {
+                "keyword": "gentillesse",
+                "count": 10
+            },
+            {
+                "keyword": "architecture",
+                "count": 9
+            },
+            {
+                "keyword": "oasis",
+                "count": 7
+            },
+            {
+                "keyword": "concierge",
+                "count": 6
+            },
+            {
+                "keyword": "hotel de luxe",
+                "count": 5
+            },
+            {
+                "keyword": "menage",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Anantara+Sahara+Tozeur+Resort+%26+Villas/data=!4m10!3m9!1s0x1257eb340378314d:0x97daf485b8e30c28!5m2!4m1!1i2!8m2!3d33.8958125!4d8.0795625!16s%2Fg%2F11hzqy0dh4!19sChIJTTF4AzTrVxIRKAzjuIX02pc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJBy0ku4zqVxIRsAeBnvJtip8",
+        "name": "Residence l'Oued",
+        "description": "Hotel de style marocain avec restaurant a l'ambiance decontractee, piscine exterieure et chambres conviviales.",
+        "is_spending_on_ads": false,
+        "reviews": 162,
+        "website": "http://www.hotel-residence-loued-tozeur.vivehotels.com/",
+        "owner": {
+            "id": null,
+            "name": "Residence l'Oued (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEGwWmdxWB3pKWIupU0WElxkrshJp_MsoTQ8Rv1Tekzueyl5NVyYi7d5WDMRgp3L2NbxoiRAmthlB1Pq7LIEv7Nd0iXxRsSyiq4nQZsYYAft5mva-9x-BekFF6TjH6Q3JqHYiWAMPQnoL4EoOOQgzlXHKtHJNOwC_AJYl0YJMToS5zfATSQJYEm=w408-h408-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "76 463 036",
+        "address": "W47H+942 Residence l'Oued, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "piscine",
+                "count": 16
+            },
+            {
+                "keyword": "prix",
+                "count": 16
+            },
+            {
+                "keyword": "chambre",
+                "count": 12
+            },
+            {
+                "keyword": "nettoyage",
+                "count": 12
+            },
+            {
+                "keyword": "service",
+                "count": 5
+            },
+            {
+                "keyword": "monnaie",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/R%C3%A9sidence+l%E2%80%99Oued/data=!4m10!3m9!1s0x1257ea8cbb242d07:0x9f8a6df29e8107b0!5m2!4m1!1i2!8m2!3d33.913436!4d8.1277689!16s%2Fg%2F1tf8jrfw!19sChIJBy0ku4zqVxIRsAeBnvJtip8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJeakYuTzAVxIR-mpLGJgYg84",
+        "name": "Diar Abou Habibi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 126,
+        "website": "https://www.diarhabibi.com/",
+        "owner": {
+            "id": null,
+            "name": "Diar Abou Habibi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFcMriskqTmVhOf4fmZDdYWnCNpNkHwhfIXSpbt3IL_w1IFR9x7tmzGL8yHEhGBj-L5bJXkAJBSaGpH7l3hdsRa7kO2m56CSGRD_x1NtZqjxeK9CHC3x4ZoV9Y6oizTyMlXth_EnVSfc7GvYAUdqWPM6n-ExvhxFK_z2PSSYcdwOMlfG5RSpUF3=w408-h271-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "76 460 270",
+        "address": "W46W+478 Diar Abou Habibi, Rte des Touaregs, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "cabanes",
+                "count": 9
+            },
+            {
+                "keyword": "chambres",
+                "count": 9
+            },
+            {
+                "keyword": "coeur",
+                "count": 8
+            },
+            {
+                "keyword": "palmeraie",
+                "count": 7
+            },
+            {
+                "keyword": "piscine",
+                "count": 7
+            },
+            {
+                "keyword": "oasis",
+                "count": 6
+            },
+            {
+                "keyword": "diner",
+                "count": 6
+            },
+            {
+                "keyword": "chalets",
+                "count": 5
+            },
+            {
+                "keyword": "magique",
+                "count": 5
+            },
+            {
+                "keyword": "la nature",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Diar+Abou+Habibi/data=!4m10!3m9!1s0x1257c03cb918a979:0xce831898184b6afa!5m2!4m1!1i2!8m2!3d33.9102969!4d8.1457186!16s%2Fg%2F1ptwzy4q1!19sChIJeakYuTzAVxIR-mpLGJgYg84?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJYUrWTCnAVxIRW60Fo7lJfxY",
+        "name": "Dar Tozeur",
+        "description": "Chambres de style convivial a raffine dans maison d'hotes elegante avec piscine exterieure et restaurant chic.",
+        "is_spending_on_ads": false,
+        "reviews": 113,
+        "website": "http://www.dartozeur.com/",
+        "owner": {
+            "id": "117176296686885304800",
+            "name": "Dar Tozeur (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117176296686885304800"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPO2GP1zLdegf2vSwZ-KLuKk7HCZgrFboMtTaTS=w408-h306-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes",
+            "Institut de massages",
+            "Restaurant",
+            "Spa",
+            "Hotel bien-etre"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "98 318 252",
+        "address": "Dar Tozeur, El Hawadef 2200",
+        "review_keywords": [
+            {
+                "keyword": "piscine",
+                "count": 17
+            },
+            {
+                "keyword": "chambre",
+                "count": 10
+            },
+            {
+                "keyword": "service",
+                "count": 10
+            },
+            {
+                "keyword": "diner",
+                "count": 9
+            },
+            {
+                "keyword": "experience",
+                "count": 9
+            },
+            {
+                "keyword": "coeur",
+                "count": 7
+            },
+            {
+                "keyword": "est",
+                "count": 7
+            },
+            {
+                "keyword": "prix",
+                "count": 7
+            },
+            {
+                "keyword": "charme",
+                "count": 5
+            },
+            {
+                "keyword": "jardin",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Tozeur/data=!4m10!3m9!1s0x1257c0294cd64a61:0x167f49b9a305ad5b!5m2!4m1!1i2!8m2!3d33.9225937!4d8.1381036!16s%2Fg%2F1jgm1ydtb!19sChIJYUrWTCnAVxIRW60Fo7lJfxY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJMz1egoHqVxIR3wTTv4JXWoQ",
+        "name": "Maison D'hotes Dar Saida Beya",
+        "description": "Chambres et suites elegantes dans un hotel haut de gamme avec hammam et patio, petit-dejeuner gratuit.",
+        "is_spending_on_ads": false,
+        "reviews": 83,
+        "website": "http://www.darsaidabeya.com/",
+        "owner": {
+            "id": null,
+            "name": "Maison D'hotes Dar Saida Beya (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHw0nppv0-cJGDyg5hACBRhKM-uOqAcLnq3Tyxv-n51WwF89yci47AaedqYagH2aD4gQpwhh8bqG49D8eak5sNe01Rv9I6IlDxRxDMQP0bX7F0kF6EtrZBlNDQc7TufzPClErNuN9yBOuFAvDwKZjCb2ielAP30MMV8X_D_lJd8rVkgWMQTsQI=w408-h275-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "25 566 066",
+        "address": "W49P+HFM Maison D'hotes Dar Saida Beya, Rue Ahmed El Ayech, Tozeur 2200",
+        "review_keywords": [
+            {
+                "keyword": "hammam",
+                "count": 5
+            },
+            {
+                "keyword": "hotel de charme",
+                "count": 4
+            },
+            {
+                "keyword": "chambres",
+                "count": 4
+            },
+            {
+                "keyword": "confort",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Maison+D%27h%C3%B4tes+Dar+Saida+Beya/data=!4m10!3m9!1s0x1257ea81825e3d33:0x845a5782bfd304df!5m2!4m1!1i2!8m2!3d33.9189642!4d8.1361647!16s%2Fg%2F1tgsl6pb!19sChIJMz1egoHqVxIR3wTTv4JXWoQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9__4XJ3qVxIRAhPOVR_mr10",
+        "name": "Maison d'hotes Villa Fatima",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 44,
+        "website": null,
+        "owner": {
+            "id": "108982881392147639915",
+            "name": "Maison d'hotes Villa Fatima (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108982881392147639915"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMhtdyGYmKaU3IF0BN_gWxagfSXNbCXVQShu7vz=w408-h306-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "98 450 451",
+        "address": "Maison d'hotes Villa Fatima, Cite AFH 2 Rte Touristique",
+        "review_keywords": [
+            {
+                "keyword": "chambres",
+                "count": 7
+            },
+            {
+                "keyword": "voyage",
+                "count": 7
+            },
+            {
+                "keyword": "diner",
+                "count": 6
+            },
+            {
+                "keyword": "prix",
+                "count": 6
+            },
+            {
+                "keyword": "demeure",
+                "count": 5
+            },
+            {
+                "keyword": "desert",
+                "count": 3
+            },
+            {
+                "keyword": "gentillesse",
+                "count": 3
+            },
+            {
+                "keyword": "pain",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Maison+d%27h%C3%B4tes+Villa+Fatima/data=!4m10!3m9!1s0x1257ea9d5cf8fff7:0x5dafe61f55ce1302!5m2!4m1!1i2!8m2!3d33.9170077!4d8.111522!16s%2Fg%2F1tf90m8d!19sChIJ9__4XJ3qVxIRAhPOVR_mr10?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJcWxm8BbrVxIR2Va-LUQV9gc",
+        "name": "Dar Yomma",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 39,
+        "website": "https://daryommatozeur.wixsite.com/maison",
+        "owner": {
+            "id": "117075440881381261976",
+            "name": "Dar Yomma (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117075440881381261976"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMp6U8AWMhQg_vveeKKZ20VQPaweJGyY_4Q9oM4=w408-h272-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "51 024 509",
+        "address": "Dar Yomma, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "diner",
+                "count": 6
+            },
+            {
+                "keyword": "chambres",
+                "count": 6
+            },
+            {
+                "keyword": "paradis",
+                "count": 4
+            },
+            {
+                "keyword": "piscine",
+                "count": 4
+            },
+            {
+                "keyword": "hospitalite",
+                "count": 4
+            },
+            {
+                "keyword": "paix",
+                "count": 3
+            },
+            {
+                "keyword": "proprete",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Yomma/data=!4m10!3m9!1s0x1257eb16f0666c71:0x7f615442dbe56d9!5m2!4m1!1i2!8m2!3d33.9163628!4d8.1355262!16s%2Fg%2F11sn84ssj3!19sChIJcWxm8BbrVxIR2Va-LUQV9gc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJY-ylpQTBVxIRBJsfszhYEgs",
+        "name": "L'ilot Palmiers",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 39,
+        "website": "https://www.lilotpalmier.com/",
+        "owner": {
+            "id": "104036935604303276436",
+            "name": "L'ilot Palmiers (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/104036935604303276436"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhH_l1KnjQfkl4v2Bu2WwSXXFp4OqGOr7E9ruN3CaHj9Se3A8vL1cPezSKOQgB4YH99ZEdPe2WP9AwO1OLEmHciO60fNUFdxazSsWttRxdGCeIa17J6ZefBq283Ie-oZ78kibi1a5tQcy0KD_NbnHOSoooBPEyGL9Dov0soDCuBCsirUe9orcD9xwA=w408-h544-k-no",
+        "main_category": "Camping avec cabanes",
+        "categories": [
+            "Camping avec cabanes"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "56 307 308",
+        "address": "W45W+78 L'ilot Palmiers, Rte des Touaregs, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "tentes",
+                "count": 10
+            },
+            {
+                "keyword": "toilettes",
+                "count": 6
+            },
+            {
+                "keyword": "douche",
+                "count": 6
+            },
+            {
+                "keyword": "prix",
+                "count": 5
+            },
+            {
+                "keyword": "palmeraie",
+                "count": 4
+            },
+            {
+                "keyword": "experience",
+                "count": 4
+            },
+            {
+                "keyword": "literie",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/L%27%C3%AElot+Palmiers/data=!4m10!3m9!1s0x1257c104a5a5ec63:0xb125838b31f9b04!5m2!4m1!1i2!8m2!3d33.9080292!4d8.1459466!16s%2Fg%2F11ljs_7g3j!19sChIJY-ylpQTBVxIRBJsfszhYEgs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJHzIP_dPBVxIRUSB-G3avo-A",
+        "name": "Castilia Suites",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": "http://www.castilia-suites-tozeur.vivehotels.com/",
+        "owner": {
+            "id": null,
+            "name": "Castilia Suites (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMCS5oxXACrJxswhS1f2SenBaK8SjzwM9tQH4FL=w408-h730-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "76 463 777",
+        "address": "W4MQ+GWX Castilia Suites, route, El Hamma 2200",
+        "review_keywords": [
+            {
+                "keyword": "clim",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Castilia+Suites/data=!4m10!3m9!1s0x1257c1d3fd0f321f:0xe0a3af761b7e2051!5m2!4m1!1i2!8m2!3d33.9338681!4d8.1398526!16s%2Fg%2F11dzddxq26!19sChIJHzIP_dPBVxIRUSB-G3avo-A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-SqTZrLBVxIRDrA0q5zR7B0",
+        "name": "Dar El Caid",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": "http://darelcaid.com/",
+        "owner": {
+            "id": "101012391416112917898",
+            "name": "Dar El Caid (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101012391416112917898"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGh3EEyAEfnXR2mvirdROuttP-OSiPPbYNJknuM6PI2EWKuhJaJLHKHgS5e-wqQiEdTmGSTZYMuxJCTV9lDa1_6ixrwB-db7fFMr2IFmVvrwb6ZS4crBTaXASmUpwO77NasHt7q_BFDJiCM8i6nf4GzrvGEHvq6sNvH3Z1FtNvdyNDE-05Xu-Ka8w=w408-h577-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "99 179 603",
+        "address": "W4CQ+M7 Dar El Caid, Av. de Kairouan, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+El+Caid/data=!4m10!3m9!1s0x1257c1b266932af9:0x1decd19cab34b00e!5m2!4m1!1i2!8m2!3d33.9216368!4d8.1381822!16s%2Fg%2F11hdpsdm3m!19sChIJ-SqTZrLBVxIRDrA0q5zR7B0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJzQ9_hMTBVxIRO36gYKEd3oU",
+        "name": "Dar Elhadir",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar Elhadir (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMvG-pL4P-5sj5g4IdxYHKSVt86BSk8zX6hASTD=w519-h240-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "54 099 162",
+        "address": "W4CP+RWJ Dar Elhadir, Av. de Kairouan, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Elhadir/data=!4m10!3m9!1s0x1257c1c4847f0fcd:0x85de1da160a07e3b!5m2!4m1!1i2!8m2!3d33.9216744!4d8.1377987!16s%2Fg%2F11sddd1cxr!19sChIJzQ9_hMTBVxIRO36gYKEd3oU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJda-s_9XBVxIR-NHapjh_I_c",
+        "name": "Dar Ezzahra",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar Ezzahra (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMpMXWmzes4G6tkMQ5GkziXt6CcdDkP_4_MFx1q=w408-h272-k-no",
+        "main_category": "Villa",
+        "categories": [
+            "Villa"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "25 508 203",
+        "address": "W4MJ+GR Dar Ezzahra, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Ezzahra/data=!4m10!3m9!1s0x1257c1d5ffacaf75:0xf7237f38a6dad1f8!5m2!4m1!1i2!8m2!3d33.9338105!4d8.1320765!16s%2Fg%2F11f3n16nv7!19sChIJda-s_9XBVxIR-NHapjh_I_c?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZYGPuczrVxIRyAv4joITAEc",
+        "name": "Villa Taouzert",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": "103531507136541252507",
+            "name": "Villa Taouzert (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103531507136541252507"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMJPlYbwOwKvIh_rCDPT693mjTDryBHmYcWyDTe=w408-h272-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "58 085 059",
+        "address": "Villa Taouzert, Ancienne Oasis de, Tozeur 2200",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Villa+Taouzert/data=!4m10!3m9!1s0x1257ebccb98f8165:0x470013828ef80bc8!5m2!4m1!1i2!8m2!3d33.9172904!4d8.1476272!16s%2Fg%2F11l1mq987z!19sChIJZYGPuczrVxIRyAv4joITAEc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJCbgoBrvrVxIR3NSOVpR0RKQ",
+        "name": "Diar Aroma Lounge",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Diar Aroma Lounge (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Residence hoteliere",
+        "categories": [
+            "Residence hoteliere"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "96 514 748",
+        "address": "W486+HHC Diar Aroma Lounge, Route touristique, Tozeur 2200",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Diar+Aroma+Lounge/data=!4m10!3m9!1s0x1257ebbb0628b809:0xa4447494568ed4dc!5m2!4m1!1i2!8m2!3d33.9164446!4d8.1113794!16s%2Fg%2F11ft3pldsp!19sChIJCbgoBrvrVxIR3NSOVpR0RKQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJeXJYMQDrVxIRyBN7I0d6HJQ",
+        "name": "Hotel Sarra",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hotel Sarra (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPMaFr36yfWwgcISHE6DShatVrI2d7P8xzVrGNQ=w426-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "W477+CF4 Hotel Sarra, Rte Touristique, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+Sarra/data=!4m10!3m9!1s0x1257eb0031587279:0x941c7a47237b13c8!5m2!4m1!1i2!8m2!3d33.9135125!4d8.1137031!16s%2Fg%2F11vpv2w2wh!19sChIJeXJYMQDrVxIRyBN7I0d6HJQ?authuser=0&hl=fr&rclk=1"
+    }
+]

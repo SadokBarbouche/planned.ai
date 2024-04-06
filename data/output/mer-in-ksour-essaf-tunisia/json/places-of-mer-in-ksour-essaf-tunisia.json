@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": "ChIJr7M7b_EhAhMRNkJARANwAJ4",
+        "name": "Mahdia ksour essef",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mahdia ksour essef (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "CX8R+GM5 Mahdia ksour essef, 2 C87, Ksour Essef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mahdia+ksour+essef/data=!4m7!3m6!1s0x130221f16f3bb3af:0x9e00700344404236!8m2!3d35.4163611!4d10.9917727!16s%2Fg%2F11tw_b02xs!19sChIJr7M7b_EhAhMRNkJARANwAJ4?authuser=0&hl=fr&rclk=1"
+    }
+]

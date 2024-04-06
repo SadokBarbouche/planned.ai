@@ -1,0 +1,140 @@
+[
+    {
+        "place_id": "ChIJq6oVMIsz_RIRNvhJ639n32Y",
+        "name": "Monument Place de la Kasbah",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 205,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Monument Place de la Kasbah (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPZW2NKRAaKDkBxHsxziTs3a-BhjMT8QeBl8-Qx=w408-h306-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "Q5X8+3MQ Monument Place de la Kasbah, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "ministere",
+                "count": 3
+            },
+            {
+                "keyword": "drapeau",
+                "count": 3
+            },
+            {
+                "keyword": "symbole",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Monument+Place+de+la+Kasbah/data=!4m7!3m6!1s0x12fd338b3015aaab:0x66df677feb49f836!8m2!3d36.7977022!4d10.1667476!16s%2Fg%2F11dybdnm04!19sChIJq6oVMIsz_RIRNvhJ639n32Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtUW75DuZAhMRLG_CsieN5KE",
+        "name": "Methred Nabeul - mthrd nbl",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Methred Nabeul - mthrd nbl (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOkZFgOmOnS87hcU6tI0Ef0N3z6tQJ199bnMGd0=w408-h460-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "FP3J+3HX Methred Nabeul - mthrd nbl, Nabeul",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Methred+Nabeul+-+%D9%85%D8%AB%D8%B1%D8%AF+%D9%86%D8%A7%D8%A8%D9%84%E2%80%AD/data=!4m7!3m6!1s0x1302993be4bb45b5:0xa1e48d27b2c26f2c!8m2!3d36.4527351!4d10.7314995!16s%2Fg%2F11j19j5052!19sChIJtUW75DuZAhMRLG_CsieN5KE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJGQtHMoKYAhMRIRcjhFFX1aM",
+        "name": "Mosquee Sidi El Fehri",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mosquee Sidi El Fehri (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOjKxwnAH8RYZ6pZbU2S9Mligl00mUNZGnQly-r=w408-h458-k-no",
+        "main_category": "Mosquee",
+        "categories": [
+            "Mosquee"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "FP8X+FG5 Mosquee Sidi El Fehri, Dar Chaabane Al Fehri 8011",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mosqu%C3%A9e+Sidi+El+Fehri/data=!4m7!3m6!1s0x1302988232470b19:0xa3d5575184231721!8m2!3d36.4661349!4d10.7488722!16s%2Fg%2F1hc4q0vs3!19sChIJGQtHMoKYAhMRIRcjhFFX1aM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJz5IcOYKYAhMRmQ5ovEC8yqo",
+        "name": "Grande Mosquee de Dar Chaabane",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Grande Mosquee de Dar Chaabane (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOeWQzItETu8Brs_F2KQnvkKO_e0P1xujGTrBpm=w408-h544-k-no",
+        "main_category": "Mosquee",
+        "categories": [
+            "Mosquee"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "FP8X+G6R Grande Mosquee de Dar Chaabane, Dar Chaabane Al Fehri 8011",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Grande+Mosqu%C3%A9e+de+Dar+Chaabane/data=!4m7!3m6!1s0x13029882391c92cf:0xaacabc40bc680e99!8m2!3d36.4663649!4d10.7480299!16s%2Fg%2F1vntxs3y!19sChIJz5IcOYKYAhMRmQ5ovEC8yqo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuSC0cpSYAhMR41mEb6llJkE",
+        "name": "Statue Ibn Khaldoun",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Statue Ibn Khaldoun (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMl17omn3vejwORY_gU3pIJdOkc37XgXMPZbvoC=w408-h614-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4,
+        "workday_timing": "08:30-18:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "FP2P+MWP Statue Ibn Khaldoun, Nabeul",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Statue+Ibn+Khaldoun/data=!4m7!3m6!1s0x1302989472b420b9:0x412665a96f8459e3!8m2!3d36.4517242!4d10.7373387!16s%2Fg%2F11g72lr9mq!19sChIJuSC0cpSYAhMR41mEb6llJkE?authuser=0&hl=fr&rclk=1"
+    }
+]

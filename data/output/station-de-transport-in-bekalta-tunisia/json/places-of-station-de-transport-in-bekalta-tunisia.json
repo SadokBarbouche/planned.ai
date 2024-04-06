@@ -1,0 +1,931 @@
+[
+    {
+        "place_id": "ChIJX-JDfkF1AhMRseeVfnL-2SU",
+        "name": "mHT@ llwjt",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 190,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mHT@ llwjt (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNY2pHjdA3qsnmv352LhjjtA2w5xbRxA0bLBrFN=w408-h544-k-no",
+        "main_category": "Societe de transport en bus et autocar",
+        "categories": [
+            "Societe de transport en bus et autocar"
+        ],
+        "rating": 3.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "mHT@ llwjt, 1 Rue El Masjed El Aksa, Sousse 4000",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 6
+            },
+            {
+                "keyword": "ticket",
+                "count": 5
+            },
+            {
+                "keyword": "minibus",
+                "count": 4
+            },
+            {
+                "keyword": "van",
+                "count": 3
+            },
+            {
+                "keyword": "train",
+                "count": 3
+            },
+            {
+                "keyword": "systeme",
+                "count": 3
+            },
+            {
+                "keyword": "driver",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/%D9%85%D8%AD%D8%B7%D8%A9+%D8%A7%D9%84%D9%84%D9%88%D8%A7%D8%AC%D8%A7%D8%AA%E2%80%AD/data=!4m7!3m6!1s0x130275417e43e25f:0x25d9fe727e95e7b1!8m2!3d35.8093704!4d10.6366586!16s%2Fg%2F11dylq5vh_!19sChIJX-JDfkF1AhMRseeVfnL-2SU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9a3CQ-EjAhMR_Qe97U1x63w",
+        "name": "Station Louage Mahdia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 86,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Louage Mahdia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP0J2OTqpjiysa1MuZn_pSsQyoW-x8Jjq0Sh0CV=w493-h240-k-no",
+        "main_category": "Societe de transport routier",
+        "categories": [
+            "Societe de transport routier"
+        ],
+        "rating": 3.1,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "F3X3+577 Station Louage Mahdia, Mahdia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Louage+Mahdia/data=!4m7!3m6!1s0x130223e143c2adf5:0x7ceb714dedbd07fd!8m2!3d35.4979073!4d11.0531716!16s%2Fg%2F11c1nc3tcz!19sChIJ9a3CQ-EjAhMR_Qe97U1x63w?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJt-2sr8sSAhMR9AVdPVbgzF8",
+        "name": "Station Louage Monastir-Jammel-Ksar Hellal",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 31,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Louage Monastir-Jammel-Ksar Hellal (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNbSX-Qr6DSSJQ2n_Y8-633HuHD_7OS4tps5woz=w408-h342-k-no",
+        "main_category": "Station de taxis",
+        "categories": [
+            "Station de taxis"
+        ],
+        "rating": 3.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QRCG+59V Station Louage Monastir-Jammel-Ksar Hellal, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Louage+Monastir-Jammel-Ksar+Hellal/data=!4m7!3m6!1s0x130212cbafacedb7:0x5fcce0563d5d05f4!8m2!3d35.7704824!4d10.8259314!16s%2Fg%2F1tfdh53f!19sChIJt-2sr8sSAhMR9AVdPVbgzF8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJXxUwrlvF_RIRXnfetvy40p0",
+        "name": "Station louage",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 28,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station louage (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPoCtRQInJ7W76PNcRy3akq5FnNNIOl7E4L-xk=w426-h240-k-no",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 3.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Station louage, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+louage/data=!4m7!3m6!1s0x12fdc55bae30155f:0x9dd2b8fcb6de775e!8m2!3d35.679328!4d10.0885133!16s%2Fg%2F1tjh1ghh!19sChIJXxUwrlvF_RIRXnfetvy40p0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJg8YHf3R1AhMRIjARdvc4J1E",
+        "name": "Gare routiere BAB BHAR",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare routiere BAB BHAR (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMR1MoKbTT1q9rktzPgyJHwQNaTKvGCGr1pmfQ9=w408-h257-k-no",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 3.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare routiere BAB BHAR, Bd Yahia IBN Omar, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+routi%C3%A8re+BAB+BHAR/data=!4m7!3m6!1s0x130275747f07c683:0x512738f776113022!8m2!3d35.8283618!4d10.6389241!16s%2Fg%2F1hhwsdsgb!19sChIJg8YHf3R1AhMRIjARdvc4J1E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJEczVKMsSAhMRSmcUY_ZiUMk",
+        "name": "Station STS Monastir",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station STS Monastir (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO8za9dwFfkgMy1sixpRsaRgaLITAXP7Z_Cg7x_=w408-h306-k-no",
+        "main_category": "Societe de transport en bus et autocar",
+        "categories": [
+            "Societe de transport en bus et autocar"
+        ],
+        "rating": 2.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "31 384 050",
+        "address": "QRFG+786 Station STS Monastir, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+STS+Monastir/data=!4m7!3m6!1s0x130212cb28d5cc11:0xc95062f66314674a!8m2!3d35.7731713!4d10.8257706!16s%2Fg%2F11c75m_2zt!19sChIJEczVKMsSAhMRSmcUY_ZiUMk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7TrB3md1AhMRjJtcuir3Z3s",
+        "name": "Station de Transport Terrestre",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de Transport Terrestre (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMh56apuRNVZPBGTns4jS8mRQDW2wQF4924Tr2K=w408-h306-k-no",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 3.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Station de Transport Terrestre, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+Transport+Terrestre/data=!4m7!3m6!1s0x13027567dec13aed:0x7b67f72aba5c9b8c!8m2!3d35.8143774!4d10.630389!16s%2Fg%2F1tml7lq8!19sChIJ7TrB3md1AhMRjJtcuir3Z3s?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0V9UmCwRAhMRLMg174wX7Zg",
+        "name": "station taxi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "station taxi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMN_9TTbNdu4poa__i8dSRpIVOBQ7QwgoBQ7HB2=w408-h306-k-no",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 3.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "station taxi, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/station+taxi/data=!4m7!3m6!1s0x1302112c98545fd1:0x98ed178cef35c82c!8m2!3d35.6443848!4d10.8887333!16s%2Fg%2F1tdhj0w9!19sChIJ0V9UmCwRAhMRLMg174wX7Zg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0zMr9Xd1AhMRwE1ANgA4VRA",
+        "name": "STS Societe de Transport du Sahel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "STS Societe de Transport du Sahel (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP8U2hSkGLgHV5_UIg541HWumc2xkGBM4ZMrVR3=w408-h725-k-no",
+        "main_category": "Arret de transports en commun",
+        "categories": [
+            "Arret de transports en commun"
+        ],
+        "rating": 3.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "STS Societe de Transport du Sahel, Avenue Leopold SEDAR SENGHOR, Sousse 4000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/STS+Societ%C3%A9+de+Transport+du+Sahel/data=!4m7!3m6!1s0x13027577f52b33d3:0x1055380036404dc0!8m2!3d35.8329429!4d10.6310049!16s%2Fg%2F1vqt27p6!19sChIJ0zMr9Xd1AhMRwE1ANgA4VRA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJK6_UZisRAhMRpUWCCHGUSSw",
+        "name": "station louage",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "station louage (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNFkHU0SwWTvYaAPNNwRXAp8Fv7Tux938It2nc0=w426-h240-k-no",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 3.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "station louage, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/station+louage/data=!4m7!3m6!1s0x1302112b66d4af2b:0x2c499471088245a5!8m2!3d35.643526!4d10.8887011!16s%2Fg%2F1thwllrq!19sChIJK6_UZisRAhMRpUWCCHGUSSw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJf0qb_lvF_RIR3jHQfoBuCj0",
+        "name": "Gare routiere (Autobus)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare routiere (Autobus) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMtjC7BJaOd8yrNv6j2gtQcMX8ta88eq6nmfq7k=w426-h240-k-no",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 3.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare routiere (Autobus), Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+routi%C3%A8re+%28Autobus%29/data=!4m7!3m6!1s0x12fdc55bfe9b4a7f:0x3d0a6e807ed031de!8m2!3d35.6816101!4d10.0865018!16s%2Fg%2F1tdty91l!19sChIJf0qb_lvF_RIR3jHQfoBuCj0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJEbSxrmU9AhMRQ34cr_OHKZ4",
+        "name": "Bekalta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bekalta (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPPDanKtMWXcnSXmRffHH-CaomiqU1F41TOBG0e=w408-h544-k-no",
+        "main_category": "Gare",
+        "categories": [
+            "Gare"
+        ],
+        "rating": 3.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Bekalta, Al-Baqalitah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bekalta/data=!4m7!3m6!1s0x13023d65aeb1b411:0x9e2987f3af1c7e43!8m2!3d35.615241!4d10.9893645!16s%2Fg%2F1tlr2ryr!19sChIJEbSxrmU9AhMRQ34cr_OHKZ4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJDwuohL8PAhMRnf44oiLVxCo",
+        "name": "mHT@ lnql lbry bjml",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mHT@ lnql lbry bjml (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMIw-nWCarj-XqD1zP8HTd5ADwAikLkpWrmIK8C=w426-h240-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JQG6+XQ3 mHT@ lnql lbry bjml, Station Bus et Louage, Jemmal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D8%AD%D8%B7%D8%A9+%D8%A7%D9%84%D9%86%D9%82%D9%84+%D8%A7%D9%84%D8%A8%D8%B1%D9%8A+%D8%A8%D8%AC%D9%85%D8%A7%D9%84%E2%80%AD/data=!4m7!3m6!1s0x13020fbf84a80b0f:0x2ac4d522a238fe9d!8m2!3d35.6276718!4d10.76127!16s%2Fg%2F11lfck612b!19sChIJDwuohL8PAhMRnf44oiLVxCo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZVyPOOcjAhMRZ4BKkx1zB6I",
+        "name": "Gare routiere de Mahdia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare routiere de Mahdia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOaF87JUW_5AKpxiTvJwTRkWJYyEMROJFKBUfil=w425-h240-k-no",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 2.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare routiere de Mahdia, C96, Mahdia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+routi%C3%A8re+de+Mahdia/data=!4m7!3m6!1s0x130223e7388f5c65:0xa207731d934a8067!8m2!3d35.500391!4d11.0500896!16s%2Fg%2F11h0rkbl0!19sChIJZVyPOOcjAhMRZ4BKkx1zB6I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJkdzEJd_SARMRe-Fa_vmT3LM",
+        "name": "Station de Bus 7",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de Bus 7 (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7TOpnLihXiHIp9ZqQGhoiw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=91.31066&pitch=0&thumbfov=100",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 3.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Station de Bus 7, Rte Teniour, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+Bus+7/data=!4m7!3m6!1s0x1301d2df25c4dc91:0xb3dc93f9fe5ae17b!8m2!3d34.7549003!4d10.7572859!16s%2Fg%2F11b6y7mh77!19sChIJkdzEJd_SARMRe-Fa_vmT3LM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2YMcgcX1_RIR6uGxuvPTBts",
+        "name": "Gare de bus STS",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare de bus STS (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOcZlDQzRFWfZQCrcAez_xXYgimgniWyIqO5xhw=w408-h725-k-no",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare de bus STS, M'saken",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+de+bus+STS/data=!4m7!3m6!1s0x12fdf5c5811c83d9:0xdb06d3f3bab1e1ea!8m2!3d35.7334059!4d10.5746862!16s%2Fg%2F1hf06016l!19sChIJ2YMcgcX1_RIR6uGxuvPTBts?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-c4gezT0_RIRyMLLdPTvVfI",
+        "name": "BUS 22 EL MARKEZ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "BUS 22 EL MARKEZ (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "BUS 22 EL MARKEZ, P1, M'saken",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/BUS+22+EL+MARKEZ/data=!4m7!3m6!1s0x12fdf4347b20cef9:0xf255eff474cbc2c8!8m2!3d35.7269787!4d10.5712885!16s%2Fg%2F1hdztw2h9!19sChIJ-c4gezT0_RIRyMLLdPTvVfI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuWuXbryd_RIRuwPgeooQzqQ",
+        "name": "Station de louage",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de louage (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPqTgI2asTc0_2mzT_MgxYDsRIPhwr14WTEYaU8=w408-h544-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 3.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "49JH+QVM Station de louage, Enfidha",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+louage/data=!4m7!3m6!1s0x12fd9dbc6e976bb9:0xa4ce108a7ae003bb!8m2!3d36.1319723!4d10.3796664!16s%2Fg%2F11g691nf2f!19sChIJuWuXbryd_RIRuwPgeooQzqQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJmQTm5EvTARMRwRvfAyPobpA",
+        "name": "Ejdida (Station de bus 13)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "http://www.soretras.tn/",
+        "owner": {
+            "id": null,
+            "name": "Ejdida (Station de bus 13) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=--cHvGj7cfvKS8RFkg4oLw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=255.65128&pitch=0&thumbfov=100",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ejdida (Station de bus 13), Route Manzel Chaker, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ejdida+%28Station+de+bus+13%29/data=!4m7!3m6!1s0x1301d34be4e60499:0x906ee82303df1bc1!8m2!3d34.7452901!4d10.727526!16s%2Fg%2F11b6jgm9ck!19sChIJmQTm5EvTARMRwRvfAyPobpA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdb1iLDcWAhMR0aTJgkWL53g",
+        "name": "Station STS",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station STS (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KrUKFyT40ikYmalEOlyNkA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=269.41736&pitch=0&thumbfov=100",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Station STS, Tabulbah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+STS/data=!4m7!3m6!1s0x130216372c62bd75:0x78e78b4582c9a4d1!8m2!3d35.640107!4d10.9635656!16s%2Fg%2F11bbs2z5jr!19sChIJdb1iLDcWAhMR0aTJgkWL53g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJe5_5IGU9AhMRu2O6K7FYnfs",
+        "name": "mHT@ lHfl@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mHT@ lHfl@ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KVXCavtmnPZjP-tTzF8ePw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=76.411156&pitch=0&thumbfov=100",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "mHT@ lHfl@, Al-Baqalitah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D8%AD%D8%B7%D8%A9+%D8%A7%D9%84%D8%AD%D8%A7%D9%81%D9%84%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x13023d6520f99f7b:0xfb9d58b12bba63bb!8m2!3d35.6172866!4d10.9893215!16s%2Fg%2F1tfhwtkl!19sChIJe5_5IGU9AhMRu2O6K7FYnfs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJM1fbCrqI_RIR67PA1tmEOfc",
+        "name": "Station BUS STS Sousse-Hergla",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station BUS STS Sousse-Hergla (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOMLxMHatz19-vqzJOneBXab8eQkaT6PL3qX1-6=w408-h544-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 2.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "XG4R+P99 Station BUS STS Sousse-Hergla, Unnamed Road, Sidi Bou Ali",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+BUS+STS+Sousse-Hergla/data=!4m7!3m6!1s0x12fd88ba0adb5733:0xf73984d9d6c0b3eb!8m2!3d35.9567975!4d10.5409963!16s%2Fg%2F11c1mz8154!19sChIJM1fbCrqI_RIR67PA1tmEOfc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJhUPqXKUPAhMROJ9hoFbfroY",
+        "name": "Garde Routiere Zaouiet Kontech",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Garde Routiere Zaouiet Kontech (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPmo8GsZ36Fr1DdGpSdyoV4RMlKqVNbcVPjYI99=w408-h544-k-no",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Garde Routiere Zaouiet Kontech, Jemmel",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Garde+Routi%C3%A8re+Zaouiet+Kontech/data=!4m7!3m6!1s0x13020fa55cea4385:0x86aedf56a0619f38!8m2!3d35.6385042!4d10.764964!16s%2Fg%2F1tnzh9jg!19sChIJhUPqXKUPAhMROJ9hoFbfroY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJOXQvOQULAhMRpJY2Rt_lt-w",
+        "name": "Station autobus",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station autobus (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kOon9jDhVl4P5lHvj-ArZw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=49.327198&pitch=0&thumbfov=100",
+        "main_category": "Compagnie d'autobus",
+        "categories": [
+            "Compagnie d'autobus"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QP35+V2G Station autobus, Sahline",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+autobus/data=!4m7!3m6!1s0x13020b05392f7439:0xecb7e5df463696a4!8m2!3d35.7546956!4d10.7075665!16s%2Fg%2F11jmx7nx__!19sChIJOXQvOQULAhMRpJY2Rt_lt-w?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJF9HjpTP0_RIRNZlhOGYu4Lw",
+        "name": "BUS 22 LE STADE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "BUS 22 LE STADE (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "BUS 22 LE STADE, P1, M'saken",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/BUS+22+LE+STADE/data=!4m7!3m6!1s0x12fdf433a5e3d117:0xbce02e6638619935!8m2!3d35.7243918!4d10.571444!16s%2Fg%2F1hf49616p!19sChIJF9HjpTP0_RIRNZlhOGYu4Lw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJaar7GtnSARMRY0f7uc_G_9U",
+        "name": "Station de Bus 7 et 8",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de Bus 7 et 8 (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dI_i9dH8M9fpqjAUGvVddg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=27.917364&pitch=0&thumbfov=100",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 3.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Station de Bus 7 et 8, Rue Imam el Mezri, Rue Ottoman Kaak, Sfax 3069",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+Bus+7+et+8/data=!4m7!3m6!1s0x1301d2d91afbaa69:0xd5ffc6cfb9fb4763!8m2!3d34.7520819!4d10.7582339!16s%2Fg%2F11bc8wd6zz!19sChIJaar7GtnSARMRY0f7uc_G_9U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_zsmr_wjAhMRRO8R0SKVlVA",
+        "name": "Bus station STS (Mahdia - Sousse)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bus station STS (Mahdia - Sousse) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Gu-ar61HfEEYw79-wHTutg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=25.399733&pitch=0&thumbfov=100",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "G29H+MCG Bus station STS (Mahdia - Sousse), shr` lHbyb bwrqyb@, Hiboun",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bus+station+STS+%28Mahdia+-+Sousse%29/data=!4m7!3m6!1s0x130223fcaf263bff:0x50959522d111ef44!8m2!3d35.5191805!4d11.0285716!16s%2Fg%2F11r97ht1n1!19sChIJ_zsmr_wjAhMRRO8R0SKVlVA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJj1Vdl_0NAhMRLKnkq3m19ow",
+        "name": "Station Bembla Jammel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Bembla Jammel (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM6ui9Sys9Gwnrf1o7KeNZ63yrafO4un0_Snx0q=w408-h272-k-no",
+        "main_category": "Station de pesage",
+        "categories": [
+            "Station de pesage"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "MQRR+9QJ Station Bembla Jammel, Unnamed Road, Bembla and Manarah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Bembla+Jammel/data=!4m7!3m6!1s0x13020dfd975d558f:0x8cf6b579abe4a92c!8m2!3d35.6909695!4d10.7918854!16s%2Fg%2F11gf5t63hb!19sChIJj1Vdl_0NAhMRLKnkq3m19ow?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJs6JQ7PcNAhMR06tQtO9CV2o",
+        "name": "Station Bembla Monastir 2",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Bembla Monastir 2 (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Station de pesage",
+        "categories": [
+            "Station de pesage"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "PQ2X+JG3 Station Bembla Monastir 2, Bembla and Manarah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Bembla+Monastir+2/data=!4m7!3m6!1s0x13020df7ec50a2b3:0x6a5742efb450abd3!8m2!3d35.7015072!4d10.7987984!16s%2Fg%2F11f3jkgkpk!19sChIJs6JQ7PcNAhMR06tQtO9CV2o?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJMZ5mQDAXAhMRAVkOAitkOwA",
+        "name": "Station de Transport Urbain (mHT@ lnql lryfy)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de Transport Urbain (mHT@ lnql lryfy) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=s-1bls13uykwUYBh0ZfyvQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=109.31588&pitch=0&thumbfov=100",
+        "main_category": "Station de taxis",
+        "categories": [
+            "Station de taxis"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JWG2+32Q Station de Transport Urbain (mHT@ lnql lryfy), Al-Muknin",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+Transport+Urbain+%28%D9%85%D8%AD%D8%B7%D8%A9+%D8%A7%D9%84%D9%86%D9%82%D9%84+%D8%A7%D9%84%D8%B1%D9%8A%D9%81%D9%8A%29%E2%80%AD/data=!4m7!3m6!1s0x1302173040669e31:0x3b642b020e5901!8m2!3d35.6252065!4d10.9001073!16s%2Fg%2F1tj0y5ts!19sChIJMZ5mQDAXAhMRAVkOAitkOwA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJicHvb-MNAhMRsTSRxm2OPBU",
+        "name": "Station Bembla 2",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Bembla 2 (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_qTGHIW1rYSy-fBYXDcxaw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=136.1122&pitch=0&thumbfov=100",
+        "main_category": "Societe de transport routier",
+        "categories": [
+            "Societe de transport routier"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "MQWP+6MV Station Bembla 2, Av. Habib bourguiba, Bembla and Manarah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Bembla+2/data=!4m7!3m6!1s0x13020de36fefc189:0x153c8e6dc69134b1!8m2!3d35.6956008!4d10.7866579!16s%2Fg%2F11f3jkm4bd!19sChIJicHvb-MNAhMRsTSRxm2OPBU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJFx2XQRsjAhMRWUDMcUlVZBg",
+        "name": "Baghdadi Touta bus station (STS)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Baghdadi Touta bus station (STS) (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "H26C+GMH Baghdadi Touta bus station (STS), Rue Baghdadi, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Baghdadi+Touta+bus+station+%28STS%29/data=!4m7!3m6!1s0x1302231b41971d17:0x1864554971cc4059!8m2!3d35.5613113!4d11.0217454!16s%2Fg%2F11lm5x48cx!19sChIJFx2XQRsjAhMRWUDMcUlVZBg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJQ5tG-CrTARMRTp5XMU96NVA",
+        "name": "Sbitar (Station de bus 12)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "http://www.soretras.tn/",
+        "owner": {
+            "id": null,
+            "name": "Sbitar (Station de bus 12) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=V5xEBhh3LB02OlPjDUSx3A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=218.8662&pitch=0&thumbfov=100",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Sbitar (Station de bus 12), Rte El Ain, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sbitar+%28Station+de+bus+12%29/data=!4m7!3m6!1s0x1301d32af8469b43:0x50357a4f31579e4e!8m2!3d34.7423406!4d10.7498352!16s%2Fg%2F11b6yk4pg3!19sChIJQ5tG-CrTARMRTp5XMU96NVA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6UBJaA8NAhMRKbdTCOAnM1g",
+        "name": "Station autobus",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station autobus (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=5sGH69qMMEO3GDtXC8vyqQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=40.289978&pitch=0&thumbfov=100",
+        "main_category": "Compagnie d'autobus",
+        "categories": [
+            "Compagnie d'autobus"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QP6W+7FV Station autobus, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+autobus/data=!4m7!3m6!1s0x13020d0f684940e9:0x583327e00853b729!8m2!3d35.7607373!4d10.7461682!16s%2Fg%2F11jnft8gzv!19sChIJ6UBJaA8NAhMRKbdTCOAnM1g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJzzjqYaHTARMRq9-zzyVWtMM",
+        "name": "Station Louage Boujarbou",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Louage Boujarbou (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=E6bDBPF3Cpgpn4ed9iaypQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=298.85587&pitch=0&thumbfov=100",
+        "main_category": "Parking",
+        "categories": [
+            "Parking"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "RP7M+WXR Station Louage Boujarbou, Sakiet Ezzit",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Louage+Boujarbou/data=!4m7!3m6!1s0x1301d3a161ea38cf:0xc3b45625cfb3dfab!8m2!3d34.8148708!4d10.7349039!16s%2Fg%2F11sm_50_h3!19sChIJzzjqYaHTARMRq9-zzyVWtMM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJKUQH3Wd1AhMRaYr70TuxdFY",
+        "name": "Station de Car El fahs / Nabeul / Enfidha / Bouficha",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de Car El fahs / Nabeul / Enfidha / Bouficha (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=r-yMqyw-wEPLm4QbPLTgYQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=96.32869&pitch=0&thumbfov=100",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-16:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "RJ7J+P5R Station de Car El fahs / Nabeul / Enfidha / Bouficha, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+Car+El+fahs+%2F+Nabeul+%2F+Enfidha+%2F+Bouficha/data=!4m7!3m6!1s0x13027567dd074429:0x5674b13bd1fb8a69!8m2!3d35.8143533!4d10.6303849!16s%2Fg%2F11f_12bl3f!19sChIJKUQH3Wd1AhMRaYr70TuxdFY?authuser=0&hl=fr&rclk=1"
+    }
+]

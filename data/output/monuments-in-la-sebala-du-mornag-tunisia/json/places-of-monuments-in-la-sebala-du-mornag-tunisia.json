@@ -1,0 +1,40 @@
+[
+    {
+        "place_id": "ChIJq6oVMIsz_RIRNvhJ639n32Y",
+        "name": "Monument Place de la Kasbah",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 205,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Monument Place de la Kasbah (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPZW2NKRAaKDkBxHsxziTs3a-BhjMT8QeBl8-Qx=w408-h306-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "Q5X8+3MQ Monument Place de la Kasbah, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "ministere",
+                "count": 3
+            },
+            {
+                "keyword": "drapeau",
+                "count": 3
+            },
+            {
+                "keyword": "symbole",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Monument+Place+de+la+Kasbah/data=!4m7!3m6!1s0x12fd338b3015aaab:0x66df677feb49f836!8m2!3d36.7977022!4d10.1667476!16s%2Fg%2F11dybdnm04!19sChIJq6oVMIsz_RIRNvhJ639n32Y?authuser=0&hl=fr&rclk=1"
+    }
+]

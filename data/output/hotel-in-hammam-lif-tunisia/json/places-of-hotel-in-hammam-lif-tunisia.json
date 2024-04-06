@@ -1,0 +1,168 @@
+[
+    {
+        "place_id": "ChIJFRHAAhKeAhMR3xY0CY0oJ_8",
+        "name": "Alhambra Thalasso Hotel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1412,
+        "website": "http://alhambra-thalasso.com/",
+        "owner": {
+            "id": "117882404529167824828",
+            "name": "Alhambra Thalasso Hotel (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117882404529167824828"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEp_NiUYseb8kHeh799vUzUUe--s7_101iW5E_848WPBhfuz38lXWNrQReEql09TOqwnykSi9rq2sDefPT9hE3ZhV2KJ-_CHCmQOF_wO0Zw_ZVNaWzD51thfPo7uLSkWaDuDe-JFYFJf_ZWMAOBHI1KeXUa55eMz7Gf05qFSBm6aAbscXWD8d1L2g=w486-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 240 590",
+        "address": "Alhambra Thalasso Hotel, Yasmine Hammamet",
+        "review_keywords": [
+            {
+                "keyword": "etoiles",
+                "count": 58
+            },
+            {
+                "keyword": "animation",
+                "count": 34
+            },
+            {
+                "keyword": "serveurs",
+                "count": 23
+            },
+            {
+                "keyword": "all inclusive",
+                "count": 22
+            },
+            {
+                "keyword": "massage",
+                "count": 21
+            },
+            {
+                "keyword": "maison de retraite",
+                "count": 17
+            },
+            {
+                "keyword": "catastrophique",
+                "count": 17
+            },
+            {
+                "keyword": "architecture",
+                "count": 17
+            },
+            {
+                "keyword": "directeur",
+                "count": 10
+            },
+            {
+                "keyword": "piscine couverte",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Alhambra+Thalasso+Hotel/data=!4m10!3m9!1s0x13029e1202c01115:0xff27288d093416df!5m2!4m1!1i2!8m2!3d36.3559897!4d10.5257645!16s%2Fg%2F1tg8fn1c!19sChIJFRHAAhKeAhMR3xY0CY0oJ_8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJyblzLCwk-xIRwe8wQWScHM8",
+        "name": "El Mouradi Hammam Bourguiba",
+        "description": "Hotel simple avec restaurant buffet, installations sportives, spa et piscine interieure.",
+        "is_spending_on_ads": false,
+        "reviews": 426,
+        "website": "https://www.elmouradi.com/cr2.resa/ui/aba/hotel-descriptif-El%2520Mouradi%2520Hammam%2520Bourguiba-Ain%2520Draham-Tunisie-721-869-1-1-showdate0.aspx",
+        "owner": {
+            "id": "106517984528396193302",
+            "name": "El Mouradi Hammam Bourguiba (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106517984528396193302"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNrM_aDeEdsGWftLaHl2DSQtUTiKCvK8Jmj-24x=w408-h255-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "78 654 200",
+        "address": "El Mouradi Hammam Bourguiba, Hammam Bourguiba, Ain Draham 8136",
+        "review_keywords": [
+            {
+                "keyword": "service",
+                "count": 27
+            },
+            {
+                "keyword": "chambre",
+                "count": 22
+            },
+            {
+                "keyword": "piscine",
+                "count": 19
+            },
+            {
+                "keyword": "naturel",
+                "count": 15
+            },
+            {
+                "keyword": "buffet",
+                "count": 9
+            },
+            {
+                "keyword": "therapie",
+                "count": 8
+            },
+            {
+                "keyword": "montagnes",
+                "count": 8
+            },
+            {
+                "keyword": "massage",
+                "count": 8
+            },
+            {
+                "keyword": "foret",
+                "count": 5
+            },
+            {
+                "keyword": "etoiles",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/El+Mouradi+Hammam+Bourguiba/data=!4m10!3m9!1s0x12fb242c2c73b9c9:0xcf1c9c644130efc1!5m2!4m1!1i2!8m2!3d36.7688157!4d8.5800648!16s%2Fg%2F1td82mct!19sChIJyblzLCwk-xIRwe8wQWScHM8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJOVGLS7C14hIRguF_dMNFQ8U",
+        "name": "LA MENARA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 41,
+        "website": "http://www.lamenara.tn/",
+        "owner": {
+            "id": "113361500000227367193",
+            "name": "LA MENARA (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113361500000227367193"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO1kfiG91wZVnrIMm6tP9fwmcayh10XoBeuX5YT=w408-h725-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "54 847 878",
+        "address": "LA MENARA, 2026 Rue Ali Ben Ayed, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "chambre",
+                "count": 5
+            },
+            {
+                "keyword": "piscine",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/LA+MENARA/data=!4m10!3m9!1s0x12e2b5b04b8b5139:0xc54345c3747fe182!5m2!4m1!1i2!8m2!3d36.8722516!4d10.3452926!16s%2Fg%2F11k4nyktz6!19sChIJOVGLS7C14hIRguF_dMNFQ8U?authuser=0&hl=fr&rclk=1"
+    }
+]

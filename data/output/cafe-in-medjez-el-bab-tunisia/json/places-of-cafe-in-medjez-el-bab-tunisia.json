@@ -1,0 +1,678 @@
+[
+    {
+        "place_id": "ChIJSyWwjkvB_BIRTzcow66ezaU",
+        "name": "Les Arcades \"Sidi Raies\"",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Les Arcades \"Sidi Raies\" (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMLShf5JFP9hRiqw_XVWeFvAyxCwRK160qVefdq=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "04:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "JJW8+VRV Les Arcades \"Sidi Raies\", av.habib bourguiba, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Les+Arcades+%22Sidi+Raies%22/data=!4m7!3m6!1s0x12fcc14b8eb0254b:0xa5cd9eaec328374f!8m2!3d36.6472459!4d9.6170562!16s%2Fg%2F11xgh0j_h!19sChIJSyWwjkvB_BIRTzcow66ezaU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJRXX0pknB_BIRpQlwNkpNCVo",
+        "name": "Queen Lounge",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": "https://www.facebook.com/queenlounge2020/",
+        "owner": {
+            "id": null,
+            "name": "Queen Lounge (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO5Uw9RHOlIJBBXsmOBf3wy-Z-YGHwrzSR3AROQ=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JJW9+G4M Queen Lounge, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Queen+Lounge/data=!4m7!3m6!1s0x12fcc149a6f47545:0x5a094d4a367009a5!8m2!3d36.6463258!4d9.6178031!16s%2Fg%2F11rc0__zqm!19sChIJRXX0pknB_BIRpQlwNkpNCVo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJu5LvmArH_BIRq4hHPHEGivc",
+        "name": "Restaurant Hela",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant Hela (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOO5gyQ-np6v38DcAQUFErQqUXs6h3Kf41P6ctw=w408-h544-k-no",
+        "main_category": "Grillades",
+        "categories": [
+            "Grillades"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "97 763 613",
+        "address": "Restaurant Hela, Rue Union du Grand Maghreb",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+Hela/data=!4m7!3m6!1s0x12fcc70a98ef92bb:0xf78a06713c4788ab!8m2!3d36.653546!4d9.5884792!16s%2Fg%2F11h6ffsj06!19sChIJu5LvmArH_BIRq4hHPHEGivc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJQwcWllXB_BIRPmzrEfOOwIk",
+        "name": "Cafe Faouzi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Faouzi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP6ZZMSYGZWSpdb9VNODUwMMbtsE29aVSzWr5Pv=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "05:00-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "JJWM+C5J Cafe Faouzi, av.habib bourguiba, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Faouzi/data=!4m7!3m6!1s0x12fcc15596160743:0x89c08ef311eb6c3e!8m2!3d36.6460967!4d9.6329036!16s%2Fg%2F11fy4pvcv_!19sChIJQwcWllXB_BIRPmzrEfOOwIk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9fH0cTXB_BIRCX0ZBEGGBeI",
+        "name": "Cafe De La Paix",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe De La Paix (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO8fTH7OOzsw2ltBuxbAd83JzvPSQqJchSgHfwM=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "04:30-21:00",
+        "closed_on": [],
+        "phone": "78 560 326",
+        "address": "JJX6+Q8C Cafe De La Paix, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+De+La+Paix/data=!4m7!3m6!1s0x12fcc13571f4f1f5:0xe205864104197d09!8m2!3d36.6494482!4d9.6107618!16s%2Fg%2F11cn9f798v!19sChIJ9fH0cTXB_BIRCX0ZBEGGBeI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJz5Dw_Z_H_BIR9kS_RrD_4tU",
+        "name": "Cafe Le Boncoin",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://www.facebook.com/Caf%25C3%25A9-le-boncoin-1608029509315556/",
+        "owner": {
+            "id": null,
+            "name": "Cafe Le Boncoin (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPmyRbncrBvav7cdfr36c6XoYvEEkpkIH6dWKqJ=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "28 456 252",
+        "address": "MJ33+M8G Cafe Le Boncoin, Medjez el Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Le+Boncoin/data=!4m7!3m6!1s0x12fcc79ffdf090cf:0xd5e2ffb046bf44f6!8m2!3d36.6541841!4d9.6033265!16s%2Fg%2F11gjw3cmbh!19sChIJz5Dw_Z_H_BIR9kS_RrD_4tU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJUU81sk3B_BIRRhE7VwkADks",
+        "name": "Cafe Madih El Hajj",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Madih El Hajj (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOLo6uMvfKlxs7RIR6U7OblYQXjv9tJU2zCu1sb=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "99 461 123",
+        "address": "JJWC+R4X Cafe Madih El Hajj, Medjez el Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Madih+El+Hajj/data=!4m7!3m6!1s0x12fcc14db2354f51:0x4b0e0009573b1146!8m2!3d36.6471202!4d9.620344!16s%2Fg%2F11cn94zc1g!19sChIJUU81sk3B_BIRRhE7VwkADks?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJlTz8GsvB_BIR3PA6J6Pda_w",
+        "name": "CASA PASTA restaurant pizzeria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": "102238118806268514466",
+            "name": "CASA PASTA restaurant pizzeria (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/102238118806268514466"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM-kEMZTy4Po-nJqDohJRXRsq5uENTxila3PTy0=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant",
+            "Pizzeria"
+        ],
+        "rating": 5,
+        "workday_timing": "10:00-00:00",
+        "closed_on": [],
+        "phone": "26 672 707",
+        "address": "CASA PASTA restaurant pizzeria, EL ARGOUB, Majaz Al Bab 9070",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CASA+PASTA+restaurant+pizzeria/data=!4m7!3m6!1s0x12fcc1cb1afc3c95:0xfc6bdda3273af0dc!8m2!3d36.6462241!4d9.6318448!16s%2Fg%2F11j90rzzrg!19sChIJlTz8GsvB_BIR3PA6J6Pda_w?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJrXVGITXB_BIR6HjMPdUnc0w",
+        "name": "restaurant ferjani",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "restaurant ferjani (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPakC1QL_U3cinP42sqjxJEp4GbcFV8UMMp4XCj=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.8,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "90 309 965",
+        "address": "MJ25+6P4 restaurant ferjani, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/restaurant+ferjani/data=!4m7!3m6!1s0x12fcc135214675ad:0x4c7327d53dcc78e8!8m2!3d36.6505059!4d9.609339!16s%2Fg%2F11d_x00yjx!19sChIJrXVGITXB_BIR6HjMPdUnc0w?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_47TfQTB_BIR6-k05X76Nrg",
+        "name": "Boum Boum pizza & grill",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Boum Boum pizza & grill (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO3G5bOvzItb5cRdCl8n11he1zTwI4xhtPq9jTa=w408-h640-k-no",
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "90 185 736",
+        "address": "JJWG+4J Boum Boum pizza & grill, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Boum+Boum+pizza+%26+grill/data=!4m7!3m6!1s0x12fcc1047dd38eff:0xb836fa7ee534e9eb!8m2!3d36.645317!4d9.6265347!16s%2Fg%2F11rp8xs_4g!19sChIJ_47TfQTB_BIR6-k05X76Nrg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJVYWv-DLB_BIR8u-WVL2Foo4",
+        "name": "Cafe Kouki Mjez El Beb",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Kouki Mjez El Beb (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNr1OdJhuF9ul8no12z2Gmy1zR3ubiMRRsyhOYw=w408-h244-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JJX3+P67 Cafe Kouki Mjez El Beb, C50, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Kouki+Mjez+El+Beb/data=!4m7!3m6!1s0x12fcc132f8af8555:0x8ea285bd5496eff2!8m2!3d36.6492957!4d9.6030386!16s%2Fg%2F11g6px9n0s!19sChIJVYWv-DLB_BIR8u-WVL2Foo4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJR5PQsRvB_BIRyaOYTiPL1E4",
+        "name": "Sultana lounge",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "https://m.facebook.com/108546321627183/",
+        "owner": {
+            "id": null,
+            "name": "Sultana lounge (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP5ijQUnEI1NmRCa_0vA37U5zJmOYZWMXAIgoqH=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": "95 151 590",
+        "address": "JJWM+J5 Sultana lounge, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sultana+lounge/data=!4m7!3m6!1s0x12fcc11bb1d09347:0x4ed4cb234e98a3c9!8m2!3d36.6465764!4d9.6329133!16s%2Fg%2F11pz2wntml!19sChIJR5PQsRvB_BIRyaOYTiPL1E4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJc7xz0WfB_BIR0WJPwuSdn_I",
+        "name": "NOUBA HAPPY FOOD",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "NOUBA HAPPY FOOD (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPwhQiBk1cXUUs2Sw6m7r4_mzOCJySz1EFJKDwS=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "21 000 375",
+        "address": "MJ24+4Q7 NOUBA HAPPY FOOD, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/NOUBA+HAPPY+FOOD/data=!4m7!3m6!1s0x12fcc167d173bc73:0xf29f9de4c24f62d1!8m2!3d36.6502816!4d9.6069083!16s%2Fg%2F11qmbgvy69!19sChIJc7xz0WfB_BIR0WJPwuSdn_I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJsVvoEeXB_BIR0_SvwjtAxj4",
+        "name": "The Tasty Snack",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "The Tasty Snack (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOtapHN2y60h6KQ0cDw5bBQ9Z_fG1Ry1U-b_5g=w408-h361-k-no",
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "51 799 441",
+        "address": "JJWC+WH The Tasty Snack, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+Tasty+Snack/data=!4m7!3m6!1s0x12fcc1e511e85bb1:0x3ec6403bc2aff4d3!8m2!3d36.6473738!4d9.6215431!16s%2Fg%2F11s0x90y5f!19sChIJsVvoEeXB_BIR0_SvwjtAxj4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8ZCQT0rB_BIReEYPdaGtTK8",
+        "name": "cafe Helmia chez rached",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe Helmia chez rached (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO5KJGMRACN5JUbrpBJsHeSu1-C64KTQoVnIxvK=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "JJX7+3H5 cafe Helmia chez rached, Medjez el Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/cafe+Helmia+chez+rached/data=!4m7!3m6!1s0x12fcc14a4f9090f1:0xaf4cada1750f4678!8m2!3d36.6476487!4d9.6139963!16s%2Fg%2F11c5swww9g!19sChIJ8ZCQT0rB_BIReEYPdaGtTK8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8_zezMrB_BIRw0FXP86Z6NY",
+        "name": "Cafee aarbi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://www.facebook.com/Cafearbisaadaoui%3Fmibextid%3DZbWKwL",
+        "owner": {
+            "id": null,
+            "name": "Cafee aarbi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOT9LbBIYIAARdqgVuGbP04jt4hIDwsJ7X4ObGr=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JJX4+8WP Cafee aarbi, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafee+aarbi/data=!4m7!3m6!1s0x12fcc1caccdefcf3:0xd6e899ce3f5741c3!8m2!3d36.6483334!4d9.6073324!16s%2Fg%2F11j0w8js88!19sChIJ8_zezMrB_BIRw0FXP86Z6NY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJifMQvQTB_BIRVDrsVdwln4s",
+        "name": "Fastfood Batha Food",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://www.facebook.com/Batha-Food-366829263840562/",
+        "owner": {
+            "id": null,
+            "name": "Fastfood Batha Food (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO_Dupjt9quKyjvkJ7P2NmubEKSKY0W6NwPH6Ig=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-15:30",
+        "closed_on": [],
+        "phone": null,
+        "address": "JJX5+G89 Fastfood Batha Food, Unnamed Road, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fastfood+Batha+Food/data=!4m7!3m6!1s0x12fcc104bd10f389:0x8b9f25dc55ec3a54!8m2!3d36.6487952!4d9.6083528!16s%2Fg%2F11gj71620h!19sChIJifMQvQTB_BIRVDrsVdwln4s?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3Y_EbYjH_BIRKpEHUWC8blY",
+        "name": "Serene",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Serene (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM95c_mW-rFN_6FfiNAX52MQXqQtcJB7l7I5YzG=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "MH4H+JQX Serene, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Serene/data=!4m7!3m6!1s0x12fcc7886dc48fdd:0x566ebc605107912a!8m2!3d36.6566205!4d9.579474!16s%2Fg%2F11hj1_xshs!19sChIJ3Y_EbYjH_BIRKpEHUWC8blY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJi3jlr2HB_BIRqHmuLo8KFY8",
+        "name": "mT`m lHj jbr Restaurant jaber",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mT`m lHj jbr Restaurant jaber (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant de grillades",
+        "categories": [
+            "Restaurant de grillades"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JJWH+9M7 mT`m lHj jbr Restaurant jaber, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D8%B7%D8%B9%D9%85+%D8%A7%D9%84%D8%AD%D8%A7%D8%AC+%D8%AC%D8%A7%D8%A8%D8%B1+Restaurant+jaber%E2%80%AD/data=!4m7!3m6!1s0x12fcc161afe5788b:0x8f150a8f2eae79a8!8m2!3d36.6459059!4d9.6291776!16s%2Fg%2F11t3c7dxdm!19sChIJi3jlr2HB_BIRqHmuLo8KFY8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJA2v_j1rB_BIRXm5xq1AJcLw",
+        "name": "Chappati Rchid",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Chappati Rchid (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "11:00-21:30",
+        "closed_on": [],
+        "phone": "40 888 523",
+        "address": "JJWG+729 Chappati Rchid, Medjez el Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Chappati+Rchid/data=!4m7!3m6!1s0x12fcc15a8fff6b03:0xbc700950ab716e5e!8m2!3d36.6456594!4d9.6251076!16s%2Fg%2F11fk1ds6m5!19sChIJA2v_j1rB_BIRXm5xq1AJcLw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-U6ClkjB_BIR2Kbz14hmFe0",
+        "name": "Cafe Fehri",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Fehri (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "05:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "JJW6+FFR Cafe Fehri, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Fehri/data=!4m7!3m6!1s0x12fcc14896824ef9:0xed156688d7f3a6d8!8m2!3d36.6462328!4d9.6111264!16s%2Fg%2F11r77hzs9v!19sChIJ-U6ClkjB_BIR2Kbz14hmFe0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJVQaTA5jB_BIRi5N-asmWApQ",
+        "name": "Cafe Nasri",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Nasri (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "24 129 058",
+        "address": "JJX7+9VF Cafe Nasri, Majaz Al Bab 9044",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Nasri/data=!4m7!3m6!1s0x12fcc19803930655:0x940296c96a7e938b!8m2!3d36.6484375!4d9.6146563!16s%2Fg%2F11hz19rj7x!19sChIJVQaTA5jB_BIRi5N-asmWApQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJKeAVF83G_BIRa3IjU8h6bOg",
+        "name": "Cafee Ezayatine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafee Ezayatine (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPxUTGz-G2t2V7a7kykok_mgG73ILAtbiP7yCZJ=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "23 914 430",
+        "address": "MJ33+F34 Cafee Ezayatine, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafee+Ezayatine/data=!4m7!3m6!1s0x12fcc6cd1715e029:0xe86c7ac85323726b!8m2!3d36.653635!4d9.6027133!16s%2Fg%2F11f107wjmn!19sChIJKeAVF83G_BIRa3IjU8h6bOg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJRWANajXB_BIRjL2FVcywSc8",
+        "name": "Cafe RAYEN",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe RAYEN (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM6pwDGZDrthZpO4febm-14noJIugt6Zbe7dk8S=w809-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "MJ26+6HM Cafe RAYEN, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+RAYEN/data=!4m7!3m6!1s0x12fcc1356a0d6045:0xcf49b0cc5585bd8c!8m2!3d36.6505877!4d9.6114314!16s%2Fg%2F11td9tvpzf!19sChIJRWANajXB_BIRjL2FVcywSc8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJX8D0SA7B_BIRf-QR4Am2kDg",
+        "name": "Cafe opera",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe opera (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNj91rtBP3gKzNgkLInIkrcm76oJvaOT7FeLwv0=w520-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JJWF+6VM Cafe opera, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+op%C3%A9ra/data=!4m7!3m6!1s0x12fcc10e48f4c05f:0x3890b609e011e47f!8m2!3d36.6455761!4d9.6246729!16s%2Fg%2F11rtrj0m9c!19sChIJX8D0SA7B_BIRf-QR4Am2kDg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJpTWxagnB_BIRxfceLl7p27Q",
+        "name": "Fast-food",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Fast-food (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant familial",
+        "categories": [
+            "Restaurant familial"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JJWG+729 Fast-food, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fast-food/data=!4m7!3m6!1s0x12fcc1096ab135a5:0xb4dbe95e2e1ef7c5!8m2!3d36.6456625!4d9.6251094!16s%2Fg%2F11rr8f9rj8!19sChIJpTWxagnB_BIRxfceLl7p27Q?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJD5jOuDrB_BIR8KJj9ELfLQw",
+        "name": "Intimo resto & pizza",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Intimo resto & pizza (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPB1N5lnClAtpHOZqw9jpUtJ-6CDKg4Vw1p6znz=w408-h408-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JJW6+6RP Intimo resto & pizza, Rue de palestine, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Intimo+resto+%26+pizza/data=!4m7!3m6!1s0x12fcc13ab8ce980f:0xc2ddf42f463a2f0!8m2!3d36.6455893!4d9.6120627!16s%2Fg%2F11k6rd0j10!19sChIJD5jOuDrB_BIR8KJj9ELfLQw?authuser=0&hl=fr&rclk=1"
+    }
+]

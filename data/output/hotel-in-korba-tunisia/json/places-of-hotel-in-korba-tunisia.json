@@ -1,0 +1,270 @@
+[
+    {
+        "place_id": "ChIJt4kIrrG7AhMRuQwQvirXZIY",
+        "name": "Africa Jade Thalasso Hotel Korba",
+        "description": "Logements simples dans complexe elegant en bord de plage avec piscine exterieure, 5 restaurants et 5 bars.",
+        "is_spending_on_ads": false,
+        "reviews": 837,
+        "website": "http://www.africajade.com/hotel-africajade/",
+        "owner": {
+            "id": null,
+            "name": "Africa Jade Thalasso Hotel Korba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEawVEQCGMTpKCzY9d5lReh_0k3uthKInfG1JGH6-RchBirShz8nU8woEEedLmsRBzW2mm_uE87xol0q9XFnhoHr3iUP065KhIHZuYueFfIjZ6DeobwU-ZKHubk6YRZUiHgmWXuXSbaMGRPpuKqQkhMtEsxdekqKsSOh-JutlFvAnxWvH05oSYL=w408-h254-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel",
+            "Complexe hotelier",
+            "Restaurant",
+            "Piscine",
+            "Centre de bien-etre"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 384 633",
+        "address": "HV55+XF7 Africa Jade Thalasso Hotel Korba, Avenue Habib Bourguiba, Korba 8070",
+        "review_keywords": [
+            {
+                "keyword": "plage",
+                "count": 133
+            },
+            {
+                "keyword": "all inclusive",
+                "count": 15
+            },
+            {
+                "keyword": "serveurs",
+                "count": 15
+            },
+            {
+                "keyword": "animation",
+                "count": 14
+            },
+            {
+                "keyword": "pizza",
+                "count": 14
+            },
+            {
+                "keyword": "massage",
+                "count": 11
+            },
+            {
+                "keyword": "buffet",
+                "count": 8
+            },
+            {
+                "keyword": "style",
+                "count": 7
+            },
+            {
+                "keyword": "calme",
+                "count": 6
+            },
+            {
+                "keyword": "qualite",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Africa+Jade+Thalasso+H%C3%B4tel+Korba/data=!4m10!3m9!1s0x1302bbb1ae0889b7:0x8664d72abe100cb9!5m2!4m1!1i2!8m2!3d36.5599231!4d10.858676!16s%2Fg%2F1tstmr5j!19sChIJt4kIrrG7AhMRuQwQvirXZIY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4W1RxJeYAhMRilJy2LBOCR4",
+        "name": "Dar R'Bat",
+        "description": "Maison d'hotes elegante dans un riad de 1890 proposant un hammam, une piscine exterieure et le petit-dejeuner.",
+        "is_spending_on_ads": false,
+        "reviews": 62,
+        "website": "http://www.darrbat.com/",
+        "owner": {
+            "id": "117665930447490265047",
+            "name": "Dar R'Bat (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117665930447490265047"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMEcw_0BsN8ecyeDYKbtfHzsfGJUVryWpW67Wai=w408-h611-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes",
+            "Chambre d'hotes",
+            "Hotel"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "28 310 610",
+        "address": "Dar R'Bat, 20 Rue Ibn Charaf, Nabeul 8000",
+        "review_keywords": [
+            {
+                "keyword": "piscine",
+                "count": 7
+            },
+            {
+                "keyword": "chambres",
+                "count": 6
+            },
+            {
+                "keyword": "gout",
+                "count": 4
+            },
+            {
+                "keyword": "patio",
+                "count": 3
+            },
+            {
+                "keyword": "souk",
+                "count": 3
+            },
+            {
+                "keyword": "paix",
+                "count": 3
+            },
+            {
+                "keyword": "proprete",
+                "count": 3
+            },
+            {
+                "keyword": "soir",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+R%27Bat/data=!4m10!3m9!1s0x13029897c4516de1:0x1e094eb0d872528a!5m2!4m1!1i2!8m2!3d36.4569777!4d10.7331473!16s%2Fg%2F11cn0zs7lf!19sChIJ4W1RxJeYAhMRilJy2LBOCR4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJWT9RHr6YAhMR-fcf_c0KTq4",
+        "name": "Dar Sabri",
+        "description": "Suites elegantes dans riad contemporain, hammam et toit-terrasse avec bassin.",
+        "is_spending_on_ads": false,
+        "reviews": 41,
+        "website": "http://www.dar-sabri.com/",
+        "owner": {
+            "id": "111475047957761478785",
+            "name": "Dar Sabri (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111475047957761478785"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFnjAoLYgGgoMuwxUN1Xv1NfB21QMeqmz9QawG_42k84rCUY6q-8TebqPNaek77UBIVeUJyxH-YsKwTU6cqHAYnWWUjbVPG4Jl2QxwDe-lVeJ6e1M5WByQZoUmOm94qd3JicWYu6Ae-3KO4DoR1jv6pbnjl3fvcLlUN4706UEjvNnaccNDLZqJ4uw=w408-h287-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel",
+            "Maison d'hotes"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 272 877",
+        "address": "Dar Sabri, Avenue 7 Impasse Farhat Hached, Nabeul 8000",
+        "review_keywords": [
+            {
+                "keyword": "coeur",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Sabri/data=!4m10!3m9!1s0x130298be1e513f59:0xae4e0acdfd1ff7f9!5m2!4m1!1i2!8m2!3d36.4547341!4d10.7364232!16s%2Fg%2F11xkb38fr!19sChIJWT9RHr6YAhMR-fcf_c0KTq4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJGf83rAq7AhMRZ6O-7PLefiY",
+        "name": "Maison d'hotes Dar louzir",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://www.booking.com/hotel/tn/dar-louzir.fr.html",
+        "owner": {
+            "id": "116773801254859570623",
+            "name": "Maison d'hotes Dar louzir (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/116773801254859570623"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPslXj-XUhpSwNtizoCeXeMyuE8XpuTHICM5lp3=w408-h543-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes",
+            "Vacances a la ferme",
+            "Location d'appartement de vacances",
+            "Maison de vacances",
+            "Hotel",
+            "Maison de vacances non-fumeurs",
+            "Agence de location de maisons de vacances",
+            "Villa"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "99 563 065",
+        "address": "Maison d'hotes Dar louzir, a cote du salle couverte, Nabeul, Tazarka 8024",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Maison+d%27h%C3%B4tes+Dar+louzir/data=!4m10!3m9!1s0x1302bb0aac37ff19:0x267edef2ecbea367!5m2!4m1!1i2!8m2!3d36.5468066!4d10.8232232!16s%2Fg%2F11vc2zypqb!19sChIJGf83rAq7AhMRZ6O-7PLefiY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8fBURDa6AhMR7Z-CNyMwlTM",
+        "name": "il Castello B&B",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "http://www.il-castello-bb-korba.vivehotels.com/",
+        "owner": {
+            "id": null,
+            "name": "il Castello B&B (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNaR7LG7tv-MP67nS5RK0JlCLKMx5Q3YI2Ldnld=w408-h306-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "55 408 558",
+        "address": "il Castello B&B, route kelibia km 2, Korba 8070",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/il+Castello+B%26B/data=!4m10!3m9!1s0x1302ba364454f0f1:0x3395302337829fed!5m2!4m1!1i2!8m2!3d36.6214747!4d10.8857765!16s%2Fg%2F11cs7gnszg!19sChIJ8fBURDa6AhMR7Z-CNyMwlTM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJYerAMKW9AhMR9HdnSnM4C78",
+        "name": "CASA FIRMA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "105270779985903604795",
+            "name": "CASA FIRMA (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105270779985903604795"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN5Aduv7FyNYhA8RsWNbLeU73tkY4tWudodFe4o=w408-h541-k-no",
+        "main_category": "Vacances a la ferme",
+        "categories": [
+            "Vacances a la ferme"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "50 792 037",
+        "address": "CASA FIRMA, Route Somaa, Tazarka 8024",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CASA+FIRMA/data=!4m10!3m9!1s0x1302bda530c0ea61:0xbf0b38734a6777f4!5m2!4m1!1i2!8m2!3d36.5437041!4d10.8158028!16s%2Fg%2F11lkkqd3h7!19sChIJYerAMKW9AhMR9HdnSnM4C78?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJjQJTPgm7AhMRPhRKpj0_EX4",
+        "name": "Residence Machmoucha",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Residence Machmoucha (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMGObtXt3CZmf-qOdbfBxkW0O4kqZfkCFHhikrV=w408-h306-k-no",
+        "main_category": "Hebergement d'interieur",
+        "categories": [
+            "Hebergement d'interieur"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "98 454 953",
+        "address": "HVF9+V2H Residence Machmoucha, Bd de l'Environnement, Korba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/R%C3%A9sidence+Machmoucha/data=!4m10!3m9!1s0x1302bb093e53028d:0x7e113f3da64a143e!5m2!4m1!1i2!8m2!3d36.5746997!4d10.8675996!16s%2Fg%2F11h4nkvx2f!19sChIJjQJTPgm7AhMRPhRKpj0_EX4?authuser=0&hl=fr&rclk=1"
+    }
+]

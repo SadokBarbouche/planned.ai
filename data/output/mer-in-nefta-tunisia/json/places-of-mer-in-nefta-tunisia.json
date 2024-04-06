@@ -1,0 +1,82 @@
+[
+    {
+        "place_id": "ChIJjWoZ8JmMVxIRxTA0HB61D6s",
+        "name": "Corbeille de Nefta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 174,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Corbeille de Nefta (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMPxBrBBZvV7gzOgOZGvZDNwc8cr220TLC9uJPF=w408-h306-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "VVHF+6Q8 Corbeille de Nefta, P3, Nefta",
+        "review_keywords": [
+            {
+                "keyword": "eau",
+                "count": 11
+            },
+            {
+                "keyword": "palmiers",
+                "count": 7
+            },
+            {
+                "keyword": "desert",
+                "count": 6
+            },
+            {
+                "keyword": "oasis",
+                "count": 5
+            },
+            {
+                "keyword": "irrigation",
+                "count": 4
+            },
+            {
+                "keyword": "cafe",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Corbeille+de+Nefta/data=!4m7!3m6!1s0x12578c99f0196a8d:0xab0fb51e1c3430c5!8m2!3d33.8780495!4d7.8744389!16s%2Fg%2F124yg6rxw!19sChIJjWoZ8JmMVxIRxTA0HB61D6s?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJBT4HRZCMVxIReiLPIMNcmxY",
+        "name": "La medina de Nefta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 68,
+        "website": null,
+        "owner": {
+            "id": "104661396608906095492",
+            "name": "La medina de Nefta (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/104661396608906095492"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7H2no3lDTTg4jpuGowfuUFeVZMoAyO2Li-VYd=w408-h306-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique"
+        ],
+        "rating": 4.2,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "La medina de Nefta, Unnamed Road, Naftah",
+        "review_keywords": [
+            {
+                "keyword": "portes",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/La+medina+de+Nefta/data=!4m7!3m6!1s0x12578c9045073e05:0x169b5cc320cf227a!8m2!3d33.8694242!4d7.8849425!16s%2Fg%2F11f3jk3n0s!19sChIJBT4HRZCMVxIReiLPIMNcmxY?authuser=0&hl=fr&rclk=1"
+    }
+]

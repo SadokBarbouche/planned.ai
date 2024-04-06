@@ -1,0 +1,809 @@
+[
+    {
+        "place_id": "ChIJF57g3A1J_RIRScL7-ccMC98",
+        "name": "Let's Waffle",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": "https://www.facebook.com/profile.php%3Fid%3D100090508456915",
+        "owner": {
+            "id": "101095645332684557153",
+            "name": "Let's Waffle (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101095645332684557153"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOo3eK19yn7A7mrz8rH95rhJXNpIsQjTcOy7fVl=w408-h544-k-no",
+        "main_category": "Magasin de the aux perles",
+        "categories": [
+            "Magasin de the aux perles",
+            "Boutique de desserts",
+            "Restaurant",
+            "Boutique de boissons sans alcool"
+        ],
+        "rating": 4.5,
+        "workday_timing": "10:00-21:30",
+        "closed_on": [
+            "mardi"
+        ],
+        "phone": "26 085 503",
+        "address": "Let's Waffle, 8 Av. Habib Bourguiba, Hammam-Lif 2050",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Let%27s+Waffle/data=!4m7!3m6!1s0x12fd490ddce09e17:0xdf0b0cc7f9fbc249!8m2!3d36.7319278!4d10.3366181!16s%2Fg%2F11txtf82ls!19sChIJF57g3A1J_RIRScL7-ccMC98?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJGdH0FTpJ_RIR3bvvnk78JRw",
+        "name": "Cafe Rossignol",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Rossignol (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPXdT0-6U3bTQYsahYly9f1Nmi5XQSIYrzsSuo=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "P8MP+8V2 Cafe Rossignol, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Rossignol/data=!4m7!3m6!1s0x12fd493a15f4d119:0x1c25fc4e9eefbbdd!8m2!3d36.7332514!4d10.337142!16s%2Fg%2F11dxdzynxw!19sChIJGdH0FTpJ_RIR3bvvnk78JRw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_UwLCN9O_RIRETtdC6SHjIg",
+        "name": "salon de the amazonia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "salon de the amazonia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMukXzCsCSMM_engAUQV8Y6OfKpD9WQbQ8UWTS7=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "07:35-15:15",
+        "closed_on": [],
+        "phone": null,
+        "address": "P999+2Q4 salon de the amazonia, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/salon+de+th%C3%A9+amazonia/data=!4m7!3m6!1s0x12fd4edf080b4cfd:0x888c87a40b5d3b11!8m2!3d36.7175022!4d10.3694668!16s%2Fg%2F11c310q31_!19sChIJ_UwLCN9O_RIRETtdC6SHjIg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8aHTQVBJ_RIRwlhgNSQ8Thg",
+        "name": "Cafe-Restaurant 59",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe-Restaurant 59 (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNjUn-zudkqgFgbNL-bXUr0JfyIbXmqaK1jp-Iv=w489-h240-k-no",
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "92 232 177",
+        "address": "P8PJ+X2W Cafe-Restaurant 59, Unnamed Road,, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9-Restaurant+59/data=!4m7!3m6!1s0x12fd495041d3a1f1:0x184e3c24356058c2!8m2!3d36.737485!4d10.3300641!16s%2Fg%2F11smnrxh8f!19sChIJ8aHTQVBJ_RIRwlhgNSQ8Thg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJaTDno7FP_RIRJlJ-6m10LHE",
+        "name": "Coco Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": "114944584028932767032",
+            "name": "Coco Coffee (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114944584028932767032"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOXcIIcwgLTX42c6tQ-OSVnXaHHcNhYZP75jmof=w408-h305-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "06:00-23:30",
+        "closed_on": [],
+        "phone": null,
+        "address": "Coco Coffee, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coco+Coffee/data=!4m7!3m6!1s0x12fd4fb1a3e73069:0x712c746dea7e5226!8m2!3d36.7212002!4d10.3678302!16s%2Fg%2F11gjs8ktn3!19sChIJaTDno7FP_RIRJlJ-6m10LHE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJSZCGgsRJ_RIRqRe9h4q-RjI",
+        "name": "The Lab Cofee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "The Lab Cofee (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:00-23:00",
+        "closed_on": [],
+        "phone": "58 753 651",
+        "address": "P8JP+RR4 The Lab Cofee, Rue Habib Bougatfa, Hammam-Lif 2050",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+Lab+Cofee/data=!4m7!3m6!1s0x12fd49c482869049:0x3246be8a87bd17a9!8m2!3d36.7320173!4d10.3370834!16s%2Fg%2F11h22jnw0q!19sChIJSZCGgsRJ_RIRqRe9h4q-RjI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJX1BK0VtJ_RIRZUgg8fWCFqA",
+        "name": "Cafe resto M59",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe resto M59 (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN8XBtfWHV3ClXPpdKc_xsQodBISnQNvl9bV-Mb=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "08:00-22:25",
+        "closed_on": [
+            "mardi"
+        ],
+        "phone": "97 445 322",
+        "address": "Cafe resto M59, 59 bchira ben mrad, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+resto+M59/data=!4m7!3m6!1s0x12fd495bd14a505f:0xa01682f5f1204865!8m2!3d36.7379929!4d10.3295175!16s%2Fg%2F11tcjpf431!19sChIJX1BK0VtJ_RIRZUgg8fWCFqA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJQ0-Wj2pJ_RIRdGBS1vgl7CU",
+        "name": "cafe brasilia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "https://www.facebook.com/Brasilia-coffee-101155535909236",
+        "owner": {
+            "id": "102021780977699731486",
+            "name": "cafe brasilia (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/102021780977699731486"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNNWEkIQ8QLfH-rwFrPJP7cZwmaJxKVDlyoYHsn=w408-h543-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "27 558 909",
+        "address": "cafe brasilia, cite casino, Hammam-Lif 2050",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+brasilia/data=!4m7!3m6!1s0x12fd496a8f964f43:0x25ec25f8d6526074!8m2!3d36.7331146!4d10.3368816!16s%2Fg%2F11qbxzytx7!19sChIJQ0-Wj2pJ_RIRdGBS1vgl7CU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4bJbwixJ_RIRYlb2SbhMwJg",
+        "name": "Cafe Chaabia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Chaabia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO9OIF845dalDwDkjNSDyqsosDgAsda4al08I8X=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "05:30-23:00",
+        "closed_on": [],
+        "phone": "25 641 601",
+        "address": "Cafe Chaabia, n15, Avenue Charles Nicolle, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A8+Chaabia/data=!4m7!3m6!1s0x12fd492cc25bb2e1:0x98c04cb849f65662!8m2!3d36.7245618!4d10.3484431!16s%2Fg%2F11dxrr7_g_!19sChIJ4bJbwixJ_RIRYlb2SbhMwJg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7WkN6CdP_RIRoQUEt0QI-T8",
+        "name": "Cafe Zina",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Zina (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "P986+2P8 Cafe Zina, P1, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Zina/data=!4m7!3m6!1s0x12fd4f27e80d69ed:0x3ff90844b70405a1!8m2!3d36.7150477!4d10.3618418!16s%2Fg%2F1tf3l3vr!19sChIJ7WkN6CdP_RIRoQUEt0QI-T8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9cpKvKhP_RIRW3EMYsheO5E",
+        "name": "Cafe Wifi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Wifi (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "P979+623 Cafe Wifi, Av. de la paix, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Wifi/data=!4m7!3m6!1s0x12fd4fa8bc4acaf5:0x913b5ec8620c715b!8m2!3d36.7130217!4d10.3675313!16s%2Fg%2F11k36xz37k!19sChIJ9cpKvKhP_RIRW3EMYsheO5E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJBXab9jBJ_RIRjGsi2NovECs",
+        "name": "La Cabane (Sardouk)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Cabane (Sardouk) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOFYAATJM3EpTqLCV6hyUDYO9oVBgEamlEcFSRC=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "P8QH+G6P La Cabane (Sardouk), Rue Saad Zaghloul, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+Cabane+%28Sardouk%29/data=!4m7!3m6!1s0x12fd4930f69b7605:0x2b102fdad8226b8c!8m2!3d36.7388324!4d10.3280664!16s%2Fg%2F11jx1x2rht!19sChIJBXab9jBJ_RIRjGsi2NovECs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJH8IFvNdJ_RIRiZJD1dpg6yk",
+        "name": "Hammam Linf",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hammam Linf (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMytQM92fPkZAsnACYEZzISdwjjzzBuSWFkfLf0=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "P8MP+7WP Hammam Linf, Rue Habib Bougatfa, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hammam+Linf/data=!4m7!3m6!1s0x12fd49d7bc05c21f:0x29eb60dad5439289!8m2!3d36.7319982!4d10.3371357!16s%2Fg%2F11h22k43cx!19sChIJH8IFvNdJ_RIRiZJD1dpg6yk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJt_ZpjMlJ_RIREJwqUyzZ-mM",
+        "name": "3 Bro's",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "3 Bro's (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM8q1orKjj3z8eqrXiPsnXMZWSs346fHPhqkEMR=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "3 Bro's, 6 Rue D' Alger, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/3+Bro%27s/data=!4m7!3m6!1s0x12fd49c98c69f6b7:0x63fad92c532a9c10!8m2!3d36.7305559!4d10.3367031!16s%2Fg%2F11j1_n7gp3!19sChIJt_ZpjMlJ_RIREJwqUyzZ-mM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJSdsNANlO_RIRPHWjfuwOGCo",
+        "name": "BiancoNero",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "https://www.facebook.com/Bianconero-1161385820673252/",
+        "owner": {
+            "id": null,
+            "name": "BiancoNero (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNgsaxqyca4zJ7O98aMLsmIaa8GC_kwytGlSsY8=w408-h408-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4.3,
+        "workday_timing": "14:00-22:00",
+        "closed_on": [],
+        "phone": "71 421 893",
+        "address": "BiancoNero, 2, Avenue de l'independance, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/BiancoNero/data=!4m7!3m6!1s0x12fd4ed9000ddb49:0x2a180eec7ea3753c!8m2!3d36.7187112!4d10.3638672!16s%2Fg%2F11f0_fns4t!19sChIJSdsNANlO_RIRPHWjfuwOGCo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdfAkTedJ_RIRimD-VnYo624",
+        "name": "Cafe Ludo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": "103119754389010319586",
+            "name": "Cafe Ludo (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103119754389010319586"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNCMxt5OvcC0PYwTXtP_MPDzWngwDIQxbSLEtAB=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "50 315 711",
+        "address": "Cafe Ludo, Rue Slaheddine Bouchoucha, Hammam-Lif 2050",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Ludo/data=!4m7!3m6!1s0x12fd49e74d24f075:0x6eeb287656fe608a!8m2!3d36.7297928!4d10.3375532!16s%2Fg%2F11g1kvm5jz!19sChIJdfAkTedJ_RIRimD-VnYo624?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJu-2X8vxJ_RIRHUxidPOhncM",
+        "name": "cafe mosaique",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe mosaique (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO2GFEzbbhteNr2tIb6sqznETGra0_W6KfXZl4=w474-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "P8JR+8G7 cafe mosaique, Rue Pasteur, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+mosaique/data=!4m7!3m6!1s0x12fd49fcf297edbb:0xc39da1f374624c1d!8m2!3d36.7307765!4d10.341288!16s%2Fg%2F11hjkqgh5l!19sChIJu-2X8vxJ_RIRHUxidPOhncM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqyVJbztJ_RIRU4KbKqLJ_dw",
+        "name": "Casa Italiana",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Casa Italiana (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPQlKWd8UHPeBIbhwwpuftZ3bNEDqJ6ZCxf3BGv=w408-h300-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": "55 940 854",
+        "address": "P8JM+CG6 Casa Italiana, Rue Antony, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Casa+Italiana/data=!4m7!3m6!1s0x12fd493b6f4925ab:0xdcfdc9a22a9b8253!8m2!3d36.7310462!4d10.3337655!16s%2Fg%2F11cr_ldnk8!19sChIJqyVJbztJ_RIRU4KbKqLJ_dw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJORbkUDpJ_RIRxM846k4oTOY",
+        "name": "Salon De The L'histoire",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Salon De The L'histoire (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMqlO0O_acsYUHqRPze-77hv684nFiW9fx_n8h7=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-23:00",
+        "closed_on": [],
+        "phone": "71 437 055",
+        "address": "P8JP+VG3 Salon De The L'histoire, Rue Habib Bougatfa, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Salon+De+The+L%27histoire/data=!4m7!3m6!1s0x12fd493a50e41639:0xe64c284eea38cfc4!8m2!3d36.7321435!4d10.3362909!16s%2Fg%2F11c57lbgtq!19sChIJORbkUDpJ_RIRxM846k4oTOY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ29dc6YRJ_RIROH9JjG7NkIo",
+        "name": "La Cafet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Cafet (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "P8HV+JG2 La Cafet, Mandes France, Hammam-Lif 2050",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+Caf%C3%A9t/data=!4m7!3m6!1s0x12fd4984e95cd7db:0x8a90cd6e8c497f38!8m2!3d36.7290128!4d10.3437693!16s%2Fg%2F11g__476t_!19sChIJ29dc6YRJ_RIROH9JjG7NkIo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJIQDO8eFJ_RIRyn34OA0zoRQ",
+        "name": "CAFE EL MAESTRO",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "CAFE EL MAESTRO (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMOb8zIXMUYJ5ao09C7IX0SdGR7Uw6lxT-yirLf=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "28 751 802",
+        "address": "CAFE EL MAESTRO, 03 Rue de la Republique, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CAFE+EL+MAESTRO/data=!4m7!3m6!1s0x12fd49e1f1ce0021:0x14a1330d38f87dca!8m2!3d36.7264435!4d10.338813!16s%2Fg%2F11kz78qc_h!19sChIJIQDO8eFJ_RIRyn34OA0zoRQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJo9sZ-yBP_RIRVLGCqcyCReM",
+        "name": "Cafe Mosaique",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Mosaique (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN0L6cRdbIO5jXPYr_V9IwKJbTyeDuOM474LWE=w408-h253-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "P979+8H6 Cafe Mosaique, P1, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Mosaique/data=!4m7!3m6!1s0x12fd4f20fb19dba3:0xe34582cca982b154!8m2!3d36.7132806!4d10.3688865!16s%2Fg%2F1tpb861d!19sChIJo9sZ-yBP_RIRVLGCqcyCReM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdePDpDtJ_RIR0OHXStfz-KU",
+        "name": "Cafe tunis",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe tunis (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "P8JM+XXC Cafe tunis, Rue de Tunis, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+tunis/data=!4m7!3m6!1s0x12fd493ba4c3e375:0xa5f8f3d74ad7e1d0!8m2!3d36.7324263!4d10.3348795!16s%2Fg%2F11g6b28tl3!19sChIJdePDpDtJ_RIR0OHXStfz-KU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJme6C-TpJ_RIRSU55WG9CrPU",
+        "name": "Cafe Bessaies",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Bessaies (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOWfBshFIgnrV5jXJjjMUmkr_plEWD1LA3C7KRg=w408-h724-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "P8JP+MH6 Cafe Bessaies, Militant Ali Chehimi, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Bessaies/data=!4m7!3m6!1s0x12fd493af982ee99:0xf5ac426f58794e49!8m2!3d36.7316671!4d10.3364023!16s%2Fg%2F11dyp1c0dw!19sChIJme6C-TpJ_RIRSU55WG9CrPU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJA06lKyFP_RIRFYN4kOHqKhk",
+        "name": "cafe du sport",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe du sport (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "06:30-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "P978+4PW cafe du sport, Av. de la paix, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+du+sport/data=!4m7!3m6!1s0x12fd4f212ba54e03:0x192aeae190788315!8m2!3d36.7128666!4d10.366842!16s%2Fg%2F11b6xhgc2_!19sChIJA06lKyFP_RIRFYN4kOHqKhk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJm603vxlJ_RIRuu1J3apQhrE",
+        "name": "Cafe hannibal",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe hannibal (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=uWoHPKXp_3Ll_fwh9nmz-A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=353.92123&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "04:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "P8GQ+J6C Cafe hannibal, RN1, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+hannibal/data=!4m7!3m6!1s0x12fd4919bf37ad9b:0xb18650aadd49edba!8m2!3d36.726557!4d10.3380305!16s%2Fg%2F11j4m29x2f!19sChIJm603vxlJ_RIRuu1J3apQhrE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7W78FIxJ_RIRf6WL7Mr4h9c",
+        "name": "Cafe skander",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe skander (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPdw-gnsHnIAhJlPnWq9PAabDiFD5-Ux0Mh92Fn=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "P8HJ+MGR Cafe skander, RN1, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+skander/data=!4m7!3m6!1s0x12fd498c14fc6eed:0xd787f8caec8ba57f!8m2!3d36.7292269!4d10.3312709!16s%2Fg%2F11k9kdwrhz!19sChIJ7W78FIxJ_RIRf6WL7Mr4h9c?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJm3uCr9lO_RIRKwRlAVl2aEY",
+        "name": "Salon De The Jribi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Salon De The Jribi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMoDiMy1mkGD0efnFhkmksVYW5lHbMR-70vDGSh=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Salon De The Jribi, 36 Av. de la liberte, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Salon+De+Th%C3%A9+Jribi/data=!4m7!3m6!1s0x12fd4ed9af827b9b:0x466876590165042b!8m2!3d36.7193488!4d10.3633121!16s%2Fg%2F11f15dym0z!19sChIJm3uCr9lO_RIRKwRlAVl2aEY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJSz9srdtJ_RIRWqX0m75U-dA",
+        "name": "Cafe perfetto",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe perfetto (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO5ocQzLeQ2c7rM3XsuwZRVhaID7yHYyzMCvHA=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "P8JP+FF6 Cafe perfetto, Av. Habib Bourguiba, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+perfetto/data=!4m7!3m6!1s0x12fd49dbad6c3f4b:0xd0f954be9bf4a55a!8m2!3d36.7311643!4d10.3361536!16s%2Fg%2F11v3rglfpk!19sChIJSz9srdtJ_RIRWqX0m75U-dA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZzqlrCZJ_RIRoxSdDMOuTGQ",
+        "name": "Biz-ART Coffee Club",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Biz-ART Coffee Club (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": "92 221 045",
+        "address": "P8JQ+4PM Biz-ART Coffee Club, Rue Salammbo, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Biz-ART+Coffee+Club/data=!4m7!3m6!1s0x12fd4926aca53a67:0x644caec30c9d14a3!8m2!3d36.7303424!4d10.3393!16s%2Fg%2F11h5w8pmf6!19sChIJZzqlrCZJ_RIRoxSdDMOuTGQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJL8msiFZP_RIRu4I2azWsX9w",
+        "name": "Cafe el Warda",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "103197230922983814737",
+            "name": "Cafe el Warda (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103197230922983814737"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM1nzKk5oBrrL4jpmv2VDTga8kugSm0ysObLM-X=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "94 104 009",
+        "address": "Cafe el Warda, 2 Av. de la liberte, Hammam-Lif 1164",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+el+Warda/data=!4m7!3m6!1s0x12fd4f5688acc92f:0xdc5fac356b3682bb!8m2!3d36.7212733!4d10.3590477!16s%2Fg%2F11vpy69x9v!19sChIJL8msiFZP_RIRu4I2azWsX9w?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJN5jxL1NJ_RIRy7VjxLDISx8",
+        "name": "Salon de The Aicha",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "116040916575416041628",
+            "name": "Salon de The Aicha (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/116040916575416041628"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMFkr0OFnHsRpLt6xxgr7URW_Ih8iODW9PEgG44=w427-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "05:30-00:00",
+        "closed_on": [],
+        "phone": "26 726 484",
+        "address": "Salon de The Aicha, 49 Rue D' Alger, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Salon+de+Th%C3%A9+Aicha/data=!4m7!3m6!1s0x12fd49532ff19837:0x1f4bc8b0c463b5cb!8m2!3d36.7299015!4d10.3379457!16s%2Fg%2F11rjv_fm57!19sChIJN5jxL1NJ_RIRy7VjxLDISx8?authuser=0&hl=fr&rclk=1"
+    }
+]

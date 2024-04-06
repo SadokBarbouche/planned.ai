@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": "ChIJYWCulld7-BIReZCbgsndo6s",
+        "name": "Thelja",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Thelja (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM-wOg4ou8v7hXJICTg5PfHxCaP-nHPlDmZ0Kk4=w426-h240-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "88PQ+X62 Thelja, Al-Mitlawi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Thelja/data=!4m7!3m6!1s0x12f87b5796ae6061:0xaba3ddc9829b9079!8m2!3d34.3373825!4d8.3380202!16s%2Fg%2F11pyv88cy0!19sChIJYWCulld7-BIReZCbgsndo6s?authuser=0&hl=fr&rclk=1"
+    }
+]

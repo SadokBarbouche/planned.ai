@@ -1,0 +1,102 @@
+[
+    {
+        "place_id": "ChIJ72iTPROYAhMR6-BWut0Kt3I",
+        "name": "Plage Beni khiar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 57,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO5sxbqmKuhHO4y3wncHboRBcdhLjAZnZ1Sk5VZ=w408-h306-k-no",
+        "main_category": "Plage",
+        "categories": [
+            "Plage"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Plage Beni khiar, Beni Khiar",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Plage+Beni+khiar/data=!4m7!3m6!1s0x130298133d9368ef:0x72b70addba56e0eb!8m2!3d36.451221!4d10.7785374!16s%2Fg%2F12hnfyj4w!19sChIJ72iTPROYAhMR6-BWut0Kt3I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2YwBHgOYAhMRZiWxayaoR4E",
+        "name": "Port de Beni Khiar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Port de Beni Khiar (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNBxwguZL5m1dFWKgEsj7AK0wS9uLRgiTRLVJ3z=w408-h306-k-no",
+        "main_category": "Port maritime",
+        "categories": [
+            "Port maritime"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Port de Beni Khiar, Beni Khiar",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Port+de+Beni+Khiar/data=!4m7!3m6!1s0x130298031e018cd9:0x8147a8266bb12566!8m2!3d36.4539605!4d10.797537!16s%2Fg%2F1v_sw73_!19sChIJ2YwBHgOYAhMRZiWxayaoR4E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJTb1xmzijAhMRXfQk0FNWyIc",
+        "name": "Gb@ lbndq",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gb@ lbndq (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPMKnO0p00pW9ZvIRsKMeR4_SYwFSlzXINk94L3=w426-h240-k-no",
+        "main_category": "Foret nationale",
+        "categories": [
+            "Foret nationale"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "GQM3+63 Gb@ lbndq, Somaa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%BA%D8%A7%D8%A8%D8%A9+%D8%A7%D9%84%D8%A8%D9%86%D8%AF%D9%82%E2%80%AD/data=!4m7!3m6!1s0x1302a3389b71bd4d:0x87c85653d024f45d!8m2!3d36.5330351!4d10.752656!16s%2Fg%2F11t1g7tp2c!19sChIJTb1xmzijAhMRXfQk0FNWyIc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJsbEt0jCZAhMREUVuBgL_dho",
+        "name": "Gb@ lbndq bny khyr",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gb@ lbndq bny khyr (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPZYOLCHjakPjuxta_3soLkxQRXV5BoHmQWfR3G=w408-h544-k-no",
+        "main_category": "Terrain de camping",
+        "categories": [
+            "Terrain de camping"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "FQ5M+R6W Gb@ lbndq bny khyr, Beni Khiar",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%BA%D8%A7%D8%A8%D8%A9+%D8%A7%D9%84%D8%A8%D9%86%D8%AF%D9%82+%D8%A8%D9%86%D9%8A+%D8%AE%D9%8A%D8%A7%D8%B1%E2%80%AD/data=!4m7!3m6!1s0x13029930d22db1b1:0x1a76ff02066e4511!8m2!3d36.4596214!4d10.7830826!16s%2Fg%2F11s6ghjj75!19sChIJsbEt0jCZAhMREUVuBgL_dho?authuser=0&hl=fr&rclk=1"
+    }
+]

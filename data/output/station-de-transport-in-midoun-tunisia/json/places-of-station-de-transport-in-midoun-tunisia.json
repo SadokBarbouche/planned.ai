@@ -1,0 +1,127 @@
+[
+    {
+        "place_id": "ChIJbd2HDtCXqhMR-0ytvzUbtik",
+        "name": "mHT@ Hflt mydwn",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 30,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mHT@ Hflt mydwn (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOp3cWlhQ5UKK0T9rGmzJeFjcSXX1asVgLN-2-v=w408-h305-k-no",
+        "main_category": "Societe de transport en bus et autocar",
+        "categories": [
+            "Societe de transport en bus et autocar"
+        ],
+        "rating": 3.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "RX4R+29X mHT@ Hflt mydwn, Djerba Midun",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D8%AD%D8%B7%D8%A9+%D8%AD%D8%A7%D9%81%D9%84%D8%A7%D8%AA+%D9%85%D9%8A%D8%AF%D9%88%D9%86%E2%80%AD/data=!4m7!3m6!1s0x13aa97d00e87dd6d:0x29b61b35bfad4cfb!8m2!3d33.8051139!4d10.9909871!16s%2Fg%2F11c0w3sbph!19sChIJbd2HDtCXqhMR-0ytvzUbtik?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJpUPacduXqhMRGczkdyW4z2Q",
+        "name": "Station Taxi Midoun",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Taxi Midoun (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=N_6y9Y_9N5PuL16HO5o_OQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=47.66151&pitch=0&thumbfov=100",
+        "main_category": "Station de taxis",
+        "categories": [
+            "Station de taxis"
+        ],
+        "rating": 3.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "58 907 656",
+        "address": "RX6Q+4WQ Station Taxi Midoun, Djerba Midun",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Taxi+Midoun/data=!4m7!3m6!1s0x13aa97db71da43a5:0x64cfb82577e4cc19!8m2!3d33.8103314!4d10.9898558!16s%2Fg%2F11c1rfd54z!19sChIJpUPacduXqhMRGczkdyW4z2Q?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJcUCJjRaXqhMRMYUcjtmUnjQ",
+        "name": "djerba transport midoun djm",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "http://www.jerba-transport.com/",
+        "owner": {
+            "id": null,
+            "name": "djerba transport midoun djm (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNJNOirbd6f2GTcrNeBAbBvMwZbPNJPC6SMuLgj=w408-h306-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "26 600 973",
+        "address": "RXCM+7JR djerba transport midoun djm, Unnamed Road, Djerba Midun",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/djerba+transport+midoun+djm/data=!4m7!3m6!1s0x13aa97168d894071:0x349e94d98e1c8531!8m2!3d33.8207342!4d10.9840305!16s%2Fg%2F11q8wwv3g2!19sChIJcUCJjRaXqhMRMYUcjtmUnjQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJCas4zKmXqhMRoCQuXsksemY",
+        "name": "Station louage midoun",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station louage midoun (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMbfu3rTNk1jqrTvzg1Kv2w1XK6B70pTF0ezSGv=w408-h725-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 2.7,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "56 561 619",
+        "address": "RX5R+WCF Station louage midoun, Djerba Midun",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+louage+midoun/data=!4m7!3m6!1s0x13aa97a9cc38ab09:0x667a2cc95e2e24a0!8m2!3d33.8103663!4d10.9905127!16s%2Fg%2F11tsdr02hn!19sChIJCas4zKmXqhMRoCQuXsksemY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJd7Y_9duXqhMRToSC5mPwiDo",
+        "name": "Station Service Djerba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://djerba--hotel.blogspot.com/p/taxi-rank.html",
+        "owner": {
+            "id": null,
+            "name": "Station Service Djerba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dq20QeGb1przC8X7teGUjA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=217.49377&pitch=0&thumbfov=100",
+        "main_category": "Service de chauffeur prive",
+        "categories": [
+            "Service de chauffeur prive"
+        ],
+        "rating": 3.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "RX6P+XF5 Station Service Djerba, Midoun, Djerba Midun",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Service+Djerba/data=!4m7!3m6!1s0x13aa97dbf53fb677:0x3a88f063e682844e!8m2!3d33.8123954!4d10.9862252!16s%2Fg%2F11d_z453tm!19sChIJd7Y_9duXqhMRToSC5mPwiDo?authuser=0&hl=fr&rclk=1"
+    }
+]

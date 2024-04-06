@@ -1,0 +1,224 @@
+[
+    {
+        "place_id": "ChIJUQD5AoZj_RIR_gJk79MLspA",
+        "name": "Carthage Land Hammamet",
+        "description": "Parc a theme sur la Carthage antique, grande variete de maneges et spectacles, et aire de jeux aquatique.",
+        "is_spending_on_ads": false,
+        "reviews": 4833,
+        "website": "https://www.carthageland.com/",
+        "owner": {
+            "id": "115401316530994464365",
+            "name": "Carthage Land Hammamet (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/115401316530994464365"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP_P47KXldCez5CXgZeyZm0u7Yedmwokm6IExun=w408-h306-k-no",
+        "main_category": "Parc d'attractions",
+        "categories": [
+            "Parc d'attractions",
+            "Attraction touristique"
+        ],
+        "rating": 4.1,
+        "workday_timing": "11:00-18:00",
+        "closed_on": [
+            "lundi",
+            "mardi",
+            "mercredi",
+            "jeudi",
+            "vendredi"
+        ],
+        "phone": "72 240 111",
+        "address": "Carthage Land Hammamet, Yasmine Hammamet",
+        "review_keywords": [
+            {
+                "keyword": "hotel",
+                "count": 37
+            },
+            {
+                "keyword": "animaux",
+                "count": 28
+            },
+            {
+                "keyword": "maneges",
+                "count": 21
+            },
+            {
+                "keyword": "aqualand",
+                "count": 18
+            },
+            {
+                "keyword": "dinar",
+                "count": 16
+            },
+            {
+                "keyword": "decor",
+                "count": 14
+            },
+            {
+                "keyword": "king kong",
+                "count": 11
+            },
+            {
+                "keyword": "cages",
+                "count": 9
+            },
+            {
+                "keyword": "souk",
+                "count": 7
+            },
+            {
+                "keyword": "marchandage",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Carthage+Land+Hammamet/data=!4m7!3m6!1s0x12fd638602f90051:0x90b20bd3ef6402fe!8m2!3d36.368982!4d10.5351043!16s%2Fm%2F0k5yyg0!19sChIJUQD5AoZj_RIR_gJk79MLspA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJB1EtdAJi_RIRPuhuJUDKHj0",
+        "name": "Fort Hammamet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 700,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Fort Hammamet (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPmunSdESdxeoARQ1UBCyuHDLmgBnB_DF1QI7Qr=w426-h240-k-no",
+        "main_category": "Lieu historique",
+        "categories": [
+            "Lieu historique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-19:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "9JV6+WW3 Fort Hammamet, Ave. de la Republique, Hammamet",
+        "review_keywords": [
+            {
+                "keyword": "mer",
+                "count": 27
+            },
+            {
+                "keyword": "coucher de soleil",
+                "count": 11
+            },
+            {
+                "keyword": "dinar",
+                "count": 10
+            },
+            {
+                "keyword": "cafes",
+                "count": 10
+            },
+            {
+                "keyword": "marchander",
+                "count": 6
+            },
+            {
+                "keyword": "bazar",
+                "count": 6
+            },
+            {
+                "keyword": "remparts",
+                "count": 6
+            },
+            {
+                "keyword": "souk",
+                "count": 6
+            },
+            {
+                "keyword": "souvenirs",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Fort+Hammamet/data=!4m7!3m6!1s0x12fd6202742d5107:0x3d1eca40256ee83e!8m2!3d36.3947632!4d10.6122995!16s%2Fg%2F11b7jwgmgd!19sChIJB1EtdAJi_RIRPuhuJUDKHj0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJJeF6WYZj_RIRwU8MSvJNtps",
+        "name": "Medina de Yasmine Hammamet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 609,
+        "website": "http://medina.com.tn/",
+        "owner": {
+            "id": null,
+            "name": "Medina de Yasmine Hammamet (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM0b6TqZWICByu3GdaVmLoADVPP0uCKaf-0YbaM=w408-h408-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4.1,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "9G8M+X85 Medina de Yasmine Hammamet, Yasmine Hammamet",
+        "review_keywords": [
+            {
+                "keyword": "vendeurs",
+                "count": 29
+            },
+            {
+                "keyword": "hotel",
+                "count": 20
+            },
+            {
+                "keyword": "marchander",
+                "count": 19
+            },
+            {
+                "keyword": "boutique",
+                "count": 13
+            },
+            {
+                "keyword": "commercants",
+                "count": 11
+            },
+            {
+                "keyword": "bazar",
+                "count": 8
+            },
+            {
+                "keyword": "bracelet",
+                "count": 5
+            },
+            {
+                "keyword": "agresse",
+                "count": 5
+            },
+            {
+                "keyword": "harcelement",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Medina+de+Yasmine+Hammamet/data=!4m7!3m6!1s0x12fd6386597ae125:0x9bb64df24a0c4fc1!8m2!3d36.3673967!4d10.5333659!16s%2Fg%2F11d_d0r9jd!19sChIJJeF6WYZj_RIRwU8MSvJNtps?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9wGJ8wFi_RIRdXnOTbMAvqE",
+        "name": "Cimetiere Chretien de Hammamet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cimetiere Chretien de Hammamet (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPPBkK8EyTuxQ_cgIDpkd-1olzjFZAtk2aiCMnb=w408-h306-k-no",
+        "main_category": "Cimetiere",
+        "categories": [
+            "Cimetiere"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "9JV7+9QR Cimetiere Chretien de Hammamet, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cimeti%C3%A8re+Chr%C3%A9tien+de+Hammamet/data=!4m7!3m6!1s0x12fd6201f38901f7:0xa1be00b34dce7975!8m2!3d36.3934807!4d10.6143892!16s%2Fg%2F11c71912lg!19sChIJ9wGJ8wFi_RIRdXnOTbMAvqE?authuser=0&hl=fr&rclk=1"
+    }
+]

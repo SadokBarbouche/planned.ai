@@ -1,0 +1,695 @@
+[
+    {
+        "place_id": "ChIJReo0krgzHRMRpfF1qDveo7U",
+        "name": "Workshop Bistro",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 47,
+        "website": null,
+        "owner": {
+            "id": "116904445155564549568",
+            "name": "Workshop Bistro (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/116904445155564549568"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPxTzmJnNE07QLFYUWDreSG2qi6o-TcY5LvCAaG=w408-h408-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-23:00",
+        "closed_on": [],
+        "phone": "46 227 400",
+        "address": "Workshop Bistro, Av. de l'environnement, Kelibia",
+        "review_keywords": [
+            {
+                "keyword": "serveur",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Workshop+Bistro/data=!4m7!3m6!1s0x131d33b89234ea45:0xb5a3de3ba875f1a5!8m2!3d36.8396227!4d11.1013993!16s%2Fg%2F11hcw2sbx3!19sChIJReo0krgzHRMRpfF1qDveo7U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-SuelNwzHRMRzBe7ilRJg_Q",
+        "name": "L'instant Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": null,
+        "owner": {
+            "id": "116666440729717518990",
+            "name": "L'instant Cafe (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/116666440729717518990"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOKOaSs833gprB2jC9w39VSYDn6dnWpP_UwORrI=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:00-19:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "L'instant Cafe, 8090 Av. de Martyrs, Kelibia",
+        "review_keywords": [
+            {
+                "keyword": "petit dejeuner",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/L%E2%80%99instant+Caf%C3%A9/data=!4m7!3m6!1s0x131d33dc949e2bf9:0xf48349548abb17cc!8m2!3d36.8372911!4d11.1101721!16s%2Fg%2F11n0cxpkgk!19sChIJ-SuelNwzHRMRzBe7ilRJg_Q?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJMXdHvWgzHRMRIe_OkhEA3nY",
+        "name": "Magnifique coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Magnifique coffee (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMUPOXGxsiMJPgdkLSzC7hyaK8Z0tGcgQxlx6xd=w533-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-01:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Magnifique coffee, Rue Clupea, Kelibia 8090",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Magnifique+coffee/data=!4m7!3m6!1s0x131d3368bd477731:0x76de001192ceef21!8m2!3d36.8394257!4d11.1124604!16s%2Fg%2F11t45568sm!19sChIJMXdHvWgzHRMRIe_OkhEA3nY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJp3g6pcEzHRMRB5HE8jnyTgU",
+        "name": "Dolce Vita Glace italienne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dolce Vita Glace italienne (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOnrV2hi8RoX5cODgF4gqGv3nIQdQ-54hEUdN5X=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Dolce Vita Glace italienne, 8090 Av. de Martyrs, Kelibia 8090",
+        "review_keywords": [
+            {
+                "keyword": "glaces",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dolce+Vita+Glace+italienne/data=!4m7!3m6!1s0x131d33c1a53a78a7:0x54ef239f2c49107!8m2!3d36.8446083!4d11.0959741!16s%2Fg%2F11c0tb21st!19sChIJp3g6pcEzHRMRB5HE8jnyTgU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJrfkLHOEzHRMRdH1udKXrXNE",
+        "name": "Coffee Shop Kelibia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Coffee Shop Kelibia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNnUK0NYTVxEOw3nHfBXHY0TnqkhELpUk03VcB7=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": "25 104 041",
+        "address": "V35R+P7R Coffee Shop Kelibia, Kelibia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+Shop+K%C3%A9libia/data=!4m7!3m6!1s0x131d33e11c0bf9ad:0xd15ceba5746e7d74!8m2!3d36.8593637!4d11.0906395!16s%2Fg%2F11hd7dh4f_!19sChIJrfkLHOEzHRMRdH1udKXrXNE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-wXxhLczHRMRfNtKBUK3rRU",
+        "name": "Cafe Charbabbou-Chez Jhonny",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Charbabbou-Chez Jhonny (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNPQ8geLUaNlvz7oC3m3M0JP3VYTZgx7P8fU4hM=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "20 854 555",
+        "address": "Cafe Charbabbou-Chez Jhonny, 8090 Rue Ennasim, Kelibia 8090",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Charbabbou-Chez+Jhonny/data=!4m7!3m6!1s0x131d33b784f105fb:0x15adb742054adb7c!8m2!3d36.8380011!4d11.1056885!16s%2Fg%2F11f3r0t10y!19sChIJ-wXxhLczHRMRfNtKBUK3rRU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJhw8DcPYzHRMRaZDkiEDOwsg",
+        "name": "Cafe El Kssar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe El Kssar (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNt0ezQAAdbAfSQROyI-djDsQCQP-6_RdFx13F6=w494-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.6,
+        "workday_timing": "05:30-00:00",
+        "closed_on": [],
+        "phone": "97 979 400",
+        "address": "R3RQ+WF8 Cafe El Kssar, Unnamed Road, Kelibia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+El+Kssar/data=!4m7!3m6!1s0x131d33f670030f87:0xc8c2ce4088e49069!8m2!3d36.8422986!4d11.0887184!16s%2Fg%2F11hdxcqxf2!19sChIJhw8DcPYzHRMRaZDkiEDOwsg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8xf6R9szHRMRnjN492ARJpw",
+        "name": "Salon de the Mallorca",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Salon de the Mallorca (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPVCAOuBQAH9UuOVTqYZKNuk-chH8t9KxfNJ9dP=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "93 767 881",
+        "address": "R3QX+53H Salon de the Mallorca, Av. de l'environnement, Kelibia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Salon+de+th%C3%A9+Mallorca/data=!4m7!3m6!1s0x131d33db47fa17f3:0x9c261160f778339e!8m2!3d36.8379255!4d11.097727!16s%2Fg%2F11h75tsnmn!19sChIJ8xf6R9szHRMRnjN492ARJpw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJg-0hd8MzHRMRd9SzL1lmW6s",
+        "name": "Cafe Aziz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Aziz (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMi6AXGnn1wtXiq-oT3NHpM14Wv-ztpz-Tjz-Cv=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-10:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "R3XX+JCR Cafe Aziz, Kelibia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Aziz/data=!4m7!3m6!1s0x131d33c37721ed83:0xab5b66592fb3d477!8m2!3d36.8491043!4d11.0985297!16s%2Fg%2F11c0qgrqt2!19sChIJg-0hd8MzHRMRd9SzL1lmW6s?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJAWBQZOgzHRMRqQcTYm0GQUU",
+        "name": "Cafe Farabi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Farabi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPkz6Z6qi0lFMT_eedmolbQJ9Zwd3ygZ9KznD-0=w431-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:30-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe Farabi, 103 C27, Kelibia 8090",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Farabi/data=!4m7!3m6!1s0x131d33e864506001:0x4541066d621307a9!8m2!3d36.8513955!4d11.091558!16s%2Fg%2F11c0t9s8fk!19sChIJAWBQZOgzHRMRqQcTYm0GQUU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4bTS_SwzHRMR75H4txwbOlw",
+        "name": "CAFE CORNICHE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "CAFE CORNICHE (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM8TW_bzcfhv28U8WiSqFrgNut4vuN8vJEoL6pk=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "24 074 279",
+        "address": "R3QX+66M CAFE CORNICHE, Av. de l'environnement, Kelibia 8090",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CAFE+CORNICHE/data=!4m7!3m6!1s0x131d332cfdd2b4e1:0x5c3a1b1cb7f891ef!8m2!3d36.8380836!4d11.0980436!16s%2Fg%2F11h3_f_xkx!19sChIJ4bTS_SwzHRMR75H4txwbOlw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJC1xWJbQzHRMRuhv8AbBMrHw",
+        "name": "El Barraka",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "El Barraka (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "R4P6+GHM El Barraka, Av. de Martyrs, Kelibia 8090",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/El+Barraka/data=!4m7!3m6!1s0x131d33b425565c0b:0x7cac4cb001fc1bba!8m2!3d36.8363348!4d11.1114235!16s%2Fg%2F11b75fwpsh!19sChIJC1xWJbQzHRMRuhv8AbBMrHw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9wUHD4wzHRMRSox_QvCC0mY",
+        "name": "El Garage 8090",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "El Garage 8090 (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOmAWP92FLe2ToMLUnYVuwF50A5HutKDOPeSc8T=w408-h356-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-21:00",
+        "closed_on": [],
+        "phone": "26 642 772",
+        "address": "R4V2+6PG El Garage 8090, Rue 1er Juin, Kelibia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/El+Garage+8090/data=!4m7!3m6!1s0x131d338c0f0705f7:0x66d282f0427f8c4a!8m2!3d36.8430536!4d11.1018164!16s%2Fg%2F11fk0mq6kk!19sChIJ9wUHD4wzHRMRSox_QvCC0mY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJC7RU57wzHRMRHrmUPTlTxw0",
+        "name": "Story coffee kelibia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": "115067148038335738918",
+            "name": "Story coffee kelibia (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/115067148038335738918"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN8C_mMbLgrfIOYnu59LRG2ScNz6Migcq8OmbmX=w408-h543-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "56 066 947",
+        "address": "Story coffee kelibia, 8090 Avenu Militant Abdelkader Dardouri, Kelibia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Story+coffee+k%C3%A9libia/data=!4m7!3m6!1s0x131d33bce754b40b:0xdc753393d94b91e!8m2!3d36.8469341!4d11.096714!16s%2Fg%2F11j9ktzyt_!19sChIJC7RU57wzHRMRHrmUPTlTxw0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ__IlCQYzHRMR-uhVRO3HICM",
+        "name": "Big Ben",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Big Ben (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP3_vObWqEXYNomHnuXPBNUvGHBn0_t6Iz0qQir=w408-h302-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "55 220 983",
+        "address": "R4R2+JWP Big Ben, Av. de Martyrs, Kelibia 8090",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Big+Ben/data=!4m7!3m6!1s0x131d33060925f2ff:0x2320c7ed4455e8fa!8m2!3d36.8415823!4d11.1023132!16s%2Fg%2F11gv281213!19sChIJ__IlCQYzHRMR-uhVRO3HICM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtxLp02MzHRMRPnU9H-Z4N9g",
+        "name": "Cafe Duplex ,Kelibia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Duplex ,Kelibia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP_gH02oguw4Eut6TRokRcA_fK50dz6GdSHzy9U=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe Duplex ,Kelibia, 58 Rue Taieb Sardouk, Kelibia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Dupl%C3%A9x+,K%C3%A9libia/data=!4m7!3m6!1s0x131d3363d3e912b7:0xd83778e61f3d753e!8m2!3d36.8465233!4d11.0885872!16s%2Fg%2F11pc1txvg8!19sChIJtxLp02MzHRMRPnU9H-Z4N9g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJOVBVCQAzHRMRVZH0LC7PCmU",
+        "name": "Hannibal coffee kelibia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hannibal coffee kelibia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNxWs4pLpP64sUanUcCndJ94PC7vw-fqSMNZyaz=w408-h544-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "97 644 227",
+        "address": "Hannibal coffee kelibia, 8090 Rue Ennasim, Kelibia 8090",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hannibal+coffee+kelibia/data=!4m7!3m6!1s0x131d330009555039:0x650acf2e2cf49155!8m2!3d36.838039!4d11.1064103!16s%2Fg%2F11vt0vtk17!19sChIJOVBVCQAzHRMRVZH0LC7PCmU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJV1VVVcEzHRMR-g3XRiZCqXU",
+        "name": "Cafe Chikh Hammouda",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": "112790144779988267346",
+            "name": "Cafe Chikh Hammouda (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/112790144779988267346"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPQrvsL2o9qEsXFY6ir1Gd7sD2z4XsRBYQCnuVn=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "04:00-22:00",
+        "closed_on": [],
+        "phone": "72 273 090",
+        "address": "Cafe Chikh Hammouda, 8090 ave Ali Belhouane, Kelibia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Chikh+Hammouda/data=!4m7!3m6!1s0x131d33c155555557:0x75a9422646d70dfa!8m2!3d36.8507925!4d11.0904035!16s%2Fg%2F11hcdwpzmp!19sChIJV1VVVcEzHRMR-g3XRiZCqXU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJda2cv8EzHRMRTwEJD_nlGiI",
+        "name": "Cafe Jeune",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Jeune (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOKB3mSo30cZIUeQ_lrHMK_rtt4gmnWee8cUI0x=w408-h271-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "R3WW+24W Cafe Jeune, Kelibia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Jeune/data=!4m7!3m6!1s0x131d33c1bf9cad75:0x221ae5f90f09014f!8m2!3d36.8451207!4d11.0953247!16s%2Fg%2F11dxdyh5_x!19sChIJda2cv8EzHRMRTwEJD_nlGiI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJJyRpZlYzHRMRvKNSNydQywY",
+        "name": "CAFE DALY",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "105833019627983580987",
+            "name": "CAFE DALY (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105833019627983580987"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO7BG1O1YXmO47CqmjPuundAZy7kOPE_RHg5hJf=w408-h272-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "CAFE DALY, C27, Kelibia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CAFE+DALY/data=!4m7!3m6!1s0x131d335666692427:0x6cb50273752a3bc!8m2!3d36.860596!4d11.0901127!16s%2Fg%2F11n5lbb6z6!19sChIJJyRpZlYzHRMRvKNSNydQywY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJBZJCdd8zHRMRGqMbeivQvf0",
+        "name": "Cafe Maestro",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Maestro (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOW6le2UItRT-LN0MaSLfdzkipbAlZmiuw9sezR=w453-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "R4Q2+VH9 Cafe Maestro, Kelibia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Maestro/data=!4m7!3m6!1s0x131d33df75429205:0xfdbdd02b7a1ba31a!8m2!3d36.839671!4d11.1014834!16s%2Fg%2F11v0v420cw!19sChIJBZJCdd8zHRMRGqMbeivQvf0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJS0Mg5Z8zHRMRQ-2gqWTgIm4",
+        "name": "Cafe'in",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe'in (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNaTyEgph4xCRsB1jq2b9yULaOosmCIXP0tc6oB=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "R3XX+G4Q Cafe'in, Kelibia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9%27in/data=!4m7!3m6!1s0x131d339fe520434b:0x6e22e064a9a0ed43!8m2!3d36.8486637!4d11.0979268!16s%2Fg%2F11sytz6fqg!19sChIJS0Mg5Z8zHRMRQ-2gqWTgIm4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ96XE0AAzHRMRN2dnwC6uYjg",
+        "name": "Coffee king kelibia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Coffee king kelibia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPMsAExfZ12JDdJm2SAzwg1is6_nwmCtOBlw1FG=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "20 280 170",
+        "address": "Coffee king kelibia, 8090 Av. de Martyrs, Kelibia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coffee+king+kelibia/data=!4m7!3m6!1s0x131d3300d0c4a5f7:0x3862ae2ec0676737!8m2!3d36.8475925!4d11.0918502!16s%2Fg%2F11m9gh5cll!19sChIJ96XE0AAzHRMRN2dnwC6uYjg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJIeT7g34zHRMRUp4zUVzvVSE",
+        "name": "Buvette el Mansoura",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "111436838909538389050",
+            "name": "Buvette el Mansoura (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111436838909538389050"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOF7oV32pBq3s_ioUo2yvCMzk_IaZz2WoJ_2O_1=w408-h883-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-00:00",
+        "closed_on": [],
+        "phone": "50 921 781",
+        "address": "Buvette el Mansoura, Mansoura plage, Kelibia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Buvette+el+Mansoura/data=!4m7!3m6!1s0x131d337e83fbe421:0x2155ef5c51339e52!8m2!3d36.8500065!4d11.1256833!16s%2Fg%2F11tcv4xjx6!19sChIJIeT7g34zHRMRUp4zUVzvVSE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ11hXncQzHRMRWTM7ZvHX9IA",
+        "name": "Cafe dar el chaaeb",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe dar el chaaeb (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNyHGgMWRpEkH5rEaLfmd8VnvSd-qKsXyfHGCRm=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:15-00:00",
+        "closed_on": [
+            "mercredi",
+            "samedi"
+        ],
+        "phone": null,
+        "address": "Cafe dar el chaaeb, 8090 shr` lshhyd Hmdy lGrby, Kelibia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+dar+el+chaaeb/data=!4m7!3m6!1s0x131d33c49d5758d7:0x80f4d7f1663b3359!8m2!3d36.8465707!4d11.0913434!16s%2Fg%2F11jpvrchd2!19sChIJ11hXncQzHRMRWTM7ZvHX9IA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJJ5E-ybMzHRMRoTUzFiJGQcA",
+        "name": "SOYASEP ZNAIDI KIOSQUE ET CAFE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "102618093223501953319",
+            "name": "SOYASEP ZNAIDI KIOSQUE ET CAFE (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/102618093223501953319"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO9mnuipCn4u5tV01rmcIEtee7ULsaywpNkvJco=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [],
+        "phone": "72 304 657",
+        "address": "SOYASEP ZNAIDI KIOSQUE ET CAFE, Kelibia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/SOYASEP+ZNAIDI+KIOSQUE+ET+CAFE/data=!4m7!3m6!1s0x131d33b3c93e9127:0xc0414622163335a1!8m2!3d36.832138!4d11.112027!16s%2Fg%2F12hk_mqpn!19sChIJJ5E-ybMzHRMRoTUzFiJGQcA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJQ1wI9-szHRMRWaDrK2wkdBQ",
+        "name": "Lounge Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Lounge Cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOvbL7FtV4P7-K_sbXDNGp51x8sIv60Kakq6a4-=w408-h408-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-14:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "R3WQ+H9M Lounge Cafe, Av. Habib-Bourguiba, Kelibia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lounge+Cafe/data=!4m7!3m6!1s0x131d33ebf7085c43:0x1474246c2beba059!8m2!3d36.8464596!4d11.0884181!16s%2Fg%2F11fy9xt127!19sChIJQ1wI9-szHRMRWaDrK2wkdBQ?authuser=0&hl=fr&rclk=1"
+    }
+]

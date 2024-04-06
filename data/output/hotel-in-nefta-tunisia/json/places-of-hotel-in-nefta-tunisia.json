@@ -1,0 +1,459 @@
+[
+    {
+        "place_id": "ChIJC_t_doHqVxIRBSdxoDs_X_g",
+        "name": "Hotel Ras El Ain Tozeur",
+        "description": "Hotel de luxe, restaurant de style decontracte, spa, salle de fitness, et piscines interieure et exterieure.",
+        "is_spending_on_ads": false,
+        "reviews": 1042,
+        "website": "https://www.goldenyasmin.com/",
+        "owner": {
+            "id": "105542293437372958323",
+            "name": "Hotel Ras El Ain Tozeur (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105542293437372958323"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHr9qOHJ9GkyDg-Yar8vmj3UJ6pmQH3-mYIdUUl1xmi15bORy48-HOE3OtHHLr76J8tGqNX68-hQZsfhFL-vGG9xgYzyz8loWgiK_179AY9bnFOQhBmOtSlgZZujttlInHt5SGPt8pfeNv0pgFWjmN-xi00RqyKkkLfUIK5majeX4AnYXeR3FmM=w426-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "76 452 003",
+        "address": "Hotel Ras El Ain Tozeur, Bp 141, Tozeur 2200",
+        "review_keywords": [
+            {
+                "keyword": "chambre",
+                "count": 69
+            },
+            {
+                "keyword": "buffet",
+                "count": 22
+            },
+            {
+                "keyword": "desert",
+                "count": 17
+            },
+            {
+                "keyword": "restauration",
+                "count": 13
+            },
+            {
+                "keyword": "excursion",
+                "count": 12
+            },
+            {
+                "keyword": "proprete",
+                "count": 11
+            },
+            {
+                "keyword": "equipe",
+                "count": 10
+            },
+            {
+                "keyword": "massage",
+                "count": 8
+            },
+            {
+                "keyword": "piscine couverte",
+                "count": 7
+            },
+            {
+                "keyword": "service",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+Ras+El+A%C3%AFn+Tozeur/data=!4m10!3m9!1s0x1257ea81767ffb0b:0xf85f3f3ba0712705!5m2!4m1!1i2!8m2!3d33.9129878!4d8.1174973!16s%2Fg%2F1tdjt4t4!19sChIJC_t_doHqVxIRBSdxoDs_X_g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3f____OHVhIRqL79-G_DNfY",
+        "name": "Sahara Douz",
+        "description": "Elegant hotel aux allures de chateau avec restaurant, bars, piscines interieure et exterieure, spa.",
+        "is_spending_on_ads": false,
+        "reviews": 951,
+        "website": "http://www.saharadouz.com/",
+        "owner": {
+            "id": null,
+            "name": "Sahara Douz (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEWniRiM7Jjk6xb9NylXlLGKDu8LhNlmako8SN3mDj6hq5XzEFffukyYw5h4F6jJdW2namUPIh-XdGrye6OeZ-oIUkulx2sLi-JryT_tH1z2l-n9YsySqstWwwYwJ5BADAycjTHkCEoZBmmfyIH-CYmlNeoQjzz1ZwK0k-5kbXeIB-wdSr1JoceZg=w408-h271-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 470 864",
+        "address": "Sahara Douz, Zone Touristique De Douz, Douz, 4260, 4260",
+        "review_keywords": [
+            {
+                "keyword": "piscine",
+                "count": 78
+            },
+            {
+                "keyword": "desert",
+                "count": 50
+            },
+            {
+                "keyword": "chambre",
+                "count": 32
+            },
+            {
+                "keyword": "buffet",
+                "count": 23
+            },
+            {
+                "keyword": "boissons",
+                "count": 14
+            },
+            {
+                "keyword": "bar",
+                "count": 14
+            },
+            {
+                "keyword": "excursion",
+                "count": 13
+            },
+            {
+                "keyword": "chicha",
+                "count": 10
+            },
+            {
+                "keyword": "oasis",
+                "count": 5
+            },
+            {
+                "keyword": "chameau",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sahara+Douz/data=!4m10!3m9!1s0x125687f3ffffffdd:0xf635c36ff8fdbea8!5m2!4m1!1i2!8m2!3d33.4353323!4d9.0200085!16s%2Fg%2F1pxxrv1m1!19sChIJ3f____OHVhIRqL79-G_DNfY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJTTF4AzTrVxIRKAzjuIX02pc",
+        "name": "Anantara Sahara Tozeur Resort & Villas",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 384,
+        "website": "https://www.anantara.com/sahara-tozeur%3Futm_source%3DGoogleMyBusiness%26utm_medium%3DGMB%26utm_term%3DTozeur%26utm_content%3DHome%26utm_campaign%3DGoogle_GMB",
+        "owner": {
+            "id": "106009733832937234221",
+            "name": "Anantara Sahara Tozeur Resort & Villas (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106009733832937234221"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNMv2Fq7YyUGK0BnjEYb-To_nDqW6teTUUCGvaA=w408-h272-k-no",
+        "main_category": "Complexe hotelier",
+        "categories": [
+            "Complexe hotelier"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "70 100 800",
+        "address": "Anantara Sahara Tozeur Resort & Villas, Mrah lahwar 2200, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "desert",
+                "count": 45
+            },
+            {
+                "keyword": "chambre",
+                "count": 38
+            },
+            {
+                "keyword": "vue",
+                "count": 11
+            },
+            {
+                "keyword": "souriant",
+                "count": 11
+            },
+            {
+                "keyword": "gentillesse",
+                "count": 10
+            },
+            {
+                "keyword": "architecture",
+                "count": 9
+            },
+            {
+                "keyword": "oasis",
+                "count": 7
+            },
+            {
+                "keyword": "concierge",
+                "count": 6
+            },
+            {
+                "keyword": "hotel de luxe",
+                "count": 5
+            },
+            {
+                "keyword": "menage",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Anantara+Sahara+Tozeur+Resort+%26+Villas/data=!4m10!3m9!1s0x1257eb340378314d:0x97daf485b8e30c28!5m2!4m1!1i2!8m2!3d33.8958125!4d8.0795625!16s%2Fg%2F11hzqy0dh4!19sChIJTTF4AzTrVxIRKAzjuIX02pc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJBy0ku4zqVxIRsAeBnvJtip8",
+        "name": "Residence l'Oued",
+        "description": "Hotel de style marocain avec restaurant a l'ambiance decontractee, piscine exterieure et chambres conviviales.",
+        "is_spending_on_ads": false,
+        "reviews": 162,
+        "website": "http://www.hotel-residence-loued-tozeur.vivehotels.com/",
+        "owner": {
+            "id": null,
+            "name": "Residence l'Oued (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEGwWmdxWB3pKWIupU0WElxkrshJp_MsoTQ8Rv1Tekzueyl5NVyYi7d5WDMRgp3L2NbxoiRAmthlB1Pq7LIEv7Nd0iXxRsSyiq4nQZsYYAft5mva-9x-BekFF6TjH6Q3JqHYiWAMPQnoL4EoOOQgzlXHKtHJNOwC_AJYl0YJMToS5zfATSQJYEm=w408-h408-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "76 463 036",
+        "address": "W47H+942 Residence l'Oued, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "piscine",
+                "count": 16
+            },
+            {
+                "keyword": "prix",
+                "count": 16
+            },
+            {
+                "keyword": "chambre",
+                "count": 12
+            },
+            {
+                "keyword": "nettoyage",
+                "count": 12
+            },
+            {
+                "keyword": "service",
+                "count": 5
+            },
+            {
+                "keyword": "monnaie",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/R%C3%A9sidence+l%E2%80%99Oued/data=!4m10!3m9!1s0x1257ea8cbb242d07:0x9f8a6df29e8107b0!5m2!4m1!1i2!8m2!3d33.913436!4d8.1277689!16s%2Fg%2F1tf8jrfw!19sChIJBy0ku4zqVxIRsAeBnvJtip8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJAcWcopaMVxIRMpeKvvl0yKQ",
+        "name": "Dar Hi Life",
+        "description": "Chambres et suites modernes au decor eclectique dans hotel eco-chic avec hammam et petit-dejeuner gratuit.",
+        "is_spending_on_ads": false,
+        "reviews": 86,
+        "website": "http://www.dar-hi.net/",
+        "owner": {
+            "id": "100530668687262081497",
+            "name": "Dar Hi Life (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100530668687262081497"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhG7YiFe91GbI_ZfOebrSmpNezeho0GtrCPljEMN_tOAdMtN46075LHYXj1MJwlEyxcgKJewTq8ELU9aQlZXkgCRadyeEVTnhy6yXR-Xc7GllrtaO0BPaiiPtgnCsMNccYcffQV6LY3MvxxbqZjtJCxfHvTQ8u-UoiqsTzONH87vf2MHUQgBYMPwDg=w408-h242-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "76 432 779",
+        "address": "VVGM+X2 Dar Hi Life, Quartier Ezaouia, Nefta",
+        "review_keywords": [
+            {
+                "keyword": "piscine",
+                "count": 18
+            },
+            {
+                "keyword": "architecture",
+                "count": 8
+            },
+            {
+                "keyword": "experience",
+                "count": 5
+            },
+            {
+                "keyword": "source",
+                "count": 3
+            },
+            {
+                "keyword": "hammam",
+                "count": 3
+            },
+            {
+                "keyword": "desert",
+                "count": 3
+            },
+            {
+                "keyword": "magique",
+                "count": 3
+            },
+            {
+                "keyword": "cuisine",
+                "count": 3
+            },
+            {
+                "keyword": "coucher de soleil",
+                "count": 3
+            },
+            {
+                "keyword": "spa",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Hi+Life/data=!4m10!3m9!1s0x12578c96a29cc501:0xa4c874f9be8a9732!5m2!4m1!1i2!8m2!3d33.8774375!4d7.8825625!16s%2Fg%2F1tlk3n5l!19sChIJAcWcopaMVxIRMpeKvvl0yKQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJOVGLS7C14hIRguF_dMNFQ8U",
+        "name": "LA MENARA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 41,
+        "website": "http://www.lamenara.tn/",
+        "owner": {
+            "id": "113361500000227367193",
+            "name": "LA MENARA (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113361500000227367193"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO1kfiG91wZVnrIMm6tP9fwmcayh10XoBeuX5YT=w408-h725-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "54 847 878",
+        "address": "LA MENARA, 2026 Rue Ali Ben Ayed, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "chambre",
+                "count": 5
+            },
+            {
+                "keyword": "piscine",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/LA+MENARA/data=!4m10!3m9!1s0x12e2b5b04b8b5139:0xc54345c3747fe182!5m2!4m1!1i2!8m2!3d36.8722516!4d10.3452926!16s%2Fg%2F11k4nyktz6!19sChIJOVGLS7C14hIRguF_dMNFQ8U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJLVHD7KOX-BIRCpn0YkrZovE",
+        "name": "dar seddik residence d artistes",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": "https://www.facebook.com/mounir.letaief.5",
+        "owner": {
+            "id": "101309453049517576921",
+            "name": "dar seddik residence d artistes (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101309453049517576921"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMO5ue0YAWCt7t9l5U3yaBSMKL6r_zdsEuynbLL=w408-h272-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "21 171 717",
+        "address": "dar seddik residence d artistes, oasis, Gafsa 2100",
+        "review_keywords": [
+            {
+                "keyword": "diner",
+                "count": 4
+            },
+            {
+                "keyword": "chambre",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/dar+seddik+residence+d+artistes/data=!4m10!3m9!1s0x12f897a3ecc3512d:0xf1a2d94a62f4990a!5m2!4m1!1i2!8m2!3d34.4150912!4d8.7793319!16s%2Fg%2F11pz30_5n_!19sChIJLVHD7KOX-BIRCpn0YkrZovE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuftFz3NK-RIR13QFVzpTX2Y",
+        "name": "Hotel de la Jeunesse",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hotel de la Jeunesse (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNv2h6scWy9lCcpH1gPBUZmmwl_e8avspgUnsWI=w408-h544-k-no",
+        "main_category": "Hostel",
+        "categories": [
+            "Hostel"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "77 466 528",
+        "address": "Hotel de la Jeunesse, 40 Av. Habib Bourguiba, Sbeitla",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hotel+de+la+Jeunesse/data=!4m10!3m9!1s0x12f94a73cf45fbb9:0x665f533a570574d7!5m2!4m1!1i2!8m2!3d35.2284444!4d9.1280053!16s%2Fg%2F11c5bdbxgt!19sChIJuftFz3NK-RIR13QFVzpTX2Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZzqhpaKMVxIR1scSTCq2e2A",
+        "name": "Villa Dar Zargouni",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Villa Dar Zargouni (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEYdh4eumbqmB0FxtjQ-t1mD_DibXt-UsqIXBmDqenfzDz8SdhhmincY0YewDAKc-ecj0TotlppThMG6axMwJbGewjTV1_Luf3q9ypnQSZWtP70oYo9wl0hhdRKdhdV7gyZVH5zbafz3OfSqarguiCDleKoFpHObKZ221fKTcsSm41nZztfEDE=w408-h271-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "98 621 920",
+        "address": "VVHJ+PW6 Villa Dar Zargouni, Route Sahara Palace, Naftah 2240",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Villa+Dar+Zargouni/data=!4m10!3m9!1s0x12578ca2a5a13a67:0x607bb62a4c12c7d6!5m2!4m1!1i2!8m2!3d33.8792834!4d7.8822619!16s%2Fg%2F1tqks4nx!19sChIJZzqhpaKMVxIR1scSTCq2e2A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJKbk3OYGNVxIRjAMugGnbonw",
+        "name": "Hotel Marhala",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hotel Marhala (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFXeU1VRIiU6VjeJlITqckL3CwJ3Z1M0kLzNzxjzkNi-KIMOCRchttquvzt6M6st-YnzEfJIDhiNpJrWTO55dU8-E3t0yotzHjl5Rn3Xcb-P1qw_dch410J43oJPfpJgJheRa6WkXWfmY6urugbjj-iyo7M2NFl9IquHvU6alXKy34L9jM7UjsO=w408-h271-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VV9F+F26 Hotel Marhala, Palmeraie de, Zone Touristique, Nefta 2240",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hotel+Marhala/data=!4m10!3m9!1s0x12578d813937b929:0x7ca2db69802e038c!5m2!4m1!1i2!8m2!3d33.8698539!4d7.8723953!16s%2Fg%2F11jzgynyjh!19sChIJKbk3OYGNVxIRjAMugGnbonw?authuser=0&hl=fr&rclk=1"
+    }
+]

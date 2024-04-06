@@ -1,0 +1,277 @@
+[
+    {
+        "place_id": "ChIJq8LY_SvWVBIR0YMPvgNKvm4",
+        "name": "SRT MEDENINE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": "https://srtm.tn/",
+        "owner": {
+            "id": "108764431275514356032",
+            "name": "SRT MEDENINE (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108764431275514356032"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMBgstiCT4WnTwYlIydf_cOgMzXgAq-I04JwxRg=w555-h240-k-no",
+        "main_category": "Societe de transport en bus et autocar",
+        "categories": [
+            "Societe de transport en bus et autocar"
+        ],
+        "rating": 3.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 640 070",
+        "address": "SRT MEDENINE, Avenue 18 janvier 1952, Medenine 4100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/SRT+MEDENINE/data=!4m7!3m6!1s0x1254d62bfdd8c2ab:0x6ebe4a03be0f83d1!8m2!3d33.3463449!4d10.4900434!16s%2Fg%2F11bzt3_qr7!19sChIJq8LY_SvWVBIR0YMPvgNKvm4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJj76LWSnWVBIRW2B5d4S-ixA",
+        "name": "Gare des louages de Medenine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare des louages de Medenine (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 3.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare des louages de Medenine, Medenine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+des+louages+de+Medenine/data=!4m7!3m6!1s0x1254d629598bbe8f:0x108bbe847779605b!8m2!3d33.3464316!4d10.4908903!16s%2Fg%2F11rrz584d!19sChIJj76LWSnWVBIRW2B5d4S-ixA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8TXSWCQoVRIRAeLZygTdzNo",
+        "name": "Gare routiere de Medenine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare routiere de Medenine (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO4mD4dquEPiK-g3zNUp70aM5-rsCYzzaqru7vM=w426-h240-k-no",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 2.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare routiere de Medenine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+routiere+de+M%C3%A9denine/data=!4m7!3m6!1s0x1255282458d235f1:0xdaccdd04cad9e201!8m2!3d33.3614399!4d10.4695308!16s%2Fg%2F11r8wxjh4!19sChIJ8TXSWCQoVRIRAeLZygTdzNo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-RtiLizWVBIRYZF4lRP_Cw8",
+        "name": "Louaj Mednine Tataouine Station",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Louaj Mednine Tataouine Station (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMgJtIhAk9sZx3iuFlE2QJqW_2OVvpjAhonLKcq=w408-h306-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "8FVP+6X8 Louaj Mednine Tataouine Station, Medenine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Louaj+Mednine+Tataouine+Station/data=!4m7!3m6!1s0x1254d62c2e621bf9:0xf0bff1395789161!8m2!3d33.3430404!4d10.4874393!16s%2Fg%2F11c2qvw_xx!19sChIJ-RtiLizWVBIRYZF4lRP_Cw8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJgzIMeh4pVRIR6OlOLz9Pqlo",
+        "name": "Station de louage et bus",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de louage et bus (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YNnw9CeL7bXIA3O5je9klQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=31.431213&pitch=0&thumbfov=100",
+        "main_category": "Guichet de gare",
+        "categories": [
+            "Guichet de gare"
+        ],
+        "rating": 2.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "9F69+9PV Station de louage et bus, Medenine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+louage+et+bus/data=!4m7!3m6!1s0x1255291e7a0c3283:0x5aaa4f3f2f4ee9e8!8m2!3d33.3605999!4d10.4687594!16s%2Fg%2F11rzq00g_r!19sChIJgzIMeh4pVRIR6OlOLz9Pqlo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuWdklCjWVBIRz6t52JZvlec",
+        "name": "mHT@ lnql lryfy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://djerba--hotel.blogspot.com/p/taxi-rank.html",
+        "owner": {
+            "id": null,
+            "name": "mHT@ lnql lryfy (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Station de taxis",
+        "categories": [
+            "Station de taxis"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "8FWV+WV3 mHT@ lnql lryfy, Medenine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D8%AD%D8%B7%D8%A9+%D8%A7%D9%84%D9%86%D9%82%D9%84+%D8%A7%D9%84%D8%B1%D9%8A%D9%81%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x1254d628946467b9:0xe7956f96d879abcf!8m2!3d33.3472506!4d10.4946648!16s%2Fg%2F11f3x6009z!19sChIJuWdklCjWVBIRz6t52JZvlec?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ16AWqi3WVBIRIS1mAkmPuf8",
+        "name": "Central Louage Station",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Central Louage Station (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "8FVQ+722 Central Louage Station, Medenine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Central+Louage+Station/data=!4m7!3m6!1s0x1254d62daa16a0d7:0xffb98f4902662d21!8m2!3d33.3431253!4d10.487504!16s%2Fg%2F11hbntz8l3!19sChIJ16AWqi3WVBIRIS1mAkmPuf8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJG5eW_yvWVBIRsb6cScAUiW4",
+        "name": "Medenine Centre",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Medenine Centre (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMdekdp1UB2GMxFxKELCDF2NKYbjDA5-u-7knIk=w408-h458-k-no",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Medenine Centre, Medenine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Medenine+Centre/data=!4m7!3m6!1s0x1254d62bff96971b:0x6e8914c0499cbeb1!8m2!3d33.34603!4d10.490132!16s%2Fg%2F11jg82j5yt!19sChIJG5eW_yvWVBIRsb6cScAUiW4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJMSOc_ivWVBIRXm7L-dSqpdo",
+        "name": "Gare Des Bus",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare Des Bus (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Societe de transport en bus et autocar",
+        "categories": [
+            "Societe de transport en bus et autocar"
+        ],
+        "rating": 3.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "8FWR+G2C Gare Des Bus, Medenine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+Des+Bus/data=!4m7!3m6!1s0x1254d62bfe9c2331:0xdaa5aad4f9cb6e5e!8m2!3d33.3463008!4d10.4900061!16s%2Fg%2F11c1nxv5yy!19sChIJMSOc_ivWVBIRXm7L-dSqpdo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ91um8CrWVBIRBdW4P2bS31E",
+        "name": "Station du Transport Rural Medenine Nord",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station du Transport Rural Medenine Nord (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "8FXP+VRJ Station du Transport Rural Medenine Nord, Medenine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+du+Transport+Rural+Medenine+Nord/data=!4m7!3m6!1s0x1254d62af0a65bf7:0x51dfd2663fb8d505!8m2!3d33.3497051!4d10.4870292!16s%2Fg%2F11cs0s0dy2!19sChIJ91um8CrWVBIRBdW4P2bS31E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4Te1ghvXVBIR8t2viB2XE38",
+        "name": "mHT@ llwj mdnyn",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mHT@ llwj mdnyn (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "8FWR+QG3 mHT@ llwj mdnyn, Medenine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D8%AD%D8%B7%D8%A9+%D8%A7%D9%84%D9%84%D9%88%D8%A7%D8%AC+%D9%85%D8%AF%D9%86%D9%8A%D9%86%E2%80%AD/data=!4m7!3m6!1s0x1254d71b82b537e1:0x7f13971d88afddf2!8m2!3d33.3468954!4d10.4912973!16s%2Fg%2F11vc2pszbn!19sChIJ4Te1ghvXVBIR8t2viB2XE38?authuser=0&hl=fr&rclk=1"
+    }
+]

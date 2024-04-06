@@ -1,0 +1,217 @@
+[
+    {
+        "place_id": "ChIJ07LikDPB_BIRTK5tMzoOYuc",
+        "name": "Hotel membrassa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hotel membrassa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPYERA7BC9sN5tCtXzItNbK-AAPkVc0xDFNKM_X=w408-h544-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "53 908 728",
+        "address": "JJX4+85J Hotel membrassa, Majaz Al Bab 9070",
+        "review_keywords": [
+            {
+                "keyword": "bieres",
+                "count": 3
+            },
+            {
+                "keyword": "touristes",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+membrassa/data=!4m7!3m6!1s0x12fcc13390e2b2d3:0xe7620e3a336dae4c!8m2!3d36.6483307!4d9.6053874!16s%2Fg%2F1tj2qkt3!19sChIJ07LikDPB_BIRTK5tMzoOYuc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJRXX0pknB_BIRpQlwNkpNCVo",
+        "name": "Queen Lounge",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": "https://www.facebook.com/queenlounge2020/",
+        "owner": {
+            "id": null,
+            "name": "Queen Lounge (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO5Uw9RHOlIJBBXsmOBf3wy-Z-YGHwrzSR3AROQ=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JJW9+G4M Queen Lounge, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Queen+Lounge/data=!4m7!3m6!1s0x12fcc149a6f47545:0x5a094d4a367009a5!8m2!3d36.6463258!4d9.6178031!16s%2Fg%2F11rc0__zqm!19sChIJRXX0pknB_BIRpQlwNkpNCVo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJoeE-fi7B_BIR3AkBTcsl9kI",
+        "name": "club medjez el beb",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "club medjez el beb (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOtN_A_4Ws2PGTyUKraXnCbpJ77jef_ZMVXh0ZS=w408-h306-k-no",
+        "main_category": "Terrain de sport",
+        "categories": [
+            "Terrain de sport"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "78 561 689",
+        "address": "JHWX+P6R club medjez el beb, P6, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/club+medjez+el+beb/data=!4m7!3m6!1s0x12fcc12e7e3ee1a1:0x42f625cb4d0109dc!8m2!3d36.6468501!4d9.5980275!16s%2Fg%2F1tdkzskk!19sChIJoeE-fi7B_BIR3AkBTcsl9kI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJR5PQsRvB_BIRyaOYTiPL1E4",
+        "name": "Sultana lounge",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "https://m.facebook.com/108546321627183/",
+        "owner": {
+            "id": null,
+            "name": "Sultana lounge (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP5ijQUnEI1NmRCa_0vA37U5zJmOYZWMXAIgoqH=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": "95 151 590",
+        "address": "JJWM+J5 Sultana lounge, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sultana+lounge/data=!4m7!3m6!1s0x12fcc11bb1d09347:0x4ed4cb234e98a3c9!8m2!3d36.6465764!4d9.6329133!16s%2Fg%2F11pz2wntml!19sChIJR5PQsRvB_BIRyaOYTiPL1E4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJc7xz0WfB_BIR0WJPwuSdn_I",
+        "name": "NOUBA HAPPY FOOD",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "NOUBA HAPPY FOOD (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPwhQiBk1cXUUs2Sw6m7r4_mzOCJySz1EFJKDwS=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "21 000 375",
+        "address": "MJ24+4Q7 NOUBA HAPPY FOOD, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/NOUBA+HAPPY+FOOD/data=!4m7!3m6!1s0x12fcc167d173bc73:0xf29f9de4c24f62d1!8m2!3d36.6502816!4d9.6069083!16s%2Fg%2F11qmbgvy69!19sChIJc7xz0WfB_BIR0WJPwuSdn_I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJLe9J9jXB_BIRuQJwJGlT-iA",
+        "name": "TopKapi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "TopKapi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP0lilZrQGaLhGuE3MZ5m8jC8moxunkhNeMV4QG=w408-h725-k-no",
+        "main_category": "Cafe et restaurant de grillades",
+        "categories": [
+            "Cafe et restaurant de grillades"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-23:00",
+        "closed_on": [],
+        "phone": "50 712 488",
+        "address": "JJW6+6RP TopKapi, Rue de palestine, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/TopKapi/data=!4m7!3m6!1s0x12fcc135f649ef2d:0x20fa5369247002b9!8m2!3d36.6455892!4d9.6120868!16s%2Fg%2F11f10g2l0d!19sChIJLe9J9jXB_BIRuQJwJGlT-iA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9WZNRc3B_BIRvkVzT1JHR7Q",
+        "name": "Medjez el Bab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Medjez el Bab (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Temple parsi",
+        "categories": [
+            "Temple parsi"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JJX8+282 Medjez el Bab, Rue Union du Grand Maghreb, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Medjez+el+Bab/data=!4m7!3m6!1s0x12fcc1cd454d66f5:0xb44747524f7345be!8m2!3d36.6475125!4d9.6157656!16s%2Fg%2F11t2tdh_73!19sChIJ9WZNRc3B_BIRvkVzT1JHR7Q?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJj_2IAQA1_RIRLDDF_jjWsvI",
+        "name": "EL BAAZZZ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "EL BAAZZZ (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": "21:00-05:00",
+        "closed_on": [
+            "lundi",
+            "mardi",
+            "mercredi",
+            "jeudi",
+            "vendredi"
+        ],
+        "phone": null,
+        "address": "R5WF+GXF EL BAAZZZ, Rue Mohamed Ikbal, Ariana",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/EL+BAAZZZ/data=!4m7!3m6!1s0x12fd35000188fd8f:0xf2b2d638fec5302c!8m2!3d36.8463142!4d10.1749284!16s%2Fg%2F11vylg73r9!19sChIJj_2IAQA1_RIRLDDF_jjWsvI?authuser=0&hl=fr&rclk=1"
+    }
+]

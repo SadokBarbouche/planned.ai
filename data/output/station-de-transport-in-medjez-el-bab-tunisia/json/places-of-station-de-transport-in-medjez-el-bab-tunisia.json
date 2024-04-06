@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJjblY0EfB_BIRyYmpS8qsXN0",
+        "name": "station medjez el beb",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "station medjez el beb (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "station medjez el beb, C28, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/station+medjez+el+beb/data=!4m7!3m6!1s0x12fcc147d058b98d:0xdd5cacca4ba989c9!8m2!3d36.6398256!4d9.6137828!16s%2Fg%2F1tdj6mlk!19sChIJjblY0EfB_BIRyYmpS8qsXN0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJAcmW2ZDB_BIR55k-4azZACI",
+        "name": "Louage station",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Louage station (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPuhN8r7Qu3imMs0koELPZuFMvjPtM9CQia73LB=w408-h295-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 5,
+        "workday_timing": "05:00-17:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "JJX4+88X Louage station, P5, Medjez el Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Louage+station/data=!4m7!3m6!1s0x12fcc190d996c901:0x2200d9ace13e99e7!8m2!3d36.6483627!4d9.6058468!16s%2Fg%2F11j4v0_c1k!19sChIJAcmW2ZDB_BIR55k-4azZACI?authuser=0&hl=fr&rclk=1"
+    }
+]

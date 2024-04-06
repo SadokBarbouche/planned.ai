@@ -1,0 +1,265 @@
+[
+    {
+        "place_id": "ChIJT34EFpja4hIR5g9mqT8MbhU",
+        "name": "Dar Utique",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 33,
+        "website": null,
+        "owner": {
+            "id": "117321831298734771955",
+            "name": "Dar Utique (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117321831298734771955"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNS2Pbt8Q2PonV1zkng_5sfeMM_Ck88tPvrF3ij=w426-h240-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes",
+            "Hotel"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "29 019 081",
+        "address": "Dar Utique, ruine 2063",
+        "review_keywords": [
+            {
+                "keyword": "chambres",
+                "count": 5
+            },
+            {
+                "keyword": "week-end",
+                "count": 4
+            },
+            {
+                "keyword": "piscine",
+                "count": 4
+            },
+            {
+                "keyword": "experience",
+                "count": 4
+            },
+            {
+                "keyword": "cheminee",
+                "count": 3
+            },
+            {
+                "keyword": "proprietaire",
+                "count": 3
+            },
+            {
+                "keyword": "jardin",
+                "count": 3
+            },
+            {
+                "keyword": "service",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Utique/data=!4m10!3m9!1s0x12e2da9816047e4f:0x156e0c3fa9660fe6!5m2!4m1!1i2!8m2!3d37.0502334!4d10.0569356!16s%2Fg%2F11f3ryv66l!19sChIJT34EFpja4hIR5g9mqT8MbhU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJb1pS8g47-xIR4EAZRbCDVbA",
+        "name": "Dar Monia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 28,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar Monia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMtZw_yaozBPnjS8S8YcgZWE2LsNs46r7Dkqw0=w408-h271-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "93 801 995",
+        "address": "Dar Monia, Ain Draham",
+        "review_keywords": [
+            {
+                "keyword": "nature",
+                "count": 5
+            },
+            {
+                "keyword": "equipe",
+                "count": 4
+            },
+            {
+                "keyword": "succulents",
+                "count": 3
+            },
+            {
+                "keyword": "foret",
+                "count": 3
+            },
+            {
+                "keyword": "repas",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Monia/data=!4m10!3m9!1s0x12fb3b0ef2525a6f:0xb05583b0451940e0!5m2!4m1!1i2!8m2!3d36.7380417!4d8.6788995!16s%2Fg%2F11p5n8d741!19sChIJb1pS8g47-xIR4EAZRbCDVbA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJy1Bras0d4xIRwDikmzX4VRs",
+        "name": "Dar Salama",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar Salama (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFFR7zklbjMycNWJwmTfxh5cCueralFkCabOgYQNclMPgkZRs-j4CQik2rzpAWg1UAvoT6gj8jOCvcHcpQLJz0zYOevoOhDIDavXoXygpMplcvVX4S979JBkXMS8tFGfBL9qHAenBW4ICMwgERq449kya9d4MkLCH6WWQCWSTJ9YGmxET4NUt-E_w=w408-h306-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "27 063 707",
+        "address": "Dar Salama, Route Panoramique De La Corniche Bizerte TN 7000, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Salama/data=!4m10!3m9!1s0x12e31dcd6a6b50cb:0x1b55f8359ba438c0!5m2!4m1!1i2!8m2!3d37.3235829!4d9.8587484!16s%2Fg%2F11c1xqg7yz!19sChIJy1Bras0d4xIRwDikmzX4VRs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJP9me8_Wl-xIR0dF5Y-yY0rc",
+        "name": "Maison d'hote Casa Zitouna Kef, TN",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "website": "http://www.facebook.com/CasaZitounaKef",
+        "owner": {
+            "id": "113724508951193675356",
+            "name": "Maison d'hote Casa Zitouna Kef, TN (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113724508951193675356"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM8R3qqT652aGwDeZeGRiLdHIWyiy1B0g4ZVpNn=w408-h271-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "54 461 577",
+        "address": "Maison d'hote Casa Zitouna Kef, TN, Cite Zitouna",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Maison+d%27h%C3%B4te+Casa+Zitouna+Kef,+TN/data=!4m10!3m9!1s0x12fba5f5f39ed93f:0xb7d298ec6379d1d1!5m2!4m1!1i2!8m2!3d36.1825655!4d8.7055864!16s%2Fg%2F11fst80kdx!19sChIJP9me8_Wl-xIR0dF5Y-yY0rc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJr-7_yEUe4xIRz5bRNprYeBo",
+        "name": "Dar El Kasba Bizerte",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "website": "https://www.hotelstunisian.com/dar-el-kasba-bizerte/",
+        "owner": {
+            "id": "111752028785945492445",
+            "name": "Dar El Kasba Bizerte (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111752028785945492445"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTfY7rvq6B5ZPjTz22Uflkwz3znhUybYVZR4zx=w408-h506-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel",
+            "Chambre d'hotes"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "23 311 219",
+        "address": "Dar El Kasba Bizerte, Bizerte",
+        "review_keywords": [
+            {
+                "keyword": "chambre",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+El+Kasba+Bizerte/data=!4m10!3m9!1s0x12e31e45c8ffeeaf:0x1a78d89a36d196cf!5m2!4m1!1i2!8m2!3d37.2791898!4d9.8758447!16s%2Fg%2F11dxqld_41!19sChIJr-7_yEUe4xIRz5bRNprYeBo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJN0vv7gS3VBIReCWFOn28W_g",
+        "name": "Dar essadeg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://www.booking.com/hotel/tn/dar-essadeg-tataouine12.fr.html%3Faid%3D376366%26label%3Dfr-51aYADzKCvHZ21Orv3nXsASM193330406601:pl:ta:p1:p22.563.000:ac:ap:neg:fi:tikwd-65526620:lp9075940:li:dem:dm:ppccp%3DUmFuZG9tSVYkc2RlIyh9Ye7BFAsTyVd6vvamF_no64o%26sid%3Df5220773e9ac84bf3977577177c6ecd0%26all_sr_blocks%3D831527901_348345905_2_0_0%3Bcheckin%3D2022-06-21%3Bcheckout%3D2022-06-22%3Bdest_id%3D-731465%3Bdest_type%3Dcity%3Bdist%3D0%3Bgroup_adults%3D2%3Bgroup_children%3D0%3Bhapos%3D2%3Bhighlighted_blocks%3D831527901_348345905_2_0_0%3Bhpos%3D2%3Bmatching_block_id%3D831527901_348345905_2_0_0%3Bno_rooms%3D1%3Breq_adults%3D2%3Breq_children%3D0%3Broom1%3DA,A%3Bsb_price_type%3Dtotal%3Bsr_order%3Dpopularity%3Bsr_pri_blocks%3D831527901_348345905_2_0_0__3000%3Bsrepoch%3D1655398898%3Bsrpvid%3D7c9f78185d370021%3Btype%3Dtotal%3Bucfs%3D1%26",
+        "owner": {
+            "id": "101778497337234972921",
+            "name": "Dar essadeg (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101778497337234972921"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMyatQp-OlT3TVDujR_DuU4qtdbTJbvYVMFnO8D=w408-h306-k-no",
+        "main_category": "Lodge",
+        "categories": [
+            "Lodge",
+            "Hebergement de groupe"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "97 284 185",
+        "address": "Dar essadeg, P19, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+essadeg/data=!4m10!3m9!1s0x1254b704eeef4b37:0xf85bbc7d3a852578!5m2!4m1!1i2!8m2!3d32.9251725!4d10.4409536!16s%2Fg%2F11j0r4k5ky!19sChIJN0vv7gS3VBIReCWFOn28W_g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJFQ74J0ke4xIRV6N9sVpF8Ig",
+        "name": "dar sandra",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "dar sandra (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPr7jmsxTYXjtdh0DZD57y4LKOK_4Vh5fh-LRc_=w408-h272-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "99 666 888",
+        "address": "7VHG+G85 dar sandra, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/dar+sandra/data=!4m10!3m9!1s0x12e31e4927f80e15:0x88f0455ab17da357!5m2!4m1!1i2!8m2!3d37.2787539!4d9.8758623!16s%2Fg%2F11fcnzk_4z!19sChIJFQ74J0ke4xIRV6N9sVpF8Ig?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJM3UX9yO3VBIRwhtzPqfusDE",
+        "name": "Tataouineranch",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://destinationdahar.com/places/tataouine-les-bains/",
+        "owner": {
+            "id": "110334790113768333986",
+            "name": "Tataouineranch (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/110334790113768333986"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPjF_IFFnNRjrM-41vCIuv9Bv5cUHAEtXXqgL2s=w408-h271-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes",
+            "Chambre d'hotes"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "WFW9+737 Tataouineranch, Tataouine 3234",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Tataouineranch/data=!4m10!3m9!1s0x1254b723f7177533:0x31b0eea73e731bc2!5m2!4m1!1i2!8m2!3d32.9456066!4d10.4677177!16s%2Fg%2F11st70yl65!19sChIJM3UX9yO3VBIRwhtzPqfusDE?authuser=0&hl=fr&rclk=1"
+    }
+]

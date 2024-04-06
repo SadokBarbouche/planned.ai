@@ -1,0 +1,262 @@
+[
+    {
+        "place_id": "ChIJC_t_doHqVxIRBSdxoDs_X_g",
+        "name": "Hotel Ras El Ain Tozeur",
+        "description": "Hotel de luxe, restaurant de style decontracte, spa, salle de fitness, et piscines interieure et exterieure.",
+        "is_spending_on_ads": false,
+        "reviews": 1042,
+        "website": "https://www.goldenyasmin.com/",
+        "owner": {
+            "id": "105542293437372958323",
+            "name": "Hotel Ras El Ain Tozeur (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105542293437372958323"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHr9qOHJ9GkyDg-Yar8vmj3UJ6pmQH3-mYIdUUl1xmi15bORy48-HOE3OtHHLr76J8tGqNX68-hQZsfhFL-vGG9xgYzyz8loWgiK_179AY9bnFOQhBmOtSlgZZujttlInHt5SGPt8pfeNv0pgFWjmN-xi00RqyKkkLfUIK5majeX4AnYXeR3FmM=w426-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "76 452 003",
+        "address": "Hotel Ras El Ain Tozeur, Bp 141, Tozeur 2200",
+        "review_keywords": [
+            {
+                "keyword": "chambre",
+                "count": 69
+            },
+            {
+                "keyword": "buffet",
+                "count": 22
+            },
+            {
+                "keyword": "desert",
+                "count": 17
+            },
+            {
+                "keyword": "restauration",
+                "count": 13
+            },
+            {
+                "keyword": "excursion",
+                "count": 12
+            },
+            {
+                "keyword": "proprete",
+                "count": 11
+            },
+            {
+                "keyword": "equipe",
+                "count": 10
+            },
+            {
+                "keyword": "massage",
+                "count": 8
+            },
+            {
+                "keyword": "piscine couverte",
+                "count": 7
+            },
+            {
+                "keyword": "service",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+Ras+El+A%C3%AFn+Tozeur/data=!4m10!3m9!1s0x1257ea81767ffb0b:0xf85f3f3ba0712705!5m2!4m1!1i2!8m2!3d33.9129878!4d8.1174973!16s%2Fg%2F1tdjt4t4!19sChIJC_t_doHqVxIRBSdxoDs_X_g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJzUIG-Eik-xIRAO8kqPJDAAw",
+        "name": "Maison d'Hotes Dar Boumakhlouf, style d architecture mauresque, 3chambres decorees d artisanat locale, table d hotes dans la pure tradition culinaire keffoise et Tunisienne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 51,
+        "website": null,
+        "owner": {
+            "id": "104541665406280363369",
+            "name": "Maison d'Hotes Dar Boumakhlouf, style d architecture mauresque, 3chambres decorees d artisanat locale, table d hotes dans la pure tradition culinaire keffoise et Tunisienne (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/104541665406280363369"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMleaHXHGTQxSkQL2MLXUwHyZvM7grmsAO22jmC=w408-h305-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes",
+            "Hotel"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "20 447 116",
+        "address": "Maison d'Hotes Dar Boumakhlouf, style d architecture mauresque, 3chambres decorees d artisanat locale, table d hotes dans la pure tradition culinaire keffoise et Tunisienne, Becha, 13 Rue Kheireddine, Le Kef 7100",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Maison+d%27H%C3%B4tes+Dar+Boumakhlouf,+style+d+architecture+mauresque,+3chambres+d%C3%A9cor%C3%A9es+d+artisanat+locale,+table+d+h%C3%B4tes+dans+la+pure+tradition+culinaire+keffoise+et+Tunisienne/data=!4m10!3m9!1s0x12fba448f80642cd:0xc0043f2a824ef00!5m2!4m1!1i2!8m2!3d36.1811015!4d8.7130363!16s%2Fg%2F119wstd5s!19sChIJzUIG-Eik-xIRAO8kqPJDAAw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJD1Y37Vy3VBIRcBBOq4Q3TLA",
+        "name": "Auberge Alferdaous",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 49,
+        "website": "https://www.hotelstunisian.com/auberge-alferdaous/",
+        "owner": {
+            "id": null,
+            "name": "Auberge Alferdaous (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPWIinOxmCbpNcXYKpq8fMcPSDYhRcaW3SloCoD=w408-h306-k-no",
+        "main_category": "Hostel",
+        "categories": [
+            "Hostel"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "90 031 690",
+        "address": "Auberge Alferdaous, 44 Av. habib bourguiba, Tataouine 3200",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 9
+            },
+            {
+                "keyword": "cuisine",
+                "count": 6
+            },
+            {
+                "keyword": "centre ville",
+                "count": 4
+            },
+            {
+                "keyword": "droit de propriete",
+                "count": 4
+            },
+            {
+                "keyword": "payer",
+                "count": 3
+            },
+            {
+                "keyword": "dinar",
+                "count": 3
+            },
+            {
+                "keyword": "wifi",
+                "count": 3
+            },
+            {
+                "keyword": "douche",
+                "count": 3
+            },
+            {
+                "keyword": "pain",
+                "count": 3
+            },
+            {
+                "keyword": "climatisation",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Auberge+Alferdaous/data=!4m10!3m9!1s0x1254b75ced37560f:0xb04c3784ab4e1070!5m2!4m1!1i2!8m2!3d32.9282678!4d10.4488963!16s%2Fg%2F11h11kzbv6!19sChIJD1Y37Vy3VBIRcBBOq4Q3TLA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJP9me8_Wl-xIR0dF5Y-yY0rc",
+        "name": "Maison d'hote Casa Zitouna Kef, TN",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "website": "http://www.facebook.com/CasaZitounaKef",
+        "owner": {
+            "id": "113724508951193675356",
+            "name": "Maison d'hote Casa Zitouna Kef, TN (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113724508951193675356"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM8R3qqT652aGwDeZeGRiLdHIWyiy1B0g4ZVpNn=w408-h271-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "54 461 577",
+        "address": "Maison d'hote Casa Zitouna Kef, TN, Cite Zitouna",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Maison+d%27h%C3%B4te+Casa+Zitouna+Kef,+TN/data=!4m10!3m9!1s0x12fba5f5f39ed93f:0xb7d298ec6379d1d1!5m2!4m1!1i2!8m2!3d36.1825655!4d8.7055864!16s%2Fg%2F11fst80kdx!19sChIJP9me8_Wl-xIR0dF5Y-yY0rc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJN0vv7gS3VBIReCWFOn28W_g",
+        "name": "Dar essadeg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://www.booking.com/hotel/tn/dar-essadeg-tataouine12.fr.html%3Faid%3D376366%26label%3Dfr-51aYADzKCvHZ21Orv3nXsASM193330406601:pl:ta:p1:p22.563.000:ac:ap:neg:fi:tikwd-65526620:lp9075940:li:dem:dm:ppccp%3DUmFuZG9tSVYkc2RlIyh9Ye7BFAsTyVd6vvamF_no64o%26sid%3Df5220773e9ac84bf3977577177c6ecd0%26all_sr_blocks%3D831527901_348345905_2_0_0%3Bcheckin%3D2022-06-21%3Bcheckout%3D2022-06-22%3Bdest_id%3D-731465%3Bdest_type%3Dcity%3Bdist%3D0%3Bgroup_adults%3D2%3Bgroup_children%3D0%3Bhapos%3D2%3Bhighlighted_blocks%3D831527901_348345905_2_0_0%3Bhpos%3D2%3Bmatching_block_id%3D831527901_348345905_2_0_0%3Bno_rooms%3D1%3Breq_adults%3D2%3Breq_children%3D0%3Broom1%3DA,A%3Bsb_price_type%3Dtotal%3Bsr_order%3Dpopularity%3Bsr_pri_blocks%3D831527901_348345905_2_0_0__3000%3Bsrepoch%3D1655398898%3Bsrpvid%3D7c9f78185d370021%3Btype%3Dtotal%3Bucfs%3D1%26",
+        "owner": {
+            "id": "101778497337234972921",
+            "name": "Dar essadeg (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101778497337234972921"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMyatQp-OlT3TVDujR_DuU4qtdbTJbvYVMFnO8D=w408-h306-k-no",
+        "main_category": "Lodge",
+        "categories": [
+            "Lodge",
+            "Hebergement de groupe"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "97 284 185",
+        "address": "Dar essadeg, P19, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+essadeg/data=!4m10!3m9!1s0x1254b704eeef4b37:0xf85bbc7d3a852578!5m2!4m1!1i2!8m2!3d32.9251725!4d10.4409536!16s%2Fg%2F11j0r4k5ky!19sChIJN0vv7gS3VBIReCWFOn28W_g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJL7i_qhMdVRIRgBjWwHN4kD8",
+        "name": "Gite Dar El Margoum",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gite Dar El Margoum (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhF-PfJSL4qt_07FDCpFMMbg7BosJ1o0y0OrrisZ8rqNDQosB3HjmRby0UgkQiOKXAz6Fs6InISXI2WqTmwdhIAlA_af28f-x3LczTsWKIiFpSAo5AS_7Y__jtPNSx8U2O2lb1eyYJ2_SJxJZn1KMuHfhBmA4TAmfD_8f6340_8bDsKN3NldxKoheQ=w408-h306-k-no",
+        "main_category": "Hostellerie",
+        "categories": [
+            "Hostellerie"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "26 838 993",
+        "address": "Gite Dar El Margoum, toujane 6045",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/G%C3%AEte+Dar+El+Margoum/data=!4m10!3m9!1s0x12551d13aabfb82f:0x3f907873c0d61880!5m2!4m1!1i2!8m2!3d33.4636449!4d10.1346138!16s%2Fg%2F11j24vrvtx!19sChIJL7i_qhMdVRIRgBjWwHN4kD8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJM3UX9yO3VBIRwhtzPqfusDE",
+        "name": "Tataouineranch",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://destinationdahar.com/places/tataouine-les-bains/",
+        "owner": {
+            "id": "110334790113768333986",
+            "name": "Tataouineranch (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/110334790113768333986"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPjF_IFFnNRjrM-41vCIuv9Bv5cUHAEtXXqgL2s=w408-h271-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes",
+            "Chambre d'hotes"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "WFW9+737 Tataouineranch, Tataouine 3234",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Tataouineranch/data=!4m10!3m9!1s0x1254b723f7177533:0x31b0eea73e731bc2!5m2!4m1!1i2!8m2!3d32.9456066!4d10.4677177!16s%2Fg%2F11st70yl65!19sChIJM3UX9yO3VBIRwhtzPqfusDE?authuser=0&hl=fr&rclk=1"
+    }
+]

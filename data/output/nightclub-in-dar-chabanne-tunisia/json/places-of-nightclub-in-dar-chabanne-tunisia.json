@@ -1,0 +1,77 @@
+[
+    {
+        "place_id": "ChIJ5foTzf6fAhMRjYHc6CqcS3U",
+        "name": "BORA hammamet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "BORA hammamet (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPRQpF8PTSBKvVjdjZRWdQyXTQugBI6G84hL8Ug=w408-h725-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4.2,
+        "workday_timing": "18:00-04:00",
+        "closed_on": [],
+        "phone": "20 495 507",
+        "address": "CM86+9JV BORA hammamet, Route Touristique, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/BORA+hammamet/data=!4m7!3m6!1s0x13029ffecd13fae5:0x754b9c2ae8dc818d!8m2!3d36.4159808!4d10.6615395!16s%2Fg%2F11gxtkmp4j!19sChIJ5foTzf6fAhMRjYHc6CqcS3U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_____xyeAhMRnimC2qVmCSg",
+        "name": "Golden Bar Paradis Palace",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Golden Bar Paradis Palace (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPtFnoF_0OAd869eporvO0HTmjA18UKAqTol8Q=w408-h725-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": "20:00-01:00",
+        "closed_on": [],
+        "phone": "72 226 330",
+        "address": "CJ4C+VXX Golden Bar Paradis Palace, avenue de la paix, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Golden+Bar+Paradis+Palace/data=!4m7!3m6!1s0x13029e1cffffffff:0x280966a5da82299e!8m2!3d36.4072253!4d10.6224798!16s%2Fg%2F11ggc1x4vp!19sChIJ_____xyeAhMRnimC2qVmCSg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJL7kTkSGfAhMRRHuQ7MYcysY",
+        "name": "Disco Blue",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Disco Blue (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6eGYXKRSmpHtE_OO4Pejuw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=327.3774&pitch=0&thumbfov=100",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4.7,
+        "workday_timing": "23:00-04:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Disco Blue, 2096 Bd de l'Environnment, Mrezga",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Disco+Blue/data=!4m7!3m6!1s0x13029f219113b92f:0xc6ca1cc6ec907b44!8m2!3d36.4229303!4d10.6734069!16s%2Fg%2F11m_yzp36c!19sChIJL7kTkSGfAhMRRHuQ7MYcysY?authuser=0&hl=fr&rclk=1"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJpZiRnW7P-xIRpKWaudfDEUI",
+        "name": "Jabal Djerissa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Sommet montagneux",
+        "categories": [
+            "Sommet montagneux"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Jabal Djerissa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Jabal+Djerissa/data=!4m7!3m6!1s0x12fbcf6e9d9198a5:0x4211c3d7b99aa5a4!8m2!3d35.8361111!4d8.6436111!16s%2Fg%2F11gzhv0wp!19sChIJpZiRnW7P-xIRpKWaudfDEUI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZ10TtDO8-xIRQqAkxydWkS0",
+        "name": "Ain ez Zebda",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain ez Zebda",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+ez+Zebda/data=!4m7!3m6!1s0x12fbbc33b4135d67:0x2d915627c724a042!8m2!3d36.0411111!4d8.7883333!16s%2Fg%2F11byn04bpk!19sChIJZ10TtDO8-xIRQqAkxydWkS0?authuser=0&hl=fr&rclk=1"
+    }
+]

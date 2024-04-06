@@ -1,0 +1,56 @@
+[
+    {
+        "place_id": "ChIJ5T2xb4u5VBIRiZEF2SaiSpo",
+        "name": "Memoire De La Terre Museum",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Memoire De La Terre Museum (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNRorGigULCP_CgMqy7GuOTdhKUoYva4-xjf9_b=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.1,
+        "workday_timing": "09:00-16:00",
+        "closed_on": [
+            "samedi",
+            "dimanche"
+        ],
+        "phone": "98 234 211",
+        "address": "WC98+342 Memoire De La Terre Museum, C207, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/M%C3%A9moire+De+La+Terre+Mus%C3%A9um/data=!4m7!3m6!1s0x1254b98b6fb13de5:0x9a4aa226d9059189!8m2!3d32.9176432!4d10.415266!16s%2Fg%2F11dxdyd6yj!19sChIJ5T2xb4u5VBIRiZEF2SaiSpo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJHQCsRC-xVBIRmZb-S0OXw3A",
+        "name": "kaser tounket",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "kaser tounket (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNow_u5RtzcYbsciy7Btt9iR9bqpEEnMWJqgNAd=w408-h272-k-no",
+        "main_category": "Musee d'histoire locale",
+        "categories": [
+            "Musee d'histoire locale"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "22 057 922",
+        "address": "VFJX+V9M kaser tounket",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/kaser+tounket/data=!4m7!3m6!1s0x1254b12f44ac001d:0x70c397434bfe9699!8m2!3d32.8822047!4d10.4984132!16s%2Fg%2F11h6xm73rz!19sChIJHQCsRC-xVBIRmZb-S0OXw3A?authuser=0&hl=fr&rclk=1"
+    }
+]

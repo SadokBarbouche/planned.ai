@@ -1,0 +1,181 @@
+[
+    {
+        "place_id": "ChIJcbADhtAWAhMRKBmhWNZ7FYY",
+        "name": "Gare De Ksar Hellal",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare De Ksar Hellal (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPLXwsAvllQWQcBlZV1hVMUSPr24gSLxiM3JZv5=w408-h306-k-no",
+        "main_category": "Gare",
+        "categories": [
+            "Gare"
+        ],
+        "rating": 3.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare De Ksar Hellal, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+De+Ksar+Hellal/data=!4m7!3m6!1s0x130216d08603b071:0x86157bd658a11928!8m2!3d35.645105!4d10.9007267!16s%2Fg%2F1tht9c11!19sChIJcbADhtAWAhMRKBmhWNZ7FYY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJBQidpjgRAhMRKnPk65H4xVI",
+        "name": "Station service Agil KSAR HELAL",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": "108638745552054233881",
+            "name": "Station service Agil KSAR HELAL (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108638745552054233881"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNSbxAppzA4CgtkfLxmK0hVCXK4sE-V9p9Jm6Xu=w408-h306-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 4.1,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "Station service Agil KSAR HELAL, Av. Habib bourguiba, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+service+Agil+KSAR+HELAL/data=!4m7!3m6!1s0x13021138a69d0805:0x52c5f891ebe4732a!8m2!3d35.661049!4d10.8743083!16s%2Fg%2F11b77dm1lw!19sChIJBQidpjgRAhMRKnPk65H4xVI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0V9UmCwRAhMRLMg174wX7Zg",
+        "name": "station taxi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "station taxi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMN_9TTbNdu4poa__i8dSRpIVOBQ7QwgoBQ7HB2=w408-h306-k-no",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 3.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "station taxi, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/station+taxi/data=!4m7!3m6!1s0x1302112c98545fd1:0x98ed178cef35c82c!8m2!3d35.6443848!4d10.8887333!16s%2Fg%2F1tdhj0w9!19sChIJ0V9UmCwRAhMRLMg174wX7Zg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJk8akE7sXAhMRwJejJ8veVPk",
+        "name": "Shell",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": "https://find.shell.com/tn/fuel/TN_10044727-ksar-helal",
+        "owner": {
+            "id": "111929281764656025200",
+            "name": "Shell (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111929281764656025200"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOoUvH-kJxM99czcHk9BQX8SG4ew7m3WeMfM_nA=w408-h306-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service",
+            "Station de lavage automobile",
+            "Superette"
+        ],
+        "rating": 3.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "71 249 149",
+        "address": "Shell, Av. Habib bourguiba, Ksar Hellal 5070",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Shell/data=!4m7!3m6!1s0x130217bb13a4c693:0xf954decb27a397c0!8m2!3d35.6411293!4d10.8920307!16s%2Fg%2F1tf5gwbg!19sChIJk8akE7sXAhMRwJejJ8veVPk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJgR9S4s4WAhMRsVCEgQ2JA5s",
+        "name": "Ksar Helal Zone Industrielle",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ksar Helal Zone Industrielle (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP39_f8HIRy4xHqK71TPoRkQCQIdiUXhcaLqepP=w408-h544-k-no",
+        "main_category": "Gare",
+        "categories": [
+            "Gare"
+        ],
+        "rating": 3.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ksar Helal Zone Industrielle, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ksar+Helal+Zone+Industrielle/data=!4m7!3m6!1s0x130216cee2521f81:0x9b03890d818450b1!8m2!3d35.6519228!4d10.8986172!16s%2Fg%2F1tczml55!19sChIJgR9S4s4WAhMRsVCEgQ2JA5s?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJKbWrscoWAhMRDwTFzR2vovc",
+        "name": "SHELL Petrol Station",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://find.shell.com/tn/fuel/TN_10044732-sayada",
+        "owner": {
+            "id": "107691077227588684929",
+            "name": "SHELL Petrol Station (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/107691077227588684929"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPl1HaxVn40YoqowZds8jygnbDfeTmDWDVt0tDd=w408-h306-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service",
+            "Station de lavage automobile",
+            "Superette"
+        ],
+        "rating": 4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "71 249 149",
+        "address": "SHELL Petrol Station, Av. Habib Bourguiba, Ksar Hellal 5070",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/SHELL+Petrol+Station/data=!4m7!3m6!1s0x130216cab1abb529:0xf7a2af1dcdc5040f!8m2!3d35.65902!4d10.8908551!16s%2Fg%2F11c1mmczvl!19sChIJKbWrscoWAhMRDwTFzR2vovc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJC1Z1nDkRAhMRfm7p62RMR54",
+        "name": "OLA Petrol Station",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "OLA Petrol Station (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=BnLZ5J16Gr06qoK1jn5NWw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=259.31625&pitch=0&thumbfov=100",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "MV4G+MJM OLA Petrol Station, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/OLA+Petrol+Station/data=!4m7!3m6!1s0x130211399c75560b:0x9e474c64ebe96e7e!8m2!3d35.6567014!4d10.8765467!16s%2Fg%2F11c1r0lk3s!19sChIJC1Z1nDkRAhMRfm7p62RMR54?authuser=0&hl=fr&rclk=1"
+    }
+]

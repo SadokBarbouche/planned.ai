@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJb2hTN9MWAhMRSQQYOYFvBEM",
+        "name": "Ksar Hellal",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 61,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ksar Hellal (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOAYf_8qGeTTODhVMYEDlvrqbQ3QdKKedAW5T8b=w426-h240-k-no",
+        "main_category": "Jardin",
+        "categories": [
+            "Jardin"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JVVR+69P Ksar Hellal, Av. Habib bourguiba, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ksar+Hellal/data=!4m7!3m6!1s0x130216d33753686f:0x43046f8139180449!8m2!3d35.6430884!4d10.8909686!16s%2Fg%2F11dzdkc41p!19sChIJb2hTN9MWAhMRSQQYOYFvBEM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJR7OjbvsXAhMRm-OtObIW23w",
+        "name": "Publinet Maher Msolly",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Publinet Maher Msolly (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPm1a06zCy4MVA-oIUd9E_oulO3J6OcPWB8rHpV=w426-h240-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "54 635 251",
+        "address": "JWM6+96C Publinet Maher Msolly, Moknine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Publinet+Maher+Msolly/data=!4m7!3m6!1s0x130217fb6ea3b347:0x7cdb16b239ade39b!8m2!3d35.6334336!4d10.9105158!16s%2Fg%2F11f663nsyp!19sChIJR7OjbvsXAhMRm-OtObIW23w?authuser=0&hl=fr&rclk=1"
+    }
+]

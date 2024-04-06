@@ -1,0 +1,127 @@
+[
+    {
+        "place_id": "ChIJ3RlHP61yAhMRD2yNW-_iIEw",
+        "name": "Palm's Disco",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Palm's Disco (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPwQFePfPSLZpn9esm-yg9imjdtV7GQJFO0fZmf=w426-h240-k-no",
+        "main_category": "Bar",
+        "categories": [
+            "Bar"
+        ],
+        "rating": 4.4,
+        "workday_timing": "19:00-04:00",
+        "closed_on": [],
+        "phone": "50 825 109",
+        "address": "Palm's Disco, 5000 Rue John Fitzgerald Kennedy, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Palm%27s+Disco/data=!4m7!3m6!1s0x130272ad3f4719dd:0x4c20e2ef5b8d6c0f!8m2!3d35.7642515!4d10.8112885!16s%2Fg%2F1ptymqy4q!19sChIJ3RlHP61yAhMRD2yNW-_iIEw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJc4Ex-DFtAhMRn6ndg9EPw_c",
+        "name": "Societe Sultan",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Societe Sultan (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOVECU33l2Q_HO-IGm5TSt5FWe_x2lXsSYyz2uN=w408-h306-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "99 039 903",
+        "address": "QRHM+C7P Societe Sultan, Marina Cap, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Societe+Sultan/data=!4m7!3m6!1s0x13026d31f8318173:0xf7c30fd183dda99f!8m2!3d35.7785787!4d10.8331981!16s%2Fg%2F11gfnjb6r5!19sChIJc4Ex-DFtAhMRn6ndg9EPw_c?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJi0BdDnkLAhMRpnhlLs67eAo",
+        "name": "The Circle Night Club",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "The Circle Night Club (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOfulY-V5A_tMhE_QmGc5aaSmi9-yWHdFPi5al9=w408-h283-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "28 225 349",
+        "address": "QMJW+QMQ The Circle Night Club, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+Circle+Night+Club/data=!4m7!3m6!1s0x13020b790e5d408b:0xa78bbce2e6578a6!8m2!3d35.7819586!4d10.696729!16s%2Fg%2F11gl15qflf!19sChIJi0BdDnkLAhMRpnhlLs67eAo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJK33N5vELAhMRvBchyclo8TE",
+        "name": "SAVANA CLUB",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "SAVANA CLUB (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Bar lounge",
+        "categories": [
+            "Bar lounge"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QMJV+5P SAVANA CLUB, Sahline",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/SAVANA+CLUB/data=!4m7!3m6!1s0x13020bf1e6cd7d2b:0x31f168c9c92117bc!8m2!3d35.7804618!4d10.6942752!16s%2Fg%2F11s3csrb0p!19sChIJK33N5vELAhMRvBchyclo8TE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJGwRA46ATAhMRiSPOXLG7jTE",
+        "name": "La Rocca Lounge",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Rocca Lounge (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Bar lounge",
+        "categories": [
+            "Bar lounge"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "27 526 465",
+        "address": "QR76+PG3 La Rocca Lounge, Les palmiers, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+Rocca+Lounge/data=!4m7!3m6!1s0x130213a0e340041b:0x318dbbb15cce2389!8m2!3d35.7642515!4d10.8112885!16s%2Fg%2F11h3bsd27f!19sChIJGwRA46ATAhMRiSPOXLG7jTE?authuser=0&hl=fr&rclk=1"
+    }
+]

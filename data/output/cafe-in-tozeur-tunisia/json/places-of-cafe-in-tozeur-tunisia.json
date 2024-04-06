@@ -1,0 +1,988 @@
+[
+    {
+        "place_id": "ChIJDZ98ByjAVxIRI3Yy4cO3ATY",
+        "name": "Restaurant Le Soleil",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 282,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant Le Soleil (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN53zKTAEssBJ3NvW9VDXiPigGo1CqAYjqYCUZA=w408-h544-k-no",
+        "main_category": "Restaurant tunisien",
+        "categories": [
+            "Restaurant tunisien"
+        ],
+        "rating": 4.2,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "22 193 881",
+        "address": "W49M+4MQ Restaurant Le Soleil, Av. Abou el Kacem Chebbi, Tozeur 2200",
+        "review_keywords": [
+            {
+                "keyword": "couscous",
+                "count": 19
+            },
+            {
+                "keyword": "dromadaire",
+                "count": 10
+            },
+            {
+                "keyword": "chakchouka",
+                "count": 9
+            },
+            {
+                "keyword": "cuisine traditionnelle",
+                "count": 9
+            },
+            {
+                "keyword": "poulet",
+                "count": 9
+            },
+            {
+                "keyword": "grillades",
+                "count": 8
+            },
+            {
+                "keyword": "serveur",
+                "count": 7
+            },
+            {
+                "keyword": "agneau",
+                "count": 6
+            },
+            {
+                "keyword": "viande de chameau",
+                "count": 5
+            },
+            {
+                "keyword": "bocaux",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Restaurant+Le+Soleil/data=!4m7!3m6!1s0x1257c028077c9f0d:0x3601b7c3e1327623!8m2!3d33.9178306!4d8.1342398!16s%2Fg%2F11c5__pbh3!19sChIJDZ98ByjAVxIRI3Yy4cO3ATY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJh91swCnAVxIR1tFsU8jxHHk",
+        "name": "Restaurant De La Republique Tozeur",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 153,
+        "website": null,
+        "owner": {
+            "id": "106757074563449866680",
+            "name": "Restaurant De La Republique Tozeur (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106757074563449866680"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipON6QcwrkhNlObW10LV7SjM2EuXuhpxRtzstBZ2=w408-h906-k-no",
+        "main_category": "Restaurant tunisien",
+        "categories": [
+            "Restaurant tunisien"
+        ],
+        "rating": 4.1,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "23 821 901",
+        "address": "2200, W4CP+C5 Restaurant De La Republique Tozeur, Rue Hedi Jahallah, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 16
+            },
+            {
+                "keyword": "dromadaire",
+                "count": 11
+            },
+            {
+                "keyword": "poulet",
+                "count": 9
+            },
+            {
+                "keyword": "couscous",
+                "count": 8
+            },
+            {
+                "keyword": "salades",
+                "count": 5
+            },
+            {
+                "keyword": "legumes",
+                "count": 4
+            },
+            {
+                "keyword": "agneau",
+                "count": 3
+            },
+            {
+                "keyword": "travail",
+                "count": 3
+            },
+            {
+                "keyword": "os",
+                "count": 3
+            },
+            {
+                "keyword": "touristes",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Restaurant+De+La+R%C3%A9publique+Tozeur/data=!4m7!3m6!1s0x1257c029c06cdd87:0x791cf1c8536cd1d6!8m2!3d33.9210306!4d8.1354729!16s%2Fg%2F11d_z80t4n!19sChIJh91swCnAVxIR1tFsU8jxHHk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJC13pWnXBVxIRhKXAiKQUX3I",
+        "name": "Cafe Berbere  ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 146,
+        "website": null,
+        "owner": {
+            "id": "116210305562151743967",
+            "name": "Cafe Berbere   (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/116210305562151743967"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPa_hSSnfbV2_NOqwG_LwCIVwcV9Er9MkNv24kv=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "08:30-00:00",
+        "closed_on": [],
+        "phone": "50 719 277",
+        "address": "W4CQ+88Q Cafe Berbere  , Ouled El Hadef, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "atmosphere",
+                "count": 10
+            },
+            {
+                "keyword": "jus",
+                "count": 8
+            },
+            {
+                "keyword": "musique",
+                "count": 8
+            },
+            {
+                "keyword": "chicha",
+                "count": 7
+            },
+            {
+                "keyword": "droit de propriete",
+                "count": 6
+            },
+            {
+                "keyword": "fleur",
+                "count": 6
+            },
+            {
+                "keyword": "the a la menthe",
+                "count": 4
+            },
+            {
+                "keyword": "oranger",
+                "count": 4
+            },
+            {
+                "keyword": "terrasse",
+                "count": 4
+            },
+            {
+                "keyword": "citronnade",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Berb%C3%A8re+%E2%B5%9C%E2%B4%B0%E2%B4%B1%E2%B4%B0%E2%B5%94%E2%B5%8F%E2%B4%BB%E2%B5%9C+%E2%B5%9C%E2%B4%B0%E2%B5%8E%E2%B4%B0%E2%B5%A3%E2%B5%89%E2%B5%96%E2%B5%9C/data=!4m7!3m6!1s0x1257c1755ae95d0b:0x725f14a488c0a584!8m2!3d33.9208502!4d8.1383214!16s%2Fg%2F11sc8cmk9m!19sChIJC13pWnXBVxIRhKXAiKQUX3I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJbXk7x1XrVxIRqgRGg3Vl_Os",
+        "name": "Scoop Cafe-Resto",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 111,
+        "website": null,
+        "owner": {
+            "id": "108922082878652484513",
+            "name": "Scoop Cafe-Resto (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108922082878652484513"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP1SnMOVN8MbDo1z4zpeLrOBD8levv46GKvTrIz=w408-h272-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant",
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "27 720 721",
+        "address": "Scoop Cafe-Resto, Av. Abou el Kacem Chebbi, Tozeur 2210",
+        "review_keywords": [
+            {
+                "keyword": "glace",
+                "count": 5
+            },
+            {
+                "keyword": "tayara",
+                "count": 3
+            },
+            {
+                "keyword": "experience",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Scoop+Caf%C3%A9-Resto/data=!4m7!3m6!1s0x1257eb55c73b796d:0xebfc6575834604aa!8m2!3d33.9149897!4d8.1287874!16s%2Fg%2F11n650xm8b!19sChIJbXk7x1XrVxIRqgRGg3Vl_Os?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJxXvTfTvAVxIRLYDmsuCWNEs",
+        "name": "Restaurant Chak Wak",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 73,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant Chak Wak (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO_UXa4pHEkJvwCvM5VwUUFcTCrn_1liCUMxIE7=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": "55 139 738",
+        "address": "W46W+JP4 Restaurant Chak Wak, Rte des Touaregs, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "chats",
+                "count": 3
+            },
+            {
+                "keyword": "musique",
+                "count": 3
+            },
+            {
+                "keyword": "prix",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Restaurant+Chak+Wak/data=!4m7!3m6!1s0x1257c03b7dd37bc5:0x4b3496e0b2e6802d!8m2!3d33.9115082!4d8.1468364!16s%2Fg%2F11dyqshh_9!19sChIJxXvTfTvAVxIRLYDmsuCWNEs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJURwLTpzrVxIR6pLsubS4S2k",
+        "name": "Le Minaret Ferkous",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 69,
+        "website": null,
+        "owner": {
+            "id": "100406068314728882583",
+            "name": "Le Minaret Ferkous (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100406068314728882583"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNTuk_v5qhisXxf1IMbLwf1nG4bo6PwR_1y_rlt=w408-h725-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant",
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "22 716 333",
+        "address": "W4CP+H3M Le Minaret Ferkous, Rue Mohamed Ali El Ajimi, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "experience",
+                "count": 7
+            },
+            {
+                "keyword": "cadre",
+                "count": 4
+            },
+            {
+                "keyword": "cafe",
+                "count": 4
+            },
+            {
+                "keyword": "continuation",
+                "count": 3
+            },
+            {
+                "keyword": "musique",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Le+Minaret+Ferkous/data=!4m7!3m6!1s0x1257eb9c4e0b1c51:0x694bb8b4b9ec92ea!8m2!3d33.9214663!4d8.1351477!16s%2Fg%2F11kqzvg8p8!19sChIJURwLTpzrVxIR6pLsubS4S2k?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJE_yiZVfBVxIR7hocmVt7BVo",
+        "name": "Resto Cafe El Berka",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 30,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Resto Cafe El Berka (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMmWD3QM7QsZH_Tp-Q8kHLbCKTXVOJOtYJdh2vz=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.9,
+        "workday_timing": "11:00-22:00",
+        "closed_on": [],
+        "phone": "28 297 297",
+        "address": "W48Q+HH9 Resto Cafe El Berka, Route de la Berka, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Resto+Caf%C3%A9+El+Berka/data=!4m7!3m6!1s0x1257c15765a2fc13:0x5a057b5b991c1aee!8m2!3d33.916396!4d8.1389735!16s%2Fg%2F11vjggt1rf!19sChIJE_yiZVfBVxIR7hocmVt7BVo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJP-uedKXBVxIROKrLkQh2dTo",
+        "name": "L'atelier d'Amel Line",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "L'atelier d'Amel Line (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNk9q56FZL-rmsPS0TSY5hn6nohHaDVnCGKCYC-=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "25 840 707",
+        "address": "W4CP+6F4 L'atelier d'Amel Line, Av. Habib Bourguiba, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "musee d'art",
+                "count": 3
+            },
+            {
+                "keyword": "vue",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/L%27atelier+d%27Amel+Line/data=!4m7!3m6!1s0x1257c1a5749eeb3f:0x3a75760891cbaa38!8m2!3d33.9205125!4d8.1362031!16s%2Fg%2F11j42gfsrh!19sChIJP-uedKXBVxIROKrLkQh2dTo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJEZHjFFPBVxIR4PyiCVTNFhY",
+        "name": "Essiguifa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "website": "https://www.facebook.com/ESSIGUIFADETOZEUR%3Fmibextid%3DZbWKwL",
+        "owner": {
+            "id": null,
+            "name": "Essiguifa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMWMeZPAvCPbuvqS2gMrq_S00v7LKwBZARK5fpZ=w408-h306-k-no",
+        "main_category": "Restaurant tunisien",
+        "categories": [
+            "Restaurant tunisien"
+        ],
+        "rating": 4.8,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": "51 396 397",
+        "address": "W4CQ+Q3M Essiguifa, Av. de Kairouan, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "cafe",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Essiguifa/data=!4m7!3m6!1s0x1257c15314e39111:0x1616cd5409a2fce0!8m2!3d33.9219963!4d8.1376639!16s%2Fg%2F11s8rcnhlc!19sChIJEZHjFFPBVxIR4PyiCVTNFhY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4QP_sYPqVxIRsRBS1hUaymE",
+        "name": "Salon De The Soltan",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Salon De The Soltan (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNBklijWtGlAA8MUyaaHh_dNV3Vs2qR0w6LYA6U=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "27 421 425",
+        "address": "W4CJ+H87 Salon De The Soltan, Ave Farhat Hached, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Salon+De+Th%C3%A9+Soltan/data=!4m7!3m6!1s0x1257ea83b1ff03e1:0x61ca1a15d65210b1!8m2!3d33.9214237!4d8.1307944!16s%2Fg%2F11c57y3vf9!19sChIJ4QP_sYPqVxIRsRBS1hUaymE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJaaoaYSjAVxIRmx15QyvA5CA",
+        "name": "Cafe Le coin",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Le coin (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPKV393IHXIw2_qI02yrgRYk49mX-4BoBU5MGXD=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "W49P+GG6 Cafe Le coin, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Le+coin/data=!4m7!3m6!1s0x1257c028611aaa69:0x20e4c02b43791d9b!8m2!3d33.9187837!4d8.136264!16s%2Fg%2F11f40qqx1z!19sChIJaaoaYSjAVxIRmx15QyvA5CA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJIyZb2_3rVxIRjeFqKEOgECA",
+        "name": "Bonzai Lounge Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": "https://m.facebook.com/Coffee-Bonzai-236924553917206/",
+        "owner": {
+            "id": null,
+            "name": "Bonzai Lounge Coffee (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN4MXjq0-7F1sZE_3Tq1szkLp7jePLPFH3CLKXd=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "52 230 007",
+        "address": "W4C9+CV5 Bonzai Lounge Coffee, P3, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bonzai+Lounge+Coffee/data=!4m7!3m6!1s0x1257ebfddb5b2623:0x2010a043286ae18d!8m2!3d33.9210078!4d8.1198182!16s%2Fg%2F11h02_6hc9!19sChIJIyZb2_3rVxIRjeFqKEOgECA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJP0mAZmXBVxIRmRvaEgyEB-o",
+        "name": "Jet 7 Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": "116378900223251256559",
+            "name": "Jet 7 Coffee (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/116378900223251256559"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPpcZi-24reRRajeEYa_-DohPsWNo9HIXdpheo=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "25 261 830",
+        "address": "Jet 7 Coffee, RN3, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Jet+7+Coffee/data=!4m7!3m6!1s0x1257c1656680493f:0xea07840c12da1b99!8m2!3d33.9372011!4d8.1417043!16s%2Fg%2F11j1_0pj9v!19sChIJP0mAZmXBVxIRmRvaEgyEB-o?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJMe4CeITqVxIR_aRLM5QvLUQ",
+        "name": "Cafe de Paris",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe de Paris (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO8nDa7T6an-gB9BKAF7GF1zdb4JUIYOrx0J5sF=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:00-23:59",
+        "closed_on": [],
+        "phone": "56 826 778",
+        "address": "W4CH+JCV Cafe de Paris, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+de+Paris/data=!4m7!3m6!1s0x1257ea847802ee31:0x442d2f94334ba4fd!8m2!3d33.9216155!4d8.1285539!16s%2Fg%2F11c1pl56cv!19sChIJMe4CeITqVxIR_aRLM5QvLUQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJo1sJSwDrVxIRHNx-j-wu0no",
+        "name": "Cafe El Majles",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://www.facebook.com/elmajlestozeur",
+        "owner": {
+            "id": null,
+            "name": "Cafe El Majles (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOCFq6MZsvLJb9Z6Icc8KYrq9OnV0yx-TDQ1vCz=w408-h571-k-no",
+        "main_category": "Salon de the traditionnel",
+        "categories": [
+            "Salon de the traditionnel"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-23:30",
+        "closed_on": [],
+        "phone": "21 388 668",
+        "address": "W4F6+F2G Cafe El Majles, Avenue 14 Janvier 2011, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+El+Majles/data=!4m7!3m6!1s0x1257eb004b095ba3:0x7ad22eec8f7edc1c!8m2!3d33.9237693!4d8.1099151!16s%2Fg%2F11vp_sdd9j!19sChIJo1sJSwDrVxIRHNx-j-wu0no?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJOd8OPZ3qVxIRQGwY1fHNUXw",
+        "name": "Cafe Palmera",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Palmera (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMv7ntKi4uLlG247S9vYz5EYBfxPLzbuaO-839j=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "W48J+MQ7 Cafe Palmera, Avenue 4 Aout 1880, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Palmera/data=!4m7!3m6!1s0x1257ea9d3d0edf39:0x7c51cdf1d5186c40!8m2!3d33.9166614!4d8.131922!16s%2Fg%2F11gfn736f5!19sChIJOd8OPZ3qVxIRQGwY1fHNUXw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJLy-PuinAVxIRsOaXbePKQPg",
+        "name": "Cafe Zouba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Zouba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNQETyGHSmCzeqSgPxuN5SNDrw3qtK9skDUo2_h=w408-h882-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "05:00-21:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "W4CP+F8J Cafe Zouba, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Zouba/data=!4m7!3m6!1s0x1257c029ba8f2f2f:0xf840cae36d97e6b0!8m2!3d33.9212009!4d8.1357569!16s%2Fg%2F11c1tt85x4!19sChIJLy-PuinAVxIRsOaXbePKQPg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJBwdNNfTBVxIRiXv9EsLCgSA",
+        "name": "Cafe de L'independance",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe de L'independance (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNOPNx6d_LxO9rNsokjKA-ZSOOojfzkRdCk-Dn0=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "W4CP+5G6 Cafe de L'independance, Av. Habib Bourguiba, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+de+L%E2%80%99ind%C3%A9pendance/data=!4m7!3m6!1s0x1257c1f4354d0707:0x2081c2c212fd7b89!8m2!3d33.9204125!4d8.1362656!16s%2Fg%2F11g0jdssph!19sChIJBwdNNfTBVxIRiXv9EsLCgSA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJLaeFPZ3qVxIRC9B91OWRYo0",
+        "name": "Cafe La Rosa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "https://m.facebook.com/Cafe-La-Rosa-tozeur-660194007516712/%3Fref%3Dpage_internal%26mt_nav%3D0",
+        "owner": {
+            "id": null,
+            "name": "Cafe La Rosa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipODOa_6xXH_mqoJsa8n7Df--7rJxa1QaFZDpznk=w635-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "24 804 483",
+        "address": "W48M+R37 Cafe La Rosa, Av. Abou el Kacem Chebbi, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+La+Rosa/data=!4m7!3m6!1s0x1257ea9d3d85a72d:0x8d6291e5d47dd00b!8m2!3d33.9170439!4d8.1326676!16s%2Fg%2F11ddxqcxdr!19sChIJLaeFPZ3qVxIRC9B91OWRYo0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJsfGeOMbrVxIRDM6Jcxqgqyg",
+        "name": "Cafe Mallorca",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": "116004848394817549473",
+            "name": "Cafe Mallorca (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/116004848394817549473"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNlvGtSH8cAEd5sZmBqib9Rx40Hlh0RLxeTWfNS=w408-h884-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "55 458 257",
+        "address": "Cafe Mallorca, Avenue 4 Aout 1880, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Mallorca/data=!4m7!3m6!1s0x1257ebc6389ef1b1:0x28aba01a7389ce0c!8m2!3d33.9146904!4d8.1275604!16s%2Fg%2F11k38b1jx1!19sChIJsfGeOMbrVxIRDM6Jcxqgqyg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJp_OoBebrVxIRASqTeGCOp4U",
+        "name": "Cafe Terrasse",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Terrasse (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPImXR3jFGaQMfHejPHGy-UMxCu3-UG12gg7rx8=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-12:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "W47H+P42 Cafe Terrasse, Av. Abou el Kacem Chebbi, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Terrasse/data=!4m7!3m6!1s0x1257ebe605a8f3a7:0x85a78e6078932a01!8m2!3d33.9142709!4d8.1277629!16s%2Fg%2F11fj74gq3r!19sChIJp_OoBebrVxIRASqTeGCOp4U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJlRNgbSvAVxIRG6Z4KH0faOA",
+        "name": "Cafe Baoueb Lemdina",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Baoueb Lemdina (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOF89M_9geQS5WpZOfle-3VoZTWBctPBmU6J-DS=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "04:00-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "W4GQ+J67 Cafe Baoueb Lemdina, Avenue Avicenne, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Baoueb+Lemdina/data=!4m7!3m6!1s0x1257c02b6d601395:0xe0681f7d2878a61b!8m2!3d33.9265375!4d8.1380469!16s%2Fg%2F11g5_50_8b!19sChIJlRNgbSvAVxIRG6Z4KH0faOA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ33jcPRjrVxIRCi5KfD_nvFk",
+        "name": "Cafe El aaliya",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe El aaliya (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "W4CF+FX2 Cafe El aaliya, P3, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A8+El+aaliya/data=!4m7!3m6!1s0x1257eb183ddc78df:0x59bce73f7c4a2e0a!8m2!3d33.9211438!4d8.1248849!16s%2Fg%2F11hz1yvnc2!19sChIJ33jcPRjrVxIRCi5KfD_nvFk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJyzGfCWbrVxIRVGH-BvouNWY",
+        "name": "Espace Echbala",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Espace Echbala (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "W467+5R5 Espace Echbala, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Espace+Echbala/data=!4m7!3m6!1s0x1257eb66099f31cb:0x66352efa06fe6154!8m2!3d33.9103875!4d8.1146094!16s%2Fg%2F11r12vkfy2!19sChIJyzGfCWbrVxIRVGH-BvouNWY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtVYICW7rVxIRkOnZBD_0sTQ",
+        "name": "The Wolf",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "112975405070736839409",
+            "name": "The Wolf (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/112975405070736839409"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPZBHCivhYMIVjYO0xWO7TBxLnqOJqCHcO_QWke=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "05:30-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "W489+7PQ The Wolf, Rte Touristique, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+Wolf/data=!4m7!3m6!1s0x1257eb6e090856b5:0x34b1f43f04d9e990!8m2!3d33.9157071!4d8.1193639!16s%2Fg%2F11sycbwclq!19sChIJtVYICW7rVxIRkOnZBD_0sTQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJe1Z_JmTrVxIRiyyvaLo5KLY",
+        "name": "Cafe My Story",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe My Story (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMdObe_M7GZQr4EHYCm4hHEa7JtKvJL07hJmZ9t=w408-h272-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "W4CJ+824 Cafe My Story, Av. du 9 Avril, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+My+Story/data=!4m7!3m6!1s0x1257eb64267f567b:0xb62839ba68af2c8b!8m2!3d33.920768!4d8.1300633!16s%2Fg%2F11n2zbfjpg!19sChIJe1Z_JmTrVxIRiyyvaLo5KLY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJRVIKPZrqVxIRPnwj0wXCyUg",
+        "name": "Cafe Garibaldi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Garibaldi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTHgB0kvO6Ir3E3almbWdJwPwHs1RW9857Lbjh=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "W47F+FPH Cafe Garibaldi, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Garibaldi/data=!4m7!3m6!1s0x1257ea9a3d0a5245:0x48c9c205d3237c3e!8m2!3d33.913686!4d8.1243553!16s%2Fg%2F11g6qt72_w!19sChIJRVIKPZrqVxIRPnwj0wXCyUg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJub_XSn3rVxIRtElE5soyqnU",
+        "name": "Cafeteria l'Escale",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafeteria l'Escale (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNJGUMKj92Tzq1HqeKC6zTYBtwp_NyWHMFeR5MZ=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "W4G8+RR8 Cafeteria l'Escale, Av. du Palestine, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafeteria+l%27Escale/data=!4m7!3m6!1s0x1257eb7d4ad7bfb9:0x75aa32cae64449b4!8m2!3d33.9265118!4d8.1167148!16s%2Fg%2F11t4gxvf5c!19sChIJub_XSn3rVxIRtElE5soyqnU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3RHfFiDrVxIRYLXYWI8JHk8",
+        "name": "mqh~ lnkhyl",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mqh~ lnkhyl (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMqyYFBXpiUjU4du27OaO5JPx8rfRCy_9hL5Yzl=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "W47F+H75 mqh~ lnkhyl, Unnamed Road, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D9%82%D9%87%D9%89+%D8%A7%D9%84%D9%86%D8%AE%D9%8A%D9%84%E2%80%AD/data=!4m7!3m6!1s0x1257eb2016df11dd:0x4f1e098f58d8b560!8m2!3d33.9138759!4d8.1232423!16s%2Fg%2F11g3xg21jt!19sChIJ3RHfFiDrVxIRYLXYWI8JHk8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJg-qi6yjBVxIRbt0ThSO6VQo",
+        "name": "Cafe Rimel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Rimel (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "W4MM+FW4 Cafe Rimel, Avenue d'Iraq, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Rimel/data=!4m7!3m6!1s0x1257c128eba2ea83:0xa55ba238513dd6e!8m2!3d33.9336353!4d8.1348201!16s%2Fg%2F11rwj664sw!19sChIJg-qi6yjBVxIRbt0ThSO6VQo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJMXapIgDrVxIRcw7om3Hbc90",
+        "name": "Cafe Sport",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Sport (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMvsLUgSwkI2ahBEK8cxpz34k9VL27hblO7K8k=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "W4CG+J4H Cafe Sport, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Sport/data=!4m7!3m6!1s0x1257eb0022a97631:0xdd73db719be80e73!8m2!3d33.9215147!4d8.1256966!16s%2Fg%2F11vpdhc7gp!19sChIJMXapIgDrVxIRcw7om3Hbc90?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJNbLPMADrVxIRXkrkog3Q0M4",
+        "name": "Cafetiria\"suite coffee\"",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafetiria\"suite coffee\" (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP9G4tySmnQ04N_9J51TbznwMqmx3JeWl11c7jD=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "W4CJ+WWH Cafetiria\"suite coffee\", Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafetiria%22suite+coffee%22/data=!4m7!3m6!1s0x1257eb0030cfb235:0xced0d00da2e44a5e!8m2!3d33.922452!4d8.1323038!16s%2Fg%2F11y2vsjws9!19sChIJNbLPMADrVxIRXkrkog3Q0M4?authuser=0&hl=fr&rclk=1"
+    }
+]

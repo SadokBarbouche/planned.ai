@@ -1,0 +1,140 @@
+[
+    {
+        "place_id": "ChIJkagsBfCHVhIRH6rnQEzzfFQ",
+        "name": "Sahara Desert Tunisia g'",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 122,
+        "website": "http://www.sahara-tunisia.com/",
+        "owner": {
+            "id": "110719262777323676294",
+            "name": "Sahara Desert Tunisia g' (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/110719262777323676294"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipON1-WAqYRY_DN6Y8W0oykVvB8r9r4_8jbBdW3l=w426-h240-k-no",
+        "main_category": "Agence de voyages",
+        "categories": [
+            "Agence de voyages"
+        ],
+        "rating": 4.7,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "24 631 777",
+        "address": "Sahara Desert Tunisia g', Souk Douz, 4260",
+        "review_keywords": [
+            {
+                "keyword": "chameau",
+                "count": 6
+            },
+            {
+                "keyword": "magique",
+                "count": 4
+            },
+            {
+                "keyword": "tente",
+                "count": 3
+            },
+            {
+                "keyword": "cuisine",
+                "count": 3
+            },
+            {
+                "keyword": "nuit",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Sahara+Desert+Tunisia+%E1%83%A6/data=!4m7!3m6!1s0x125687f0052ca891:0x547cf34c40e7aa1f!8m2!3d33.4571621!4d9.0250329!16s%2Fg%2F11ft2cj7zt!19sChIJkagsBfCHVhIRH6rnQEzzfFQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_WGKk5yHVhIRe9kLVj0c0PQ",
+        "name": "La Porta del Sahara",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 60,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Porta del Sahara (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOFy6puqKoLAqBDRTCNzQVrMKBbqmwqiYOq0paz=w408-h306-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4.2,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "96 345 597",
+        "address": "C2PM+F9H La Porta del Sahara, Douz",
+        "review_keywords": [
+            {
+                "keyword": "desert",
+                "count": 9
+            },
+            {
+                "keyword": "festival",
+                "count": 9
+            }
+        ],
+        "link": "https://www.google.com/maps/place/La+Porta+del+Sahara/data=!4m7!3m6!1s0x1256879c938a61fd:0xf4d01c3d560bd97b!8m2!3d33.4361867!4d9.0334976!16s%2Fg%2F11hzlywcnr!19sChIJ_WGKk5yHVhIRe9kLVj0c0PQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJT_ArCOSHVhIRooNn6t9TX28",
+        "name": "Musee du Sahara de Douz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee du Sahara de Douz (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMin0jf9wpDpZanR_CTw0Yd4epJc1QwYf5co0BH=w408-h315-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique",
+            "Musee"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-16:30",
+        "closed_on": [],
+        "phone": null,
+        "address": "F229+Q9W Musee du Sahara de Douz, Douz",
+        "review_keywords": [
+            {
+                "keyword": "vie",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+du+Sahara+de+Douz/data=!4m7!3m6!1s0x125687e4082bf04f:0x6f5f53dfea6783a2!8m2!3d33.4519782!4d9.0184656!16s%2Fg%2F123dm0hvj!19sChIJT_ArCOSHVhIRooNn6t9TX28?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJKT4H26qHVhIRgVAZzBw0XZQ",
+        "name": "Sahara Museum",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Sahara Museum (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPt43Twealh35ZTmBiGtyapwlv5UsPjV5Vp1NDz=w408-h546-k-no",
+        "main_category": "Musee du patrimoine",
+        "categories": [
+            "Musee du patrimoine"
+        ],
+        "rating": 4.7,
+        "workday_timing": "09:30-16:30",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": null,
+        "address": "F229+W8V Sahara Museum, Unnamed Road, Douz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sahara+Museum/data=!4m7!3m6!1s0x125687aadb073e29:0x945d341ccc195081!8m2!3d33.4523692!4d9.0183059!16s%2Fm%2F0n8jg5k!19sChIJKT4H26qHVhIRgVAZzBw0XZQ?authuser=0&hl=fr&rclk=1"
+    }
+]

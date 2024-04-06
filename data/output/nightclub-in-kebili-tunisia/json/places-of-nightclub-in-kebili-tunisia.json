@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJS41YJh8NAhMRBT7nJFjpmnk",
+        "name": "Puzzles Night Club",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Puzzles Night Club (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Bar",
+        "categories": [
+            "Bar"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "26 999 424",
+        "address": "QPC6+H64 Puzzles Night Club, Sahline",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Puzzles+Night+Club/data=!4m7!3m6!1s0x13020d1f26588d4b:0x799ae95824e73e05!8m2!3d35.7714638!4d10.7105427!16s%2Fg%2F11t0s0nxqx!19sChIJS41YJh8NAhMRBT7nJFjpmnk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJpT6IAdpj_BIR9-biMmR1d0o",
+        "name": "hammami khayri",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "hammami khayri (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMbKxs16jb7pB8IyZwhFEikXDnLsEM43FOkYrnc=w408-h725-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "25 258 669",
+        "address": "5CG7+42J hammami khayri",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/hammami+khayri/data=!4m7!3m6!1s0x12fc63da01883ea5:0x4a77756432e2e6f7!8m2!3d36.1753467!4d9.4125014!16s%2Fg%2F11h_09ln4s!19sChIJpT6IAdpj_BIR9-biMmR1d0o?authuser=0&hl=fr&rclk=1"
+    }
+]

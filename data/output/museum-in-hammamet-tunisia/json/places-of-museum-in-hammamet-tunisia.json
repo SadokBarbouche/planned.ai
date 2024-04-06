@@ -1,0 +1,140 @@
+[
+    {
+        "place_id": "ChIJIUlACBZj_RIRWsvvpGMsCww",
+        "name": "Musee carrefour des civilisations et des religions",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 42,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee carrefour des civilisations et des religions (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMbkDIIy35XSt_Lpqx72ZY7dP_WocPM-jHEK6DA=w408-h544-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.2,
+        "workday_timing": "10:00-18:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "9G8M+J8F Musee carrefour des civilisations et des religions, Bi'r al Harariqah, Yasmine Hammamet",
+        "review_keywords": [
+            {
+                "keyword": "histoire",
+                "count": 6
+            },
+            {
+                "keyword": "passionne",
+                "count": 4
+            },
+            {
+                "keyword": "connaissances",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+carrefour+des+civilisations+et+des+religions/data=!4m7!3m6!1s0x12fd631608404921:0xc0b2c63a4efcb5a!8m2!3d36.3665516!4d10.533295!16s%2Fg%2F11fmyq_zkf!19sChIJIUlACBZj_RIRWsvvpGMsCww?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJn7o0OfRj_RIR8P1xJ6af8jU",
+        "name": "Musee Dar khadija Hammamet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee Dar khadija Hammamet (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPdQXT1TbNsvE_bzQEf3rzVPSKSHuR_QhetmOYq=w408-h544-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "9JV7+H7Q Musee Dar khadija Hammamet, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Dar+khadija+Hammamet/data=!4m7!3m6!1s0x12fd63f43934ba9f:0x35f29fa62771fdf0!8m2!3d36.3939243!4d10.6132682!16s%2Fg%2F11gf97r59n!19sChIJn7o0OfRj_RIR8P1xJ6af8jU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJn_VOlQOeAhMRjhUPoV5UbLc",
+        "name": "Dar Zayen",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar Zayen (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOnaAYnwN3iBAQcWTMU2wgSmT2XkfU-3ovV5dH_=w427-h240-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "9JV7+44W Dar Zayen, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Zayen/data=!4m7!3m6!1s0x13029e03954ef59f:0xb76c545ea10f158e!8m2!3d36.3928729!4d10.6128429!16s%2Fg%2F11c5613s86!19sChIJn_VOlQOeAhMRjhUPoV5UbLc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJPe-kvbxh_RIRckF4S0dF7ic",
+        "name": "Musee de l'Orangeraie",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee de l'Orangeraie (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOHao39_geeCoze6PC6lqIo4CmV8HDs8x0UJdai=w426-h240-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "CH3Q+G9Q Musee de l'Orangeraie, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+de+l%27Orangeraie/data=!4m7!3m6!1s0x12fd61bcbda4ef3d:0x27ee45474b784172!8m2!3d36.4038326!4d10.5884764!16s%2Fg%2F11lg39y9hm!19sChIJPe-kvbxh_RIRckF4S0dF7ic?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJWU_EKDJj_RIRbTUyWIBwdf4",
+        "name": "sH@ lshlm@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "sH@ lshlm@ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMb4XXHxhaThDXk4vT7P1GKWW0wE5p2puYG2kD2=w533-h240-k-no",
+        "main_category": "Musee en plein air",
+        "categories": [
+            "Musee en plein air"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "9JV7+376 sH@ lshlm@, Rle Ibrahim Cherif, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%B3%D8%A7%D8%AD%D8%A9+%D8%A7%D9%84%D8%B4%D9%84%D9%85%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x12fd633228c44f59:0xfe7570805832356d!8m2!3d36.3926594!4d10.6131407!16s%2Fg%2F11fm4h28_b!19sChIJWU_EKDJj_RIRbTUyWIBwdf4?authuser=0&hl=fr&rclk=1"
+    }
+]

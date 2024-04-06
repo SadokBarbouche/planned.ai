@@ -1,0 +1,877 @@
+[
+    {
+        "place_id": "ChIJfcWEfpwf4xIRlQpaOviX2Sk",
+        "name": "Cafe Nesma",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 29,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Nesma (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO8_T5tw8AjyInth7BZIRgOGCnjryFuju-0XlOW=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "55 155 432",
+        "address": "6VR6+5X7 Cafe Nesma, ave Bourguiba, Menzel Abderrahmen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Nesma/data=!4m7!3m6!1s0x12e31f9c7e84c57d:0x29d997f83a5a0a95!8m2!3d37.2404033!4d9.862425!16s%2Fg%2F1hhhmlc48!19sChIJfcWEfpwf4xIRlQpaOviX2Sk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJzbi03-Aj4xIRX-xeclb2RIc",
+        "name": "Cafe Sidi Yahia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Sidi Yahia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMC-DHq8Et4LUbMKY2rqQ65MMDFYG3fdqVHYkLe=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": "99 532 241",
+        "address": "5Q7M+HFR Cafe Sidi Yahia, Unnamed Road, Menzel Bourguiba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Sidi+Yahia/data=!4m7!3m6!1s0x12e323e0dfb4b8cd:0x8744f656725eec5f!8m2!3d37.163979!4d9.7836299!16s%2Fg%2F11h1m585rs!19sChIJzbi03-Aj4xIRX-xeclb2RIc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9dBz-_Ej4xIRI_zvdmFMTdc",
+        "name": "Cafe de Nice",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe de Nice (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMxInPIaN3Q5nQSO46ZiO4etcJoB8_-14eg_3fi=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "06:30-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "5Q5W+4G7 Cafe de Nice, Av. de Palestine, Manzil Bu Ruqaybah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+de+Nice/data=!4m7!3m6!1s0x12e323f1fb73d0f5:0xd74d4c6176effc23!8m2!3d37.1577984!4d9.7962923!16s%2Fg%2F1td6jkr2!19sChIJ9dBz-_Ej4xIRI_zvdmFMTdc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJabZhg5wf4xIRoIvYD-WLYGo",
+        "name": "Cafe Paris",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Paris (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNBAlK9OpF9fgx1kUJa5Xlg7pkaOTlnL4RdFWA0=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "55 155 432",
+        "address": "6VQ6+RWR Cafe Paris, Bourguiba St, Menzel Abderrahmane",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Paris/data=!4m7!3m6!1s0x12e31f9c8361b669:0x6a608be50fd88ba0!8m2!3d37.2396155!4d9.8622586!16s%2Fg%2F11cpp3xjb4!19sChIJabZhg5wf4xIRoIvYD-WLYGo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJVXZoE_Qj4xIR1z0AThU1aFk",
+        "name": "Cafe Flamenco",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Flamenco (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=SirNITNT4_R9jFa9gbN1Cg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=193.16072&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "5Q2V+RQP Cafe Flamenco, Menzel Bourguiba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Flamenco/data=!4m7!3m6!1s0x12e323f413687655:0x596835154e003dd7!8m2!3d37.1520808!4d9.7944581!16s%2Fg%2F11g_d3m3d!19sChIJVXZoE_Qj4xIR1z0AThU1aFk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ977DRSTg4hIREbcxL8Awd4o",
+        "name": "mqh~ lwy'm",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mqh~ lwy'm (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNKhQNpJItcQssmJiiWUr9G_EF-TG3R0W_LFLih=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": "53 514 762",
+        "address": "7W25+HM4 mqh~ lwy'm, lTryq lrimal,, Menzel Jemil",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D9%82%D9%87%D9%89+%D8%A7%D9%84%D9%88%D8%A6%D8%A7%D9%85%E2%80%AD/data=!4m7!3m6!1s0x12e2e02445c3bef7:0x8a7730c02f31b711!8m2!3d37.2513948!4d9.9091896!16s%2Fg%2F11c2kv_29_!19sChIJ977DRSTg4hIREbcxL8Awd4o?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJJbQ9B7gf4xIRT0apRlxvd8w",
+        "name": "Cafe Tapana",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": "105764629763263943602",
+            "name": "Cafe Tapana (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105764629763263943602"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM0iOttXWF9e0laKvT5uZIjtqm8sg6wJvFzNAvT=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.6,
+        "workday_timing": "05:00-22:00",
+        "closed_on": [],
+        "phone": "50 338 493",
+        "address": "Cafe Tapana, Rue de cap bon zarzouna, Bizerte 7021",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Tapana/data=!4m7!3m6!1s0x12e31fb8073db425:0xcc776f5c46a9464f!8m2!3d37.2569165!4d9.879359!16s%2Fg%2F11hbv8_v0l!19sChIJJbQ9B7gf4xIRT0apRlxvd8w?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJR7mxILkf4xIRGCNRQFzPstQ",
+        "name": "THE MIXTE Cafe Restaurant Chicha Soiree Dansante",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "THE MIXTE Cafe Restaurant Chicha Soiree Dansante (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNXU_cXvpQj4y0pworyxuuCbwzvbpCnfJ1uioWD=w408-h725-k-no",
+        "main_category": "Cafe et restaurant de grillades",
+        "categories": [
+            "Cafe et restaurant de grillades"
+        ],
+        "rating": 4.5,
+        "workday_timing": "04:30-03:30",
+        "closed_on": [],
+        "phone": "55 229 266",
+        "address": "THE MIXTE Cafe Restaurant Chicha Soiree Dansante, 46 Ave Habib Bourguiba, Menzel Abderrahmen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/THE+MIXTE+Caf%C3%A9+Restaurant+Chicha+Soir%C3%A9e+Dansante/data=!4m7!3m6!1s0x12e31fb920b1b947:0xd4b2cf5c40512318!8m2!3d37.2333483!4d9.8674436!16s%2Fg%2F11gtd25s5g!19sChIJR7mxILkf4xIRGCNRQFzPstQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJI3qrRo4j4xIRY3d9RhggF9A",
+        "name": "Cafe la Sirene",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe la Sirene (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8j1GGe1wEgNKmiOtCpme8w&cb_client=search.gws-prod.gps&w=408&h=240&yaw=34.97193&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "5Q5M+34P Cafe la Sirene, Av. de L'independance, Menzel Bourguiba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+la+Sir%C3%A9ne/data=!4m7!3m6!1s0x12e3238e46ab7a23:0xd0172018467d7763!8m2!3d37.157708!4d9.7828259!16s%2Fg%2F1hf418fwz!19sChIJI3qrRo4j4xIRY3d9RhggF9A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJFZW-3o4f4xIRUcLda8FTsxE",
+        "name": "Oasis Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Oasis Cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOWyV1a-MjCvRMjjwgmg1cxng3CE_Pt_MFZRQ9H=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.9,
+        "workday_timing": "06:00-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "6VMC+2HC Oasis Cafe, Menzel Abderrahmen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Oasis+Caf%C3%A9/data=!4m7!3m6!1s0x12e31f8edebe9515:0x11b353c16bddc251!8m2!3d37.232551!4d9.8713774!16s%2Fg%2F11gds3_62_!19sChIJFZW-3o4f4xIRUcLda8FTsxE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJe2JSNlbh4hIR_6RWSQjDD5s",
+        "name": "Cafe ahbeb",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe ahbeb (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNxXv5yBN1wn_WAfu0e2Ti0hFSMNzKgmjuhlVKf=w408-h906-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "03:30-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe ahbeb, 7080 No-Hope St, Menzel Jemil",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+ahbeb/data=!4m7!3m6!1s0x12e2e1563652627b:0x9b0fc3084956a4ff!8m2!3d37.2360147!4d9.9152076!16s%2Fg%2F11hzldb37c!19sChIJe2JSNlbh4hIR_6RWSQjDD5s?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJe8elpCPg4hIRS4-6U0WO9vM",
+        "name": "Cafe Nafoura",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Nafoura (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP53_FL_IBp9ZXcFSUDBDUuzLsIDhS5-Z8V_aX5=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "05:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "6WX5+4RG Cafe Nafoura, Menzel Jemil",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Nafoura/data=!4m7!3m6!1s0x12e2e023a4a5c77b:0xf3f68e4553ba8f4b!8m2!3d37.2478099!4d9.9095643!16s%2Fg%2F11c60p9dck!19sChIJe8elpCPg4hIRS4-6U0WO9vM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJs2pQ648j4xIR-ZmMAMztC5U",
+        "name": "Cafe Ben Mahmoud",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Ben Mahmoud (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNLyQXqt-as6Fmvmh7xTu9SMwVpVKEMSDfTHwj7=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "04:30-23:30",
+        "closed_on": [],
+        "phone": null,
+        "address": "5Q5J+72W Cafe Ben Mahmoud, Av. de L'independance, Menzel Bourguiba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Ben+Mahmoud/data=!4m7!3m6!1s0x12e3238feb506ab3:0x950bedcc008c99f9!8m2!3d37.1582308!4d9.7800902!16s%2Fg%2F1hf1mfxq6!19sChIJs2pQ648j4xIR-ZmMAMztC5U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJwQ-Np-8j4xIRy9v1SCJpeHA",
+        "name": "cafe iris",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe iris (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPammPKA4LTsfvuUNe7F9pKjjxeRnUtOf1S7B5V=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": "22 827 702",
+        "address": "5Q6X+6QJ cafe iris, Menzel Bourguiba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+iris/data=!4m7!3m6!1s0x12e323efa78d0fc1:0x7078692248f5dbcb!8m2!3d37.160586!4d9.7993792!16s%2Fg%2F11g8vcd4w6!19sChIJwQ-Np-8j4xIRy9v1SCJpeHA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJYbUpHb0f4xIRZ_iGtjRTXCc",
+        "name": "Jbila Cafe Resto",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Jbila Cafe Resto (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPpgkAK04UYawty2WJyleOXQcAJta7-nh2u60aQ=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "15:00-00:00",
+        "closed_on": [],
+        "phone": "21 259 511",
+        "address": "6VJ5+VPM Jbila Cafe Resto, Unnamed Road, Menzel Abderrahmen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Jbila+Cafe+Resto/data=!4m7!3m6!1s0x12e31fbd1d29b561:0x275c5334b686f867!8m2!3d37.2322106!4d9.8592924!16s%2Fg%2F11grbwq1zf!19sChIJYbUpHb0f4xIRZ_iGtjRTXCc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJE_WdC0sf4xIRTMXRqo8iqhY",
+        "name": "Sunday Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": "116561730451260571433",
+            "name": "Sunday Coffee (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/116561730451260571433"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO1GrmWOhEm1sWJXxfDh9LA5laMXELr-Y9fYXGK=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "6VPW+GH3 Sunday Coffee, Menzel Jemil",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sunday+Coffee/data=!4m7!3m6!1s0x12e31f4b0b9df513:0x16aa228faad1c54c!8m2!3d37.2364378!4d9.8963052!16s%2Fg%2F11v0rd14dy!19sChIJE_WdC0sf4xIRTMXRqo8iqhY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtfGlbHYj4xIRDRMdd5uFdYo",
+        "name": "Octa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": "110378681495476783938",
+            "name": "Octa (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/110378681495476783938"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPImfmN1DHbzCiUX8PBj8o7GK829rPQVDjXzr7z=w408-h612-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "04:30-01:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Octa, Av. de l'Independance, Menzel Bourguiba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Octa/data=!4m7!3m6!1s0x12e323766ca5f1b5:0x8a75859b771d130d!8m2!3d37.1570294!4d9.7838657!16s%2Fg%2F11t1h1h8sx!19sChIJtfGlbHYj4xIRDRMdd5uFdYo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJXWbs5Ioj4xIRRNH8L5EwwvI",
+        "name": "Cafe Ennour",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Ennour (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP8X2qik-yjJX0dhGLR8kkWKl4ggNGL8Ce0jsR8=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [],
+        "phone": "53 519 566",
+        "address": "5Q2Q+576 Cafe Ennour, Unnamed Road, Menzel Bourguiba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Ennour/data=!4m7!3m6!1s0x12e3238ae4ec665d:0xf2c230912ffcd144!8m2!3d37.1504242!4d9.7881447!16s%2Fg%2F11g6_v96lc!19sChIJXWbs5Ioj4xIRRNH8L5EwwvI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_Sz6nXoj4xIRyKlzNJFhZRg",
+        "name": "cafe gouider",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe gouider (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPtX1sHkGw7qjy5Dn8vh42q2l2v5zPLgI_OQvzw=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "04:00-01:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "5Q4G+F92 cafe gouider, Menzel Bourguiba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+gouider/data=!4m7!3m6!1s0x12e3237a9dfa2cfd:0x186561913473a9c8!8m2!3d37.1561962!4d9.7757774!16s%2Fg%2F11tfm5npwt!19sChIJ_Sz6nXoj4xIRyKlzNJFhZRg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJiZYxn_Qj4xIROdypdpXTMEc",
+        "name": "Cafe Brazilia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Brazilia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOP9duY3aKeWdI2kZ0hsiLsIbQV5V-arl7vJUcm=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "5Q3R+5MP Cafe Brazilia, Menzel Bourguiba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Brazilia/data=!4m7!3m6!1s0x12e323f49f319689:0x4730d39576a9dc39!8m2!3d37.1529592!4d9.7916964!16s%2Fg%2F11dymc4zxb!19sChIJiZYxn_Qj4xIROdypdpXTMEc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJEVo0maDh4hIR6UrPDiJOo-k",
+        "name": "Cafe Hmoudi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "100497649464651619027",
+            "name": "Cafe Hmoudi (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100497649464651619027"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOVhDe-g63Q9ILiEd-KZ6M8qHNRoPlUXWsw6NqT=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe Hmoudi, Hopelessness Blvd, Menzel Jemil",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Hmoudi/data=!4m7!3m6!1s0x12e2e1a099345a11:0xe9a34e220ecf4ae9!8m2!3d37.2356778!4d9.9024962!16s%2Fg%2F11kxhx38p6!19sChIJEVo0maDh4hIR6UrPDiJOo-k?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9U4Qhasf4xIRKoFjQy1zC9M",
+        "name": "Cafe Chihi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Chihi (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "7V2G+4RM Cafe Chihi, Menzel Abderrahmen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Chihi/data=!4m7!3m6!1s0x12e31fab85104ef5:0xd30b732d4363812a!8m2!3d37.2503277!4d9.8770401!16s%2Fg%2F11gnpj6z1q!19sChIJ9U4Qhasf4xIRKoFjQy1zC9M?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJVSW3dFQf4xIRJA220T-6LsY",
+        "name": "Cafe El Capo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe El Capo (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMBc-LVL7hdY0AoSHF_UdCxa0YoWOFLUt2iBPia=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "7V28+RQQ Cafe El Capo, Menzel Abderrahmane",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+El+Capo/data=!4m7!3m6!1s0x12e31f5474b72555:0xc62eba3fd1b60d24!8m2!3d37.2520871!4d9.8669706!16s%2Fg%2F11tft154yx!19sChIJVSW3dFQf4xIRJA220T-6LsY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJjXfekUTh4hIR8s-rcvYJqFk",
+        "name": "mqh~ lmlwk",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mqh~ lmlwk (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNLoJDH3qhr04iucc4ZQGahuW39zKuOgO1eIXZu=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "6WP4+MR mqh~ lmlwk, Menzel Jemil",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D9%82%D9%87%D9%89+%D8%A7%D9%84%D9%85%D9%84%D9%88%D9%83%E2%80%AD/data=!4m7!3m6!1s0x12e2e14491de778d:0x59a809f672abcff2!8m2!3d37.2366836!4d9.9070498!16s%2Fg%2F11shjnfct2!19sChIJjXfekUTh4hIR8s-rcvYJqFk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJkdxuxFbh4hIRP-ueEvzUyiw",
+        "name": "bonjour Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "bonjour Cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO9C_DG0iycry2zyGQ9Skad2tnK6TTg0LgCR25J=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "6WP8+F2Q bonjour Cafe, No-Hope St, Menzel Jemil 7080",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/bonjour+Cafe/data=!4m7!3m6!1s0x12e2e156c46edc91:0x2ccad4fc129eeb3f!8m2!3d37.2362168!4d9.9150943!16s%2Fg%2F11pw6wvvhx!19sChIJkdxuxFbh4hIRP-ueEvzUyiw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuR9V4bAj4xIRjfXW43kXXGQ",
+        "name": "Cafe maryouma",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe maryouma (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPXjf9cOgbk05rg4rkbClrVa4fCrJtR0nOJkmuY=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe maryouma, 84 Av. de L'independance, Menzel Bourguiba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+maryouma/data=!4m7!3m6!1s0x12e323b0e1551fb9:0x645c1779e3d6f58d!8m2!3d37.1593071!4d9.7724747!16s%2Fg%2F11kjp3vsm4!19sChIJuR9V4bAj4xIRjfXW43kXXGQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJw7Fh-IQf4xIR6jsedQ1O8Xo",
+        "name": "Cafe La Liberte",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "112294420152696662886",
+            "name": "Cafe La Liberte (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/112294420152696662886"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOuHmFmFm4AlbK6qdkt8m87C5Wo-VNS3pRXrbxG=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "05:30-00:00",
+        "closed_on": [],
+        "phone": "51 668 032",
+        "address": "Cafe La Liberte, Menzel Abderrahmen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+La+Liberte/data=!4m7!3m6!1s0x12e31f84f861b1c3:0x7af14e0d751e3bea!8m2!3d37.2346859!4d9.864989!16s%2Fg%2F11df7yyks0!19sChIJw7Fh-IQf4xIR6jsedQ1O8Xo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJWy7ycgMf4xIRCKXuHzgJ5vM",
+        "name": "Lala land",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "106842488059025702965",
+            "name": "Lala land (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106842488059025702965"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOpqStl7SRyrZjlvUZNzbGuU2y_fv30UF_YBPH0=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": "97 084 087",
+        "address": "Lala land, Manzel abd rahmen, 7021, Menzel Abderrahmen 7021",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lala+land/data=!4m7!3m6!1s0x12e31f0372f22e5b:0xf3e609381feea508!8m2!3d37.2348316!4d9.8789865!16s%2Fg%2F11vb_lshvv!19sChIJWy7ycgMf4xIRCKXuHzgJ5vM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJsXT77wnh4hIR4tCU4kkhluA",
+        "name": "cafe Ali Ouni",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "100637604150739715240",
+            "name": "cafe Ali Ouni (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100637604150739715240"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO16Q4esgg94UpabEvs8b_lRsJCUhksFjVDXUBZ=w533-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "94 283 039",
+        "address": "cafe Ali Ouni, Menzel Jemil 7080",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/cafe+Ali+Ouni/data=!4m7!3m6!1s0x12e2e109effb74b1:0xe0962149e294d0e2!8m2!3d37.236534!4d9.9227794!16s%2Fg%2F11l59tjjc7!19sChIJsXT77wnh4hIR4tCU4kkhluA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJjR4_DNkf4xIRPcHDqnVdVhg",
+        "name": "mqh~ lqySr",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mqh~ lqySr (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPfZ-d5fl4yW-YsR5f5lcpcTrlACH55Hva-mMKv=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "6VPX+86X mqh~ lqySr, Menzel Jemil",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D9%82%D9%87%D9%89+%D8%A7%D9%84%D9%82%D9%8A%D8%B5%D8%B1%E2%80%AD/data=!4m7!3m6!1s0x12e31fd90c3f1e8d:0x18565d75aac3c13d!8m2!3d37.2359648!4d9.8974834!16s%2Fg%2F11k3rpgp52!19sChIJjR4_DNkf4xIRPcHDqnVdVhg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJTcVPvawf4xIRkN5z9Gyhyn4",
+        "name": "Cafe mamya",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe mamya (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XjaN8ndD4shJKDPcLoVI6g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=217.50363&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "98 680 912",
+        "address": "6VP7+27X Cafe mamya, Menzel Abderrahmen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+mamya/data=!4m7!3m6!1s0x12e31facbd4fc54d:0x7ecaa16cf473de90!8m2!3d37.235104!4d9.8632279!16s%2Fg%2F11fp8_52nz!19sChIJTcVPvawf4xIRkN5z9Gyhyn4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ62bKCj0j4xIRUiufZwm356s",
+        "name": "Cafe azouzi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe azouzi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNEgMMVbLNQEDQJhIhH2a1uuGWSa2UNPN4ORhbE=w546-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "6Q34+H55 Cafe azouzi, P11, Menzel Bourguiba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+azouzi/data=!4m7!3m6!1s0x12e3233d0aca66eb:0xabe7b709679f2b52!8m2!3d37.2038928!4d9.7554865!16s%2Fg%2F11kq6b8syd!19sChIJ62bKCj0j4xIRUiufZwm356s?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJyQSYeK3h4hIRKbyBRTO5bEk",
+        "name": "CAFE RADHOUEN",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "CAFE RADHOUEN (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "6WQH+8FR CAFE RADHOUEN, thny@ `yn lnjH, Menzel Jemil",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CAFE+RADHOUEN/data=!4m7!3m6!1s0x12e2e1ad789804c9:0x496cb9334581bc29!8m2!3d37.2383615!4d9.9286513!16s%2Fg%2F11sfbdvygv!19sChIJyQSYeK3h4hIRKbyBRTO5bEk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ890N0Zbh4hIRhyx7JB3A5ys",
+        "name": "Cafe al sousi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe al sousi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNC3kdyMZlP3VEbEOSUWLAzcSQjnSqm3GamJ2au=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe al sousi, 7 RN8, Menzel Jemil",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+al+sousi/data=!4m7!3m6!1s0x12e2e196d10dddf3:0x2be7c01d247b2c87!8m2!3d37.2441666!4d9.9111301!16s%2Fg%2F11kq4x8446!19sChIJ890N0Zbh4hIRhyx7JB3A5ys?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4bkqoloj4xIR2hKCthzDnsk",
+        "name": "Cafe Blel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "109497636722783429110",
+            "name": "Cafe Blel (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/109497636722783429110"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=45cvTZGveIXH8JG39BnfTg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=63.449104&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe Blel, Station Louages - Bizerte MB, Menzel Bourguiba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Blel/data=!4m7!3m6!1s0x12e3235aa22ab9e1:0xc99ec31cb68212da!8m2!3d37.1559185!4d9.7889999!16s%2Fg%2F11hmz5gm0h!19sChIJ4bkqoloj4xIR2hKCthzDnsk?authuser=0&hl=fr&rclk=1"
+    }
+]

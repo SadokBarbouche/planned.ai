@@ -1,0 +1,84 @@
+[
+    {
+        "place_id": "ChIJX8J3_mEx4xIRPvGyFLDq8EU",
+        "name": "Club petanque mateur",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Club petanque mateur (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPLZ4mWpJdauIFzyAU8qkBrls0Wd8AIuQcG5Rfk=w408-h544-k-no",
+        "main_category": "Club d'athletisme",
+        "categories": [
+            "Club d'athletisme"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "2MQ9+5W2 Club petanque mateur, Mateur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Club+petanque+mateur/data=!4m7!3m6!1s0x12e33161fe77c25f:0x45f0eab014b2f13e!8m2!3d37.037883!4d9.6697538!16s%2Fg%2F11hvdh03zs!19sChIJX8J3_mEx4xIRPvGyFLDq8EU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZSgRFArF4hIRaFvTsIlZ5-0",
+        "name": "Mbarek Ghabbarou",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "108343395646523597109",
+            "name": "Mbarek Ghabbarou (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108343395646523597109"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOGhvJ3lJ7ndPnvyHfXvPqVFjEuGjPDuPp5Uxl1=w408-h312-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "lundi",
+            "mardi",
+            "mercredi",
+            "jeudi",
+            "vendredi",
+            "samedi"
+        ],
+        "phone": "22 074 399",
+        "address": "Mbarek Ghabbarou, Kalaate Al Andalouss",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mbarek+Ghabbarou/data=!4m7!3m6!1s0x12e2c50a14112865:0xede75989b0d35b68!8m2!3d37.0603985!4d10.1244033!16s%2Fg%2F11f_j21frm!19sChIJZSgRFArF4hIRaFvTsIlZ5-0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJXa0ameox4xIRfzj1cfeVUs8",
+        "name": "MATEUR",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "101026349302694384863",
+            "name": "MATEUR (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101026349302694384863"
+        },
+        "featured_image": null,
+        "main_category": "Librairie",
+        "categories": [
+            "Librairie"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "2MV2+FW3 MATEUR, Ecole, Mateur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/MATEUR/data=!4m7!3m6!1s0x12e331ea991aad5d:0xcf5295f771f5387f!8m2!3d37.043483!4d9.650978!16s%2Fg%2F11sk1n4ytd!19sChIJXa0ameox4xIRfzj1cfeVUs8?authuser=0&hl=fr&rclk=1"
+    }
+]

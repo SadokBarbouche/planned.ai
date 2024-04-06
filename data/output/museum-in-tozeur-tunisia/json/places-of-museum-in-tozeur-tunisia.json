@@ -1,0 +1,124 @@
+[
+    {
+        "place_id": "ChIJt7k0QinAVxIRGamtcwUVeOE",
+        "name": "Musee Dar Cherait",
+        "description": "Musee dans manoir restaure avec expos d'objets anciens, d'oeuvres d'art et de costumes tunisiens traditionnels.",
+        "is_spending_on_ads": false,
+        "reviews": 442,
+        "website": "https://m.facebook.com/darcheraittozeur/",
+        "owner": {
+            "id": null,
+            "name": "Musee Dar Cherait (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPTM0dZvBGucoaNf6tngFBAiBGkHTcghFFoNekO=w408-h723-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": "76 452 100",
+        "address": "W47C+769 Musee Dar Cherait, Rte Touristique, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "histoire de la tunisie",
+                "count": 18
+            },
+            {
+                "keyword": "culturel",
+                "count": 9
+            },
+            {
+                "keyword": "enfants",
+                "count": 8
+            },
+            {
+                "keyword": "tradition",
+                "count": 7
+            },
+            {
+                "keyword": "touristique",
+                "count": 6
+            },
+            {
+                "keyword": "reve",
+                "count": 5
+            },
+            {
+                "keyword": "prix",
+                "count": 5
+            },
+            {
+                "keyword": "evolution",
+                "count": 4
+            },
+            {
+                "keyword": "decor",
+                "count": 3
+            },
+            {
+                "keyword": "langues",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Dar+Chera%C3%AFt/data=!4m7!3m6!1s0x1257c0294234b9b7:0xe178150573ada919!8m2!3d33.9131625!4d8.1206094!16s%2Fg%2F1223q96c!19sChIJt7k0QinAVxIRGamtcwUVeOE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJQQx0PynAVxIR8FxknPKyRlI",
+        "name": "Musee Archeologique Et Traditionnel Sidi Ben Aissa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee Archeologique Et Traditionnel Sidi Ben Aissa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNvKQzoj9h-8r9Jvvb2YVn_hEvajWatlWxTQiGf=w408-h306-k-no",
+        "main_category": "Musee du patrimoine",
+        "categories": [
+            "Musee du patrimoine"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-18:00",
+        "closed_on": [],
+        "phone": "97 091 083",
+        "address": "W4CQ+M6W Musee Archeologique Et Traditionnel Sidi Ben Aissa, Av. de Kairouan, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "experience",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Archeologique+Et+Traditionnel+Sidi+Ben+A%C3%AFssa/data=!4m7!3m6!1s0x1257c0293f740c41:0x5246b2f29c645cf0!8m2!3d33.9217444!4d8.138093!16s%2Fg%2F11csqzjxw5!19sChIJQQx0PynAVxIR8FxknPKyRlI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJcWdH_ePBVxIRsPHQidDyH6E",
+        "name": "Musee d'Arts Tozeurous",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee d'Arts Tozeurous (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOpNZ88YqE1x6jWXMIUtyKSrJMq0FL3dPSvyVlk=w426-h240-k-no",
+        "main_category": "Musee d'art",
+        "categories": [
+            "Musee d'art"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "W4CQ+9CG Musee d'Arts Tozeurous, Ouled El Hadef, Av. de Kairouan, Tozeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+d%27Arts+Tozeurous/data=!4m7!3m6!1s0x1257c1e3fd476771:0xa11ff2d089d0f1b0!8m2!3d33.9209424!4d8.1385604!16s%2Fg%2F11pbl1v6b_!19sChIJcWdH_ePBVxIRsPHQidDyH6E?authuser=0&hl=fr&rclk=1"
+    }
+]

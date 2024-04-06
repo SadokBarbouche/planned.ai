@@ -1,0 +1,53 @@
+[
+    {
+        "place_id": "ChIJPwmNj2RY-xIRvnxG40jAd8w",
+        "name": "Ksar Bardo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 62,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ksar Bardo (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNOeNLM0sJW35jx9rLWPECk-T6tEK_36LPNAmL9=w426-h240-k-no",
+        "main_category": "Site archeologique",
+        "categories": [
+            "Site archeologique",
+            "Attraction touristique"
+        ],
+        "rating": 4,
+        "workday_timing": "09:00-21:00",
+        "closed_on": [],
+        "phone": "78 455 306",
+        "address": "P5MG+WJ4 Ksar Bardo, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ksar+Bardo/data=!4m7!3m6!1s0x12fb58648f8d093f:0xcc77c048e3467cbe!8m2!3d36.7347576!4d9.1765811!16s%2Fg%2F120qcvcs!19sChIJPwmNj2RY-xIRvnxG40jAd8w?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJByNuEHZY-xIRtFJER8v72mI",
+        "name": "jm` bj@ ljdyd@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "jm` bj@ ljdyd@ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOXCczgqOrkmVMs9bNH7lMeLlUHOxdENhDjdaxG=w426-h240-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "P5VQ+4M3 jm` bj@ ljdyd@, Av. Tahar Haddad, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%AC%D8%A7%D9%85%D8%B9+%D8%A8%D8%A7%D8%AC%D8%A9+%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x12fb5876106e2307:0x62dafbcb474452b4!8m2!3d36.742771!4d9.1891867!16s%2Fg%2F11c1s3jc5h!19sChIJByNuEHZY-xIRtFJER8v72mI?authuser=0&hl=fr&rclk=1"
+    }
+]

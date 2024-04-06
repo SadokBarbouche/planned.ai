@@ -1,0 +1,440 @@
+[
+    {
+        "place_id": "ChIJVzhpG4BY-xIR2N1G8MoS3UI",
+        "name": "AGIL Beja",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": "http://www.agil.com.tn/",
+        "owner": {
+            "id": null,
+            "name": "AGIL Beja (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOEwc2PNlyMxItxbvufhQXkmg61tUgsqkpOJRZx=w408-h306-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 3.9,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "P5GQ+QR4 AGIL Beja, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/AGIL+B%C3%A9ja/data=!4m7!3m6!1s0x12fb58801b693857:0x42dd12caf046ddd8!8m2!3d36.7268893!4d9.1895726!16s%2Fg%2F1hc39zb1h!19sChIJVzhpG4BY-xIR2N1G8MoS3UI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJlRoeOp2n_BIRrSFoVHRMmV8",
+        "name": "TOTAL - BEJA twtl",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": "http://www.total.tn/",
+        "owner": {
+            "id": null,
+            "name": "TOTAL - BEJA twtl (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 3.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "78 450 100",
+        "address": "P6H2+8M9 TOTAL - BEJA twtl, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/TOTAL+-+BEJA+%D8%AA%D9%88%D8%AA%D8%A7%D9%84%E2%80%AD/data=!4m7!3m6!1s0x12fca79d3a1e1a95:0x5f994c74546821ad!8m2!3d36.7282995!4d9.2017418!16s%2Fg%2F1thndt69!19sChIJlRoeOp2n_BIRrSFoVHRMmV8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJPVUNm56n_BIRD0Anq7TZJeY",
+        "name": "OLA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "OLA (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO0mvv8w3eyzoK5ctmjaooTaB8vPwCfNOy55xU2=w408-h245-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 3.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "P6H4+VQG OLA, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/OLA/data=!4m7!3m6!1s0x12fca79e9b0d553d:0xe625d9b4ab27400f!8m2!3d36.7296883!4d9.2069533!16s%2Fg%2F1tzfvbfz!19sChIJPVUNm56n_BIRD0Anq7TZJeY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZaG_i4BY-xIRHlJwmQSuAbE",
+        "name": "Station louage Tunis",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station louage Tunis (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNME5tQZ9LtDwFKx1JWAqRI35IEhkVwhUp_hvc5=w408-h306-k-no",
+        "main_category": "Parking",
+        "categories": [
+            "Parking"
+        ],
+        "rating": 3.8,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "P5GP+MQC Station louage Tunis, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+louage+Tunis/data=!4m7!3m6!1s0x12fb58808bbfa165:0xb101ae049970521e!8m2!3d36.7266878!4d9.1868864!16s%2Fg%2F11cp5vk64p!19sChIJZaG_i4BY-xIRHlJwmQSuAbE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJx21v_XdY-xIRGuDRCo_7Jmg",
+        "name": "Beja Marchandises",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Beja Marchandises (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNOiu0X8AW5oFKjxV4WC-ewrLTNtfHk3PUfvSxS=w408-h306-k-no",
+        "main_category": "Arret de transports en commun",
+        "categories": [
+            "Arret de transports en commun"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Beja Marchandises, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Beja+Marchandises/data=!4m7!3m6!1s0x12fb5877fd6f6dc7:0x6826fb8f0ad1e01a!8m2!3d36.7387942!4d9.1898576!16s%2Fg%2F11c0rvkx32!19sChIJx21v_XdY-xIRGuDRCo_7Jmg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJHw_Hv4-n_BIRnNmooMKyM00",
+        "name": "SHELL",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "SHELL (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPe-V97VlMBF02RYZQw1RO0B5-Ed-ze-tQMfXVL=w427-h240-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 3.8,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "P5QX+HQ9 SHELL, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/SHELL/data=!4m7!3m6!1s0x12fca78fbfc70f1f:0x4d33b2c2a0a8d99c!8m2!3d36.7389037!4d9.1994796!16s%2Fg%2F11c53rkzr1!19sChIJHw_Hv4-n_BIRnNmooMKyM00?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJUw8f5Xan_BIR1x4EWKzYB5c",
+        "name": "Staroil Beja Ceinture",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Staroil Beja Ceinture (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMaHw0oODWqW9qgHBo01lCDTsEYwubCOLHsdGTK=w408-h306-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 3.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "P6F3+5PV Staroil Beja Ceinture, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Staroil+B%C3%A9ja+Ceinture/data=!4m7!3m6!1s0x12fca776e51f0f53:0x9707d8ac58041ed7!8m2!3d36.722998!4d9.2042823!16s%2Fg%2F11c1l5y6lg!19sChIJUw8f5Xan_BIR1x4EWKzYB5c?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJe41oDO9Z-xIRVZDHJlVGSSg",
+        "name": "bjaoui Key",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "http://www.facebook.com/kais.bjaoui.96",
+        "owner": {
+            "id": "110206436024514070858",
+            "name": "bjaoui Key (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/110206436024514070858"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPqDCuAteFkSeF9nIpNsdix4aLQQj9JtlhPjO01=w408-h306-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "98 331 911",
+        "address": "bjaoui Key, 32 rue habib haddad, Beja 9000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/bjaoui+Key/data=!4m7!3m6!1s0x12fb59ef0c688d7b:0x2849465526c79055!8m2!3d36.7258153!4d9.1862962!16s%2Fg%2F11gyytnb64!19sChIJe41oDO9Z-xIRVZDHJlVGSSg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJbyo3ZYKn_BIRz_3iJDT-1wQ",
+        "name": "Shell",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://find.shell.com/tn/fuel/TN_10044804-beja-iii",
+        "owner": {
+            "id": "116151628311250331072",
+            "name": "Shell (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/116151628311250331072"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOURpS_vTmH6csklLT5B2ned8jHKN8KR-0HjO5H=w408-h306-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service",
+            "Station de lavage automobile",
+            "Superette",
+            "Sandwicherie"
+        ],
+        "rating": 3.7,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "71 249 149",
+        "address": "Shell, Avenue de l'Environnement Beja Iii Rte De Tunis, Gp6, Beja 9000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Shell/data=!4m7!3m6!1s0x12fca78265372a6f:0x4d7fe3424e2fdcf!8m2!3d36.7276207!4d9.1977561!16s%2Fg%2F1td8dpkn!19sChIJbyo3ZYKn_BIRz_3iJDT-1wQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJleIHOIBY-xIRLlP0WrZQZYM",
+        "name": "Shell",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://find.shell.com/tn/fuel/TN_10044798-beja-ville",
+        "owner": {
+            "id": "118004138949506318692",
+            "name": "Shell (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/118004138949506318692"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNSS4trEyTFkQvvp9sVf2mA3cxFyV-G-ZkHVsCm=w408-h544-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service",
+            "Station de lavage automobile",
+            "Superette"
+        ],
+        "rating": 4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "71 249 149",
+        "address": "Shell, Avenue Habib Bourguiba Beja Ville, Av Habib Thameur, Beja 9000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Shell/data=!4m7!3m6!1s0x12fb58803807e295:0x836550b65af4532e!8m2!3d36.7256895!4d9.1885282!16s%2Fg%2F1w2gs7y3!19sChIJleIHOIBY-xIRLlP0WrZQZYM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ191E6n-n_BIRiGjxsmZtqRA",
+        "name": "SRTBeja",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "SRTBeja (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOJvfq_XTV8MFnSXuuCczU1ZCJddrYpfTZpQfkc=w408-h725-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 2.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "78 457 433",
+        "address": "P5GR+FCW SRTBeja, Av. de l'Environnement, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/SRTBeja/data=!4m7!3m6!1s0x12fca77fea44ddd7:0x10a96d66b2f16888!8m2!3d36.7262325!4d9.1910685!16s%2Fg%2F11c56c685_!19sChIJ191E6n-n_BIRiGjxsmZtqRA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJsYlBrX9Y-xIR2Urw9cJnyM0",
+        "name": "S.G.P Beja",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "S.G.P Beja (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOmq7zJQ-bWHKR5XRtORWK3QCDSeV_tnld_J9V4=w408-h306-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "78 455 088",
+        "address": "P5HP+WVG S.G.P Beja, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/S.G.P+Beja/data=!4m7!3m6!1s0x12fb587fad4189b1:0xcdc867c2f5f04ad9!8m2!3d36.7298213!4d9.1872156!16s%2Fg%2F11gbxby26x!19sChIJsYlBrX9Y-xIR2Urw9cJnyM0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJw1VrmnpY-xIRi77OJsVfwb4",
+        "name": "Hamia Mecancien",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hamia Mecancien (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "40 691 216",
+        "address": "P5QJ+87J Hamia Mecancien, Unnamed Road, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hamia+Mecancien/data=!4m7!3m6!1s0x12fb587a9a6b55c3:0xbec15fc526cebe8b!8m2!3d36.7383468!4d9.1806484!16s%2Fg%2F11dz1brx0j!19sChIJw1VrmnpY-xIRi77OJsVfwb4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtRBhRYFY-xIRLdM-RMFS-Ns",
+        "name": "Station de taxis",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de taxis (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Station de taxis",
+        "categories": [
+            "Station de taxis"
+        ],
+        "rating": 2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "P5FP+82P Station de taxis, Avenue Habib Bourguiba, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+taxis/data=!4m7!3m6!1s0x12fb5881456110b5:0xdbf852c1443ed32d!8m2!3d36.7233399!4d9.1850746!16s%2Fg%2F12qgzw1pr!19sChIJtRBhRYFY-xIRLdM-RMFS-Ns?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_2w7m35Z-xIRXYMOqdLrOI0",
+        "name": "Accessoires Auto Beja",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "116355587878169015393",
+            "name": "Accessoires Auto Beja (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/116355587878169015393"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNpra3BLXls1aJJMZIZgwpjQ7S2b85rwzq_Awxf=w408-h725-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-18:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "96 569 983",
+        "address": "P5MG+Q59 Accessoires Auto Beja, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Accessoires+Auto+Beja/data=!4m7!3m6!1s0x12fb597e9b3b6cff:0x8d38ebd2a90e835d!8m2!3d36.7347568!4d9.1754536!16s%2Fg%2F11vbtt_jf0!19sChIJ_2w7m35Z-xIRXYMOqdLrOI0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7VhPjIBY-xIRolv_aYpLVdc",
+        "name": "Station de Louage",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de Louage (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Station de taxis",
+        "categories": [
+            "Station de taxis"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "P5GP+MMF Station de Louage, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+Louage/data=!4m7!3m6!1s0x12fb58808c4f58ed:0xd7554b8a69ff5ba2!8m2!3d36.726687!4d9.1866601!16s%2Fg%2F11g6ylqw1h!19sChIJ7VhPjIBY-xIRolv_aYpLVdc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ50avSYRY-xIROfP-a4ToyJ0",
+        "name": "Louage Station Beja-Jendouba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Louage Station Beja-Jendouba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMOH-3q9T1LJsO3tC-OHS1ygKP3aFRO0A6yCti2=w408-h306-k-no",
+        "main_category": "Demenageur",
+        "categories": [
+            "Demenageur"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "P5CJ+HV4 Louage Station Beja-Jendouba, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Louage+Station+Beja-Jendouba/data=!4m7!3m6!1s0x12fb588449af46e7:0x9dc8e8846bfef339!8m2!3d36.7213755!4d9.1821896!16s%2Fg%2F11c1qql58z!19sChIJ50avSYRY-xIROfP-a4ToyJ0?authuser=0&hl=fr&rclk=1"
+    }
+]

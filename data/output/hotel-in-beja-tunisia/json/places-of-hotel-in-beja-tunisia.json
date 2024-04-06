@@ -1,0 +1,133 @@
+[
+    {
+        "place_id": "ChIJ8UjyUkhC-xIRSb-oDrNqzWQ",
+        "name": "Dar Khadija",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 44,
+        "website": null,
+        "owner": {
+            "id": "100949818888901787087",
+            "name": "Dar Khadija (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100949818888901787087"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOCnOa7IA95Mau8OdVTh9xxI5ZtOteo8qvcF-sM=w506-h240-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "29 228 555",
+        "address": "Dar Khadija, shira, Bou Salem",
+        "review_keywords": [
+            {
+                "keyword": "arbres",
+                "count": 3
+            },
+            {
+                "keyword": "piscine",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Khadija/data=!4m10!3m9!1s0x12fb424852f248f1:0x64cd6ab30ea8bf49!5m2!4m1!1i2!8m2!3d36.6521614!4d8.9487938!16s%2Fg%2F11df7l8myd!19sChIJ8UjyUkhC-xIRSb-oDrNqzWQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-z-EOXocVRIR_OdAbyEsWfo",
+        "name": "Auberge Ben Ahmed",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 33,
+        "website": null,
+        "owner": {
+            "id": "103725375785851191581",
+            "name": "Auberge Ben Ahmed (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103725375785851191581"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhF67ndFF0B6aZKL2eDyKjQ4hMI-MG0J7pCQ5satRf22xr8CAgz23S9WX9gkkydRGzJrAJOOlKKM2TKEmR0mXCCX34sCHRMV2FYP_eyNyMTxsc35CPEQeHY78jyT5TweT5f1TSZ9tDZSV03tIejJpa0ECdibgzkqd7Rx9vqh5pEa0U6qXyWjrzAr=w408-h271-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "96 958 004",
+        "address": "Auberge Ben Ahmed, C104, Toujane",
+        "review_keywords": [
+            {
+                "keyword": "region",
+                "count": 6
+            },
+            {
+                "keyword": "repas",
+                "count": 4
+            },
+            {
+                "keyword": "troglodytes",
+                "count": 3
+            },
+            {
+                "keyword": "randonnees",
+                "count": 3
+            },
+            {
+                "keyword": "experience",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Auberge+Ben+Ahmed/data=!4m10!3m9!1s0x12551c7a39843ffb:0xfa592c216f40e7fc!5m2!4m1!1i2!8m2!3d33.4633619!4d10.1349715!16s%2Fg%2F1hm30m2p7!19sChIJ-z-EOXocVRIR_OdAbyEsWfo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuftFz3NK-RIR13QFVzpTX2Y",
+        "name": "Hotel de la Jeunesse",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hotel de la Jeunesse (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNv2h6scWy9lCcpH1gPBUZmmwl_e8avspgUnsWI=w408-h544-k-no",
+        "main_category": "Hostel",
+        "categories": [
+            "Hostel"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "77 466 528",
+        "address": "Hotel de la Jeunesse, 40 Av. Habib Bourguiba, Sbeitla",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hotel+de+la+Jeunesse/data=!4m10!3m9!1s0x12f94a73cf45fbb9:0x665f533a570574d7!5m2!4m1!1i2!8m2!3d35.2284444!4d9.1280053!16s%2Fg%2F11c5bdbxgt!19sChIJuftFz3NK-RIR13QFVzpTX2Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2Q4rVPF9VRIRSFFtAnK0pic",
+        "name": "Auberge essanya",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": "114004329328200533840",
+            "name": "Auberge essanya (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114004329328200533840"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM1_f4zn85T--_DR7mlmcBqXfpRzZztwhPSQk9s=w408-h408-k-no",
+        "main_category": "Hostellerie",
+        "categories": [
+            "Hostellerie",
+            "Hebergement d'interieur"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "96 211 420",
+        "address": "Auberge essanya, 6010, Al-Matwiyah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Auberge+essanya/data=!4m10!3m9!1s0x12557df1542b0ed9:0x27a6b472026d5148!5m2!4m1!1i2!8m2!3d34.0536106!4d10.013878!16s%2Fg%2F11fk8c8jkl!19sChIJ2Q4rVPF9VRIRSFFtAnK0pic?authuser=0&hl=fr&rclk=1"
+    }
+]

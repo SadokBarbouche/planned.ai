@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJd48tMfWYAhMRi-cTQHYYaN0",
+        "name": "Residence La Princesse de la mer Nabeul",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 28,
+        "website": null,
+        "owner": {
+            "id": "105444361585184025895",
+            "name": "Residence La Princesse de la mer Nabeul (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105444361585184025895"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNj6qeQ0Sih0dAismapiC5J0E888DQVxMcSRPsf=w408-h306-k-no",
+        "main_category": "Residence hoteliere",
+        "categories": [
+            "Residence hoteliere"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "54 153 336",
+        "address": "Residence La Princesse de la mer Nabeul, Av. du Dr Mohamed Souissi, Dar Chaabane Al Fehri",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/R%C3%A9sidence+La+Princesse+de+la+mer+Nabeul/data=!4m7!3m6!1s0x130298f5312d8f77:0xdd6818764013e78b!8m2!3d36.445843!4d10.7531107!16s%2Fg%2F11f06jh8yb!19sChIJd48tMfWYAhMRi-cTQHYYaN0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJL-2qUwyZAhMRCiNt100BWrA",
+        "name": "La mer de Nabeul",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La mer de Nabeul (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP0DqLPMfRG_4GMyerlXogUV5uzhTZelpPdxVqu=w408-h306-k-no",
+        "main_category": "Location d'appartement de vacances",
+        "categories": [
+            "Location d'appartement de vacances"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "CPRW+Q57 La mer de Nabeul, Nabeul",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+mer+de+Nabeul/data=!4m7!3m6!1s0x1302990c53aaed2f:0xb05a014dd76d230a!8m2!3d36.4419222!4d10.7454198!16s%2Fg%2F11t062gq9d!19sChIJL-2qUwyZAhMRCiNt100BWrA?authuser=0&hl=fr&rclk=1"
+    }
+]

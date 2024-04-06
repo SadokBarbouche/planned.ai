@@ -1,0 +1,483 @@
+[
+    {
+        "place_id": "ChIJw5rkkygyHRMR97pYtmu5VoI",
+        "name": "Cap-Bon Kelibia Beach Hotel & Spa",
+        "description": "Hotel balneaire haut de gamme avec chambres/suites chaleureuses, spa et 3 restaurants raffines.",
+        "is_spending_on_ads": false,
+        "reviews": 562,
+        "website": "https://kelibiabeachhotel.com/",
+        "owner": {
+            "id": "100289006971291855197",
+            "name": "Cap-Bon Kelibia Beach Hotel & Spa (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100289006971291855197"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP7pkHqbuP_9YohabHNsSicTFDSdbtOcEZ8mfWn=w408-h272-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel",
+            "Restaurant",
+            "Spa",
+            "Piscine"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 277 770",
+        "address": "Cap-Bon Kelibia Beach Hotel & Spa, Plage El Mansourah, Kelibia 8090",
+        "review_keywords": [
+            {
+                "keyword": "animation",
+                "count": 53
+            },
+            {
+                "keyword": "sable",
+                "count": 16
+            },
+            {
+                "keyword": "italienne",
+                "count": 9
+            },
+            {
+                "keyword": "massage",
+                "count": 9
+            },
+            {
+                "keyword": "fils",
+                "count": 9
+            },
+            {
+                "keyword": "village vacances",
+                "count": 8
+            },
+            {
+                "keyword": "juillet",
+                "count": 8
+            },
+            {
+                "keyword": "tout compris",
+                "count": 7
+            },
+            {
+                "keyword": "cristallin",
+                "count": 6
+            },
+            {
+                "keyword": "spectacle vivant",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Cap-Bon+Kelibia+Beach+Hotel+%26+Spa/data=!4m10!3m9!1s0x131d322893e49ac3:0x8256b96bb658baf7!5m2!4m1!1i2!8m2!3d36.8565201!4d11.1260907!16s%2Fg%2F1hdz2z1nq!19sChIJw5rkkygyHRMR97pYtmu5VoI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJz0MXd5604hIRtr7S4vP3MJ0",
+        "name": "Dar El Annabi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 538,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar El Annabi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPjvlhCuH3NyyQOfT9DRkmkuTbBhQFJaYCfql1J=w408-h306-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Musee du patrimoine"
+        ],
+        "rating": 4.7,
+        "workday_timing": "09:00-18:00",
+        "closed_on": [],
+        "phone": "27 913 088",
+        "address": "Dar El Annabi, 48 Rue Hedi Zarrouk, Site archeologique de Carthage",
+        "review_keywords": [
+            {
+                "keyword": "terrasses",
+                "count": 16
+            },
+            {
+                "keyword": "prix",
+                "count": 16
+            },
+            {
+                "keyword": "famille",
+                "count": 15
+            },
+            {
+                "keyword": "dinar",
+                "count": 7
+            },
+            {
+                "keyword": "architecture",
+                "count": 7
+            },
+            {
+                "keyword": "vie",
+                "count": 7
+            },
+            {
+                "keyword": "maison-musee",
+                "count": 6
+            },
+            {
+                "keyword": "passe",
+                "count": 5
+            },
+            {
+                "keyword": "jardin",
+                "count": 5
+            },
+            {
+                "keyword": "culturelle",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+El+Annabi/data=!4m7!3m6!1s0x12e2b49e771743cf:0x9d30f7f3e2d2beb6!8m2!3d36.8709673!4d10.3474229!16s%2Fg%2F11f3w6l6p1!19sChIJz0MXd5604hIRtr7S4vP3MJ0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJsVSgN7UzHRMRjWOM_4Wo31k",
+        "name": "Fort de Kelibia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 460,
+        "website": null,
+        "owner": {
+            "id": "115446203906555475854",
+            "name": "Fort de Kelibia (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/115446203906555475854"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNBjLXSMOYZZLZl3clhCWXPAOJ2kWDwUCkIt5g5=w408-h306-k-no",
+        "main_category": "Forteresse",
+        "categories": [
+            "Forteresse"
+        ],
+        "rating": 4.4,
+        "workday_timing": "09:00-18:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Fort de Kelibia, Kelibia",
+        "review_keywords": [
+            {
+                "keyword": "vue",
+                "count": 38
+            },
+            {
+                "keyword": "mer",
+                "count": 17
+            },
+            {
+                "keyword": "l'histoire",
+                "count": 14
+            },
+            {
+                "keyword": "beau",
+                "count": 8
+            },
+            {
+                "keyword": "port",
+                "count": 7
+            },
+            {
+                "keyword": "chateau",
+                "count": 7
+            },
+            {
+                "keyword": "monument",
+                "count": 6
+            },
+            {
+                "keyword": "batiment",
+                "count": 5
+            },
+            {
+                "keyword": "enfants",
+                "count": 3
+            },
+            {
+                "keyword": "touristes",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Fort+de+K%C3%A9libia/data=!4m7!3m6!1s0x131d33b537a054b1:0x59dfa885ff8c638d!8m2!3d36.8379089!4d11.1158275!16s%2Fm%2F0j9m4xx!19sChIJsVSgN7UzHRMRjWOM_4Wo31k?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8w7HxUM_HRMRFYwvW4bfMuU",
+        "name": "Grottes El Haouaria khwf lhwry@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 395,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Grottes El Haouaria khwf lhwry@ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNslg3Q2mc8u42Jx0a4fj5wRHvRbEBhjV_OzjjT=w408-h306-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "72 273 074",
+        "address": "3X5W+QM7 Grottes El Haouaria khwf lhwry@, Al Huwariyah",
+        "review_keywords": [
+            {
+                "keyword": "vue sur la mer",
+                "count": 6
+            },
+            {
+                "keyword": "paysage",
+                "count": 6
+            },
+            {
+                "keyword": "plage",
+                "count": 5
+            },
+            {
+                "keyword": "prix",
+                "count": 4
+            },
+            {
+                "keyword": "risque",
+                "count": 3
+            },
+            {
+                "keyword": "main",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Grottes+El+Haouaria+%D9%83%D9%87%D9%88%D9%81+%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%B1%D9%8A%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x131d3f43c5c70ef3:0xe532df865b2f8c15!8m2!3d37.0594022!4d10.9966791!16s%2Fg%2F11c1nc90zm!19sChIJ8w7HxUM_HRMRFYwvW4bfMuU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtWOBHp4wHRMRWuy_0HaNcUE",
+        "name": "Musee archeologique de Kerkouane",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 117,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee archeologique de Kerkouane (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOT5NQzZJb6HpGXXT-2kKomfX9EMp4b-xJFU9Ht=w408-h306-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique",
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "09:00-16:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "W3XX+4G6 Musee archeologique de Kerkouane, Kerkouane",
+        "review_keywords": [
+            {
+                "keyword": "site archeologique",
+                "count": 8
+            },
+            {
+                "keyword": "ruines",
+                "count": 5
+            },
+            {
+                "keyword": "vie",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+arch%C3%A9ologique+de+Kerkouane/data=!4m7!3m6!1s0x131d309e1e8163b5:0x41718d76d0bfec5a!8m2!3d36.9477853!4d11.0987567!16s%2Fm%2F05b5n_k!19sChIJtWOBHp4wHRMRWuy_0HaNcUE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtQdQXpSYAhMRoRO4cnDaw2c",
+        "name": "Musee Neapolis",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 58,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee Neapolis (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNcykpjCK98U33XK0n2_BxWkvuOXCI5dyn0hltB=w408-h306-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique"
+        ],
+        "rating": 4.1,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "24 178 773",
+        "address": "FP2P+8G3 Musee Neapolis, Nabeul",
+        "review_keywords": [
+            {
+                "keyword": "mosaiques",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+N%C3%A9apolis/data=!4m7!3m6!1s0x130298945e5007b5:0x67c3da7072b813a1!8m2!3d36.4507529!4d10.736297!16s%2Fg%2F1hdyxvfnq!19sChIJtQdQXpSYAhMRoRO4cnDaw2c?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJaxi1cC0zHRMR-XFjZlXesgs",
+        "name": "Plage kelibia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 37,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Plage kelibia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMdpRPVODd_7hGo8Nv3sySrA9oITDMv6DCxjvuq=w408-h306-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "R4RC+GJC Plage kelibia, Unnamed Road, Kelibia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Plage+kelibia/data=!4m7!3m6!1s0x131d332d70b5186b:0xbb2de55666371f9!8m2!3d36.8413206!4d11.1215222!16s%2Fg%2F11rxry1d71!19sChIJaxi1cC0zHRMR-XFjZlXesgs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqeTY314xHRMRq6CCndL-ayc",
+        "name": "Site archeologique de Kerkouane",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Site archeologique de Kerkouane (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNLwDBKhEGnuMjGI8JJQ0lhH1lybJiElKYXiu_l=w408-h544-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "W3WX+HQ6 Site archeologique de Kerkouane, Kerkouane",
+        "review_keywords": [
+            {
+                "keyword": "ruines",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Site+arch%C3%A9ologique+de+Kerkouane/data=!4m7!3m6!1s0x131d315edfd8e4a9:0x276bfed29d82a0ab!8m2!3d36.9464107!4d11.0993788!16s%2Fg%2F11fhr7dwbc!19sChIJqeTY314xHRMRq6CCndL-ayc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJf2F7IRA0HRMRZ5T1FCrHsgo",
+        "name": "Institut superieur des etudes technologiques de Kelibia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": "http://www.isetkl.rnu.tn/",
+        "owner": {
+            "id": null,
+            "name": "Institut superieur des etudes technologiques de Kelibia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOOK5Ct-_CzZO92omJ98Q3FuaJZtYu03vWHDClf=w408-h306-k-no",
+        "main_category": "Institut de technologie",
+        "categories": [
+            "Institut de technologie"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 277 090",
+        "address": "V336+525 Institut superieur des etudes technologiques de Kelibia, Route Oued El Khatf, Kelibia 8090",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Institut+sup%C3%A9rieur+des+%C3%A9tudes+technologiques+de+K%C3%A9libia/data=!4m7!3m6!1s0x131d3410217b617f:0xab2c72a14f59467!8m2!3d36.8528767!4d11.0601168!16s%2Fg%2F11clwm8233!19sChIJf2F7IRA0HRMRZ5T1FCrHsgo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8U8U4B8zHRMRQEkhhhqNHxI",
+        "name": "Kelibia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Kelibia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM6hirSJ44NZGOIjSXY16ouapBXJlsPLujcNQ22=w408-h544-k-no",
+        "main_category": "Service de location de velo",
+        "categories": [
+            "Service de location de velo"
+        ],
+        "rating": 4.2,
+        "workday_timing": "11:00-19:00",
+        "closed_on": [],
+        "phone": "54 905 461",
+        "address": "R3VW+R9X Kelibia, Av. de Martyrs, Kelibia 8090",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/K%C3%A9libia/data=!4m7!3m6!1s0x131d331fe0144ff1:0x121f8d1a86214940!8m2!3d36.8446083!4d11.0959741!16s%2Fg%2F11thnk22cb!19sChIJ8U8U4B8zHRMRQEkhhhqNHxI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJb_MzTpSYAhMRRZxEZEsXiH4",
+        "name": "Nabeul Museum",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Nabeul Museum (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO2pSrt8ZObsfFuZHbkiH7WgI7CdQnPoRjZrWxD=w408-h306-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique",
+            "Musee"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "FP2P+7HC Nabeul Museum, Nabeul",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Nabeul+Museum/data=!4m7!3m6!1s0x130298944e33f36f:0x7e88174b64449c45!8m2!3d36.4506915!4d10.7363967!16s%2Fm%2F0130pvlb!19sChIJb_MzTpSYAhMRRZxEZEsXiH4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7bHuTRgxHRMRhIHY-2NgXtc",
+        "name": "hassine ben moussa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "hassine ben moussa (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "V4R2+534 hassine ben moussa, Hammam Al Ghezaz",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/hassine+ben+moussa/data=!4m7!3m6!1s0x131d31184deeb1ed:0xd75e6063fbd88184!8m2!3d36.8903979!4d11.1001887!16s%2Fg%2F11rkmcwlvq!19sChIJ7bHuTRgxHRMRhIHY-2NgXtc?authuser=0&hl=fr&rclk=1"
+    }
+]

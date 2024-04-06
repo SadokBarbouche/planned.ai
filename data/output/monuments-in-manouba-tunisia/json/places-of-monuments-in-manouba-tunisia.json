@@ -1,0 +1,325 @@
+[
+    {
+        "place_id": "ChIJU4k3gG4y_RIRz1XS_AQOdkY",
+        "name": "Palais Kobbet Ennhas",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 549,
+        "website": "https://www.palaiskobbetennhas.com/",
+        "owner": {
+            "id": null,
+            "name": "Palais Kobbet Ennhas (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPF0LStQKS9lf98VSilzzGnOQUZBnN1y3dJyMJn=w426-h240-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Chapelle de mariage"
+        ],
+        "rating": 4.3,
+        "workday_timing": "09:00-12:00, 13:30-16:30",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "70 615 888",
+        "address": "R35V+WHQ Palais Kobbet Ennhas, 53 Ave Habib Bourguiba, Manouba 2010",
+        "review_keywords": [
+            {
+                "keyword": "fetes",
+                "count": 10
+            },
+            {
+                "keyword": "ceremonies",
+                "count": 7
+            },
+            {
+                "keyword": "organiser",
+                "count": 7
+            },
+            {
+                "keyword": "espace",
+                "count": 7
+            },
+            {
+                "keyword": "architecture",
+                "count": 5
+            },
+            {
+                "keyword": "1756",
+                "count": 3
+            },
+            {
+                "keyword": "magnifique",
+                "count": 3
+            },
+            {
+                "keyword": "contrat",
+                "count": 3
+            },
+            {
+                "keyword": "bey",
+                "count": 3
+            },
+            {
+                "keyword": "nettoyage",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Palais+Kobbet+Ennhas/data=!4m7!3m6!1s0x12fd326e80378953:0x46760e04fcd255cf!8m2!3d36.8098084!4d10.0937225!16s%2Fg%2F1th469gg!19sChIJU4k3gG4y_RIRz1XS_AQOdkY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJq6oVMIsz_RIRNvhJ639n32Y",
+        "name": "Monument Place de la Kasbah",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 205,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Monument Place de la Kasbah (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPZW2NKRAaKDkBxHsxziTs3a-BhjMT8QeBl8-Qx=w408-h306-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "Q5X8+3MQ Monument Place de la Kasbah, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "ministere",
+                "count": 3
+            },
+            {
+                "keyword": "drapeau",
+                "count": 3
+            },
+            {
+                "keyword": "symbole",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Monument+Place+de+la+Kasbah/data=!4m7!3m6!1s0x12fd338b3015aaab:0x66df677feb49f836!8m2!3d36.7977022!4d10.1667476!16s%2Fg%2F11dybdnm04!19sChIJq6oVMIsz_RIRNvhJ639n32Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6Qpez2gy_RIRIV9o2O6-lnY",
+        "name": "Musee National Militaire",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 140,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee National Militaire (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN8lpgkip-Ogx_HwKXtqKRk4KskhD6l49FgtqpZ=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-16:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "70 604 018",
+        "address": "Musee National Militaire, 53 Ave Habib Bourguiba, Manouba",
+        "review_keywords": [
+            {
+                "keyword": "histoire militaire",
+                "count": 18
+            },
+            {
+                "keyword": "armes",
+                "count": 14
+            },
+            {
+                "keyword": "palais",
+                "count": 11
+            },
+            {
+                "keyword": "ministere",
+                "count": 7
+            },
+            {
+                "keyword": "architecture",
+                "count": 7
+            },
+            {
+                "keyword": "guide culturel",
+                "count": 5
+            },
+            {
+                "keyword": "guerres",
+                "count": 4
+            },
+            {
+                "keyword": "histoire de la tunisie",
+                "count": 3
+            },
+            {
+                "keyword": "1989",
+                "count": 3
+            },
+            {
+                "keyword": "1984",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+National+Militaire/data=!4m7!3m6!1s0x12fd3268cf5e0ae9:0x7696beeed8685f21!8m2!3d36.8113948!4d10.0984958!16s%2Fg%2F120jr3v2!19sChIJ6Qpez2gy_RIRIV9o2O6-lnY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJVVWVVAo0_RIRUdAAFaw-89w",
+        "name": "Tourbet El Bey: The Royal Mausoleum",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 83,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Tourbet El Bey: The Royal Mausoleum (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOrmJxyQW0ewJYflHN4Vxvbcf9Dwb5YfqbBwTT1=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:30-15:30",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": null,
+        "address": "Tourbet El Bey: The Royal Mausoleum, 7 Rue du Chateau, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "histoire",
+                "count": 10
+            },
+            {
+                "keyword": "tombes",
+                "count": 3
+            },
+            {
+                "keyword": "monument",
+                "count": 3
+            },
+            {
+                "keyword": "pays",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Tourbet+El+Bey:+The+Royal+Mausoleum/data=!4m7!3m6!1s0x12fd340a54955555:0xdcf33eac1500d051!8m2!3d36.7936528!4d10.1730395!16s%2Fg%2F1228rr61!19sChIJVVWVVAo0_RIRUdAAFaw-89w?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1aW4YfUz_RIRLUVVRm7JswA",
+        "name": "Dar El Haddad",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar El Haddad (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMiqC8PCp98ofCJqny3HWOVKGwi7x-pD10agCp4=w408-h306-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Dar El Haddad, 3 Bd Bab Menara, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+El+Haddad/data=!4m7!3m6!1s0x12fd33f561b8a5d5:0xb3c96e4655452d!8m2!3d36.7952187!4d10.1686659!16s%2Fg%2F12384nvq!19sChIJ1aW4YfUz_RIRLUVVRm7JswA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuR3fIpIt_RIRP8kJwSrL71g",
+        "name": "Palais El-Warda",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Palais El-Warda (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOnyJPYeM-OL-x_J5MwXJouxgzsDYzPYoWqCjS9=w408-h544-k-no",
+        "main_category": "Station de metro",
+        "categories": [
+            "Station de metro"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Palais El-Warda, Manouba 2010",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Palais+El-Warda/data=!4m7!3m6!1s0x12fd2d9222df1db9:0x58efcb2ac109c93f!8m2!3d36.810234!4d10.067882!16s%2Fg%2F1tpfg3rt!19sChIJuR3fIpIt_RIRP8kJwSrL71g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJEcqYKooz_RIRgoQNAiBCH-c",
+        "name": "Mausoleum of Sidi Brahim Riahi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mausoleum of Sidi Brahim Riahi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOZDOvYwGdbuwhEj7wytnsdpQcMRvRyRglNU5qR=w408-h260-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "R539+366 Mausoleum of Sidi Brahim Riahi, Rue Sidi Brahim, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mausoleum+of+Sidi+Brahim+Riahi/data=!4m7!3m6!1s0x12fd338a2a98ca11:0xe71f4220020d8482!8m2!3d36.8026649!4d10.16802!16s%2Fg%2F11c6f3j7kt!19sChIJEcqYKooz_RIRgoQNAiBCH-c?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJCTfCzooz_RIRlp3MWkqKxtA",
+        "name": "Tourbet Laz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "http://fr.wikipedia.org/wiki/Tourba_de_Mohammad_Laz",
+        "owner": {
+            "id": null,
+            "name": "Tourbet Laz (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM5EVGsZdx8Oldq6PchwTAFr7jDRa-swHv2IV9A=w426-h240-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Attraction touristique"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Q5W9+X99 Tourbet Laz, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Tourbet+Laz/data=!4m7!3m6!1s0x12fd338acec23709:0xd0c68a4a5acc9d96!8m2!3d36.7974002!4d10.1684961!16s%2Fg%2F11cn33nlj8!19sChIJCTfCzooz_RIRlp3MWkqKxtA?authuser=0&hl=fr&rclk=1"
+    }
+]

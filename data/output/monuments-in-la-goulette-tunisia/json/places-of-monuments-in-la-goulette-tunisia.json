@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJZQLQZtpL_RIRx96HMeON9Q8",
+        "name": "La Goulette Ship Monument",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Goulette Ship Monument (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOBpWUHRiBdac_vsoEh71TEHZsS0tBVaHbknwuK=w408-h355-k-no",
+        "main_category": "Fabricant de monuments",
+        "categories": [
+            "Fabricant de monuments"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "R79W+67J La Goulette Ship Monument, La Goulette",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+Goulette+Ship+Monument/data=!4m7!3m6!1s0x12fd4bda66d00265:0xff58de33187dec7!8m2!3d36.8180881!4d10.2956417!16s%2Fg%2F11j8z_y6pk!19sChIJZQLQZtpL_RIRx96HMeON9Q8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJv3P2FQNL_RIR16tW8SlyTAc",
+        "name": "Statue of Habib Bourguiba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Statue of Habib Bourguiba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMnySdDPqI4LNP92HxEz5Cqx2ADwqUCMnVnz1d1=w408-h543-k-no",
+        "main_category": "Fabricant de monuments",
+        "categories": [
+            "Fabricant de monuments"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "R882+32M Statue of Habib Bourguiba, Statue de Habib Bourguiba, La Goulette",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Statue+of+Habib+Bourguiba/data=!4m7!3m6!1s0x12fd4b0315f673bf:0x74c7229f156abd7!8m2!3d36.8152104!4d10.300042!16s%2Fg%2F11j373g84s!19sChIJv3P2FQNL_RIR16tW8SlyTAc?authuser=0&hl=fr&rclk=1"
+    }
+]

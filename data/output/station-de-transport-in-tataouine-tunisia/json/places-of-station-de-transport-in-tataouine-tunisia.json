@@ -1,0 +1,229 @@
+[
+    {
+        "place_id": "ChIJEyq8Tly3VBIRS38APMOeKbU",
+        "name": "Station de Bus",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de Bus (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 3.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "WCHW+PRX Station de Bus, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+Bus/data=!4m7!3m6!1s0x1254b75c4ebc2a13:0xb5299ec33c007f4b!8m2!3d32.9293547!4d10.4471076!16s%2Fg%2F12cpfd86t!19sChIJEyq8Tly3VBIRS38APMOeKbU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5S6f-3O3VBIRrcA1-VREWA0",
+        "name": "Road transport station",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Road transport station (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPed2sl4AT2vGZdTDowAWbawy93WaOQq4jKhgM6=w408-h306-k-no",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Road transport station, P19, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Road+transport+station/data=!4m7!3m6!1s0x1254b773fb9f2ee5:0xd584454f935c0ad!8m2!3d32.9479393!4d10.4569459!16s%2Fg%2F11_r1y6tv!19sChIJ5S6f-3O3VBIRrcA1-VREWA0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJAejVkfi3VBIRLika-TX3Zno",
+        "name": "Station de transport tataouine (louage)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de transport tataouine (louage) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN0qysnER-hkrkkz179BNN0Z-yFDsfUy2YNJ7m5=w534-h240-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 3.8,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "75 862 874",
+        "address": "WFX4+5V3 Station de transport tataouine (louage), Road transport station, P19, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+transport+tataouine+%28louage%29/data=!4m7!3m6!1s0x1254b7f891d5e801:0x7a66f735f91a292e!8m2!3d32.9478921!4d10.4571689!16s%2Fg%2F11sc3s22zx!19sChIJAejVkfi3VBIRLika-TX3Zno?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJxzoEF-i3VBIR9mFDhAkRkDc",
+        "name": "Station de transport terrestre Tataouine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de transport terrestre Tataouine (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMuVXwx3fLVHrDNGvl2vQ48dEa3gPVZGcVX62Az=w408-h409-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 4.4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "75 862 874",
+        "address": "Station de transport terrestre Tataouine, Road transport station, P19, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+transport+terrestre+Tataouine/data=!4m7!3m6!1s0x1254b7e817043ac7:0x37901109844361f6!8m2!3d32.9480797!4d10.4567169!16s%2Fg%2F11fk55_gqf!19sChIJxzoEF-i3VBIR9mFDhAkRkDc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJkz3CawK3VBIRzZDJ8WVSSVQ",
+        "name": "Local Louage Station",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Local Louage Station (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOix8NjH9HluyHPTfgt8mfh_PCkkOU9-UuWPU4=w533-h240-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Local Louage Station, 1934 02 Mars 1943, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Local+Louage+Station/data=!4m7!3m6!1s0x1254b7026bc23d93:0x54495265f1c990cd!8m2!3d32.9276949!4d10.4475779!16s%2Fg%2F11l2zh_qhm!19sChIJkz3CawK3VBIRzZDJ8WVSSVQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJhWVkei63VBIRGZvuMh28zts",
+        "name": "express transport tataouine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "express transport tataouine (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "98 169 181",
+        "address": "WFQ2+PVQ express transport tataouine, Av. habib bourguiba, Tataouine 3200",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/express+transport+tataouine/data=!4m7!3m6!1s0x1254b72e7a646585:0xdbcebc1d32ee9b19!8m2!3d32.9393417!4d10.4522298!16s%2Fg%2F11rcs9ktqq!19sChIJhWVkei63VBIRGZvuMh28zts?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1_fYTly3VBIREZdJQl9ttYA",
+        "name": "Station Bus SRTM a Tataouine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Bus SRTM a Tataouine (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Societe de transport routier",
+        "categories": [
+            "Societe de transport routier"
+        ],
+        "rating": 2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "WCHW+MRR Station Bus SRTM a Tataouine, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Bus+SRTM+%C3%A0+Tataouine/data=!4m7!3m6!1s0x1254b75c4ed8f7d7:0x80b56d5f42499711!8m2!3d32.9292327!4d10.4470083!16s%2Fg%2F11c54fjfgt!19sChIJ1_fYTly3VBIREZdJQl9ttYA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJV6QyE1y3VBIRfrxyz9SMu8U",
+        "name": "chenini station",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "chenini station (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Societe de transport en bus et autocar",
+        "categories": [
+            "Societe de transport en bus et autocar"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "WCHW+4MF chenini station, 02 Mars 1943, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/chenini+station/data=!4m7!3m6!1s0x1254b75c1332a457:0xc5bb8cd4cf72bc7e!8m2!3d32.9278127!4d10.4466565!16s%2Fg%2F11hbkqtcmp!19sChIJV6QyE1y3VBIRfrxyz9SMu8U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJsy8td863VBIRY4KRD2c6i5c",
+        "name": "Station tataouine service rapide",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station tataouine service rapide (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMTrkKtNWYq-l-dMlJJwbxYHUg0weyfONf-ADdm=w408-h544-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 862 108",
+        "address": "Station tataouine service rapide, Road transport station, P19, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+tataouine+service+rapide/data=!4m7!3m6!1s0x1254b7ce772d2fb3:0x978b3a670f918263!8m2!3d32.9474475!4d10.4556547!16s%2Fg%2F11h7_mmvj4!19sChIJsy8td863VBIRY4KRD2c6i5c?authuser=0&hl=fr&rclk=1"
+    }
+]

@@ -1,0 +1,215 @@
+[
+    {
+        "place_id": "ChIJc2ngdv6W-BIRiWoa-Mk-L3s",
+        "name": "Le Bassin Romain",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 101,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Le Bassin Romain (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOm0pjoAV_bJuoVdQrWHjBGHcHmyrOHB09XOS69=w408-h510-k-no",
+        "main_category": "Lieu historique",
+        "categories": [
+            "Lieu historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.2,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "CQ8P+7QM Le Bassin Romain, Av. Habib Bourguiba, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Le+Bassin+Romain/data=!4m7!3m6!1s0x12f896fe76e06973:0x7b2f3ec9f81a6a89!8m2!3d34.4157034!4d8.7869275!16s%2Fg%2F11h0s2xfj!19sChIJc2ngdv6W-BIRiWoa-Mk-L3s?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJHXkD6PaI-BIRFGyO7znbAcE",
+        "name": "Lac de Gafsa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMMfrraZyeW4t70iSeaVmcLtxwObAWjCj7ANcoD=w426-h240-k-no",
+        "main_category": "Lac",
+        "categories": [
+            "Lac"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Lac de Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lac+de+Gafsa/data=!4m7!3m6!1s0x12f888f6e803791d:0xc101db39ef8e6c14!8m2!3d34.4174!4d8.5323!16s%2Fm%2F011jqfdt!19sChIJHXkD6PaI-BIRFGyO7znbAcE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ22Z8Df6W-BIRmpQzAEzN2UQ",
+        "name": "Dar Loungou",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar Loungou (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPKBH6m9yFXAue1UKv6CVox4lyDI_QdaNQL3Ro=w408-h240-k-no-pi-10-ya310-ro-0-fo100",
+        "main_category": "Lieu historique",
+        "categories": [
+            "Lieu historique",
+            "Site historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:30-14:00",
+        "closed_on": [
+            "samedi",
+            "dimanche"
+        ],
+        "phone": "96 710 906",
+        "address": "CQ8P+2W5 Dar Loungou, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Loungou/data=!4m7!3m6!1s0x12f896fe0d7c66db:0x44d9cd4c0033949a!8m2!3d34.415023!4d8.7873456!16s%2Fg%2F11fy8_dsfv!19sChIJ22Z8Df6W-BIRmpQzAEzN2UQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJCWRKev6W-BIRc2CwSrMvVWY",
+        "name": "Musee archeologique de Gafsa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee archeologique de Gafsa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPTi_zi8VSZJ3GEbb_pqpBlD7DL8guh6WT2Dl-8=w408-h306-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "CQ8P+CR9 Musee archeologique de Gafsa, Gafsa",
+        "review_keywords": [
+            {
+                "keyword": "mosaiques",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+arch%C3%A9ologique+de+Gafsa/data=!4m7!3m6!1s0x12f896fe7a4a6409:0x66552fb34ab06073!8m2!3d34.4160292!4d8.7871081!16s%2Fm%2F05b4y21!19sChIJCWRKev6W-BIRc2CwSrMvVWY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJgz6NGxuW-BIRVCkaOh4tWog",
+        "name": "Parc national de Jebel Orbata",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Parc national de Jebel Orbata (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOu9GfDIhBedNRlewQ49HgsoFTzPGxSpfdN5cCZ=w408-h408-k-no",
+        "main_category": "Jardin",
+        "categories": [
+            "Jardin",
+            "Reserve naturelle",
+            "Attraction touristique"
+        ],
+        "rating": 3.8,
+        "workday_timing": "08:00-20:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Parc national de Jebel Orbata, qrb qfS@ Bmuftriq lwTny@ rqm 3 `l~ lTrq, P3",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Parc+national+de+Jebel+Orbata/data=!4m7!3m6!1s0x12f8961b1b8d3e83:0x885a2d1e3a1a2954!8m2!3d34.3793402!4d9.083445!16s%2Fg%2F11_ym4ycz!19sChIJgz6NGxuW-BIRVCkaOh4tWog?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJxdWy8jyX-BIRkI6TQ9XmZgw",
+        "name": "Oasis de Gafsa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOj0wWXUPCOj59VcVeSOGLxVRZbcwojHwXrDn6V=w408-h593-k-no",
+        "main_category": "Agricultural",
+        "categories": [
+            "Agricultural"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Oasis de Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Oasis+de+Gafsa/data=!4m7!3m6!1s0x12f8973cf2b2d5c5:0xc66e6d543938e90!8m2!3d34.3989102!4d8.7646388!16s%2Fg%2F1hhw9__1s!19sChIJxdWy8jyX-BIRkI6TQ9XmZgw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJmS0PX1OW-BIRry40yuG2bIM",
+        "name": "Oued BAYECH",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM4N4aKzsd5Y0qELFDfuj7X85pWI9flewBVq2lr=w408-h253-k-no",
+        "main_category": "Marecage",
+        "categories": [
+            "Marecage"
+        ],
+        "rating": 3.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Oued BAYECH",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Oued+BAYECH/data=!4m7!3m6!1s0x12f896535f0f2d99:0x836cb6e1ca342eaf!8m2!3d34.4372076!4d8.8059596!16s%2Fg%2F1hhvmb8nl!19sChIJmS0PX1OW-BIRry40yuG2bIM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJj1aI-uOW-BIR_sQ-cnlkLEQ",
+        "name": "Montagne El Mida",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNCpie-1vR6pgbvuD97gtTnHWKxzjlhVnDgZrmW=w408-h306-k-no",
+        "main_category": "Sommet montagneux",
+        "categories": [
+            "Sommet montagneux"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Montagne El Mida, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Montagne+El+Mida/data=!4m7!3m6!1s0x12f896e3fa88568f:0x442c6479723ec4fe!8m2!3d34.4196836!4d8.7759897!16s%2Fg%2F1hdzzk75p!19sChIJj1aI-uOW-BIR_sQ-cnlkLEQ?authuser=0&hl=fr&rclk=1"
+    }
+]

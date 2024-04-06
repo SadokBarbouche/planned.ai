@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": "ChIJ_3MFIre7AhMRoR6EAJKG5ks",
+        "name": "ATPNE Korba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "ATPNE Korba (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.2,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "25 351 108",
+        "address": "HVG7+W8W ATPNE Korba, Ben Achour, Rue Taher Haded, Korba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/ATPNE+Korba/data=!4m7!3m6!1s0x1302bbb7220573ff:0x4be6869200841ea1!8m2!3d36.5773665!4d10.8633173!16s%2Fg%2F11c0xdg6hg!19sChIJ_3MFIre7AhMRoR6EAJKG5ks?authuser=0&hl=fr&rclk=1"
+    }
+]

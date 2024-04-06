@@ -1,0 +1,152 @@
+[
+    {
+        "place_id": "ChIJ13hroGcy_RIRdLX3cra5hlw",
+        "name": "Gare sncft La Manouba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare sncft La Manouba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMw4QGjqW1F2_ixgJ-35ObK99E8ljkuYrm3EHHG=w408-h306-k-no",
+        "main_category": "Gare",
+        "categories": [
+            "Gare"
+        ],
+        "rating": 3.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare sncft La Manouba, Tunis 2010",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+sncft+La+Manouba/data=!4m7!3m6!1s0x12fd3267a06b78d7:0x5c86b9b672f7b574!8m2!3d36.8159636!4d10.1015162!16s%2Fg%2F1ttxf03s!19sChIJ13hroGcy_RIRdLX3cra5hlw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJrd8PrrQt_RIRnMrt-mcxoRs",
+        "name": "Station Campus Manouba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Campus Manouba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPkenUABjHFZHWzO-LKou7Yazxkw2s8D7GEOVNS=w426-h240-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "R375+X2M Station Campus Manouba, Manouba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Campus+Manouba/data=!4m7!3m6!1s0x12fd2db4ae0fdfad:0x1ba13167faedca9c!8m2!3d36.8149632!4d10.0575368!16s%2Fg%2F11mhv2xhc4!19sChIJrd8PrrQt_RIRnMrt-mcxoRs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJu5rfrXMt_RIRZTVsAr9RA1A",
+        "name": "Station Campus Universitaire",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://www.transtu.tn/ar/",
+        "owner": {
+            "id": null,
+            "name": "Station Campus Universitaire (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPfFLzxsUre51u_TLI8w03c1pMNvjNtbYC_6f2m=w408-h724-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 3.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "R376+4Q9 Station Campus Universitaire, Manouba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Campus+Universitaire/data=!4m7!3m6!1s0x12fd2d73addf9abb:0x500351bf026c3565!8m2!3d36.812778!4d10.0619759!16s%2Fg%2F11mpcj7xkn!19sChIJu5rfrXMt_RIRZTVsAr9RA1A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJmRwMOWsy_RIRnlOFxedQ-vM",
+        "name": "Station Transport en Commun La Manouba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Transport en Commun La Manouba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNhohJYkg-EVbj-xv4oIYRQYb8NTMGdMVWc0TwU=w408-h726-k-no",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Station Transport en Commun La Manouba, Manouba 2010",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Transport+en+Commun+La+Manouba/data=!4m7!3m6!1s0x12fd326b390c1c99:0xf3fa50e7c585539e!8m2!3d36.8037112!4d10.0994464!16s%2Fg%2F1tf4h3kw!19sChIJmRwMOWsy_RIRnlOFxedQ-vM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJVVh8c00z_RIRGO8Yqd60KqY",
+        "name": "station bus",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "station bus (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 3.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "R39W+93P station bus, Manouba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/station+bus/data=!4m7!3m6!1s0x12fd334d737c5855:0xa62ab4dea918ef18!8m2!3d36.8184538!4d10.0952125!16s%2Fg%2F11h7kt4s_z!19sChIJVVh8c00z_RIRGO8Yqd60KqY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1-aONxsz_RIRBgKotxcbOPw",
+        "name": "Manouba Station",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://www.transtu.tn/ar/",
+        "owner": {
+            "id": null,
+            "name": "Manouba Station (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "R423+R2Q Manouba Station, Manouba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Manouba+Station/data=!4m7!3m6!1s0x12fd331b378ee6d7:0xfc381b17b7a80206!8m2!3d36.8020767!4d10.1026241!16s%2Fg%2F11p65w_841!19sChIJ1-aONxsz_RIRBgKotxcbOPw?authuser=0&hl=fr&rclk=1"
+    }
+]

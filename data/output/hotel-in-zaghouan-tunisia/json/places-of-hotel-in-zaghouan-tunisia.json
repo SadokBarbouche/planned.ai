@@ -1,0 +1,200 @@
+[
+    {
+        "place_id": "ChIJD1Y37Vy3VBIRcBBOq4Q3TLA",
+        "name": "Auberge Alferdaous",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 49,
+        "website": "https://www.hotelstunisian.com/auberge-alferdaous/",
+        "owner": {
+            "id": null,
+            "name": "Auberge Alferdaous (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPWIinOxmCbpNcXYKpq8fMcPSDYhRcaW3SloCoD=w408-h306-k-no",
+        "main_category": "Hostel",
+        "categories": [
+            "Hostel"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "90 031 690",
+        "address": "Auberge Alferdaous, 44 Av. habib bourguiba, Tataouine 3200",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 9
+            },
+            {
+                "keyword": "cuisine",
+                "count": 6
+            },
+            {
+                "keyword": "centre ville",
+                "count": 4
+            },
+            {
+                "keyword": "droit de propriete",
+                "count": 4
+            },
+            {
+                "keyword": "payer",
+                "count": 3
+            },
+            {
+                "keyword": "dinar",
+                "count": 3
+            },
+            {
+                "keyword": "wifi",
+                "count": 3
+            },
+            {
+                "keyword": "douche",
+                "count": 3
+            },
+            {
+                "keyword": "pain",
+                "count": 3
+            },
+            {
+                "keyword": "climatisation",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Auberge+Alferdaous/data=!4m10!3m9!1s0x1254b75ced37560f:0xb04c3784ab4e1070!5m2!4m1!1i2!8m2!3d32.9282678!4d10.4488963!16s%2Fg%2F11h11kzbv6!19sChIJD1Y37Vy3VBIRcBBOq4Q3TLA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-5r4TYAR_RIRzIx_wST9TzM",
+        "name": "DAR AIDA ZAGHOUAN",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": null,
+        "owner": {
+            "id": "115922999796506445374",
+            "name": "DAR AIDA ZAGHOUAN (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/115922999796506445374"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPa8KA8oDq8WWEv3q4KjT7SOtefHacRnO-pDZkc=w408-h544-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "98 379 449",
+        "address": "DAR AIDA ZAGHOUAN, Rue Hedi Chaker, Zaghouan , prolongement, Rue Sidi Ali Azzouz, Zaghouan",
+        "review_keywords": [
+            {
+                "keyword": "diner",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/DAR+AIDA+ZAGHOUAN/data=!4m10!3m9!1s0x12fd11804df89afb:0x334ffd24c17f8ccc!5m2!4m1!1i2!8m2!3d36.396846!4d10.1442435!16s%2Fg%2F11hd1r_h25!19sChIJ-5r4TYAR_RIRzIx_wST9TzM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJN0vv7gS3VBIReCWFOn28W_g",
+        "name": "Dar essadeg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://www.booking.com/hotel/tn/dar-essadeg-tataouine12.fr.html%3Faid%3D376366%26label%3Dfr-51aYADzKCvHZ21Orv3nXsASM193330406601:pl:ta:p1:p22.563.000:ac:ap:neg:fi:tikwd-65526620:lp9075940:li:dem:dm:ppccp%3DUmFuZG9tSVYkc2RlIyh9Ye7BFAsTyVd6vvamF_no64o%26sid%3Df5220773e9ac84bf3977577177c6ecd0%26all_sr_blocks%3D831527901_348345905_2_0_0%3Bcheckin%3D2022-06-21%3Bcheckout%3D2022-06-22%3Bdest_id%3D-731465%3Bdest_type%3Dcity%3Bdist%3D0%3Bgroup_adults%3D2%3Bgroup_children%3D0%3Bhapos%3D2%3Bhighlighted_blocks%3D831527901_348345905_2_0_0%3Bhpos%3D2%3Bmatching_block_id%3D831527901_348345905_2_0_0%3Bno_rooms%3D1%3Breq_adults%3D2%3Breq_children%3D0%3Broom1%3DA,A%3Bsb_price_type%3Dtotal%3Bsr_order%3Dpopularity%3Bsr_pri_blocks%3D831527901_348345905_2_0_0__3000%3Bsrepoch%3D1655398898%3Bsrpvid%3D7c9f78185d370021%3Btype%3Dtotal%3Bucfs%3D1%26",
+        "owner": {
+            "id": "101778497337234972921",
+            "name": "Dar essadeg (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101778497337234972921"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMyatQp-OlT3TVDujR_DuU4qtdbTJbvYVMFnO8D=w408-h306-k-no",
+        "main_category": "Lodge",
+        "categories": [
+            "Lodge",
+            "Hebergement de groupe"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "97 284 185",
+        "address": "Dar essadeg, P19, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+essadeg/data=!4m10!3m9!1s0x1254b704eeef4b37:0xf85bbc7d3a852578!5m2!4m1!1i2!8m2!3d32.9251725!4d10.4409536!16s%2Fg%2F11j0r4k5ky!19sChIJN0vv7gS3VBIReCWFOn28W_g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJu6SYB4m14hIROAo3Dyn-Wo4",
+        "name": "Residence Seville - Ain Zaghouan",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Residence Seville - Ain Zaghouan (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOqYqJsl-6SN432Dn6mnje7d7g2IRoTrHRFAb0=w408-h544-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "27 678 391",
+        "address": "Residence Seville - Ain Zaghouan, Rue De Ribat,",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/R%C3%A9sidence+S%C3%A9ville+-+Ain+Zaghouan/data=!4m10!3m9!1s0x12e2b5890798a4bb:0x8e5afe290f370a38!5m2!4m1!1i2!8m2!3d36.8608622!4d10.2842497!16s%2Fg%2F11qpp8vhg5!19sChIJu6SYB4m14hIROAo3Dyn-Wo4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2Q4rVPF9VRIRSFFtAnK0pic",
+        "name": "Auberge essanya",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": "114004329328200533840",
+            "name": "Auberge essanya (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114004329328200533840"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM1_f4zn85T--_DR7mlmcBqXfpRzZztwhPSQk9s=w408-h408-k-no",
+        "main_category": "Hostellerie",
+        "categories": [
+            "Hostellerie",
+            "Hebergement d'interieur"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "96 211 420",
+        "address": "Auberge essanya, 6010, Al-Matwiyah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Auberge+essanya/data=!4m10!3m9!1s0x12557df1542b0ed9:0x27a6b472026d5148!5m2!4m1!1i2!8m2!3d34.0536106!4d10.013878!16s%2Fg%2F11fk8c8jkl!19sChIJ2Q4rVPF9VRIRSFFtAnK0pic?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_VrF-zhz_RIRlilczEnW0iw",
+        "name": "Borj Waly",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Borj Waly (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "22 252 145",
+        "address": "Borj Waly, Route Enfidha km 23, Zriba Village",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Borj+Waly/data=!4m10!3m9!1s0x12fd7338fbc55afd:0x2cd2d649cc5c2996!5m2!4m1!1i2!8m2!3d36.2764027!4d10.2746219!16s%2Fg%2F11mbw07xh2!19sChIJ_VrF-zhz_RIRlilczEnW0iw?authuser=0&hl=fr&rclk=1"
+    }
+]

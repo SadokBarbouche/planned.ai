@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": "ChIJtWaT_GkV-RIRbVIJmHaTgJQ",
+        "name": "cafe-IN",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe-IN (lmlk)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP_bP9A3qRayprFsbdaIuVqYIf2rTX7j_YyX24w=w408-h306-k-no",
+        "main_category": "kfyh",
+        "categories": [
+            "kfyh"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "5RCJ+W7P cafe-IN, laaziz ferchichi, el manar, rue aabd, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/cafe-IN/@35.172345,8.8306917,17z/data=!3m1!4b1!4m6!3m5!1s0x12f91569fc9366b5:0x948093769809526d!8m2!3d35.172345!4d8.8306917!16s%2Fg%2F11h3c48vqr?authuser=0&entry=ttu"
+    }
+]

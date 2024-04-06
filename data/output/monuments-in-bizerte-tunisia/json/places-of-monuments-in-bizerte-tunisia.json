@@ -1,0 +1,233 @@
+[
+    {
+        "place_id": "ChIJv6tmzkge4xIRTcxRjWdv8_g",
+        "name": "Vieux Port De Bizerte",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 551,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Vieux Port De Bizerte (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPjeNuBJpdKF_umsuYPcSc6GCXAtboabYv_ehGW=w408-h307-k-no",
+        "main_category": "Port de plaisance",
+        "categories": [
+            "Port de plaisance",
+            "Attraction touristique"
+        ],
+        "rating": 4.5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "7VGF+VR5 Vieux Port De Bizerte, Passerelle du Marsa de, Bizerte",
+        "review_keywords": [
+            {
+                "keyword": "espace",
+                "count": 10
+            },
+            {
+                "keyword": "couleurs",
+                "count": 8
+            },
+            {
+                "keyword": "histoire",
+                "count": 7
+            },
+            {
+                "keyword": "cafe",
+                "count": 6
+            },
+            {
+                "keyword": "anime",
+                "count": 5
+            },
+            {
+                "keyword": "charme",
+                "count": 5
+            },
+            {
+                "keyword": "poisson",
+                "count": 5
+            },
+            {
+                "keyword": "griller",
+                "count": 4
+            },
+            {
+                "keyword": "baklawa",
+                "count": 3
+            },
+            {
+                "keyword": "hygiene",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Vieux+Port+De+Bizerte/data=!4m7!3m6!1s0x12e31e48ce66abbf:0xf8f36f678d51cc4d!8m2!3d37.2771396!4d9.8746004!16s%2Fg%2F11c56bjfx5!19sChIJv6tmzkge4xIRTcxRjWdv8_g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJn3zZEpng4hIRgnPSF4JriUo",
+        "name": "Foret du Rimel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 182,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Foret du Rimel (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNjRKk0W3YaSUGicMWJ-DDW_8J263MeRmxDmVc5=w408-h306-k-no",
+        "main_category": "Foret nationale",
+        "categories": [
+            "Foret nationale",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "21 460 224",
+        "address": "6XHJ+323 Foret du Rimel, Autoroute Tunis-Bizerte, Menzel Jemil",
+        "review_keywords": [
+            {
+                "keyword": "plage",
+                "count": 15
+            },
+            {
+                "keyword": "espace",
+                "count": 8
+            },
+            {
+                "keyword": "camping",
+                "count": 5
+            },
+            {
+                "keyword": "sport",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/For%C3%AAt+du+Rimel/data=!4m7!3m6!1s0x12e2e09912d97c9f:0x4a896b8217d27382!8m2!3d37.22763!4d9.9800438!16s%2Fg%2F1tgdwjwn!19sChIJn3zZEpng4hIRgnPSF4JriUo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ71HpZtIf4xIRseVZI5E3D-A",
+        "name": "Medina de Bizerte",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 48,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Medina de Bizerte (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOcMjzt-g67PCAkZIz8hp5E2GhrZ2adUeXUXLo5=w408-h544-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "7VHG+H68 Medina de Bizerte, Bizerte",
+        "review_keywords": [
+            {
+                "keyword": "ruelles",
+                "count": 3
+            },
+            {
+                "keyword": "touristes",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/M%C3%A9dina+de+Bizerte/data=!4m7!3m6!1s0x12e31fd266e951ef:0xe00f37912359e5b1!8m2!3d37.2789201!4d9.8755657!16s%2Fg%2F11kxqw1y8d!19sChIJ71HpZtIf4xIRseVZI5E3D-A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJW5hKl6wf4xIRhAN0RBoLbi4",
+        "name": "Eglise Saint-Alexandre-Nevski de Bizerte",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 37,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Eglise Saint-Alexandre-Nevski de Bizerte (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP2kCF2_LLyHIwuOl9T6FBvNkDN55cfEt8J6Gr_=w408-h544-k-no",
+        "main_category": "Eglise",
+        "categories": [
+            "Eglise",
+            "Lieu historique",
+            "Eglise orthodoxe russe",
+            "Attraction touristique"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "7V97+2FG Eglise Saint-Alexandre-Nevski de Bizerte, Place Anastasia Manstein-Chirinsky, Bizerte 7000",
+        "review_keywords": [
+            {
+                "keyword": "monument",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/%C3%89glise+Saint-Alexandre-Nevski+de+Bizerte/data=!4m7!3m6!1s0x12e31fac974a985b:0x2e6e0b1a44740384!8m2!3d37.2675744!4d9.8637049!16s%2Fg%2F120m0nxy!19sChIJW5hKl6wf4xIRhAN0RBoLbi4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJI3eCCkUe4xIROc_I_FYtgJ4",
+        "name": "Fort d'Espagne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Fort d'Espagne (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipORmqCJSdfZQj3ZBed39JtfF_uzg3eK5nmzDuEg=w408-h270-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Lieu historique",
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "7VJC+79G Fort d'Espagne, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fort+d%27Espagne/data=!4m7!3m6!1s0x12e31e450a827723:0x9e802d56fcc8cf39!8m2!3d37.2806849!4d9.8709564!16s%2Fg%2F11c5_zjs64!19sChIJI3eCCkUe4xIROc_I_FYtgJ4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJid_lIGIf4xIR1iYN1VX-m_U",
+        "name": "La Ksiba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Ksiba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOWu0e1AjreYiNUsS9_Td4PwHdFgQbMW_3oG1Ya=w426-h240-k-no",
+        "main_category": "Lieu historique",
+        "categories": [
+            "Lieu historique",
+            "Site historique"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "7VHG+9R4 La Ksiba, Blvd Habib Bougatfa, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+Ksiba/data=!4m7!3m6!1s0x12e31f6220e5df89:0xf59bfe55d50d26d6!8m2!3d37.2783948!4d9.8770838!16s%2Fg%2F11qq3drfct!19sChIJid_lIGIf4xIR1iYN1VX-m_U?authuser=0&hl=fr&rclk=1"
+    }
+]

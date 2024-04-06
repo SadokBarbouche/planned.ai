@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": "ChIJxWy7sss3_RIRHy3QoPejMG0",
+        "name": "Cafe'in",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "104435961529580899104",
+            "name": "Cafe'in (lmlk)",
+            "link": "https://www.google.com/maps/contrib/104435961529580899104"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMILeHKjMBp3_MlN2-1byYT1JxIiREjGxrCvQtf=w408-h268-k-no",
+        "main_category": "mqh~",
+        "categories": [
+            "mqh~"
+        ],
+        "rating": 5,
+        "workday_timing": "6S-12S",
+        "closed_on": [],
+        "phone": "22 461 709",
+        "address": "Cafe'in, 01 Rue Ahmed Chaouki, Ben Arous",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe'in/@36.7398895,10.2421562,17z/data=!3m1!4b1!4m6!3m5!1s0x12fd37cbb2bb6cc5:0x6d30a3f7a0d02d1f!8m2!3d36.7398895!4d10.2421562!16s%2Fg%2F11jmys4jlj?authuser=0&entry=ttu"
+    }
+]

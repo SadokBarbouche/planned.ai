@@ -1,0 +1,728 @@
+[
+    {
+        "place_id": "ChIJTa1hf29Z-xIRuYPOLnkd-H8",
+        "name": "Beja",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 47,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Beja (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMrF_ALhB3q4ItuPk3Sj53LKEBF-zj8yHPjh6rf=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "25 940 244",
+        "address": "Beja, 9010",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/B%C3%A9ja/data=!4m7!3m6!1s0x12fb596f7f61ad4d:0x7ff81d792ece83b9!8m2!3d36.7333148!4d9.1844357!16s%2Fg%2F11gmxk078t!19sChIJTa1hf29Z-xIRuYPOLnkd-H8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJazP1oXpY-xIRAnL-jqzxo-Y",
+        "name": "Cafe Panorama",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Panorama (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOQBK4yYnVXlTpLRiTc2-085hvMosLtIjI-RSAB=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "P5QJ+C3R Cafe Panorama, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Panorama/data=!4m7!3m6!1s0x12fb587aa1f5336b:0xe6a3f1ac8efe7202!8m2!3d36.7386199!4d9.180146!16s%2Fg%2F1pt_n7rbl!19sChIJazP1oXpY-xIRAnL-jqzxo-Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1RSJM7ZZ-xIRizw9IM5AbVk",
+        "name": "Cosmos Coffee & Events",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cosmos Coffee & Events (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO6JdlrZ4HGZU7fNWfnmOnGY4SVjABGrPsnwoYf=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "26 289 990",
+        "address": "Cosmos Coffee & Events, Rue amdoun kilometer 2",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cosmos+Coffee+%26+Events/data=!4m7!3m6!1s0x12fb59b6338914d5:0x596d40ce203d3c8b!8m2!3d36.7424248!4d9.1781488!16s%2Fg%2F11jgdf1cq_!19sChIJ1RSJM7ZZ-xIRizw9IM5AbVk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZWhdcYFY-xIR_NtO1EUHiaA",
+        "name": "Cafe Golden River",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Golden River (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPoZicTluN8DxG5IAwIdhBeE3tTMIBYP-htuqPN=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "22 747 922",
+        "address": "P5FP+9JW Cafe Golden River, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Golden+River/data=!4m7!3m6!1s0x12fb5881715d6865:0xa0890745d44edbfc!8m2!3d36.7234756!4d9.1865871!16s%2Fg%2F11cmzl6vcq!19sChIJZWhdcYFY-xIR_NtO1EUHiaA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJS9CskIFY-xIRBAECXsCPxYw",
+        "name": "Cafe Marwani",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Marwani (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPj-omQ1MM2Vo4VVr7ht6XwggDTx8tPNoaJbN4h=w408-h307-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "P5FQ+755 Cafe Marwani, Av. de France, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Marwani/data=!4m7!3m6!1s0x12fb588190acd04b:0x8cc58fc05e020104!8m2!3d36.7231336!4d9.1879711!16s%2Fg%2F11b6_njxzy!19sChIJS9CskIFY-xIRBAECXsCPxYw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_60uinxY-xIRtIQ0hYDy8ZA",
+        "name": "Patesserie Mozart",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Patesserie Mozart (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPkSE8ZMZ9pQ6U1zQH2YyriYeEIg8TMpb1cQZsq=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-21:00",
+        "closed_on": [],
+        "phone": "92 105 648",
+        "address": "P5MJ+2G5 Patesserie Mozart, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Patesserie+Mozart/data=!4m7!3m6!1s0x12fb587c8a2eadff:0x90f1f280853484b4!8m2!3d36.7325126!4d9.1813513!16s%2Fg%2F11g9dl9n95!19sChIJ_60uinxY-xIRtIQ0hYDy8ZA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJM17MaoFY-xIRmlmbMmAga58",
+        "name": "Cafe Champs-Elysees",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Champs-Elysees (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNqMvrqRQ-w5PHvhCjXWOzVZQ48JujW-AIl8b2f=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "08:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "P5FP+G9G Cafe Champs-Elysees, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Champs-%C3%89lys%C3%A9es/data=!4m7!3m6!1s0x12fb58816acc5e33:0x9f6b2060329b599a!8m2!3d36.7238103!4d9.185946!16s%2Fg%2F1hc3_4f8t!19sChIJM17MaoFY-xIRmlmbMmAga58?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJWfD02YZY-xIR23VDKV6pG_Y",
+        "name": "mqh~ ltwt@ _mqh~ bwthlj@ (lHsb tHt ltwt@)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mqh~ ltwt@ _mqh~ bwthlj@ (lHsb tHt ltwt@) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMTsVClD_AD8VqWsycNAB-mLUO7hTgLXP1dU_Fp=w408-h612-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.6,
+        "workday_timing": "04:00-22:00",
+        "closed_on": [],
+        "phone": "31 539 410",
+        "address": "P5GM+2C9 mqh~ ltwt@ _mqh~ bwthlj@ (lHsb tHt ltwt@), Rue Kheireddine Pacha, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D9%82%D9%87%D9%89+%D8%A7%D9%84%D8%AA%D9%88%D8%AA%D8%A9+_%D9%85%D9%82%D9%87%D9%89+%D8%A8%D9%88%D8%AB%D9%84%D8%AC%D8%A9+%28%D9%84%D8%AD%D8%B3%D8%A7%D8%A8+%D8%AA%D8%AD%D8%AA+%D8%A7%D9%84%D8%AA%D9%88%D8%AA%D8%A9%29%E2%80%AD/data=!4m7!3m6!1s0x12fb5886d9f4f059:0xf61ba95e294375db!8m2!3d36.7250413!4d9.1835977!16s%2Fg%2F11gfmbhx44!19sChIJWfD02YZY-xIR23VDKV6pG_Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJH4JI0YKn_BIR2Nl54l_j5M0",
+        "name": "King bouza",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "King bouza (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPUO8DOk2wNzrneDzfucag-5lXfi2dbzvJGswVz=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "09:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "P5VR+277 King bouza, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/King+bouza/data=!4m7!3m6!1s0x12fca782d148821f:0xcde4e35fe279d9d8!8m2!3d36.7426097!4d9.1906871!16s%2Fg%2F11s617dvf0!19sChIJH4JI0YKn_BIR2Nl54l_j5M0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJN4S-y5Gn_BIRaQrIXzjd3Fk",
+        "name": "Salon de the l ocean",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Salon de the l ocean (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNGTPr5QWbxoMrTjOWEkrhX6wvl9_urq_m9VeT_=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "P6H2+8G9 Salon de the l ocean, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Salon+de+th%C3%A9+l+ocean/data=!4m7!3m6!1s0x12fca791cbbe8437:0x59dcdd385fc80a69!8m2!3d36.728295!4d9.2013504!16s%2Fg%2F11t2b8spzw!19sChIJN4S-y5Gn_BIRaQrIXzjd3Fk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZ1kGw2ZY-xIREAnmJY4RenQ",
+        "name": "Cafe Sefir",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Sefir (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNDyHuExtFqN4wQVd9JG05O6DsX_7Q2Ul8P9da2=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "P5PC+5GQ Cafe Sefir, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Sefir/data=!4m7!3m6!1s0x12fb5866c3065967:0x747a118e25e60910!8m2!3d36.7354527!4d9.1713577!16s%2Fg%2F11c5zlhd5w!19sChIJZ1kGw2ZY-xIREAnmJY4RenQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJFXaJdoFY-xIRkHhcvX7ziSM",
+        "name": "Cafe Bonbonera",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Bonbonera (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOoVrd8ELBJgBsjbRJfTZ1zk45Y6IgZNVYbc5S3=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": "58 770 255",
+        "address": "P5FP+9Q8 Cafe Bonbonera, Av. de France, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Bonbonera/data=!4m7!3m6!1s0x12fb588176897615:0x2389f37ebd5c7890!8m2!3d36.7234055!4d9.1869428!16s%2Fg%2F11c48x3khx!19sChIJFXaJdoFY-xIRkHhcvX7ziSM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6eSICXFZ-xIRASFnQ9wL4wQ",
+        "name": "Baroque Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": "110701012216278535265",
+            "name": "Baroque Cafe (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/110701012216278535265"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNfANtCuMtdFumEaOQVvBibZhBPWH4EabwbtI_e=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "P5QP+J4M Baroque Cafe, Beja jadida, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Baroque+Caf%C3%A9/data=!4m7!3m6!1s0x12fb59710988e4e9:0x4e30bdc43672101!8m2!3d36.7391095!4d9.1852023!16s%2Fg%2F11kj4jxth6!19sChIJ6eSICXFZ-xIRASFnQ9wL4wQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuXINK4en_BIR2kUyX9AG1Kc",
+        "name": "Oxford cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Oxford cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOWdLLxqeIqW14lUyQvsVTtrxdCJ98wylnaHzZR=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "50 863 189",
+        "address": "P5CQ+FXC Oxford cafe, Rue Abou El Kacem Chebbi, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Oxford+caf%C3%A9/data=!4m7!3m6!1s0x12fca7872b0d72b9:0xa7d406d05f3245da!8m2!3d36.7211783!4d9.1899028!16s%2Fg%2F11pxnhmxf7!19sChIJuXINK4en_BIR2kUyX9AG1Kc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJQ3nHrctZ-xIR_TOMVPRvah0",
+        "name": "Cafe Rachidiya",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Rachidiya (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOvOtpurqC0linHB7ERDupt0t0qVKASfY8nF9Ek=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "P5MJ+JHR Cafe Rachidiya, Rue 18 Janvier, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Rachidiya/data=!4m7!3m6!1s0x12fb59cbadc77943:0x1d6a6ff4548c33fd!8m2!3d36.7341044!4d9.1813777!16s%2Fg%2F11tc3qrx4q!19sChIJQ3nHrctZ-xIR_TOMVPRvah0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ82KL2XpZ-xIRfECRILFOJJE",
+        "name": "HK CAFE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "HK CAFE (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO1becez-aOkE1GJzW1YvuCzMwzxHq5qEHJIuZq=w533-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "94 663 777",
+        "address": "P59Q+WW5 HK CAFE, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/HK+CAFE/data=!4m7!3m6!1s0x12fb597ad98b62f3:0x91244eb12091407c!8m2!3d36.7197584!4d9.1898568!16s%2Fg%2F11lgh0h6jn!19sChIJ82KL2XpZ-xIRfECRILFOJJE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJbcQqU4dY-xIRY-sxTtAkh5g",
+        "name": "Cafe Mirador",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Mirador (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOrv6TvXHgfY6kcH3DwY8N4eGLKApT5zF5i-7IN=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "21 205 209",
+        "address": "P5GM+XPJ Cafe Mirador, Rue 18 Janvier, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Mirador/data=!4m7!3m6!1s0x12fb5887532ac46d:0x988724d04e31eb63!8m2!3d36.727459!4d9.1842729!16s%2Fg%2F11f56ky3zy!19sChIJbcQqU4dY-xIRY-sxTtAkh5g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJWYu_KeJZ-xIRrBmHFXs7r30",
+        "name": "Cafe soltan",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe soltan (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP0RGnhQD_pZ0xQvswpKtD6h6nHwRNrn4x90Ody=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "P5HM+M8G Cafe soltan, Rue 18 Janvier, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+soltan/data=!4m7!3m6!1s0x12fb59e229bf8b59:0x7daf3b7b158719ac!8m2!3d36.7291811!4d9.1833153!16s%2Fg%2F11jlnzdhxm!19sChIJWYu_KeJZ-xIRrBmHFXs7r30?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJca7wQgCn_BIRRCU9lD8aJMs",
+        "name": "cafe cesar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe cesar (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOptVB46hxM8q8zs1f6JtFLL8dfoD5ivpmITXeM=w408-h408-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "P5CR+XR5 cafe cesar, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/cafe+cesar/data=!4m7!3m6!1s0x12fca70042f0ae71:0xcb241a3f943d2544!8m2!3d36.7223845!4d9.1921117!16s%2Fg%2F11vryb6xdw!19sChIJca7wQgCn_BIRRCU9lD8aJMs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJCUvLqpxZ-xIRYFrGQfEwdo8",
+        "name": "Swiing",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Swiing (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPN5XmbECROl0gtDCi2qYR4_JApkBzLA2y6aUWo=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "P5PH+53V Swiing, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Swiing/data=!4m7!3m6!1s0x12fb599caacb4b09:0x8f7630f141c65a60!8m2!3d36.7354378!4d9.1776602!16s%2Fg%2F11s5p5xfw7!19sChIJCUvLqpxZ-xIRYFrGQfEwdo8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6Z6-t3un_BIR75vS5mb6LN8",
+        "name": "Cafe Taher",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Taher (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "98 247 704",
+        "address": "P5CX+325 Cafe Taher, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Taher/data=!4m7!3m6!1s0x12fca77bb7be9ee9:0xdf2cfa66e6d29bef!8m2!3d36.7201486!4d9.197618!16s%2Fg%2F11g65lpgzp!19sChIJ6Z6-t3un_BIR75vS5mb6LN8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJp7rdrAZZ-xIRjLR1yZ_LFmY",
+        "name": "Salon de the edallel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Salon de the edallel (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPctk39_lzpH_DlKJo6upN26AfLLVkzD34uob9x=w408-h408-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "1 er etage, Salon de the edallel, app 2-3, 46 Rue Hedi Chaker, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Salon+de+th%C3%A9+edallel/data=!4m7!3m6!1s0x12fb5906acddbaa7:0x6616cb9fc975b48c!8m2!3d36.724723!4d9.1868651!16s%2Fg%2F11mwqjcr70!19sChIJp7rdrAZZ-xIRjLR1yZ_LFmY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJAWyB9uhZ-xIRQfd6DDPZz3I",
+        "name": "Vamos Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://www.instagram.com/coffee.vamos/",
+        "owner": {
+            "id": "114061719468186025044",
+            "name": "Vamos Coffee (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114061719468186025044"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMnDvpfeFFGWx0s9I0BFbL9SfKugJwmDTdjnc4w=w408-h852-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "07:30-22:00",
+        "closed_on": [],
+        "phone": "55 650 740",
+        "address": "Vamos Coffee, Avenue Essalam, Beja 9000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Vamos+Coffee/data=!4m7!3m6!1s0x12fb59e8f6816c01:0x72cfd9330c7af741!8m2!3d36.7373585!4d9.1812824!16s%2Fg%2F11tp76zmqy!19sChIJAWyB9uhZ-xIRQfd6DDPZz3I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJmXiNk9FZ-xIReLwZ3YAFRS8",
+        "name": "Cafe El guebsi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe El guebsi (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "31 516 285",
+        "address": "P5GM+FF9 Cafe El guebsi, Av. Farhat Hached, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+El+guebsi/data=!4m7!3m6!1s0x12fb59d1938d7899:0x2f450580dd19bc78!8m2!3d36.726159!4d9.1837337!16s%2Fg%2F11t3v2pb6v!19sChIJmXiNk9FZ-xIReLwZ3YAFRS8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJm9sizd-n_BIRwI2vDehVkx0",
+        "name": "Cafe mixte",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "111282482321415791923",
+            "name": "Cafe mixte (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111282482321415791923"
+        },
+        "featured_image": null,
+        "main_category": "Cafeteria",
+        "categories": [
+            "Cafeteria",
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe mixte, Rue abu kacem echebi, Beja 9000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+mixte/data=!4m7!3m6!1s0x12fca7dfcd22db9b:0x1d9355e80daf8dc0!8m2!3d36.720096!4d9.1946928!16s%2Fg%2F11ksk7vcxz!19sChIJm9sizd-n_BIRwI2vDehVkx0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJmwheLmOn_BIRyVDNRd1d34g",
+        "name": "Total phenix cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Total phenix cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOgljK87TEoXNtVRWzGok5pexZi4up1gt7y9C6v=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "P6H2+6QV Total phenix cafe, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Total+ph%C3%A8nix+caf%C3%A8/data=!4m7!3m6!1s0x12fca7632e5e089b:0x88df5ddd45cd50c9!8m2!3d36.7281029!4d9.2019097!16s%2Fg%2F11t9hsst1b!19sChIJmwheLmOn_BIRyVDNRd1d34g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJKd1O7cVZ-xIR8WCvcjaVRTs",
+        "name": "Cafe Malibou Sahli",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://www.facebook.com/profile.php%3Fid%3D100027213681153%26mibextid%3DZbWKwL",
+        "owner": {
+            "id": null,
+            "name": "Cafe Malibou Sahli (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "P5MM+8QF Cafe Malibou Sahli, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Malibou+Sahli/data=!4m7!3m6!1s0x12fb59c5ed4edd29:0x3b45953672af60f1!8m2!3d36.7333148!4d9.1844357!16s%2Fg%2F11tp9t9gfk!19sChIJKd1O7cVZ-xIR8WCvcjaVRTs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_x-PKSxZ-xIRrZUTHGq_RpA",
+        "name": "Cafe shop Malibou sahli",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://www.facebook.com/profile.php%3Fid%3D100027213681153%26mibextid%3DZbWKwL",
+        "owner": {
+            "id": null,
+            "name": "Cafe shop Malibou sahli (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "P5FP+8FW Cafe shop Malibou sahli, Beja",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+shop+Malibou+sahli/data=!4m7!3m6!1s0x12fb592c298f1fff:0x9046bf6a1c1395ad!8m2!3d36.7233736!4d9.186209!16s%2Fg%2F11k4_8l9q1!19sChIJ_x-PKSxZ-xIRrZUTHGq_RpA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJQzgPI6Sn_BIRDGG4ogBpvUE",
+        "name": "Cafeteria Tej",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "107981978403095736638",
+            "name": "Cafeteria Tej (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/107981978403095736638"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPgPQ1h4ehETj-EhJ_pWJWXOWsxSuYcnXWRdXFF=w408-h306-k-no",
+        "main_category": "Cafeteria",
+        "categories": [
+            "Cafeteria"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "54 477 657",
+        "address": "Cafeteria Tej, nhj Gn `dd 2, Beja 9000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9t%C3%A9ria+Tej/data=!4m7!3m6!1s0x12fca7a4230f3843:0x41bd6900a2b8610c!8m2!3d36.7216606!4d9.1924808!16s%2Fg%2F11rr1zlx2g!19sChIJQzgPI6Sn_BIRDGG4ogBpvUE?authuser=0&hl=fr&rclk=1"
+    }
+]

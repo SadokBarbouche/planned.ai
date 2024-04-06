@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJq8Sv_29uVhIR5r0TiqshTw4",
+        "name": "Gare routiere de Kebili",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare routiere de Kebili (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 3.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare routiere de Kebili, Route de Gabes, P16, 4200",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+routi%C3%A8re+de+K%C3%A9bili/data=!4m7!3m6!1s0x12566e6fffafc4ab:0xe4f21ab8a13bde6!8m2!3d33.7258617!4d8.979833!16s%2Fg%2F1hc0z37rp!19sChIJq8Sv_29uVhIR5r0TiqshTw4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdxrRlVluVhIR2IiocrMgxvk",
+        "name": "Station Nationale Louage Kebili",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Nationale Louage Kebili (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN_c62tEztaJVMAzgHRtIYTS2DKKxqFrFBxURUW=w408-h544-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 491 213",
+        "address": "PX8F+QR6 Station Nationale Louage Kebili, Kebili",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Nationale+Louage+K%C3%A9bili/data=!4m7!3m6!1s0x12566e5995d11a77:0xf9c620b372a888d8!8m2!3d33.7169023!4d8.9745282!16s%2Fg%2F11dxdlztr9!19sChIJdxrRlVluVhIR2IiocrMgxvk?authuser=0&hl=fr&rclk=1"
+    }
+]

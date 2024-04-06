@@ -1,0 +1,159 @@
+[
+    {
+        "place_id": "ChIJN9YMXL39ARMR8Byr0e1KLOI",
+        "name": "Hotel resto Dar Ammar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 167,
+        "website": "http://www.darammar.com/",
+        "owner": {
+            "id": "113392618244717396284",
+            "name": "Hotel resto Dar Ammar (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113392618244717396284"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPgmcYp-QeepoI_g3QVvBWyKkSTH9SbbqmYdjTo=w408-h271-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "98 235 565",
+        "address": "Hotel resto Dar Ammar, R87, El Jem 5160",
+        "review_keywords": [
+            {
+                "keyword": "dejeuner",
+                "count": 9
+            },
+            {
+                "keyword": "buffet",
+                "count": 8
+            },
+            {
+                "keyword": "excursion",
+                "count": 5
+            },
+            {
+                "keyword": "choix",
+                "count": 5
+            },
+            {
+                "keyword": "chambres",
+                "count": 4
+            },
+            {
+                "keyword": "boissons",
+                "count": 4
+            },
+            {
+                "keyword": "amphitheatre",
+                "count": 3
+            },
+            {
+                "keyword": "serveurs",
+                "count": 3
+            },
+            {
+                "keyword": "poulet",
+                "count": 3
+            },
+            {
+                "keyword": "parking",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+resto+Dar+Ammar/data=!4m10!3m9!1s0x1301fdbd5c0cd637:0xe22c4aedd1ab1cf0!5m2!4m1!1i2!8m2!3d35.3037956!4d10.6807073!16s%2Fg%2F11j4jy1h3q!19sChIJN9YMXL39ARMR8Byr0e1KLOI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJN-ha5p38ARMRKD4hdFVRzU4",
+        "name": "Hotel Julius",
+        "description": "Chambres et suites de style decontracte dans hotel elegant avec restaurant, cafe et piscine exterieure.",
+        "is_spending_on_ads": false,
+        "reviews": 103,
+        "website": "http://www.julius.tn/",
+        "owner": {
+            "id": "116274391385590539277",
+            "name": "Hotel Julius (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/116274391385590539277"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOp1mO6qvlDnPklKRHDgS5XwxSElek0Tkvm4f1Y=w408-h272-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "73 631 007",
+        "address": "Hotel Julius, Av. Taieb Mhiri, El Jem 5160",
+        "review_keywords": [
+            {
+                "keyword": "amphitheatre",
+                "count": 10
+            },
+            {
+                "keyword": "chambre",
+                "count": 9
+            },
+            {
+                "keyword": "nettoyage",
+                "count": 7
+            },
+            {
+                "keyword": "prix",
+                "count": 6
+            },
+            {
+                "keyword": "gare",
+                "count": 4
+            },
+            {
+                "keyword": "piscine",
+                "count": 4
+            },
+            {
+                "keyword": "musee",
+                "count": 3
+            },
+            {
+                "keyword": "etoiles",
+                "count": 3
+            },
+            {
+                "keyword": "bruit",
+                "count": 3
+            },
+            {
+                "keyword": "wifi",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hotel+Julius/data=!4m10!3m9!1s0x1301fc9de65ae837:0x4ecd515574213e28!5m2!4m1!1i2!8m2!3d35.2926022!4d10.7086239!16s%2Fg%2F11cn2mhx_6!19sChIJN-ha5p38ARMRKD4hdFVRzU4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJlw3jwQu9qhMRmvUWBut-leQ",
+        "name": "Hotel Holiday beach Djerba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hotel Holiday beach Djerba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNRVnoRTCesrcg-kjbrZKEgFEsZ21tJPphVpIpG=w408-h543-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QXG5+56Q Hotel Holiday beach Djerba, Djerba Midun",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hotel+Holiday+beach+Djerba/data=!4m10!3m9!1s0x13aabd0bc1e30d97:0xe4957eeb0616f59a!5m2!4m1!1i2!8m2!3d33.7754716!4d10.9580947!16s%2Fg%2F11s46ctczh!19sChIJlw3jwQu9qhMRmvUWBut-leQ?authuser=0&hl=fr&rclk=1"
+    }
+]

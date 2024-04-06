@@ -1,0 +1,366 @@
+[
+    {
+        "place_id": "ChIJQ5uiFG51AhMRn9KSibxecpU",
+        "name": "Musee archeologique de Sousse",
+        "description": "Petit musee dans une casbah historique presentant des mosaiques, des reliques et des objets anciens.",
+        "is_spending_on_ads": false,
+        "reviews": 816,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee archeologique de Sousse (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP5Em_pgGSxstPF-oHXg-TKSunyeEZ07gtgwPQy=w408-h272-k-no",
+        "main_category": "Musee archeologique",
+        "categories": [
+            "Musee archeologique",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "73 219 011",
+        "address": "RJFP+644 Musee archeologique de Sousse, Rue Abou Kacem Echabi, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "mosaiques",
+                "count": 149
+            },
+            {
+                "keyword": "antique",
+                "count": 18
+            },
+            {
+                "keyword": "prix",
+                "count": 16
+            },
+            {
+                "keyword": "collection",
+                "count": 12
+            },
+            {
+                "keyword": "statues",
+                "count": 11
+            },
+            {
+                "keyword": "valeur",
+                "count": 10
+            },
+            {
+                "keyword": "baptistere",
+                "count": 7
+            },
+            {
+                "keyword": "dinar",
+                "count": 7
+            },
+            {
+                "keyword": "jardin",
+                "count": 7
+            },
+            {
+                "keyword": "poterie",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+arch%C3%A9ologique+de+Sousse/data=!4m7!3m6!1s0x1302756e14a29b43:0x95725ebc8992d29f!8m2!3d35.8230114!4d10.6353131!16s%2Fm%2F05b05cn!19sChIJQ5uiFG51AhMRn9KSibxecpU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1TeVZnN1AhMRcCHowumDXZk",
+        "name": "Musee magic eye 3D",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 383,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee magic eye 3D (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM9WeVZfAhQh0UDPuNijaiyJr5RQpYJ-SJGrOuk=w408-h305-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.3,
+        "workday_timing": "09:00-19:00",
+        "closed_on": [],
+        "phone": "23 635 000",
+        "address": "RJHR+36J Musee magic eye 3D, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "enfants",
+                "count": 22
+            },
+            {
+                "keyword": "famille",
+                "count": 17
+            },
+            {
+                "keyword": "photo",
+                "count": 11
+            },
+            {
+                "keyword": "experience",
+                "count": 11
+            },
+            {
+                "keyword": "prix",
+                "count": 10
+            },
+            {
+                "keyword": "application",
+                "count": 9
+            },
+            {
+                "keyword": "image",
+                "count": 8
+            },
+            {
+                "keyword": "adultes",
+                "count": 6
+            },
+            {
+                "keyword": "a telecharger",
+                "count": 5
+            },
+            {
+                "keyword": "idee",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+magic+eye+3D/data=!4m7!3m6!1s0x13027573669537d5:0x995d83e9c2e82170!8m2!3d35.82771!4d10.6405059!16s%2Fg%2F11gdjprcvb!19sChIJ1TeVZnN1AhMRcCHowumDXZk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJM3ZhrHp1AhMRgZVi5NAE_Bg",
+        "name": "Musee Dar Essid",
+        "description": "Art regional, objets anciens et expositions historiques sur la vie quotidienne dans un celebre palais.",
+        "is_spending_on_ads": false,
+        "reviews": 216,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee Dar Essid (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPqU1jkLUlwl5-iR24tYTx25xUQ4xE92oDpLGYV=w408-h306-k-no",
+        "main_category": "Musee d'art",
+        "categories": [
+            "Musee d'art",
+            "Musee d'histoire locale",
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "10:00-18:00",
+        "closed_on": [],
+        "phone": "73 220 529",
+        "address": "Musee Dar Essid, Boulevard Yahia Ibn Omar, 65 Rue des Remparts, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "tour",
+                "count": 8
+            },
+            {
+                "keyword": "demeure",
+                "count": 8
+            },
+            {
+                "keyword": "vie quotidienne",
+                "count": 6
+            },
+            {
+                "keyword": "langage",
+                "count": 6
+            },
+            {
+                "keyword": "toits",
+                "count": 6
+            },
+            {
+                "keyword": "vue",
+                "count": 6
+            },
+            {
+                "keyword": "prix",
+                "count": 6
+            },
+            {
+                "keyword": "porte",
+                "count": 5
+            },
+            {
+                "keyword": "terrasse",
+                "count": 5
+            },
+            {
+                "keyword": "interieur",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Dar+Essid/data=!4m7!3m6!1s0x1302757aac617633:0x18fc04d0e4629581!8m2!3d35.827142!4d10.6355029!16s%2Fg%2F12lnj4jw0!19sChIJM3ZhrHp1AhMRgZVi5NAE_Bg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJh-3PSHJ1AhMRRyW5iQqNf9s",
+        "name": "musee El Kobba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 81,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "musee El Kobba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPMnl24APAVuhxmsOtdr-VlAuXiRiQLrutDhMgs=w408-h306-k-no",
+        "main_category": "Musee d'histoire locale",
+        "categories": [
+            "Musee d'histoire locale",
+            "Attraction touristique"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [
+            "vendredi"
+        ],
+        "phone": null,
+        "address": "RJGQ+27P musee El Kobba, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/mus%C3%A9e+El+Kobba/data=!4m7!3m6!1s0x1302757248cfed87:0xdb7f8d0a89b92547!8m2!3d35.8250945!4d10.6381903!16s%2Fg%2F11f3n38bw7!19sChIJh-3PSHJ1AhMRRyW5iQqNf9s?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJw5B-URF1AhMRUoUIIDVLJoA",
+        "name": "Dar Am Taieb Musee prive d'art contemporain",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 30,
+        "website": null,
+        "owner": {
+            "id": "102419342938162974047",
+            "name": "Dar Am Taieb Musee prive d'art contemporain (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/102419342938162974047"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOtse6j6ubyOoHFX4-QDEszYP2o2S4c4NztNWgb=w426-h240-k-no",
+        "main_category": "Musee d'art moderne",
+        "categories": [
+            "Musee d'art moderne"
+        ],
+        "rating": 4.9,
+        "workday_timing": "09:00-17:30",
+        "closed_on": [],
+        "phone": "98 960 944",
+        "address": "Dar Am Taieb Musee prive d'art contemporain, bohsina, Rue ali ben ghedahem, Sousse 4000",
+        "review_keywords": [
+            {
+                "keyword": "artiste",
+                "count": 10
+            },
+            {
+                "keyword": "vie",
+                "count": 5
+            },
+            {
+                "keyword": "famille",
+                "count": 5
+            },
+            {
+                "keyword": "oeuvre",
+                "count": 4
+            },
+            {
+                "keyword": "fils",
+                "count": 3
+            },
+            {
+                "keyword": "sculptures",
+                "count": 3
+            },
+            {
+                "keyword": "experience",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Am+Taieb+Musee+prive+d%27art+contemporain/data=!4m7!3m6!1s0x13027511517e90c3:0x80264b3520088552!8m2!3d35.8211033!4d10.6302605!16s%2Fg%2F11q9k8yhw3!19sChIJw5B-URF1AhMRUoUIIDVLJoA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJlbalx3F1AhMRkNZZ_LcQNBQ",
+        "name": "dr `m lTyb llfn lm`Sr",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "dr `m lTyb llfn lm`Sr (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPicGsce7Fv6gGGYCNnns-Z1daCCPBCfawxwPKD=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "RJCJ+F3G dr `m lTyb llfn lm`Sr, Rue Jalta, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%AF%D8%A7%D8%B1+%D8%B9%D9%85+%D8%A7%D9%84%D8%B7%D9%8A%D8%A8+%D9%84%D9%84%D9%81%D9%86+%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B5%D8%B1%E2%80%AD/data=!4m7!3m6!1s0x13027571c7a5b695:0x143410b7fc59d690!8m2!3d35.8211861!4d10.6302069!16s%2Fg%2F11f3w6q9h6!19sChIJlbalx3F1AhMRkNZZ_LcQNBQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJz5BGiZOJ_RIR_FbBbiSkG9E",
+        "name": "lmnr@ lighthouse phare",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "lmnr@ lighthouse phare (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMwxnzCYCsrnk6iZv5wMMt_9UOWh7Cw_kyYrkRN=w408-h306-k-no",
+        "main_category": "Port de plaisance",
+        "categories": [
+            "Port de plaisance",
+            "Musee maritime",
+            "Musee"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VJV2+2F8 lmnr@ lighthouse phare, Camel Riding, Port El Kantaoui,, Hammam Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B1%D8%A9+lighthouse+phare%E2%80%AD/data=!4m7!3m6!1s0x12fd8993894690cf:0xd11ba4246ec156fc!8m2!3d35.8925284!4d10.6011941!16s%2Fg%2F11h_vvq93m!19sChIJz5BGiZOJ_RIR_FbBbiSkG9E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJIYiSEJSL_RIRKcSUkcDmbqQ",
+        "name": "I LOVE H.SOUSSE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "I LOVE H.SOUSSE (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNX2o-Jk2Z-EnN-nmXX5rrvpxBMiSsvFShnnHG2=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "VJC5+3C3 I LOVE H.SOUSSE, Hammam Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/I+LOVE+H.SOUSSE/data=!4m7!3m6!1s0x12fd8b9410928821:0xa46ee6c09194c429!8m2!3d35.870127!4d10.608549!16s%2Fg%2F11j0twyn4v!19sChIJIYiSEJSL_RIRKcSUkcDmbqQ?authuser=0&hl=fr&rclk=1"
+    }
+]

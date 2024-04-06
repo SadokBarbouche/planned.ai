@@ -1,0 +1,184 @@
+[
+    {
+        "place_id": "ChIJGymJWQqK_RIRojgs5ucRyDY",
+        "name": "Hotel Marhaba Royal Salem",
+        "description": "Logements clairs dans complexe convivial en bord de plage avec restaurant, piscines, club enfants et spa.",
+        "is_spending_on_ads": false,
+        "reviews": 2205,
+        "website": "https://www.royalsalem.tn/",
+        "owner": {
+            "id": "103136526160093510562",
+            "name": "Hotel Marhaba Royal Salem (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103136526160093510562"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEqWbUcvfHIa1TE_ACiPeen0RWQ00150t5Jb9d6UBSU1H7L6PKd5xzzDhor27Zdby3V8x7Mh51xhqUusp1KLh8FFUIA6me99xnsXUWZQYI0hM83YOoy__iAkvNfWrY-M_Dj2lXn83Fh5EUElUjsxxZqA1qekYTXS412qow2OXzqiGsPpLPvlCuq=w408-h270-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "73 271 588",
+        "address": "Hotel Marhaba Royal Salem, Marhaba Royal Salem, Boulevard du 14 Janvier, Sousse 4039",
+        "review_keywords": [
+            {
+                "keyword": "animation",
+                "count": 239
+            },
+            {
+                "keyword": "divertissement",
+                "count": 36
+            },
+            {
+                "keyword": "pourboire",
+                "count": 30
+            },
+            {
+                "keyword": "all inclusive",
+                "count": 24
+            },
+            {
+                "keyword": "danse",
+                "count": 22
+            },
+            {
+                "keyword": "toboggan",
+                "count": 22
+            },
+            {
+                "keyword": "zumba",
+                "count": 18
+            },
+            {
+                "keyword": "animateurs",
+                "count": 15
+            },
+            {
+                "keyword": "flechettes",
+                "count": 10
+            },
+            {
+                "keyword": "momos",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hotel+Marhaba+Royal+Salem/data=!4m10!3m9!1s0x12fd8a0a5989291b:0x36c811e7e62c38a2!5m2!4m1!1i2!8m2!3d35.858572!4d10.6158463!16s%2Fg%2F1vpgzxgr!19sChIJGymJWQqK_RIRojgs5ucRyDY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJGymJWQqK_RIR6UVXmST4jQ4",
+        "name": "Hotel Marhaba Salem",
+        "description": "Hotel en bord de plage avec piscines en interieur et en exterieur, spa, 4 restaurants et 3 bars.",
+        "is_spending_on_ads": false,
+        "reviews": 1662,
+        "website": "http://www.marhabasalem.tn/",
+        "owner": {
+            "id": "108481785392645967866",
+            "name": "Hotel Marhaba Salem (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108481785392645967866"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipONhIid2uUzfPnS7E37JGJUhB-hdxHF2rqElTvA=w426-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "73 240 966",
+        "address": "Hotel Marhaba Salem, Boulevard 14 Janvier 4039 Sousse, Hammam Sousse 4039",
+        "review_keywords": [
+            {
+                "keyword": "animation",
+                "count": 367
+            },
+            {
+                "keyword": "divertir",
+                "count": 90
+            },
+            {
+                "keyword": "danse",
+                "count": 26
+            },
+            {
+                "keyword": "animateurs",
+                "count": 25
+            },
+            {
+                "keyword": "zumba",
+                "count": 16
+            },
+            {
+                "keyword": "momos",
+                "count": 14
+            },
+            {
+                "keyword": "disco",
+                "count": 13
+            },
+            {
+                "keyword": "flechettes",
+                "count": 12
+            },
+            {
+                "keyword": "tir a l'arc",
+                "count": 11
+            },
+            {
+                "keyword": "aquagym",
+                "count": 9
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hotel+Marhaba+Salem/data=!4m10!3m9!1s0x12fd8a0a5989291b:0xe8df824995745e9!5m2!4m1!1i2!8m2!3d35.8594365!4d10.6164423!16s%2Fg%2F1vp5_3hj!19sChIJGymJWQqK_RIR6UVXmST4jQ4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2-as3TT0_RIRetLkVSRf_5M",
+        "name": "DAR EL ANDALOUS Guest house",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "DAR EL ANDALOUS Guest house (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPy4egcsVK5dTo-x3a4kNMarlGc9GvaM3Z_lB-y=w408-h544-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "73 293 578",
+        "address": "PHJ6+5MQ DAR EL ANDALOUS Guest house, Rte de Kroussia, M'saken 4070",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/DAR+EL+ANDALOUS+Guest+house/data=!4m10!3m9!1s0x12fdf434ddace6db:0x93ff5f2455e4d27a!5m2!4m1!1i2!8m2!3d35.7304625!4d10.5617452!16s%2Fg%2F1hc11m804!19sChIJ2-as3TT0_RIRetLkVSRf_5M?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJWYxMOknF_RIRQBh70OLpyOw",
+        "name": "Hotel Ettaoufik",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": "100472591456010179764",
+            "name": "Hotel Ettaoufik (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100472591456010179764"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMOftNyIR_wAMtQ0jLIDC0vUMBEVYRxsfxtiETI=w408-h306-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "51 802 840",
+        "address": "Hotel Ettaoufik, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hotel+Ettaoufik/data=!4m10!3m9!1s0x12fdc5493a4c8c59:0xecc8e9e2d07b1840!5m2!4m1!1i2!8m2!3d35.6717605!4d10.0983877!16s%2Fg%2F11c5rpyffb!19sChIJWYxMOknF_RIRQBh70OLpyOw?authuser=0&hl=fr&rclk=1"
+    }
+]

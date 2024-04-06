@@ -1,0 +1,93 @@
+[
+    {
+        "place_id": "ChIJ9Wc1LzANAhMRh0MoEOoUoM8",
+        "name": "Skanes Serail aquapark",
+        "description": "Hotel tout compris de style arabe avec plage, spa, court de tennis, 2 piscines et plusieurs restaurants.",
+        "is_spending_on_ads": false,
+        "reviews": 1078,
+        "website": "http://www.hotelserail.com/",
+        "owner": {
+            "id": "102364662827812974548",
+            "name": "Skanes Serail aquapark (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/102364662827812974548"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGpLIbR2361fCJQ2O9XDE8Y-FPx3lcj0h3ewGr_r-nDiqVk7DUCBO0zxKbKehFz5_s8csm7w2Z0vtOO7JQ2qA5rwz6u6rm2ZZgWReckQVVvZiJSea3ecGI5raRYsTDmo2RIM5f9j_2D6RmLubyRYBI7M6v8rJfuWpJ0CPHalsKScsBQe-pxw_Oc=w408-h270-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 3.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "73 520 241",
+        "address": "Skanes Serail aquapark, Monastir",
+        "review_keywords": [
+            {
+                "keyword": "animation",
+                "count": 43
+            },
+            {
+                "keyword": "all inclusive",
+                "count": 31
+            },
+            {
+                "keyword": "toboggans",
+                "count": 24
+            },
+            {
+                "keyword": "discotheque",
+                "count": 18
+            },
+            {
+                "keyword": "transat",
+                "count": 16
+            },
+            {
+                "keyword": "parc aquatique",
+                "count": 15
+            },
+            {
+                "keyword": "directeur",
+                "count": 13
+            },
+            {
+                "keyword": "mouches",
+                "count": 9
+            },
+            {
+                "keyword": "tempo",
+                "count": 7
+            },
+            {
+                "keyword": "animateurs",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Skanes+S%C3%A9rail+aquapark/data=!4m10!3m9!1s0x13020d302f3567f5:0xcfa014ea10284387!5m2!4m1!1i2!8m2!3d35.7697272!4d10.7667853!16s%2Fg%2F1tnfw28f!19sChIJ9Wc1LzANAhMRh0MoEOoUoM8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJiSYBPK8NAhMRCVN2Y18IEKI",
+        "name": "Skanes Serail beach",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Skanes Serail beach (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM_o_h9z1dho4M5TZpjuEHYCTrAdN6N4D4FcjA=w408-h544-k-no",
+        "main_category": "Pavillon de plage",
+        "categories": [
+            "Pavillon de plage"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Skanes Serail beach, Skanes",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Skanes+S%C3%A9rail+beach/data=!4m7!3m6!1s0x13020daf3c012689:0xa210085f63765309!8m2!3d35.7717198!4d10.7665462!16s%2Fg%2F11v9kvm60p!19sChIJiSYBPK8NAhMRCVN2Y18IEKI?authuser=0&hl=fr&rclk=1"
+    }
+]

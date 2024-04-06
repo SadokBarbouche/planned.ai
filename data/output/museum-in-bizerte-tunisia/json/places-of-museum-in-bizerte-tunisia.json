@@ -1,0 +1,139 @@
+[
+    {
+        "place_id": "ChIJNVZrGUke4xIRvCUbSs3xb30",
+        "name": "Bizerte Old Harbor",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bizerte Old Harbor (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOJKxmO4VW8iI3HM-vWnDifT91tN_d0oTKWof2x=w408-h307-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "7VGG+863 Bizerte Old Harbor, Bizerte",
+        "review_keywords": [
+            {
+                "keyword": "port",
+                "count": 3
+            },
+            {
+                "keyword": "touristes",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Bizerte+Old+Harbor/data=!4m7!3m6!1s0x12e31e49196b5635:0x7d6ff1cd4a1b25bc!8m2!3d37.2757517!4d9.8755503!16s%2Fg%2F1tyh4lbv!19sChIJNVZrGUke4xIRvCUbSs3xb30?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJI3eCCkUe4xIROc_I_FYtgJ4",
+        "name": "Fort d'Espagne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Fort d'Espagne (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipORmqCJSdfZQj3ZBed39JtfF_uzg3eK5nmzDuEg=w408-h270-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Lieu historique",
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "7VJC+79G Fort d'Espagne, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fort+d%27Espagne/data=!4m7!3m6!1s0x12e31e450a827723:0x9e802d56fcc8cf39!8m2!3d37.2806849!4d9.8709564!16s%2Fg%2F11c5_zjs64!19sChIJI3eCCkUe4xIROc_I_FYtgJ4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJM1cyvRsd4xIROO82hM8U4E8",
+        "name": "Musee de la marine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee de la marine (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPPWn9NBwCpl1R1iK0-YZuyXVOB-k8_aFTxFxNO=w408-h544-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "8VJ7+W8 Musee de la marine, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+de+la+marine/data=!4m7!3m6!1s0x12e31d1bbd325733:0x4fe014cf8436ef38!8m2!3d37.3323143!4d9.8633409!16s%2Fg%2F11jyfymkbv!19sChIJM1cyvRsd4xIROO82hM8U4E8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJVz1Wfxsf4xIRazY-FeiXumM",
+        "name": "Mosque Labreche",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mosque Labreche (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOmox219wIgT5CpFfDsL37HcKyHomfg1vhMl_ro=w408-h544-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "7R8V+47P Mosque Labreche, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mosqu%C3%A9+Labr%C3%A8che/data=!4m7!3m6!1s0x12e31f1b7f563d57:0x63ba97e8153e366b!8m2!3d37.2653449!4d9.8431894!16s%2Fg%2F11c1s8r65d!19sChIJVz1Wfxsf4xIRazY-FeiXumM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8besoIcf4xIRQ_wup8ajEpM",
+        "name": "Dom-muzei Anastasii Shirinskoi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dom-muzei Anastasii Shirinskoi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPWe14nw64Ij0U8LYV9zX-emMDWqY21SAQssJcy=w408-h544-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "58 180 858",
+        "address": "7V97+3C3 Dom-muzei Anastasii Shirinskoi, Bizerte 7000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D0%94%D0%BE%D0%BC-%D0%BC%D1%83%D0%B7%D0%B5%D0%B9+%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D0%B8+%D0%A8%D0%B8%D1%80%D0%B8%D0%BD%D1%81%D0%BA%D0%BE%D0%B9/data=!4m7!3m6!1s0x12e31f87a0acb7f1:0x9312a3c6a72efc43!8m2!3d37.2679915!4d9.8634528!16s%2Fg%2F11tgd5kht2!19sChIJ8besoIcf4xIRQ_wup8ajEpM?authuser=0&hl=fr&rclk=1"
+    }
+]

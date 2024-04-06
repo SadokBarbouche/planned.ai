@@ -1,0 +1,102 @@
+[
+    {
+        "place_id": "ChIJNcQi7J7F4hIRGdOsv28KMBk",
+        "name": "La Mamma Restaurant",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Mamma Restaurant (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOsvQjd5z0F6d8YhM-nIMjZltiuwVSODAFsjVlu=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": "99 748 887",
+        "address": "3459+P86 La Mamma Restaurant, Kelaat El Andaluus",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+Mamma+Restaurant/data=!4m7!3m6!1s0x12e2c59eec22c435:0x19300a6fbfacd319!8m2!3d37.0592762!4d10.118263!16s%2Fg%2F11gy47ljyn!19sChIJNcQi7J7F4hIRGdOsv28KMBk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-aNL-g7F4hIR7gu84BiWfjk",
+        "name": "Pizza Rousto Yara",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pizza Rousto Yara (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP9B_8ahoyzm80VKy_F6OJ05hzrKTv3Qiv4l1G7=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "53 551 064",
+        "address": "3479+M2G Pizza Rousto Yara, Rue hawel loued, Kalaate Al Andalouss",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pizza+Rousto+Yara/data=!4m7!3m6!1s0x12e2c50efa4ba3f9:0x397e9618e0bc0bee!8m2!3d37.0641792!4d10.1175697!16s%2Fg%2F11cs2h16fz!19sChIJ-aNL-g7F4hIR7gu84BiWfjk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJY7vPw0jF4hIROSLUjRSbsio",
+        "name": "Chez Hassine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Chez Hassine (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMya2skaq9du8fGBuNzup_cx4lcwwG5A1L5ObNA=w408-h860-k-no",
+        "main_category": "Restauration rapide",
+        "categories": [
+            "Restauration rapide"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "3467+7VC Chez Hassine, Unnamed Road, Kelaat El Andaluus",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Chez+Hassine/data=!4m7!3m6!1s0x12e2c548c3cfbb63:0x2ab29b148dd42239!8m2!3d37.0606923!4d10.114641!16s%2Fg%2F11smc5j_cl!19sChIJY7vPw0jF4hIROSLUjRSbsio?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJiZsLo3HF4hIR7zf57AV6ZPo",
+        "name": "Restaurant Oussama Akkari",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant Oussama Akkari (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN13gpJEergv9tngRHhVKtzAiPdpCCL4sDYl98d=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "432V+PF9 Restaurant Oussama Akkari, Gouvernorat de l, Kalaate Al Andalouss",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+Oussama+Akkari/data=!4m7!3m6!1s0x12e2c571a30b9b89:0xfa647a05ecf937ef!8m2!3d37.1017914!4d10.0937413!16s%2Fg%2F11f66slhmh!19sChIJiZsLo3HF4hIR7zf57AV6ZPo?authuser=0&hl=fr&rclk=1"
+    }
+]

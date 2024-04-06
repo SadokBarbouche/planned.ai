@@ -1,0 +1,48 @@
+[
+    {
+        "place_id": "ChIJbYEF7--HVhIRHhQB8T7XLXs",
+        "name": "Souk Douz",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 115,
+        "website": null,
+        "owner": {
+            "id": "106555826425883095450",
+            "name": "Souk Douz (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106555826425883095450"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOf8K5xqr5ruPLWNVF3rN0GWI8d6gg8u59GVS0a=w408-h305-k-no",
+        "main_category": "Marche",
+        "categories": [
+            "Marche"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "98 483 885",
+        "address": "Souk Douz, Douz 4260",
+        "review_keywords": [
+            {
+                "keyword": "desert",
+                "count": 4
+            },
+            {
+                "keyword": "touristes",
+                "count": 3
+            },
+            {
+                "keyword": "souvenirs",
+                "count": 3
+            },
+            {
+                "keyword": "place",
+                "count": 3
+            },
+            {
+                "keyword": "artisans",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Souk+Douz/data=!4m7!3m6!1s0x125687efef05816d:0x7b2dd73ef101141e!8m2!3d33.4553495!4d9.0248511!16s%2Fg%2F11btn1cppn!19sChIJbYEF7--HVhIRHhQB8T7XLXs?authuser=0&hl=fr&rclk=1"
+    }
+]

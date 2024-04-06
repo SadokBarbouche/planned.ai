@@ -1,0 +1,469 @@
+[
+    {
+        "place_id": "ChIJRZMHxgnvqhMRH5moSk3EBA8",
+        "name": "Odyssee Resort Thalasso & Spa Zarzis",
+        "description": "Complexe tout compris de style decontracte avec 5 restaurants, piscines, acces plage et courts de tennis.",
+        "is_spending_on_ads": false,
+        "reviews": 1445,
+        "website": "http://www.odyssee-resort.com/",
+        "owner": {
+            "id": "112509351603000263724",
+            "name": "Odyssee Resort Thalasso & Spa Zarzis (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/112509351603000263724"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMA8TOeMmywppe9aiyNFGEj86ByuWJe3DWibGX2=w455-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel",
+            "Complexe hotelier"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 705 705",
+        "address": "Odyssee Resort Thalasso & Spa Zarzis, Odyssee Resort Thalasso and Spa, Zarzis",
+        "review_keywords": [
+            {
+                "keyword": "algues",
+                "count": 55
+            },
+            {
+                "keyword": "animation",
+                "count": 48
+            },
+            {
+                "keyword": "all inclusive",
+                "count": 27
+            },
+            {
+                "keyword": "spectacles",
+                "count": 14
+            },
+            {
+                "keyword": "animateurs",
+                "count": 10
+            },
+            {
+                "keyword": "tir a l'arc",
+                "count": 9
+            },
+            {
+                "keyword": "aquagym",
+                "count": 9
+            },
+            {
+                "keyword": "thermale",
+                "count": 8
+            },
+            {
+                "keyword": "maures",
+                "count": 7
+            },
+            {
+                "keyword": "troglodyte",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Odyssee+Resort+Thalasso+%26+Spa+Zarzis/data=!4m10!3m9!1s0x13aaef09c6079345:0xf04c44d4aa8991f!5m2!4m1!1i2!8m2!3d33.5927695!4d11.0765835!16s%2Fg%2F1tt95vtc!19sChIJRZMHxgnvqhMRH5moSk3EBA8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJY7GKdq7vqhMR51V3xzFykhY",
+        "name": "Zita Beach Resort",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1033,
+        "website": null,
+        "owner": {
+            "id": "107125398001789073368",
+            "name": "Zita Beach Resort (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/107125398001789073368"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhG5sTbBab4zmeoU7YpOiz4AKjyQstDu2KS0FaXlyJU2cO6X9fiWd05xUxkKvb12iMU73QpwaGqR1b4XW0XnP0EBW5D0-5yYu4Cn-z_nhQaY1vFIZr7CKNcS3VTJ5B6ueI_FnNoRVsLpdDbgam09GVz0F3kfA_1BcihPM7ROpjai--KjfN9E8LOX=w408-h270-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Zita Beach Resort, Zone Touristique Djerba, 4170",
+        "review_keywords": [
+            {
+                "keyword": "mer",
+                "count": 67
+            },
+            {
+                "keyword": "animation",
+                "count": 25
+            },
+            {
+                "keyword": "algues",
+                "count": 23
+            },
+            {
+                "keyword": "all inclusive",
+                "count": 21
+            },
+            {
+                "keyword": "serveurs",
+                "count": 19
+            },
+            {
+                "keyword": "animateurs",
+                "count": 15
+            },
+            {
+                "keyword": "quad",
+                "count": 15
+            },
+            {
+                "keyword": "excursions",
+                "count": 14
+            },
+            {
+                "keyword": "directeur",
+                "count": 11
+            },
+            {
+                "keyword": "spectacle",
+                "count": 8
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Zita+Beach+Resort/data=!4m10!3m9!1s0x13aaefae768ab163:0x16927231c77755e7!5m2!4m1!1i2!8m2!3d33.5413824!4d11.1106066!16s%2Fg%2F11h1qdjnk4!19sChIJY7GKdq7vqhMR51V3xzFykhY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJT8YrJYjrqhMRtMb-6CTyBCw",
+        "name": "Club Oasis Marine ex Oamarit",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 225,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Club Oasis Marine ex Oamarit (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHQdncuVjb3rNYOnj4t2XfkKVPw7O70OLdCfokclkwQBTn4H_GzkE-hgnM_CqKGhshxhnaNbXaSI-FoxW13WjwkJQr-26l-80j_XLYUagTR1-5ToploNepMf46bDCGYmkhAoDLzGxXFHDQR3S0-ewRfUGM7nBTZqw5EYx2wAv-DKZZ3yu1Ys8g=w408-h306-k-no",
+        "main_category": "Complexe hotelier",
+        "categories": [
+            "Complexe hotelier"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 705 770",
+        "address": "Club Oasis Marine ex Oamarit, Zone Touristique, B.P. 39, 4170",
+        "review_keywords": [
+            {
+                "keyword": "plage",
+                "count": 20
+            },
+            {
+                "keyword": "animation",
+                "count": 12
+            },
+            {
+                "keyword": "piscine",
+                "count": 12
+            },
+            {
+                "keyword": "repas",
+                "count": 11
+            },
+            {
+                "keyword": "prix",
+                "count": 9
+            },
+            {
+                "keyword": "bungalow",
+                "count": 6
+            },
+            {
+                "keyword": "chambre",
+                "count": 6
+            },
+            {
+                "keyword": "excursion",
+                "count": 3
+            },
+            {
+                "keyword": "vue",
+                "count": 3
+            },
+            {
+                "keyword": "massage",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Club+Oasis+Marine+ex+Oamarit/data=!4m10!3m9!1s0x13aaeb88252bc64f:0x2c04f224e8fec6b4!5m2!4m1!1i2!8m2!3d33.5965606!4d11.0708222!16s%2Fg%2F1v9d50sy!19sChIJT8YrJYjrqhMRtMb-6CTyBCw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJEaUFxgnvqhMRB7tNLz0WHHY",
+        "name": "Hotel Bellevue Zarzis",
+        "description": "Chambres et suites sobres avec balcon ou terrasse dans hotel simple proposant restaurant et piscine.",
+        "is_spending_on_ads": false,
+        "reviews": 114,
+        "website": "http://www.bellevuezarzis.com/",
+        "owner": {
+            "id": "101941058138350686594",
+            "name": "Hotel Bellevue Zarzis (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101941058138350686594"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHcPB43XOu5inL5R08ZedKEutJvEP7w7EEt_CHW5Zzao6vsSPmLILkk5b0EsjBqcg9TUOWny6GzIXI41aKlX_qExDqu7Pxqi-nOxkA89dvAFOHN9HN3zMaA602dBbwvGrWl2V5nBcNHE3UHWMGNZDgsbdUV1gPIPMXK5d-sDuWMSACESHp8KVgM=w408-h271-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel",
+            "Cafe",
+            "Restaurant",
+            "Piscine"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 707 455",
+        "address": "Hotel Bellevue Zarzis, Zone Touristique Sangho, Zarzis 4173",
+        "review_keywords": [
+            {
+                "keyword": "mer",
+                "count": 7
+            },
+            {
+                "keyword": "piscine",
+                "count": 4
+            },
+            {
+                "keyword": "service",
+                "count": 4
+            },
+            {
+                "keyword": "chambre",
+                "count": 3
+            },
+            {
+                "keyword": "cafe",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+Bellevue+Zarzis/data=!4m10!3m9!1s0x13aaef09c605a511:0x761c163d2f4dbb07!5m2!4m1!1i2!8m2!3d33.5898628!4d11.0736738!16s%2Fg%2F113fswwnn!19sChIJEaUFxgnvqhMRB7tNLz0WHHY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJq6qqqj7vqhMRiTNdLm6qVuw",
+        "name": "Hotel Eden Star",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 47,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hotel Eden Star (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFlg5EAx6UcX86DBWcBh0PU1hb39gob9RKScupVWWHbQ96QbyGWfjV4v4mVELY04Z5Yr4TQ9vZCw0R0esdiuw5ZWeQi3gFLl4GMG8yJ2LzvgfdWZjAU1Mv3En4MBD4tgVCCRQ6UtQjmXxDw2IvyfH-EXzCcEQUsY4b6y9_N5gZlBTU0jSVx8Suclg=w426-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "G33Q+J7W Hotel Eden Star, Unnamed Road, Zarzis",
+        "review_keywords": [
+            {
+                "keyword": "animation",
+                "count": 5
+            },
+            {
+                "keyword": "gentillesse",
+                "count": 4
+            },
+            {
+                "keyword": "chambres",
+                "count": 4
+            },
+            {
+                "keyword": "restauration",
+                "count": 3
+            },
+            {
+                "keyword": "vacances",
+                "count": 3
+            },
+            {
+                "keyword": "clients",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hotel+Eden+Star/data=!4m10!3m9!1s0x13aaef3eaaaaaaab:0xec56aa6e2e5d3389!5m2!4m1!1i2!8m2!3d33.5041224!4d11.0882028!16s%2Fg%2F11d_1m3mpn!19sChIJq6qqqj7vqhMRiTNdLm6qVuw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJW7_rfpnuqhMRpcZz7kP9DnU",
+        "name": "Dar Nesma",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 41,
+        "website": "http://www.dar-nesma.com/",
+        "owner": {
+            "id": "114348427255338495067",
+            "name": "Dar Nesma (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114348427255338495067"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPrkuO0yp74m08-_-v9R3doAScoXsLxdIDk9FrY=w408-h264-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes",
+            "Lodge"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "55 900 708",
+        "address": "Dar Nesma, souhiel BP153, Zarzis 4173",
+        "review_keywords": [
+            {
+                "keyword": "vue",
+                "count": 8
+            },
+            {
+                "keyword": "chambres",
+                "count": 6
+            },
+            {
+                "keyword": "mer",
+                "count": 4
+            },
+            {
+                "keyword": "prix",
+                "count": 4
+            },
+            {
+                "keyword": "cuisine",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Nesma/data=!4m10!3m9!1s0x13aaee997eebbf5b:0x750efd43ee73c6a5!5m2!4m1!1i2!8m2!3d33.5564041!4d11.0992081!16s%2Fg%2F11dzdh6x9w!19sChIJW7_rfpnuqhMRpcZz7kP9DnU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJjRrY44vrqhMRH8caJ7EptQM",
+        "name": "Suites Hotel Les Seigniors",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": null,
+        "owner": {
+            "id": "106844186380355857501",
+            "name": "Suites Hotel Les Seigniors (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106844186380355857501"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN--9BeQEsqOeIcmSu72WIk4qDLtv-FNJYLiZK7=w408-h408-k-no",
+        "main_category": "Hebergement d'interieur",
+        "categories": [
+            "Hebergement d'interieur"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "98 336 744",
+        "address": "Suites Hotel Les Seigniors, Suite Hotel les Seigniors zone touristique Sangho, Zarzis 4173",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Suites+H%C3%B4tel+Les+Seigniors/data=!4m10!3m9!1s0x13aaeb8be3d81a8d:0x3b529b1271ac71f!5m2!4m1!1i2!8m2!3d33.5940256!4d11.0663684!16s%2Fg%2F11bzsggprd!19sChIJjRrY44vrqhMRH8caJ7EptQM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJW_h4vxLsqhMRgtXAEpKH-Qc",
+        "name": "Apparthotel les Berberes",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": "http://www.berber-holidays.ch/",
+        "owner": {
+            "id": "114738693867004957500",
+            "name": "Apparthotel les Berberes (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114738693867004957500"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP7LJHWkG1FYegKM8cubbVHoJcSAZff41FuzqpY=w408-h306-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Apparthotel les Berberes, Zone Touristique, Sangho",
+        "review_keywords": [
+            {
+                "keyword": "plage",
+                "count": 8
+            },
+            {
+                "keyword": "appartement",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Apparth%C3%B4tel+les+Berb%C3%A8res/data=!4m10!3m9!1s0x13aaec12bf78f85b:0x7f9879212c0d582!5m2!4m1!1i2!8m2!3d33.5863168!4d11.0838228!16s%2Fg%2F1q5bl646n!19sChIJW_h4vxLsqhMRgtXAEpKH-Qc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ569vpdbBqhMRHaor8nV41O8",
+        "name": "Dar Oomi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": "http://www.dar-oomi.com/",
+        "owner": {
+            "id": "116851657178462886990",
+            "name": "Dar Oomi (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/116851657178462886990"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNgc0qOCz-Wzw5DeTj6vdxOSH-XJSmdjSyaM7vj=w408-h271-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "29 172 388",
+        "address": "Dar Oomi, Km 33 Route de Djerba, Zarzis 4170",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Oomi/data=!4m10!3m9!1s0x13aac1d6a56fafe7:0xefd47875f22baa1d!5m2!4m1!1i2!8m2!3d33.6204589!4d10.9623116!16s%2Fg%2F11k3lx89h9!19sChIJ569vpdbBqhMRHaor8nV41O8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ13pFWHPvqhMR0sAnemh4srU",
+        "name": "Villa Kika",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": "http://villa-kika-zarzis.com/",
+        "owner": {
+            "id": "103536388929910922129",
+            "name": "Villa Kika (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103536388929910922129"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOAwyTNJkLGIkeQEmkGgXkp3AJQMmMegbb4yQRd=w408-h306-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "20 154 010",
+        "address": "Villa Kika, Chemin de la plage de, Zarzis",
+        "review_keywords": [
+            {
+                "keyword": "mer",
+                "count": 3
+            },
+            {
+                "keyword": "piscine",
+                "count": 3
+            },
+            {
+                "keyword": "chambres",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Villa+Kika/data=!4m10!3m9!1s0x13aaef7358457ad7:0xb5b278687a27c0d2!5m2!4m1!1i2!8m2!3d33.5633125!4d11.1024375!16s%2Fg%2F11khx2bg13!19sChIJ13pFWHPvqhMR0sAnemh4srU?authuser=0&hl=fr&rclk=1"
+    }
+]

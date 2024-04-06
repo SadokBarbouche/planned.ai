@@ -1,0 +1,209 @@
+[
+    {
+        "place_id": "ChIJ2R6BnVk8AhMRAGXcD1QkIrQ",
+        "name": "El Gabiano",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 25,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "El Gabiano (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP5_BwaZBVhvCRl4KFe9JZNfOL9ZT8lxldjzxBW=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.1,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": "24 305 367",
+        "address": "J2HR+M26 El Gabiano, Dimess, Bekalta",
+        "review_keywords": [
+            {
+                "keyword": "mer",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/El+Gabiano/data=!4m7!3m6!1s0x13023c599d811ed9:0xb42224540fdc6500!8m2!3d35.6291599!4d11.0400095!16s%2Fg%2F11cs38nhg5!19sChIJ2R6BnVk8AhMRAGXcD1QkIrQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJsR59WfU8AhMRRy4uwWWIKz0",
+        "name": "Restaurant Thapsus (Restaurant Du Port De Bekalta )",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant Thapsus (Restaurant Du Port De Bekalta ) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPtaKwilrB89DtQjEucnsRcnSuI0OY5Fmd-2pPj=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.5,
+        "workday_timing": "10:00-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "J2FX+C3C Restaurant Thapsus (Restaurant Du Port De Bekalta )",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+Thapsus+%28Restaurant+Du+Port+De+Bekalta+%29/data=!4m7!3m6!1s0x13023cf5597d1eb1:0x3d2b8865c12e2e47!8m2!3d35.6235518!4d11.0476277!16s%2Fg%2F11g9r5y0nm!19sChIJsR59WfU8AhMRRy4uwWWIKz0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_____3A9AhMRvv72a4oGu8I",
+        "name": "Pizzeria CEZAR",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pizzeria CEZAR (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOSfTeu5vDdN1EAmqZSGYVEIX50q-63U4Kl49Hw=w408-h306-k-no",
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JX9P+8XP Pizzeria CEZAR, boulevard de l'environnement, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pizzeria+CEZAR/data=!4m7!3m6!1s0x13023d70ffffffff:0xc2bb068a6bf6febe!8m2!3d35.6183255!4d10.9874496!16s%2Fg%2F11ggvwr73y!19sChIJ_____3A9AhMRvv72a4oGu8I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJD1SU4us9AhMRd7vWmmcfOS4",
+        "name": "Ottimo Pizza",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ottimo Pizza (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMue1Vs5E-inYoXqt15ELlHouQ_NUthMBuXe9lM=w408-h306-k-no",
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [
+            "mardi"
+        ],
+        "phone": "23 956 390",
+        "address": "JX9W+F83 Ottimo Pizza, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ottimo+Pizza/data=!4m7!3m6!1s0x13023debe294540f:0x2e391f679ad6bb77!8m2!3d35.6186319!4d10.9958027!16s%2Fg%2F11p6yffk9y!19sChIJD1SU4us9AhMRd7vWmmcfOS4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJSX6yXbg9AhMR_Hw7EX5e0nU",
+        "name": "CHAPATI LOUSIF",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "CHAPATI LOUSIF (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.7,
+        "workday_timing": "10:00-01:30",
+        "closed_on": [],
+        "phone": "99 166 059",
+        "address": "JX9V+5RW CHAPATI LOUSIF, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CHAPATI+LOUSIF/data=!4m7!3m6!1s0x13023db85db27e49:0x75d25e7e113b7cfc!8m2!3d35.6179999!4d10.9945924!16s%2Fg%2F11rdc6v6qs!19sChIJSX6yXbg9AhMR_Hw7EX5e0nU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJF9xQK-Q9AhMReQuj9H3mr84",
+        "name": "Rays",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Rays (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JX9R+2G7 Rays, Unnamed Road,, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Rays/data=!4m7!3m6!1s0x13023de42b50dc17:0xceafe67df4a30b79!8m2!3d35.6175442!4d10.9912976!16s%2Fg%2F11rfc9qbvh!19sChIJF9xQK-Q9AhMReQuj9H3mr84?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJR9pnU009AhMRNWu2QGkhGmA",
+        "name": "Pizzeria EL BECHA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pizzeria EL BECHA (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=iZsWgSvdOLaHWMHn9x2Xqg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=193.97844&pitch=0&thumbfov=100",
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "73 477 192",
+        "address": "JX8R+669 Pizzeria EL BECHA, Avenu Ahmed Machta, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pizzeria+EL+BECHA/data=!4m7!3m6!1s0x13023d4d5367da47:0x601a216940b66b35!8m2!3d35.6155466!4d10.9906016!16s%2Fg%2F11gzq4lvmj!19sChIJR9pnU009AhMRNWu2QGkhGmA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ40w-f7Q9AhMRRp_z0FFGGKE",
+        "name": "BERICH",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "BERICH (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant specialise dans les ailes de poulet",
+        "categories": [
+            "Restaurant specialise dans les ailes de poulet"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "JX9W+G3J BERICH, Unnamed Road, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/BERICH/data=!4m7!3m6!1s0x13023db47f3e4ce3:0xa1184651d0f39f46!8m2!3d35.6188341!4d10.9951332!16s%2Fg%2F11pc7ryzv1!19sChIJ40w-f7Q9AhMRRp_z0FFGGKE?authuser=0&hl=fr&rclk=1"
+    }
+]

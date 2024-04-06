@@ -1,0 +1,436 @@
+[
+    {
+        "place_id": "ChIJrfUbOyd8-BIRRR4-_7JeXpg",
+        "name": "Camping Les Jardins",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 99,
+        "website": "https://www.facebook.com/%25D9%2585%25D8%25B7%25D8%25B9%25D9%2585-%25D8%25A7%25D9%2584%25D8%25AD%25D8%25AF%25D9%258A%25D9%2582%25D8%25A9-%25D8%25A8%25D8%25A7%25D9%2584%25D9%2585%25D8%25AA%25D9%2584%25D9%2588%25D9%258A-1692165977754647/",
+        "owner": {
+            "id": null,
+            "name": "Camping Les Jardins (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNmwZJnjTKlCJ9rjKGWKXh_ituimMZMGLpMoBKI=w408-h272-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.1,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": "76 241 570",
+        "address": "8C5G+J26 Camping Les Jardins, Al-Mitlawi",
+        "review_keywords": [
+            {
+                "keyword": "excursion",
+                "count": 3
+            },
+            {
+                "keyword": "touristes",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Camping+Les+Jardins/data=!4m7!3m6!1s0x12f87c273b1bf5ad:0x985e5eb2ff3e1e45!8m2!3d34.3090395!4d8.4250104!16s%2Fg%2F11c0w9fytf!19sChIJrfUbOyd8-BIRRR4-_7JeXpg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJu6b4PQR8-BIRHlAvQR_d0RM",
+        "name": "Bella Vitaa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bella Vitaa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNTsPfyIGD3aqRN0Z5aWcqj_hiq-_incOFVP1dJ=w426-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.2,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "8C83+65H Bella Vitaa, P3, Al-Mitlawi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bella+Vitaa/data=!4m7!3m6!1s0x12f87c043df8a6bb:0x13d1dd1f412f501e!8m2!3d34.3155681!4d8.4029845!16s%2Fg%2F11c48s9wps!19sChIJu6b4PQR8-BIRHlAvQR_d0RM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJedPP_9R9-BIRORl2NQ3erLI",
+        "name": "Brothers Restaurant",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Brothers Restaurant (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNCF7JCvVZo8WPrNyqh_Pm3rGYQiqD3ZvTdyLHs=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": "10:00-23:00",
+        "closed_on": [],
+        "phone": "44 252 259",
+        "address": "898X+GFV Brothers Restaurant, Al-Mitlawi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Brothers+Restaurant/data=!4m7!3m6!1s0x12f87dd4ffcfd379:0xb2acde0d35761939!8m2!3d34.3163724!4d8.3986675!16s%2Fg%2F11qpjhn9zd!19sChIJedPP_9R9-BIRORl2NQ3erLI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJnbqw1gV8-BIRHyvpsP7p4cc",
+        "name": "Pizzeria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pizzeria (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMNpQ5j_9fvUo46AA5-fDIYxRxQmlMxDNKWQIJI=w408-h306-k-no",
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "8C82+WWJ Pizzeria, Al-Mitlawi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pizzeria/data=!4m7!3m6!1s0x12f87c05d6b0ba9d:0xc7e1e9feb0e92b1f!8m2!3d34.3173437!4d8.4022771!16s%2Fg%2F11c0xnwwx7!19sChIJnbqw1gV8-BIRHyvpsP7p4cc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJAzCfxmh7-BIR5qGkbHyuQx8",
+        "name": "Cafe CESAR",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe CESAR (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOg_fOv2Eq-6gXZK8uNo_PL4QkHK8aAVB_Fn2fQ=w408-h511-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "896R+GCG Cafe CESAR, Unnamed Road, Al-Mitlawi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+CESAR/data=!4m7!3m6!1s0x12f87b68c69f3003:0x1f43ae7c6ca4a1e6!8m2!3d34.3113118!4d8.3910695!16s%2Fg%2F11kwjl6_34!19sChIJAzCfxmh7-BIR5qGkbHyuQx8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ--_D-Px7-BIRaMztF9GEwpA",
+        "name": "Pizzaria Achref",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pizzaria Achref (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPFHUJlt7YjOYs-dJXrECLm04EDehPpekQiAdzi=w408-h725-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "897Q+56H Pizzaria Achref, Al-Mitlawi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pizzaria+Achref/data=!4m7!3m6!1s0x12f87bfcf8c3effb:0x90c284d117edcc68!8m2!3d34.3129311!4d8.3881207!16s%2Fg%2F11f3x4hnrj!19sChIJ--_D-Px7-BIRaMztF9GEwpA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJm6owrBh8-BIRzmVLgdV2_tQ",
+        "name": "Fast Food",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Fast Food (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOU4GRKBt3YaIN0DgehSLmC41r2tfhImsblBNzL=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "8C79+957 Fast Food, Al-Mitlawi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fast+Food/data=!4m7!3m6!1s0x12f87c18ac30aa9b:0xd4fe76d5814b65ce!8m2!3d34.3134104!4d8.4179337!16s%2Fg%2F11c4bcdtw5!19sChIJm6owrBh8-BIRzmVLgdV2_tQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4-Gte599-BIRN1Osb0Ztlrs",
+        "name": "Pizzeria Oggi Metlaoui",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pizzeria Oggi Metlaoui (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "8C82+HR6 Pizzeria Oggi Metlaoui, Rue de president, Al-Mitlawi 2130",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pizzeria+Oggi+Metlaoui/data=!4m7!3m6!1s0x12f87d9f7bade1e3:0xbb966d466fac5337!8m2!3d34.3164005!4d8.4020102!16s%2Fg%2F11rcxgxz9m!19sChIJ4-Gte599-BIRN1Osb0Ztlrs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJr3lfzIJ9-BIRBuwEP_3hfkE",
+        "name": "Valhala-metlaoui pizza and fast food",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Valhala-metlaoui pizza and fast food (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNj5xgGFj82HON1jsq_Y9Cn5ndxnkiX8NKm2AlN=w408-h306-k-no",
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "22 029 674",
+        "address": "898X+9Q9 Valhala-metlaoui pizza and fast food, P3, Al-Mitlawi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Valhala-metlaoui+pizza+and+fast+food/data=!4m7!3m6!1s0x12f87d82cc5f79af:0x417ee1fd3f04ec06!8m2!3d34.3159091!4d8.3994891!16s%2Fg%2F11nx_9gspr!19sChIJr3lfzIJ9-BIRBuwEP_3hfkE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ75EKagR8-BIRHLCyTpusDZ0",
+        "name": "Fast food",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Fast food (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOmFUPG41nmWnpokEM3UKAIujHZP6hbIHYC_p2h=w408-h310-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "8C83+5FR Fast food, P3, Al-Mitlawi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fast+food/data=!4m7!3m6!1s0x12f87c046a0a91ef:0x9d0dac9b4eb2b01c!8m2!3d34.3154766!4d8.4036318!16s%2Fg%2F11c0xjmpv0!19sChIJ75EKagR8-BIRHLCyTpusDZ0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_8eri497-BIRnP9_yguuEXg",
+        "name": "mshwy bybw",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mshwy bybw (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNX7BghmvE7l9kmABKjRsfRxaWcOqahMD0W9Nj5=w408-h272-k-no",
+        "main_category": "Restaurant de grillades",
+        "categories": [
+            "Restaurant de grillades"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "53 420 427",
+        "address": "897R+372 mshwy bybw, Al-Mitlawi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D8%B4%D9%88%D9%8A+%D8%A8%D9%8A%D8%A8%D9%88%E2%80%AD/data=!4m7!3m6!1s0x12f87b8f8babc7ff:0x7811ae0bca7fff9c!8m2!3d34.312636!4d8.3906341!16s%2Fg%2F11sddbvq8t!19sChIJ_8eri497-BIRnP9_yguuEXg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJT6h9Mp59-BIRs4lqBWRLSYY",
+        "name": "Pizzaria La Madeleine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pizzaria La Madeleine (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN39IbX8xhnC2c0tJZ5yi_uv7CmOQ073CrzTB7M=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "10:00-23:00",
+        "closed_on": [],
+        "phone": "40 057 724",
+        "address": "8C78+G54 Pizzaria La Madeleine, Al-Mitlawi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pizzaria+La+Madeleine/data=!4m7!3m6!1s0x12f87d9e327da84f:0x86494b64056a89b3!8m2!3d34.3137534!4d8.4154595!16s%2Fg%2F11kjpk3rz1!19sChIJT6h9Mp59-BIRs4lqBWRLSYY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJF7aEOA19-BIRjFWnPOKge7A",
+        "name": "Luciana Metlaoui",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Luciana Metlaoui (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPXFrwq2_m-2TvVrml0aj-rCoubyOCK7t4Mq57e=w408-h544-k-no",
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "8C75+X88 Luciana Metlaoui, Al-Mitlawi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Luciana+Metlaoui/data=!4m7!3m6!1s0x12f87d0d3884b617:0xb07ba0e23ca7558c!8m2!3d34.3150158!4d8.4075516!16s%2Fg%2F11smcsy2s1!19sChIJF7aEOA19-BIRjFWnPOKge7A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJOdigYI19-BIRtTsyiX7iY-Y",
+        "name": "Resto Africa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Resto Africa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNt-EXJa3WrKnzKlx0htN2YlM4vUxE84RVflgip=w408-h725-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "8C83+63X Resto Africa, P3, Al-Mitlawi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Resto+Africa/data=!4m7!3m6!1s0x12f87d8d60a0d839:0xe663e27e89323bb5!8m2!3d34.3156157!4d8.4027231!16s%2Fg%2F11r9w1z9mx!19sChIJOdigYI19-BIRtTsyiX7iY-Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJn1c55_x7-BIRx9bPzSsEs6U",
+        "name": "PiZza",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "PiZza (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": "25 132 459",
+        "address": "PiZza, P3, Al-Mitlawi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/PiZza/data=!4m7!3m6!1s0x12f87bfce739579f:0xa5b3042bcdcfd6c7!8m2!3d34.3129556!4d8.3870796!16s%2Fg%2F11gfdw2cqy!19sChIJn1c55_x7-BIRx9bPzSsEs6U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJf3miQFN9-BIRfTcf0PXIyew",
+        "name": "Chez-triki",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://m.facebook.com/Chez-triki-103115204898811/%3Fnotif_t%3Dpage_fan%26notif_id%3D1606482092367511%26ref%3Dm_notif",
+        "owner": {
+            "id": null,
+            "name": "Chez-triki (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPF4OeHx3hJ3zXZ1I3Cw2B-HWNYD8-tPXJ8Luup=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "8C83+4X7 Chez-triki, P3, Al-Mitlawi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Chez-triki/data=!4m7!3m6!1s0x12f87d5340a2797f:0xecc9c8f5d01f377d!8m2!3d34.3152985!4d8.4049354!16s%2Fg%2F11lkd9ht1g!19sChIJf3miQFN9-BIRfTcf0PXIyew?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJHRQT0hd9-BIRCScKaXhGCuQ",
+        "name": "chez hamma",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "chez hamma (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restauration rapide",
+        "categories": [
+            "Restauration rapide"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "8C82+MPF chez hamma, Al-Mitlawi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/chez+hamma/data=!4m7!3m6!1s0x12f87d17d213141d:0xe40a4678690a2709!8m2!3d34.3166777!4d8.401809!16s%2Fg%2F11svq_k49t!19sChIJHRQT0hd9-BIRCScKaXhGCuQ?authuser=0&hl=fr&rclk=1"
+    }
+]

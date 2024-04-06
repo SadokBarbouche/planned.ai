@@ -1,0 +1,58 @@
+[
+    {
+        "place_id": "ChIJj_2IAQA1_RIRLDDF_jjWsvI",
+        "name": "EL BAAZZZ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "EL BAAZZZ (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": "21:00-05:00",
+        "closed_on": [
+            "lundi",
+            "mardi",
+            "mercredi",
+            "jeudi",
+            "vendredi"
+        ],
+        "phone": null,
+        "address": "R5WF+GXF EL BAAZZZ, Rue Mohamed Ikbal, Ariana",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/EL+BAAZZZ/data=!4m7!3m6!1s0x12fd35000188fd8f:0xf2b2d638fec5302c!8m2!3d36.8463142!4d10.1749284!16s%2Fg%2F11vylg73r9!19sChIJj_2IAQA1_RIRLDDF_jjWsvI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJbf8wNuQz_RIRa50wpIuehvM",
+        "name": "LE SANCTUAIRE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "115814931492220529743",
+            "name": "LE SANCTUAIRE (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/115814931492220529743"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipObegW_qBq86nVwJjuGQ690mKmBkTITNWBxiJtX=w408-h610-k-no",
+        "main_category": "Bar lounge",
+        "categories": [
+            "Bar lounge"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "LE SANCTUAIRE, Riadh el andalos, 53, AV abou al, Rue Abou Walid ibn Rochd, Ariana 2058",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/LE+SANCTUAIRE/data=!4m7!3m6!1s0x12fd33e43630ff6d:0xf3869e8ba4309d6b!8m2!3d36.8839442!4d10.167736!16s%2Fg%2F11p6ggrxmk!19sChIJbf8wNuQz_RIRa50wpIuehvM?authuser=0&hl=fr&rclk=1"
+    }
+]

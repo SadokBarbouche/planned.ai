@@ -1,0 +1,92 @@
+[
+    {
+        "place_id": "ChIJdTNpHMRJ_RIR0gTcQrPp2fE",
+        "name": "Papito Resto - Lounge",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 57,
+        "website": null,
+        "owner": {
+            "id": "112291951785419806370",
+            "name": "Papito Resto - Lounge (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/112291951785419806370"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMvXeTjfoCpv2rA_o0ha-0Yyi1kjEgHDRq5qXi2=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant",
+            "Cafe",
+            "Bar lounge"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-01:00",
+        "closed_on": [],
+        "phone": "21 560 960",
+        "address": "Papito Resto - Lounge, Boumhel El Bassatine 2096",
+        "review_keywords": [
+            {
+                "keyword": "pates",
+                "count": 5
+            },
+            {
+                "keyword": "prix",
+                "count": 5
+            },
+            {
+                "keyword": "fruits de mer",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Papito+Resto+-+Lounge/data=!4m7!3m6!1s0x12fd49c41c693375:0xf1d9e9b342dc04d2!8m2!3d36.7342591!4d10.3102394!16s%2Fg%2F11hzvy8tbw!19sChIJdTNpHMRJ_RIR0gTcQrPp2fE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtzwXmthP_RIRpio-IceT3Sc",
+        "name": "club 55",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "109325865436552936511",
+            "name": "club 55 (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/109325865436552936511"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPkT9cNXdphkP50ag1hBrTJ7TiWT0UzzgyNR7I=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "23 690 206",
+        "address": "club 55, Hammam-Lif 2050",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/club+55/data=!4m7!3m6!1s0x12fd4fd89a173cb7:0x27dd93c7213e2aa6!8m2!3d36.7209514!4d10.3691665!16s%2Fg%2F11k43v37r8!19sChIJtzwXmthP_RIRpio-IceT3Sc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJu7SCYOVJ_RIRgCS0mxkOA64",
+        "name": "HOUSE MUSIC&ventre materiel informatique&GRAVURE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "HOUSE MUSIC&ventre materiel informatique&GRAVURE (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM78HSERaHvqs058FuJaYaQW3oNSZAZoNUdqkUE=w426-h240-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "98 697 237",
+        "address": "P7JV+759 HOUSE MUSIC&ventre materiel informatique&GRAVURE, Av. de l'independance, Boumhel El Bassatine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/HOUSE+MUSIC%26ventre+mat%C3%A9riel+informatique%26GRAVURE/data=!4m7!3m6!1s0x12fd49e56082b4bb:0xae030e199bb42480!8m2!3d36.7306714!4d10.2929968!16s%2Fg%2F11n_z4v8_b!19sChIJu7SCYOVJ_RIRgCS0mxkOA64?authuser=0&hl=fr&rclk=1"
+    }
+]

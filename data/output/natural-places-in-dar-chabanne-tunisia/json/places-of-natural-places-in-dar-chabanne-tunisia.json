@@ -1,0 +1,355 @@
+[
+    {
+        "place_id": "ChIJUQD5AoZj_RIR_gJk79MLspA",
+        "name": "Carthage Land Hammamet",
+        "description": "Parc a theme sur la Carthage antique, grande variete de maneges et spectacles, et aire de jeux aquatique.",
+        "is_spending_on_ads": false,
+        "reviews": 4833,
+        "website": "https://www.carthageland.com/",
+        "owner": {
+            "id": "115401316530994464365",
+            "name": "Carthage Land Hammamet (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/115401316530994464365"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP_P47KXldCez5CXgZeyZm0u7Yedmwokm6IExun=w408-h306-k-no",
+        "main_category": "Parc d'attractions",
+        "categories": [
+            "Parc d'attractions",
+            "Attraction touristique"
+        ],
+        "rating": 4.1,
+        "workday_timing": "11:00-18:00",
+        "closed_on": [
+            "lundi",
+            "mardi",
+            "mercredi",
+            "jeudi",
+            "vendredi"
+        ],
+        "phone": "72 240 111",
+        "address": "Carthage Land Hammamet, Yasmine Hammamet",
+        "review_keywords": [
+            {
+                "keyword": "hotel",
+                "count": 37
+            },
+            {
+                "keyword": "animaux",
+                "count": 28
+            },
+            {
+                "keyword": "maneges",
+                "count": 21
+            },
+            {
+                "keyword": "aqualand",
+                "count": 18
+            },
+            {
+                "keyword": "dinar",
+                "count": 16
+            },
+            {
+                "keyword": "decor",
+                "count": 14
+            },
+            {
+                "keyword": "king kong",
+                "count": 11
+            },
+            {
+                "keyword": "cages",
+                "count": 9
+            },
+            {
+                "keyword": "souk",
+                "count": 7
+            },
+            {
+                "keyword": "marchandage",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Carthage+Land+Hammamet/data=!4m7!3m6!1s0x12fd638602f90051:0x90b20bd3ef6402fe!8m2!3d36.368982!4d10.5351043!16s%2Fm%2F0k5yyg0!19sChIJUQD5AoZj_RIR_gJk79MLspA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJY-LdNBe9AhMRJyU1WfGrabc",
+        "name": "Daroufa Beach",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 118,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPivAaoQRXF2HahE41E2WVphp0uVQ04TMN_roBC=w408-h306-k-no",
+        "main_category": "Plage",
+        "categories": [
+            "Plage"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "20 964 911",
+        "address": "Daroufa Beach",
+        "review_keywords": [
+            {
+                "keyword": "attention",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Daroufa+Beach/data=!4m7!3m6!1s0x1302bd1734dde263:0xb769abf159352527!8m2!3d36.4914042!4d10.8281314!16s%2Fg%2F12j6919n2!19sChIJY-LdNBe9AhMRJyU1WfGrabc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ72iTPROYAhMR6-BWut0Kt3I",
+        "name": "Plage Beni khiar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 57,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO5sxbqmKuhHO4y3wncHboRBcdhLjAZnZ1Sk5VZ=w408-h306-k-no",
+        "main_category": "Plage",
+        "categories": [
+            "Plage"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Plage Beni khiar, Beni Khiar",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Plage+Beni+khiar/data=!4m7!3m6!1s0x130298133d9368ef:0x72b70addba56e0eb!8m2!3d36.451221!4d10.7785374!16s%2Fg%2F12hnfyj4w!19sChIJ72iTPROYAhMR6-BWut0Kt3I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJh98mESFd_RIRYU9OW7s_4c4",
+        "name": "Ain Tebournouk",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMnXb2WDhShMUMT03C3yi5uCyS_2lVAngVZcjEp=w408-h544-k-no",
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 3.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain Tebournouk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+Tebournouk/data=!4m7!3m6!1s0x12fd5d211126df87:0xcee13fbb5b4e4f61!8m2!3d36.5333333!4d10.4583333!16s%2Fg%2F11bc8cxl0p!19sChIJh98mESFd_RIRYU9OW7s_4c4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJz5IcOYKYAhMRmQ5ovEC8yqo",
+        "name": "Grande Mosquee de Dar Chaabane",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Grande Mosquee de Dar Chaabane (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOeWQzItETu8Brs_F2KQnvkKO_e0P1xujGTrBpm=w408-h544-k-no",
+        "main_category": "Mosquee",
+        "categories": [
+            "Mosquee"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "FP8X+G6R Grande Mosquee de Dar Chaabane, Dar Chaabane Al Fehri 8011",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Grande+Mosqu%C3%A9e+de+Dar+Chaabane/data=!4m7!3m6!1s0x13029882391c92cf:0xaacabc40bc680e99!8m2!3d36.4663649!4d10.7480299!16s%2Fg%2F1vntxs3y!19sChIJz5IcOYKYAhMRmQ5ovEC8yqo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZxEYQ1RX_RIRbrG-Jel5SrI",
+        "name": "Boucharray",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Woods",
+        "categories": [
+            "Woods"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Boucharray",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Boucharray/data=!4m7!3m6!1s0x12fd575443181167:0xb24a79e925beb16e!8m2!3d36.6623244!4d10.5338303!16s%2Fg%2F1hjh2t65f!19sChIJZxEYQ1RX_RIRbrG-Jel5SrI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJG66zEIRD_RIRLbaFOpGXk1I",
+        "name": "Ain ed Dib",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN1-D4QU9jEURC51Z0eGlXOo9_VGBOJiICD6jdW=w426-h240-k-no",
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain ed Dib",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+ed+Dib/data=!4m7!3m6!1s0x12fd438410b3ae1b:0x529397913a85b62d!8m2!3d36.5797222!4d10.3880556!16s%2Fg%2F11byl90ynm!19sChIJG66zEIRD_RIRLbaFOpGXk1I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJDaxjU4Q-_RIRtTq9S2NyS-c",
+        "name": "Ain el Kerma",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain el Kerma",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+el+Kerma/data=!4m7!3m6!1s0x12fd3e845363ac0d:0xe74b72634bbd3ab5!8m2!3d36.5688889!4d10.1786111!16s%2Fg%2F11byl2pbhg!19sChIJDaxjU4Q-_RIRtTq9S2NyS-c?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ188brgFP_RIRY4mPdHexdmk",
+        "name": "Foret Bir Bey",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Woods",
+        "categories": [
+            "Woods"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Foret Bir Bey",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Foret+Bir+Bey/data=!4m7!3m6!1s0x12fd4f01ae1bcfd7:0x6976b177748f8963!8m2!3d36.7108878!4d10.3919033!16s%2Fg%2F12vqv2pfq!19sChIJ188brgFP_RIRY4mPdHexdmk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJXbWIq01v_RIRvdfyzGkmaEw",
+        "name": "Jebel Mennzel Moussa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Ridge",
+        "categories": [
+            "Ridge"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Jebel Mennzel Moussa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Jebel+Mennzel+Moussa/data=!4m7!3m6!1s0x12fd6f4dab88b55d:0x4c682669ccf2d7bd!8m2!3d36.4083333!4d10.4258333!16s%2Fg%2F1tf04k_z!19sChIJXbWIq01v_RIRvdfyzGkmaEw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4SczIR5P_RIRgLMUb9KatP0",
+        "name": "Bir el Bey",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Drinking water",
+        "categories": [
+            "Drinking water"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Bir el Bey",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bir+el+Bey/data=!4m7!3m6!1s0x12fd4f1e213327e1:0xfdb49ad26f14b380!8m2!3d36.7147222!4d10.3761111!16s%2Fg%2F1tjcrkwm!19sChIJ4SczIR5P_RIRgLMUb9KatP0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJKehn4YZC_RIRYzzKBjqXvtM",
+        "name": "Bir Bou Jenaoui",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Drinking water",
+        "categories": [
+            "Drinking water"
+        ],
+        "rating": 2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Bir Bou Jenaoui",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bir+Bou+Jenaoui/data=!4m7!3m6!1s0x12fd4286e167e829:0xd3be973a06ca3c63!8m2!3d36.5063889!4d10.3977778!16s%2Fg%2F1tk_rc_y!19sChIJKehn4YZC_RIRYzzKBjqXvtM?authuser=0&hl=fr&rclk=1"
+    }
+]

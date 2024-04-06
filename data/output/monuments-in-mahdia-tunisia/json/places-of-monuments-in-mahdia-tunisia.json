@@ -1,0 +1,209 @@
+[
+    {
+        "place_id": "ChIJY_VdnPcjAhMRgUsNdjC1Alk",
+        "name": "Skifa el Kahla",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 957,
+        "website": null,
+        "owner": {
+            "id": "108533913501533516426",
+            "name": "Skifa el Kahla (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108533913501533516426"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNKZ6AzrefD-4e4NzR6zTRv0NdAJJ_jm2tFsV8z=w408-h306-k-no",
+        "main_category": "Lieu historique",
+        "categories": [
+            "Lieu historique",
+            "Site historique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "73 690 535",
+        "address": "Skifa el Kahla, Mahdia",
+        "review_keywords": [
+            {
+                "keyword": "musee",
+                "count": 12
+            },
+            {
+                "keyword": "touristes",
+                "count": 12
+            },
+            {
+                "keyword": "artisanal",
+                "count": 11
+            },
+            {
+                "keyword": "commerces",
+                "count": 8
+            },
+            {
+                "keyword": "prix",
+                "count": 8
+            },
+            {
+                "keyword": "monument historique",
+                "count": 7
+            },
+            {
+                "keyword": "cafe",
+                "count": 7
+            },
+            {
+                "keyword": "port",
+                "count": 6
+            },
+            {
+                "keyword": "souvenirs",
+                "count": 5
+            },
+            {
+                "keyword": "souk",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Skifa+el+Kahla/data=!4m7!3m6!1s0x130223f79c5df563:0x5902b530760d4b81!8m2!3d35.5039271!4d11.0685681!16s%2Fg%2F122q9fkm!19sChIJY_VdnPcjAhMRgUsNdjC1Alk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2Z4XePcjAhMR7Zjrjf64Jb0",
+        "name": "Medina of Mahdia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 242,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Medina of Mahdia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMu15uogS5UWdT34gZK1DWCkZyZPzQ2hDs-dPFG=w408-h612-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "G339+F8C Medina of Mahdia, C82, Mahdia",
+        "review_keywords": [
+            {
+                "keyword": "epices",
+                "count": 4
+            },
+            {
+                "keyword": "vetements",
+                "count": 3
+            },
+            {
+                "keyword": "commercants",
+                "count": 3
+            },
+            {
+                "keyword": "marche",
+                "count": 3
+            },
+            {
+                "keyword": "mosquee",
+                "count": 3
+            },
+            {
+                "keyword": "cafes",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Medina+of+Mahdia/data=!4m7!3m6!1s0x130223f778179ed9:0xbd25b8fe8deb98ed!8m2!3d35.5036967!4d11.0682686!16s%2Fg%2F11c5b66zd5!19sChIJ2Z4XePcjAhMR7Zjrjf64Jb0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ____KAkkAhMRMwew-7PpwV0",
+        "name": "Borj el Kebir: Ottoman Fort",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 225,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Borj el Kebir: Ottoman Fort (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPJTxrjCPartHVVejmUIE0orYu3c4z2rjb7LqRs=w408-h306-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:00-16:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "G34G+3GF Borj el Kebir: Ottoman Fort, Mahdia",
+        "review_keywords": [
+            {
+                "keyword": "architecture",
+                "count": 6
+            },
+            {
+                "keyword": "forteresse",
+                "count": 5
+            },
+            {
+                "keyword": "angle",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Borj+el+Kebir:+Ottoman+Fort/data=!4m7!3m6!1s0x1302240928ffffff:0x5dc1e9b3fbb00733!8m2!3d35.5051974!4d11.0763029!16s%2Fg%2F11c1rsks78!19sChIJ____KAkkAhMRMwew-7PpwV0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJySke0A0kAhMR-RF1N6s-uq0",
+        "name": "Phare de Mahdia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 140,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Phare de Mahdia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMVOhZt2kfq95fdx_haNTg2eaNybHB8WLYL-K0S=w408-h544-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Lieu historique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "G35J+659 Phare de Mahdia, Mahdia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Phare+de+Mahdia/data=!4m7!3m6!1s0x1302240dd01e29c9:0xadba3eab377511f9!8m2!3d35.5080308!4d11.0804953!16s%2Fg%2F11fyzcs_27!19sChIJySke0A0kAhMR-RF1N6s-uq0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdXKuBAgkAhMRmf-bLzp1iZE",
+        "name": "Statue Taher Sfar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Statue Taher Sfar (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPN2NkIE7PhBlef-F7cFi0x53wkRiwcohSoWRS9=w408-h278-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique"
+        ],
+        "rating": 4.5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "G33C+9J8 Statue Taher Sfar, Mahdia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Statue+Taher+Sfar/data=!4m7!3m6!1s0x1302240804ae7275:0x9189753a2f9bff99!8m2!3d35.5034147!4d11.0715671!16s%2Fg%2F11f0l1z0wx!19sChIJdXKuBAgkAhMRmf-bLzp1iZE?authuser=0&hl=fr&rclk=1"
+    }
+]

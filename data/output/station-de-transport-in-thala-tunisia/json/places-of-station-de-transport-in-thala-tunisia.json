@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJNewy8chi-RIRZLOiCTIcO44",
+        "name": "Station service Agil THALA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station service Agil THALA (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOoVjpC7PqSIS6dPtSpiNVB8lA_E5P5CUqKElDf=w408-h306-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "77 480 453",
+        "address": "HMH9+7MW Station service Agil THALA, P17, Thala",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+service+Agil+THALA/data=!4m7!3m6!1s0x12f962c8f132ec35:0x8e3b1c3209a2b364!8m2!3d35.5782254!4d8.6692187!16s%2Fg%2F11b6_gf2b9!19sChIJNewy8chi-RIRZLOiCTIcO44?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ46o1nc9i-RIR_as7RfnKhOA",
+        "name": "TOTAL Thala (1 station)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "TOTAL Thala (1 station) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNJaywilMGVqhwxwxM7t78bLTHmeOkzhqCGnNox=w408-h306-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "HMFC+54Q TOTAL Thala (1 station), P17, Thala 1210",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/TOTAL+Thala+%281+station%29/data=!4m7!3m6!1s0x12f962cf9d35aae3:0xe084caf9453babfd!8m2!3d35.5729648!4d8.6703613!16s%2Fg%2F11csp9mrkf!19sChIJ46o1nc9i-RIR_as7RfnKhOA?authuser=0&hl=fr&rclk=1"
+    }
+]

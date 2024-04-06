@@ -1,0 +1,166 @@
+[
+    {
+        "place_id": "ChIJj1Ym40ek-xIRNGpBQERSIwo",
+        "name": "Musee des arts et traditions populaires du Kef",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 62,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee des arts et traditions populaires du Kef (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPB9ro6mJjHF7-XyLqO2pm6ZDmVPYDrE3ZOvFLo=w408-h272-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "5PM8+43C Musee des arts et traditions populaires du Kef, Rue de la Kasbah, Le Kef",
+        "review_keywords": [
+            {
+                "keyword": "vie",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+des+arts+et+traditions+populaires+du+Kef/data=!4m7!3m6!1s0x12fba447e326568f:0xa23524440416a34!8m2!3d36.1828035!4d8.7151304!16s%2Fg%2F11bxjdjz7c!19sChIJj1Ym40ek-xIRNGpBQERSIwo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJmTJQ3tSl-xIRN_YuOFroAOk",
+        "name": "Kasbah Le Kef",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Kasbah Le Kef (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPUMNrTkGPqJWJL7Defhe1XwyoyYU8O5qwgD1od=w408-h543-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Forteresse",
+            "Lieu historique"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Kasbah Le Kef, La Kasbah, Le Kef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kasbah+Le+Kef/data=!4m7!3m6!1s0x12fba5d4de503299:0xe900e85a382ef637!8m2!3d36.1821297!4d8.7127609!16s%2Fg%2F11tm_5wbbr!19sChIJmTJQ3tSl-xIRN_YuOFroAOk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJb6elw0ik-xIRP-3OXh1KU0A",
+        "name": "Basilique Saint-Pierre du Kef",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Basilique Saint-Pierre du Kef (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMpBQ_Zo5arC1s523FMOuHIAudtCaXopiC3Ehbu=w408-h306-k-no",
+        "main_category": "Eglise chretienne",
+        "categories": [
+            "Eglise chretienne",
+            "Lieu historique"
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:30-17:30",
+        "closed_on": [],
+        "phone": "28 344 390",
+        "address": "5PH7+Q6X Basilique Saint-Pierre du Kef, Rue Amilcar, Le Kef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Basilique+Saint-Pierre+du+Kef/data=!4m7!3m6!1s0x12fba448c3a5a76f:0x40534a1d5eceed3f!8m2!3d36.1794806!4d8.7131239!16s%2Fg%2F121yh9n6!19sChIJb6elw0ik-xIRP-3OXh1KU0A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdwJ9W0ik-xIRETq33DPQW94",
+        "name": "La Basilique : le Monument r y Auges",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Basilique : le Monument r y Auges (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOZFqEA4P0bmNPgzHf2RodLvM8GyMGef6c5aN0=w408-h270-k-no",
+        "main_category": "Eglise",
+        "categories": [
+            "Eglise",
+            "Lieu historique",
+            "Monument"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "28 344 390",
+        "address": "La Basilique : le Monument r y Auges, Basilique, Rue de la Kasbah, Le Kef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+Basilique+:+le+Monument+%E0%B8%A3+%E0%B8%A2+Auges/data=!4m7!3m6!1s0x12fba4485b7d0277:0xde5bd033dcb73a11!8m2!3d36.1816989!4d8.7133523!16s%2Fg%2F11bbt0f4sb!19sChIJdwJ9W0ik-xIRETq33DPQW94?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9fMM4R2l-xIRm49DS_agW6E",
+        "name": "Monument a auges",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Monument a auges (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipONMpJDM-3stlPlEV_cbxgXyI4U6xrWb9BAYfnH=w408-h306-k-no",
+        "main_category": "Lieu de culte",
+        "categories": [
+            "Lieu de culte"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "5PJ7+J7Q Monument a auges, Basilique, Le Kef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Monument+%C3%A0+auges/data=!4m7!3m6!1s0x12fba51de10cf3f5:0xa15ba0f64b438f9b!8m2!3d36.1815785!4d8.7132421!16s%2Fg%2F11sh0_qw34!19sChIJ9fMM4R2l-xIRm49DS_agW6E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqafFxqml-xIRgfXDblXjy90",
+        "name": "Circuit culturel et touristique de la medina du kef - Museum Lab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://museumlab.tn/",
+        "owner": {
+            "id": "111859237642939519626",
+            "name": "Circuit culturel et touristique de la medina du kef - Museum Lab (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111859237642939519626"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM7G2KQvS3gKoAswp--W67xMNoZo5_l4k7t0tkF=w408-h306-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "samedi",
+            "dimanche"
+        ],
+        "phone": "20 276 643",
+        "address": "Circuit culturel et touristique de la medina du kef - Museum Lab, P17, Le Kef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Circuit+culturel+et+touristique+de+la+m%C3%A9dina+du+kef+-+Museum+Lab/data=!4m7!3m6!1s0x12fba5a9c6c5a7a9:0xddcbe3556ec3f581!8m2!3d36.181303!4d8.7197247!16s%2Fg%2F11sh082zwh!19sChIJqafFxqml-xIRgfXDblXjy90?authuser=0&hl=fr&rclk=1"
+    }
+]

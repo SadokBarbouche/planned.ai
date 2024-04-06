@@ -1,0 +1,61 @@
+[
+    {
+        "place_id": "ChIJLVHD7KOX-BIRCpn0YkrZovE",
+        "name": "dar seddik residence d artistes",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": "https://www.facebook.com/mounir.letaief.5",
+        "owner": {
+            "id": "101309453049517576921",
+            "name": "dar seddik residence d artistes (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101309453049517576921"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMO5ue0YAWCt7t9l5U3yaBSMKL6r_zdsEuynbLL=w408-h272-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "21 171 717",
+        "address": "dar seddik residence d artistes, oasis, Gafsa 2100",
+        "review_keywords": [
+            {
+                "keyword": "diner",
+                "count": 4
+            },
+            {
+                "keyword": "chambre",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/dar+seddik+residence+d+artistes/data=!4m10!3m9!1s0x12f897a3ecc3512d:0xf1a2d94a62f4990a!5m2!4m1!1i2!8m2!3d34.4150912!4d8.7793319!16s%2Fg%2F11pz30_5n_!19sChIJLVHD7KOX-BIRCpn0YkrZovE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJlXGCRCmX-BIRJ1akLPzIXL4",
+        "name": "Dar kaabachi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar kaabachi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEEuT0Hz63R2Lgpx9mDZ6pejyLAUvL5NLESOAdqkB6r8DPQN9j8xYfm_F3A2GB3sUCbYIxVaGWVpx-Lg2-ayTsEUb8FDUc26n3quiVF1ANUCK9OuaajAOIFo_niyRO-hYVr2oZi9JTVXhXFaldkLIL7fYDrGIgkfdF2ZQjRSjfKLtf7_wGuLminMw=w408-h306-k-no",
+        "main_category": "Villa",
+        "categories": [
+            "Villa"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "1, Dar kaabachi, Zarroug amel, Gafsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+kaabachi/data=!4m10!3m9!1s0x12f8972944827195:0xbe5cc8fc2ca45627!5m2!4m1!1i2!8m2!3d34.4311167!4d8.7756718!16s%2Fg%2F11t814bvnl!19sChIJlXGCRCmX-BIRJ1akLPzIXL4?authuser=0&hl=fr&rclk=1"
+    }
+]

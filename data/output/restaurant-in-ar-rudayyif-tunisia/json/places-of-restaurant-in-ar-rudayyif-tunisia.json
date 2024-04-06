@@ -1,0 +1,429 @@
+[
+    {
+        "place_id": "ChIJh415Ltty-BIR9Rt2BzvCdc0",
+        "name": "Cafe Eletihad",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": "103132881613167513788",
+            "name": "Cafe Eletihad (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103132881613167513788"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNkg-sBYrGBvauk7B70iwzke-thXmg1vfBXWCoS=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": "29 617 936",
+        "address": "Cafe Eletihad, lswq lmrkzy@, Redeyef 2120",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Eletihad/data=!4m7!3m6!1s0x12f872db2e798d87:0xcd75c23b07761bf5!8m2!3d34.3806424!4d8.1480084!16s%2Fg%2F11c2l7t527!19sChIJh415Ltty-BIR9Rt2BzvCdc0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJKcl1UeRz-BIRQa8Z4LHiB4Y",
+        "name": "Pizza Time",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pizza Time (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPfwAhNKd9EJmWlxdPc_FwU7lPOn2qxjvER25Vn=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "42 123 696",
+        "address": "94JX+GHG Pizza Time, Al-Rudayyif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pizza+Time/data=!4m7!3m6!1s0x12f873e45175c929:0x8607e2b1e019af41!8m2!3d34.3813069!4d8.1489646!16s%2Fg%2F11gph_n4vy!19sChIJKcl1UeRz-BIRQa8Z4LHiB4Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJyxCQxJhv-BIRgYXr1ppNO5k",
+        "name": "Toronto restaurant",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://www.facebook.com/Aufeudubois",
+        "owner": {
+            "id": null,
+            "name": "Toronto restaurant (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO0h1iVuhIAD8NM2qGdRkis9UGVAcOiWNFsEx2c=w408-h816-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "10:00-21:00",
+        "closed_on": [],
+        "phone": "90 093 951",
+        "address": "Toronto restaurant, Centre ville, Om Al Arais 2110",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Toronto+restaurant/data=!4m7!3m6!1s0x12f86f98c49010cb:0x993b4d9ad6eb8581!8m2!3d34.4917191!4d8.2646229!16s%2Fg%2F11s0x7mmrx!19sChIJyxCQxJhv-BIRgYXr1ppNO5k?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJj60XbIJz-BIRNXM0pPRNSqs",
+        "name": "Restaurant Le Royal Roti",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant Le Royal Roti (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPCHk7yQLhDK2XKs8DvNWtAzRNjt4_evfVwiyHZ=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "22 033 594",
+        "address": "95J3+W2P Restaurant Le Royal Roti, Redeyef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+Le+Royal+R%C3%B4ti/data=!4m7!3m6!1s0x12f873826c17ad8f:0xab4a4df4a4347335!8m2!3d34.3825463!4d8.152756!16s%2Fg%2F11tbs491fn!19sChIJj60XbIJz-BIRNXM0pPRNSqs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJlZcR4sdz-BIR2irOjqVf1To",
+        "name": "cafe ELBOUHELI",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe ELBOUHELI (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP5gDKG_ZJUU35AqiNYPf7s7DHVdwwGNEx9O1zN=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "94JX+5MM cafe ELBOUHELI, Redeyef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+ELBOUHELI/data=!4m7!3m6!1s0x12f873c7e2119795:0x3ad55fa58ece2ada!8m2!3d34.3804524!4d8.1491867!16s%2Fg%2F11fjz7gw2m!19sChIJlZcR4sdz-BIR2irOjqVf1To?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJq6qqqtZu-BIR-VodOp_4Gaw",
+        "name": "RESTO FITOURI",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "RESTO FITOURI (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-21:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "F7Q5+PR5 RESTO FITOURI, Rue de souk, Om Al Arais",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/RESTO+FITOURI/data=!4m7!3m6!1s0x12f86ed6aaaaaaab:0xac19f89f3a1d5af9!8m2!3d34.4892749!4d8.2596229!16s%2Fg%2F11f40qs971!19sChIJq6qqqtZu-BIR-VodOp_4Gaw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJAdeZcNZz-BIRntDSL9ivztA",
+        "name": "Salon de the Bon Kif",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Salon de the Bon Kif (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOqs6sqmatDrmSgggpUMsqzQPBbYSH5a8Wd1OCh=w408-h272-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Salon de the Bon Kif, R201,, R201, Redeyef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Salon+de+th%C3%A9+Bon+Kif/data=!4m7!3m6!1s0x12f873d67099d701:0xd0ceafd82fd2d09e!8m2!3d34.3838891!4d8.1529107!16s%2Fg%2F11r3m5j4h_!19sChIJAdeZcNZz-BIRntDSL9ivztA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJV2ev9TFz-BIRJ0wrGoSWot4",
+        "name": "cafe carthage",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe carthage (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "46 320 191",
+        "address": "95WC+92J cafe carthage, Redeyef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+carthage/data=!4m7!3m6!1s0x12f87331f5af6757:0xdea296841a2b4c27!8m2!3d34.3959593!4d8.1700044!16s%2Fg%2F11gjt5wch9!19sChIJV2ev9TFz-BIRJ0wrGoSWot4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZ_OZwCtv-BIRWdKZnEI59gs",
+        "name": "Fast food",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Fast food (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNwvKs2mo62ii9WYcpKtl2Me2gW0ZK9cPvQir6s=w408-h548-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "58 030 824",
+        "address": "F7QF+7M2 Fast food, Unnamed Road, Umm Al Arais",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fast+food/data=!4m7!3m6!1s0x12f86f2bc099f367:0xbf639429c99d259!8m2!3d34.4881363!4d8.2741539!16s%2Fg%2F11qmqzgz8j!19sChIJZ_OZwCtv-BIRWdKZnEI59gs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3cp0Xypv-BIR1cEbEnxcdnk",
+        "name": "lHy l`mly",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "lHy l`mly (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOyX2xIIg682pVTus_syYHJnd6NpwTyqtEjkkqM=w408-h725-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "29 245 902",
+        "address": "F7R8+GJR lHy l`mly, Om Al Arais",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%A7%D9%84%D8%AD%D9%8A+%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%84%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x12f86f2a5f74cadd:0x79765c7c121bc1d5!8m2!3d34.4913748!4d8.2665008!16s%2Fg%2F11f0krnkq3!19sChIJ3cp0Xypv-BIR1cEbEnxcdnk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJE7zfprNz-BIR-yeTbe8J5us",
+        "name": "Cafe nasser mqh~ lnSr l`Zym",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "http://www.copyright.gov/",
+        "owner": {
+            "id": null,
+            "name": "Cafe nasser mqh~ lnSr l`Zym (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPcG4rqbJdqysuGWi7Ql9jwKDYukX64w-TnGBDB=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "24 349 061",
+        "address": "95P6+7FF Cafe nasser mqh~ lnSr l`Zym, Redeyef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+nasser+%D9%85%D9%82%D9%87%D9%89+%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1+%D8%A7%D9%84%D8%B9%D8%B8%D9%8A%D9%85%E2%80%AD/data=!4m7!3m6!1s0x12f873b3a6dfbc13:0xebe609ef6d9327fb!8m2!3d34.3856827!4d8.1611703!16s%2Fg%2F11h1kjqcbf!19sChIJE7zfprNz-BIR-yeTbe8J5us?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJL3N2Rb1z-BIR1jmiUAFcftI",
+        "name": "Restaurant La Grinta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant La Grinta (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-20:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "95J2+F44 Restaurant La Grinta, place Chohadaa, Redeyef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+La+Grinta/data=!4m7!3m6!1s0x12f873bd4576732f:0xd27e5c0150a239d6!8m2!3d34.3811301!4d8.1503159!16s%2Fg%2F11kzvq388x!19sChIJL3N2Rb1z-BIR1jmiUAFcftI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJVSvlmFBz-BIRYiDmbknjcaw",
+        "name": "Pizza for you",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pizza for you (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "95M2+7XP Pizza for you, Redeyef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pizza+for+you/data=!4m7!3m6!1s0x12f8735098e52b55:0xac71e3496ee62062!8m2!3d34.3832163!4d8.1524593!16s%2Fg%2F11qnvmnwk2!19sChIJVSvlmFBz-BIRYiDmbknjcaw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJWVoBBR1z-BIRLhliWFt4Z-Q",
+        "name": "Restaurant Plat d'or",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant Plat d'or (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOYmR9kv1lDBorHOW8WLd6HLueAUtrajuMNHMGq=w408-h270-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "10:00-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "95V9+XPR Restaurant Plat d'or, Redeyef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+Plat+d%27or/data=!4m7!3m6!1s0x12f8731d05015a59:0xe467785b5862192e!8m2!3d34.3949954!4d8.1692706!16s%2Fg%2F11qpq94_67!19sChIJWVoBBR1z-BIRLhliWFt4Z-Q?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJLV4lIutz-BIRpF5k3UZO9cA",
+        "name": "qhw@ `mr rwyys",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "qhw@ `mr rwyys (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN7QRFE1ImlIpc48uyKWMTO9hhTG-Ar0nnG7p76=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "C53F+64X qhw@ `mr rwyys, C201, Al-Rudayyif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%82%D9%87%D9%88%D8%A9+%D8%B9%D9%85%D8%A7%D8%B1+%D8%B1%D9%88%D9%8A%D9%8A%D8%B3%E2%80%AD/data=!4m7!3m6!1s0x12f873eb22255e2d:0xc0f54e46dd645ea4!8m2!3d34.4031066!4d8.1728535!16s%2Fg%2F11hdr8btzz!19sChIJLV4lIutz-BIRpF5k3UZO9cA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJg7onP_1z-BIRmKhbkM4UWMA",
+        "name": "pizzaria 1000 DEGREES",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://www.facebook.com/MILLEDEGRES",
+        "owner": {
+            "id": null,
+            "name": "pizzaria 1000 DEGREES (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOmbtGAjYIFeV-WvUh3sdqPU5xUxbVWjSuANb0O=w408-h544-k-no",
+        "main_category": "Restauration rapide",
+        "categories": [
+            "Restauration rapide"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-22:00",
+        "closed_on": [
+            "vendredi"
+        ],
+        "phone": "53 008 758",
+        "address": "95P6+7FF pizzaria 1000 DEGREES, bTym@ ljrydy@, Al-Rudayyif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/pizzaria+1000+DEGREES/data=!4m7!3m6!1s0x12f873fd3f27ba83:0xc05814ce905ba898!8m2!3d34.3856827!4d8.1611703!16s%2Fg%2F11vb5qc49j!19sChIJg7onP_1z-BIRmKhbkM4UWMA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0-djo81z-BIRAFs9woYT8uA",
+        "name": "Ali makroune",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ali makroune (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMalZz9fW3QnzKr8aPA7tmsAWshQG4Vub_bUdwD=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-01:45",
+        "closed_on": [],
+        "phone": null,
+        "address": "94HW+9W2 Ali makroune, Redeyef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ali+makroune/data=!4m7!3m6!1s0x12f873cda363e7d3:0xe0f21386c23d5b00!8m2!3d34.3783999!4d8.1472692!16s%2Fg%2F11js4clrsf!19sChIJ0-djo81z-BIRAFs9woYT8uA?authuser=0&hl=fr&rclk=1"
+    }
+]

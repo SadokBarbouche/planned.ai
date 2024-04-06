@@ -1,0 +1,231 @@
+[
+    {
+        "place_id": "ChIJsalpd8m04hIRaduc5E7WRvk",
+        "name": "Musee national de Carthage",
+        "description": "Musee archeologique simple presentant des statues et des poteries decouvertes lors de fouilles dans la region.",
+        "is_spending_on_ads": false,
+        "reviews": 581,
+        "website": "https://carthagemagazine.com/carthage-national-museum/",
+        "owner": {
+            "id": null,
+            "name": "Musee national de Carthage (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPxVDDk7o1OcIgbibckCmQ1FRYgF3AFjLqAJYW6=w408-h306-k-no",
+        "main_category": "Musee d'histoire",
+        "categories": [
+            "Musee d'histoire"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "58 162 557",
+        "address": "V83F+7QR Musee national de Carthage, Site archeologique de Carthage",
+        "review_keywords": [
+            {
+                "keyword": "renovation",
+                "count": 19
+            },
+            {
+                "keyword": "ruines",
+                "count": 18
+            },
+            {
+                "keyword": "cathedrale",
+                "count": 8
+            },
+            {
+                "keyword": "mosaiques",
+                "count": 7
+            },
+            {
+                "keyword": "antique",
+                "count": 7
+            },
+            {
+                "keyword": "site",
+                "count": 7
+            },
+            {
+                "keyword": "2026",
+                "count": 6
+            },
+            {
+                "keyword": "monument",
+                "count": 6
+            },
+            {
+                "keyword": "archeologiques",
+                "count": 6
+            },
+            {
+                "keyword": "restauration",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+national+de+Carthage/data=!4m7!3m6!1s0x12e2b4c97769a9b1:0xf946d64ee49cdb69!8m2!3d36.8532268!4d10.3243991!16s%2Fm%2F05b11w2!19sChIJsalpd8m04hIRaduc5E7WRvk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJt7k0QinAVxIRGamtcwUVeOE",
+        "name": "Musee Dar Cherait",
+        "description": "Musee dans manoir restaure avec expos d'objets anciens, d'oeuvres d'art et de costumes tunisiens traditionnels.",
+        "is_spending_on_ads": false,
+        "reviews": 442,
+        "website": "https://m.facebook.com/darcheraittozeur/",
+        "owner": {
+            "id": null,
+            "name": "Musee Dar Cherait (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPTM0dZvBGucoaNf6tngFBAiBGkHTcghFFoNekO=w408-h723-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": "76 452 100",
+        "address": "W47C+769 Musee Dar Cherait, Rte Touristique, Tozeur",
+        "review_keywords": [
+            {
+                "keyword": "histoire de la tunisie",
+                "count": 18
+            },
+            {
+                "keyword": "culturel",
+                "count": 9
+            },
+            {
+                "keyword": "enfants",
+                "count": 8
+            },
+            {
+                "keyword": "tradition",
+                "count": 7
+            },
+            {
+                "keyword": "touristique",
+                "count": 6
+            },
+            {
+                "keyword": "reve",
+                "count": 5
+            },
+            {
+                "keyword": "prix",
+                "count": 5
+            },
+            {
+                "keyword": "evolution",
+                "count": 4
+            },
+            {
+                "keyword": "decor",
+                "count": 3
+            },
+            {
+                "keyword": "langues",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Dar+Chera%C3%AFt/data=!4m7!3m6!1s0x1257c0294234b9b7:0xe178150573ada919!8m2!3d33.9131625!4d8.1206094!16s%2Fg%2F1223q96c!19sChIJt7k0QinAVxIRGamtcwUVeOE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJM3ZhrHp1AhMRgZVi5NAE_Bg",
+        "name": "Musee Dar Essid",
+        "description": "Art regional, objets anciens et expositions historiques sur la vie quotidienne dans un celebre palais.",
+        "is_spending_on_ads": false,
+        "reviews": 216,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee Dar Essid (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPqU1jkLUlwl5-iR24tYTx25xUQ4xE92oDpLGYV=w408-h306-k-no",
+        "main_category": "Musee d'art",
+        "categories": [
+            "Musee d'art",
+            "Musee d'histoire locale",
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "10:00-18:00",
+        "closed_on": [],
+        "phone": "73 220 529",
+        "address": "Musee Dar Essid, Boulevard Yahia Ibn Omar, 65 Rue des Remparts, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "tour",
+                "count": 8
+            },
+            {
+                "keyword": "demeure",
+                "count": 8
+            },
+            {
+                "keyword": "vie quotidienne",
+                "count": 6
+            },
+            {
+                "keyword": "langage",
+                "count": 6
+            },
+            {
+                "keyword": "toits",
+                "count": 6
+            },
+            {
+                "keyword": "vue",
+                "count": 6
+            },
+            {
+                "keyword": "prix",
+                "count": 6
+            },
+            {
+                "keyword": "porte",
+                "count": 5
+            },
+            {
+                "keyword": "terrasse",
+                "count": 5
+            },
+            {
+                "keyword": "interieur",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Dar+Essid/data=!4m7!3m6!1s0x1302757aac617633:0x18fc04d0e4629581!8m2!3d35.827142!4d10.6355029!16s%2Fg%2F12lnj4jw0!19sChIJM3ZhrHp1AhMRgZVi5NAE_Bg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJAabAJloRAhMRRQOF4yRgiLk",
+        "name": "Musee archeologique de Lamta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee archeologique de Lamta (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNt3eN6iDpNiqA9dPAS7j9tYA7IHgoGZmLrbtcO=w408-h263-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Musee archeologique",
+            "Attraction touristique"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "MVGG+XXM Musee archeologique de Lamta, Av. Habib Bourguiba, Lamta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+arch%C3%A9ologique+de+Lamta/data=!4m7!3m6!1s0x1302115a26c0a601:0xb9886024e3850345!8m2!3d35.677463!4d10.8774291!16s%2Fm%2F05b3sbv!19sChIJAabAJloRAhMRRQOF4yRgiLk?authuser=0&hl=fr&rclk=1"
+    }
+]

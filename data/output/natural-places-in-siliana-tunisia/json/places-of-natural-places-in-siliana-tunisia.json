@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJKyeyWlh7_BIRt8n3pLhTFtc",
+        "name": "Barrage Siliana",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOisOp_oxHdqhwwGp42iUVm9yaZeJRlNzaB5n3g=w408-h306-k-no",
+        "main_category": "Reservoir",
+        "categories": [
+            "Reservoir"
+        ],
+        "rating": 3.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Barrage Siliana",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Barrage+Siliana/data=!4m7!3m6!1s0x12fc7b585ab2272b:0xd71653b8a4f7c9b7!8m2!3d36.1430179!4d9.358984!16s%2Fg%2F1q5bly3mm!19sChIJKyeyWlh7_BIRt8n3pLhTFtc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJJTtoDWNl_BIRN62zNhpFi8M",
+        "name": "Oued Siliana",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cours d'eau",
+        "categories": [
+            "Cours d'eau"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Oued Siliana",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Oued+Siliana/data=!4m7!3m6!1s0x12fc65630d683b25:0xc38b451a36b3ad37!8m2!3d36.0250325!4d9.4226217!16s%2Fg%2F11bw7h72sk!19sChIJJTtoDWNl_BIRN62zNhpFi8M?authuser=0&hl=fr&rclk=1"
+    }
+]

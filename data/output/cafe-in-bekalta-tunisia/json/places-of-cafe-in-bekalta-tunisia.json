@@ -1,0 +1,805 @@
+[
+    {
+        "place_id": "ChIJDe_dzcoWAhMR5KkZ5JgZmG8",
+        "name": "Cafe de l'Excellence",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe de l'Excellence (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPJbO5WOMeuY1gRY5ikvEjHGfia0UjXLK2yxqQi=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "MV5R+67F Cafe de l'Excellence, Av. Habib Bourguiba, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+de+l%27Excellence/data=!4m7!3m6!1s0x130216cacdddef0d:0x6f981998e419a9e4!8m2!3d35.6580503!4d10.8906627!16s%2Fg%2F11b6wghy32!19sChIJDe_dzcoWAhMR5KkZ5JgZmG8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJy8JAyLQWAhMRBImw9T_1pM4",
+        "name": "Cafe de Paris",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe de Paris (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPB-nHmvj_-DBbJFLni7BWPS3vKH5sUgzjRHwkr=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "MV7R+H84 Cafe de Paris, Av. 14 Janvier 2011, Sayada",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+de+Paris/data=!4m7!3m6!1s0x130216b4c840c2cb:0xcea4f53ff5b08904!8m2!3d35.6638889!4d10.8908333!16s%2Fg%2F11r99zdyb!19sChIJy8JAyLQWAhMRBImw9T_1pM4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJVQl9Tm89AhMRf--BNDlXztM",
+        "name": "Salon de The l'AQUARIUM",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": null,
+        "owner": {
+            "id": "101474117539679737175",
+            "name": "Salon de The l'AQUARIUM (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101474117539679737175"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNE_QcUNMjdLcgi6xpNzuhXfGtrcYloLfs9Df7b=w408-h244-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "97 097 128",
+        "address": "Salon de The l'AQUARIUM, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Salon+de+Th%C3%A9+l%27AQUARIUM/data=!4m7!3m6!1s0x13023d6f4e7d0955:0xd3ce57393481ef7f!8m2!3d35.6130686!4d10.9928864!16s%2Fg%2F1hd_c7qym!19sChIJVQl9Tm89AhMRf--BNDlXztM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJcV62TSsWAhMRigztCXYbzUY",
+        "name": "Amsterdam cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Amsterdam cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOWX_Z67Rh6k5726gNwB1bstt7s_qelmQQfLGRH=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "JXJG+78Q Amsterdam cafe, Tabulbah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Amsterdam+caf%C3%A9/data=!4m7!3m6!1s0x1302162b4db65e71:0x46cd1b7609ed0c8a!8m2!3d35.6307113!4d10.9758723!16s%2Fg%2F11c685s349!19sChIJcV62TSsWAhMRigztCXYbzUY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJPdCh-jARAhMRPyCCe05B9z8",
+        "name": "Cafe Delice",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Delice (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPVrVdKeZBbyOMr85oaeerQvJLXA88a6hClgOVn=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:00-23:30",
+        "closed_on": [],
+        "phone": null,
+        "address": "MV3J+7FR Cafe Delice, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Delice/data=!4m7!3m6!1s0x13021130faa1d03d:0x3ff7414e7b82203f!8m2!3d35.6532394!4d10.8811298!16s%2Fg%2F11c51dg3ky!19sChIJPdCh-jARAhMRPyCCe05B9z8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ10TDxKwWAhMRYcnuFuOwrHw",
+        "name": "Cafe du Port",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe du Port (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOwq0R5oE94ECq70KUNZ4ne-MyWQmeTxkxBd8nf=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "05:00-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "MVFR+JFG Cafe du Port, Rue Jawher Essikili, Sayada",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+du+Port/data=!4m7!3m6!1s0x130216acc4c344d7:0x7cacb0e316eec961!8m2!3d35.6740722!4d10.8911962!16s%2Fg%2F1th896xh!19sChIJ10TDxKwWAhMRYcnuFuOwrHw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1RqpGykXAhMRUaEszSgd_b0",
+        "name": "Cafe Essalem",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": "100667905625824520084",
+            "name": "Cafe Essalem (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100667905625824520084"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPV-MCHd4g8gWDeUb8VJEsoV3oUZQEMLcl5GMa9=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "05:00-23:00",
+        "closed_on": [],
+        "phone": "53 728 608",
+        "address": "Cafe Essalem, 06 Rue Salah Eddine Ayoubie, Moknine 5050",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Essalem/data=!4m7!3m6!1s0x130217291ba91ad5:0xbdfd1d28cd2ca151!8m2!3d35.6342413!4d10.8967713!16s%2Fg%2F1vq8945s!19sChIJ1RqpGykXAhMRUaEszSgd_b0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJsR59WfU8AhMRRy4uwWWIKz0",
+        "name": "Restaurant Thapsus (Restaurant Du Port De Bekalta )",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant Thapsus (Restaurant Du Port De Bekalta ) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPtaKwilrB89DtQjEucnsRcnSuI0OY5Fmd-2pPj=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.5,
+        "workday_timing": "10:00-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "J2FX+C3C Restaurant Thapsus (Restaurant Du Port De Bekalta )",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+Thapsus+%28Restaurant+Du+Port+De+Bekalta+%29/data=!4m7!3m6!1s0x13023cf5597d1eb1:0x3d2b8865c12e2e47!8m2!3d35.6235518!4d11.0476277!16s%2Fg%2F11g9r5y0nm!19sChIJsR59WfU8AhMRRy4uwWWIKz0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ61bHa3A9AhMRpzw7MeceAhk",
+        "name": "Hamada cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hamada cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN2NdNYhwBrp5Qdbe83_JinEW_oYcODVdHFCZq9=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "05:00-20:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "JX9V+V7M Hamada cafe, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hamada+cafe/data=!4m7!3m6!1s0x13023d706bc756eb:0x19021ee7313b3ca7!8m2!3d35.6197187!4d10.9931809!16s%2Fg%2F1v2sj67q!19sChIJ61bHa3A9AhMRpzw7MeceAhk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJIZ9ngfoRAhMRiGv6ToXi240",
+        "name": "Cafe Hugo Said",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Hugo Said (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMbADRaKjZ-qOaPwShKdvkEptG5k2fQ7apdWd7o=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Restaurant"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "MV3Q+7Q4 Cafe Hugo Said, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Hugo+Sa%C3%AFd/data=!4m7!3m6!1s0x130211fa81679f21:0x8ddbe2854efa6b88!8m2!3d35.6531383!4d10.8894671!16s%2Fg%2F11pz51wx06!19sChIJIZ9ngfoRAhMRiGv6ToXi240?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJzzbAO8kXAhMRJTmzM7QN3Y4",
+        "name": "Cafe arabesque",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe arabesque (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOB5gdAnTwENtC5VQg1-s1mSVgSCIL3zH9F-vw4=w480-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JXFJ+M7R Cafe arabesque, Unnamed Road, Tabulbah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+arabesque/data=!4m7!3m6!1s0x130217c93bc036cf:0x8edd0db433b33925!8m2!3d35.6242464!4d10.9806381!16s%2Fg%2F11h6fbsts4!19sChIJzzbAO8kXAhMRJTmzM7QN3Y4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_____3A9AhMRb9UjwDMc4rk",
+        "name": "pavillon bleu",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "pavillon bleu (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMrEqEJhMH_iTd8OHoOoCnLo8eDTbb-khNwhSZK=w408-h408-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.9,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "98 277 114",
+        "address": "J28W+F3C pavillon bleu, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/pavillon+bleu/data=!4m7!3m6!1s0x13023d70ffffffff:0xb9e21c33c023d56f!8m2!3d35.6161808!4d11.0451456!16s%2Fg%2F11bz09myx9!19sChIJ_____3A9AhMRb9UjwDMc4rk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJAQBMHGU9AhMR9ilgMzoZ7SM",
+        "name": "Massous Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Massous Cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xHzT0FBGHzMNBIk42mqsXg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=192.1831&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "JX8Q+MQ6 Massous Cafe, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Massous+Caf%C3%A9/data=!4m7!3m6!1s0x13023d651c4c0001:0x23ed193a336029f6!8m2!3d35.6166535!4d10.9893775!16s%2Fg%2F11c483kz1f!19sChIJAQBMHGU9AhMR9ilgMzoZ7SM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4YZ2CWo9AhMRRRHQzPRec1E",
+        "name": "Salon De The Kenza",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Salon De The Kenza (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPQmeuPoP6gnduM_Ui262u9SDNAYu5gpX1iK1Aa=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-01:01",
+        "closed_on": [],
+        "phone": "51 019 983",
+        "address": "JX4X+RC5 Salon De The Kenza, avenue bahri brigui, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Salon+De+Th%C3%A9+Kenza/data=!4m7!3m6!1s0x13023d6a097686e1:0x51735ef4ccd01145!8m2!3d35.6070151!4d10.9986166!16s%2Fg%2F11c7v_sv_p!19sChIJ4YZ2CWo9AhMRRRHQzPRec1E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJy0yN-kwWAhMR5gZxiuXSwoc",
+        "name": "Cafe Galaxy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Galaxy (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTYMp1SEi8v8Nat0hW0_BWS_3ppXblF6ZKeaXD=w408-h255-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": "27 259 786",
+        "address": "JXM2+X3X Cafe Galaxy, Tabulbah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Galaxy/data=!4m7!3m6!1s0x1302164cfa8d4ccb:0x87c2d2e58a7106e6!8m2!3d35.6349982!4d10.950237!16s%2Fg%2F11f1tsddnj!19sChIJy0yN-kwWAhMR5gZxiuXSwoc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJmxyMxhcXAhMRj9ez579fY1c",
+        "name": "The House Coffee Shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://linktr.ee/thehousecoffeeshop",
+        "owner": {
+            "id": null,
+            "name": "The House Coffee Shop (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPiYYkQ8D9uD1entIPFfgCS_-GBjtcR3WUnjJJK=w408-h510-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "26 030 937",
+        "address": "The House Coffee Shop, 4 rue ibn el haitham Teboulba, Tunisia 5080",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+House+Coffee+Shop/data=!4m7!3m6!1s0x13021717c68c1c9b:0x57635fbfe7b3d78f!8m2!3d35.6402152!4d10.9724828!16s%2Fg%2F11k5997xyk!19sChIJmxyMxhcXAhMRj9ez579fY1c?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJofcIbaY9AhMRuiqWizDfXGY",
+        "name": "Cafe zbed",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe zbed (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP5QTR8nZt0LEEHJk8134D8OQsJcXtXMKDBpHCg=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:30-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "J2J7+M6F Cafe zbed, Tabulbah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+zb%C3%A9d/data=!4m7!3m6!1s0x13023da66d08f7a1:0x665cdf308b962aba!8m2!3d35.6316789!4d11.0130402!16s%2Fg%2F11g8vwp3vr!19sChIJofcIbaY9AhMRuiqWizDfXGY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJsZmWZRY9AhMRfI4U_u2XgeI",
+        "name": "Cafe Habbechi Mohamed Ali Chraf.",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Habbechi Mohamed Ali Chraf. (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPH4GdSA-JkY2LIzh-XA6hCLlTqfVvPN-1DKP_b=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-03:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "H2WQ+MMV Cafe Habbechi Mohamed Ali Chraf., Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Habbechi+Mohamed+Ali+Chraf./data=!4m7!3m6!1s0x13023d16659699b1:0xe28197edfe148e7c!8m2!3d35.5967469!4d11.0391868!16s%2Fg%2F11g2r89f9f!19sChIJsZmWZRY9AhMRfI4U_u2XgeI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1SnLbGQ9AhMRbeORxBqWhVQ",
+        "name": "Cafe Down Town",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Down Town (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMDcFXBKjSQCe84A3NX7Hmc8DNdjINoKZVs2nt1=w408-h543-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JX9V+MVW Cafe Down Town, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Down+Town/data=!4m7!3m6!1s0x13023d646ccb29d5:0x5485961ac491e36d!8m2!3d35.6193022!4d10.9946958!16s%2Fg%2F11t7fcnqcr!19sChIJ1SnLbGQ9AhMRbeORxBqWhVQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ689bJD89AhMR5tcHiz25AkQ",
+        "name": "TULIPE VENISIA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "TULIPE VENISIA (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMeX7JNjwJG-wnfZ9EZMB2HYsaCQVk6NGllVMFi=w408-h904-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "06:00-02:00",
+        "closed_on": [],
+        "phone": "54 416 920",
+        "address": "J2P4+7G7 TULIPE VENISIA, Tabulbah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/TULIPE+VENISIA/data=!4m7!3m6!1s0x13023d3f245bcfeb:0x4402b93d8b07d7e6!8m2!3d35.6356603!4d11.0062992!16s%2Fg%2F11txf3d1ls!19sChIJ689bJD89AhMR5tcHiz25AkQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-cMViokRAhMRrF3CLmpU-6I",
+        "name": "Cafe le colisee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "103512735332387786309",
+            "name": "Cafe le colisee (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103512735332387786309"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UoN7CtYAfWj8aWhpYeLXjw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=56.656364&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "03:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe le colisee, Av. Habib bourguiba, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+le+colisee/data=!4m7!3m6!1s0x130211898a15c3f9:0xa2fb546a2ec25dac!8m2!3d35.6463726!4d10.8864393!16s%2Fg%2F11q2yyktq9!19sChIJ-cMViokRAhMRrF3CLmpU-6I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4bfAfyA9AhMRzWm3xAbYOaY",
+        "name": "Cafe restau La Perla",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe restau La Perla (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "J2CW+QM Cafe restau La Perla, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+restau+La+Perla/data=!4m7!3m6!1s0x13023d207fc0b7e1:0xa639d806c4b769cd!8m2!3d35.622028!4d11.0462105!16s%2Fg%2F11krbpt6vy!19sChIJ4bfAfyA9AhMRzWm3xAbYOaY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJw9y5KQA9AhMRw-5tRkyempc",
+        "name": "cafe port bekalta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe port bekalta (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPdyy1xVyYmKcnD-g3KPdSLYXrdEi512I7gJFNq=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "J2FX+G74 cafe port bekalta, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+port+bekalta/data=!4m7!3m6!1s0x13023d0029b9dcc3:0x979a9e4c466deec3!8m2!3d35.6237532!4d11.048204!16s%2Fg%2F11vt8_02nx!19sChIJw9y5KQA9AhMRw-5tRkyempc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJV3JOtGQ9AhMRiI0sQiA68jo",
+        "name": "Sunset Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Sunset Coffee (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMzY-pS0P-Tce0UJJqcBcGq86duQ18WC_Wt70Wq=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JX8Q+244 Sunset Coffee, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sunset+Coffee/data=!4m7!3m6!1s0x13023d64b44e7257:0x3af23a20422c8d88!8m2!3d35.6150123!4d10.9878257!16s%2Fg%2F11vj56nsr_!19sChIJV3JOtGQ9AhMRiI0sQiA68jo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJsa6Et9c9AhMRFfNCaKzkvao",
+        "name": "cafe Mahata - mqh~ lmHT@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe Mahata - mqh~ lmHT@ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dhCAauCUJs8vH5cyMoIIyg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=222.48799&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "JX8R+947 cafe Mahata - mqh~ lmHT@, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+Mahata+-+%D9%85%D9%82%D9%87%D9%89+%D8%A7%D9%84%D9%85%D8%AD%D8%B7%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x13023dd7b784aeb1:0xaabde4ac6842f315!8m2!3d35.6159238!4d10.9903088!16s%2Fg%2F11t6jbbkwx!19sChIJsa6Et9c9AhMRFfNCaKzkvao?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ40w-f7Q9AhMRRp_z0FFGGKE",
+        "name": "BERICH",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "BERICH (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant specialise dans les ailes de poulet",
+        "categories": [
+            "Restaurant specialise dans les ailes de poulet"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "JX9W+G3J BERICH, Unnamed Road, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/BERICH/data=!4m7!3m6!1s0x13023db47f3e4ce3:0xa1184651d0f39f46!8m2!3d35.6188341!4d10.9951332!16s%2Fg%2F11pc7ryzv1!19sChIJ40w-f7Q9AhMRRp_z0FFGGKE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJJUXG69o9AhMRAdb4HFg3bog",
+        "name": "CAFE SPORT",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "CAFE SPORT (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM0joiJ4x2grPWpr1zQZULHfppMMUMNrA1CKvVC=w408-h906-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JXCW+7V6 CAFE SPORT, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CAFE+SPORT/data=!4m7!3m6!1s0x13023ddaebc64525:0x886e37581cf8d601!8m2!3d35.6206724!4d10.9971515!16s%2Fg%2F11f61tbq0b!19sChIJJUXG69o9AhMRAdb4HFg3bog?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJN8F57H8XAhMRa__l1ikYWdk",
+        "name": "Cafe Rolex",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://www.facebook.com/profile.php%3Fid%3D61556699951075%26mibextid%3DZbWKwL",
+        "owner": {
+            "id": "111236906282492952935",
+            "name": "Cafe Rolex (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111236906282492952935"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN8wdh3MNQCDPK1t8d68b78tpudRatovLBzLqys=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "29 029 303",
+        "address": "Cafe Rolex, Rue chebil nouira boudriss, Tabulbah 5080",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Rolex/data=!4m7!3m6!1s0x1302177fec79c137:0xd9591829d6e5ff6b!8m2!3d35.6414246!4d10.9586823!16s%2Fg%2F11vr3yq84b!19sChIJN8F57H8XAhMRa__l1ikYWdk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJz1z3KPcXAhMR9oLnu4YzLIA",
+        "name": "Cafe La Villa D'ARTS",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "101181732895360981895",
+            "name": "Cafe La Villa D'ARTS (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101181732895360981895"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMvsISsimanaSpmkiDdVHVINLWYMk20aYoQiHKL=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "05:30-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe La Villa D'ARTS, Av. Habib Bourguiba, Lamta 5035",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+La+Villa+D%27ARTS/data=!4m7!3m6!1s0x130217f728f75ccf:0x802c3386bbe782f6!8m2!3d35.6640043!4d10.8904399!16s%2Fg%2F11h0hqftsf!19sChIJz1z3KPcXAhMR9oLnu4YzLIA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJrdQW4JERAhMRIwxTyiqH1s0",
+        "name": "Aymen cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://www.facebook.com/paradise.aymen/",
+        "owner": {
+            "id": null,
+            "name": "Aymen cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNdgqc1F3o99PoNqw35sGc_SQY87SI6IT9PhBeJ=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:30-00:00",
+        "closed_on": [],
+        "phone": "58 453 000",
+        "address": "MVC9+F96 Aymen cafe, Bouhjar,, Lamta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Aymen+caf%C3%A9/data=!4m7!3m6!1s0x13021191e016d4ad:0xcdd6872aca530c23!8m2!3d35.6711539!4d10.8683783!16s%2Fg%2F11j9ch1tgf!19sChIJrdQW4JERAhMRIwxTyiqH1s0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJC8yoagwRAhMR-gNpgET76jE",
+        "name": "Cafe Prestige",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Prestige (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNLUDd5Z9PKKhHwf1o2thS9kUddWXbqFbLWimAC=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "04:30-00:00",
+        "closed_on": [],
+        "phone": "93 795 056",
+        "address": "MV5G+H2V Cafe Prestige, Av. Habib bourguiba, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Prestige/data=!4m7!3m6!1s0x1302110c6aa8cc0b:0x31eafb44806903fa!8m2!3d35.6589847!4d10.8750482!16s%2Fg%2F11qrl2tl73!19sChIJC8yoagwRAhMR-gNpgET76jE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJxSQwA8MRAhMRjmBcfrAdkP8",
+        "name": "cafe.te.ria Boughzala",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe.te.ria Boughzala (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP1QRKwszjczE45KElgj11WBxgR7Ft1aBRHAr-V=w480-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-22:00",
+        "closed_on": [],
+        "phone": "22 394 201",
+        "address": "MV3C+2JW cafe.te.ria Boughzala, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9.te.ria+Boughzala/data=!4m7!3m6!1s0x130211c3033024c5:0xff901db07e5c608e!8m2!3d35.6526165!4d10.8715832!16s%2Fg%2F11h144br6x!19sChIJxSQwA8MRAhMRjmBcfrAdkP8?authuser=0&hl=fr&rclk=1"
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": "ChIJY0FDlZnD_hIR6K4AqCZjWbc",
+        "name": "Societe de Mohamed",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Societe de Mohamed (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Musee de la technologie",
+        "categories": [
+            "Musee de la technologie"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-20:00",
+        "closed_on": [],
+        "phone": "95 220 416",
+        "address": "2FPM+6H6 Societe de Mohamed, mohamedsafikadri@gmail.com, Sidi Bouzid",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Soci%C3%A9t%C3%A9+de+Mohamed/data=!4m7!3m6!1s0x12fec39995434163:0xb7596326a800aee8!8m2!3d35.0355273!4d9.4838981!16s%2Fg%2F11pfbw0n69!19sChIJY0FDlZnD_hIR6K4AqCZjWbc?authuser=0&hl=fr&rclk=1"
+    }
+]

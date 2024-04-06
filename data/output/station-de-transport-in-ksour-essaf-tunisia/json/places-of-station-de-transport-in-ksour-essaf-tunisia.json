@@ -1,0 +1,177 @@
+[
+    {
+        "place_id": "ChIJRZ5ErKGKARMRHXMcIZWZ3kI",
+        "name": "AGIL Ksour Essef (route de Sfax)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "AGIL Ksour Essef (route de Sfax) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPwotL_AfwakPIRx3KwT4OUs7ZCm4pVljha2NJW=w408-h544-k-no",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 3.8,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "73 664 593",
+        "address": "C252+H9G AGIL Ksour Essef (route de Sfax), C82, Ksour Essef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/AGIL+Ksour+Essef+%28route+de+Sfax%29/data=!4m7!3m6!1s0x13018aa1ac449e45:0x42de9995211c731d!8m2!3d35.4089284!4d11.0009488!16s%2Fg%2F11b70kr385!19sChIJRZ5ErKGKARMRHXMcIZWZ3kI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJXxHrMxIgAhMRJBKADXe_oD8",
+        "name": "TOTAL Ksour Essef",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "http://www.total.tn/",
+        "owner": {
+            "id": null,
+            "name": "TOTAL Ksour Essef (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LFl7FmYhKj9eRXHedB3EHA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=295.4957&pitch=0&thumbfov=100",
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "73 665 301",
+        "address": "CXGX+4FJ TOTAL Ksour Essef, C82, Ksour Essef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/TOTAL+Ksour+Essef/data=!4m7!3m6!1s0x1302201233eb115f:0x3fa0bf770d801224!8m2!3d35.4253422!4d10.9986448!16s%2Fg%2F11b607rmc6!19sChIJXxHrMxIgAhMRJBKADXe_oD8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJkdzEJd_SARMRe-Fa_vmT3LM",
+        "name": "Station de Bus 7",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de Bus 7 (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7TOpnLihXiHIp9ZqQGhoiw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=91.31066&pitch=0&thumbfov=100",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 3.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Station de Bus 7, Rte Teniour, Sfax",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+Bus+7/data=!4m7!3m6!1s0x1301d2df25c4dc91:0xb3dc93f9fe5ae17b!8m2!3d34.7549003!4d10.7572859!16s%2Fg%2F11b6y7mh77!19sChIJkdzEJd_SARMRe-Fa_vmT3LM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdb1iLDcWAhMR0aTJgkWL53g",
+        "name": "Station STS",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station STS (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KrUKFyT40ikYmalEOlyNkA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=269.41736&pitch=0&thumbfov=100",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Station STS, Tabulbah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+STS/data=!4m7!3m6!1s0x130216372c62bd75:0x78e78b4582c9a4d1!8m2!3d35.640107!4d10.9635656!16s%2Fg%2F11bbs2z5jr!19sChIJdb1iLDcWAhMR0aTJgkWL53g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJaar7GtnSARMRY0f7uc_G_9U",
+        "name": "Station de Bus 7 et 8",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de Bus 7 et 8 (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=dI_i9dH8M9fpqjAUGvVddg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=27.917364&pitch=0&thumbfov=100",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 3.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Station de Bus 7 et 8, Rue Imam el Mezri, Rue Ottoman Kaak, Sfax 3069",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+Bus+7+et+8/data=!4m7!3m6!1s0x1301d2d91afbaa69:0xd5ffc6cfb9fb4763!8m2!3d34.7520819!4d10.7582339!16s%2Fg%2F11bc8wd6zz!19sChIJaar7GtnSARMRY0f7uc_G_9U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJk9zXeJohAhMRkukvidz_bxE",
+        "name": "Louage station Ksour Essef",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Louage station Ksour Essef (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO4h9GnpimH3eL3yJiAMwAsNmDDnlngEDDYw0qR=w408-h544-k-no",
+        "main_category": "Service de taxi minibus",
+        "categories": [
+            "Service de taxi minibus"
+        ],
+        "rating": 3.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "C292+5CW Louage station Ksour Essef, Ksour Essaf",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Louage+station+Ksour+Essef/data=!4m7!3m6!1s0x1302219a78d7dc93:0x116fffdc892fe992!8m2!3d35.4179887!4d11.0010913!16s%2Fg%2F11h6dsx26x!19sChIJk9zXeJohAhMRkukvidz_bxE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_zsmr_wjAhMRRO8R0SKVlVA",
+        "name": "Bus station STS (Mahdia - Sousse)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bus station STS (Mahdia - Sousse) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Gu-ar61HfEEYw79-wHTutg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=25.399733&pitch=0&thumbfov=100",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "G29H+MCG Bus station STS (Mahdia - Sousse), shr` lHbyb bwrqyb@, Hiboun",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bus+station+STS+%28Mahdia+-+Sousse%29/data=!4m7!3m6!1s0x130223fcaf263bff:0x50959522d111ef44!8m2!3d35.5191805!4d11.0285716!16s%2Fg%2F11r97ht1n1!19sChIJ_zsmr_wjAhMRRO8R0SKVlVA?authuser=0&hl=fr&rclk=1"
+    }
+]

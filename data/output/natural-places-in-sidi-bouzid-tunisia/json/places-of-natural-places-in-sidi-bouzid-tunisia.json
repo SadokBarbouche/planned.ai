@@ -1,0 +1,177 @@
+[
+    {
+        "place_id": "ChIJEd2UNdnl-BIRMxPbTqXMd9k",
+        "name": "Sidi Aich",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNgZfbo9JZ5Mvdud-DREeqqEWk9_Sld7gMJzYi4=w408-h306-k-no",
+        "main_category": "Point d'eau",
+        "categories": [
+            "Point d'eau"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Sidi Aich",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sidi+Aich/data=!4m7!3m6!1s0x12f8e5d93594dd11:0xd977cca54edb1333!8m2!3d34.7506283!4d8.7439867!16s%2Fg%2F1trs_3gl!19sChIJEd2UNdnl-BIRMxPbTqXMd9k?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJTT_srAF9_hIRYoFPw-rKrtA",
+        "name": "Bir Ahmed",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOik--_T7AUNhp0DAThJzQTQOUPCdodQ3eA2Pgb=w532-h240-k-no",
+        "main_category": "Drinking water",
+        "categories": [
+            "Drinking water"
+        ],
+        "rating": 3.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Bir Ahmed",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bir+Ahmed/data=!4m7!3m6!1s0x12fe7d01acec3f4d:0xd0aecaeac34f8162!8m2!3d35.3711111!4d9.9441667!16s%2Fg%2F1vj6nvxt!19sChIJTT_srAF9_hIRYoFPw-rKrtA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJt_Vo7Ri-_hIRLbA7pLa3XhQ",
+        "name": "Gueltet el Afour",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM2QfNObgdjbs-hupe9jcspJBb3VHZrZIk5ega1=w408-h306-k-no",
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gueltet el Afour",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gueltet+el+Afour/data=!4m7!3m6!1s0x12febe18ed68f5b7:0x145eb7b6a43bb02d!8m2!3d35.2561111!4d9.5375!16s%2Fg%2F11bymvd202!19sChIJt_Vo7Ri-_hIRLbA7pLa3XhQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJO0F-8HLD_hIR_j8eb6bCEoc",
+        "name": "Oued El Fekka",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO2uVpD9c5aU4A1zWy_heL78J22SjnFghOO9eE7=w426-h240-k-no",
+        "main_category": "Point d'eau",
+        "categories": [
+            "Point d'eau"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Oued El Fekka",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Oued+El+Fekka/data=!4m7!3m6!1s0x12fec372f07e413b:0x8712c2a66f1e3ffe!8m2!3d35.0544544!4d9.4762976!16s%2Fg%2F1td2pl6m!19sChIJO0F-8HLD_hIR_j8eb6bCEoc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ76eciTFL_xIRQCUQV05FT8g",
+        "name": "Ragouba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Dune",
+        "categories": [
+            "Dune"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ragouba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ragouba/data=!4m7!3m6!1s0x12ff4b31899ca7ef:0xc84f454e57102540!8m2!3d34.45877!4d9.1956162!16s%2Fg%2F1ptwr_97t!19sChIJ76eciTFL_xIRQCUQV05FT8g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJx6npI4wz-RIRxYpdAnQsrwA",
+        "name": "Ras Brahim",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Sommet montagneux",
+        "categories": [
+            "Sommet montagneux"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ras Brahim",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ras+Brahim/data=!4m7!3m6!1s0x12f9338c23e9a9c7:0xaf2c74025d8ac5!8m2!3d35.1266667!4d9.1286111!16s%2Fg%2F11gz6vxkb!19sChIJx6npI4wz-RIRxYpdAnQsrwA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_8vOGrNr_hIRg77N9CnmAPk",
+        "name": "Bir el Haj Ali",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Drinking water",
+        "categories": [
+            "Drinking water"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Bir el Haj Ali",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Bir+el+Haj+Ali/data=!4m7!3m6!1s0x12fe6bb31acecbff:0xf900e629f4cdbe83!8m2!3d35.1805556!4d10.2005556!16s%2Fg%2F1tj59wsb!19sChIJ_8vOGrNr_hIRg77N9CnmAPk?authuser=0&hl=fr&rclk=1"
+    }
+]

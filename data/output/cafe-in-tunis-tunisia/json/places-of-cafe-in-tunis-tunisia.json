@@ -1,0 +1,1131 @@
+[
+    {
+        "place_id": "ChIJuyfUqYoz_RIRIszoe4XPAzk",
+        "name": "Cafe Mrabet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 565,
+        "website": "https://elmrabet.tn/",
+        "owner": {
+            "id": null,
+            "name": "Cafe Mrabet (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMnYVH4L80JPkmLwMps7XnMn5ZOEr1t57kaJ-e0=w408-h544-k-no",
+        "main_category": "Restaurant familial",
+        "categories": [
+            "Restaurant familial",
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": "93 420 895",
+        "address": "Cafe Mrabet, 27 Souk Trok, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "cafes",
+                "count": 21
+            },
+            {
+                "keyword": "the",
+                "count": 17
+            },
+            {
+                "keyword": "serveur",
+                "count": 12
+            },
+            {
+                "keyword": "ramadan",
+                "count": 11
+            },
+            {
+                "keyword": "tunisien",
+                "count": 11
+            },
+            {
+                "keyword": "terrasse",
+                "count": 10
+            },
+            {
+                "keyword": "coeur",
+                "count": 9
+            },
+            {
+                "keyword": "decor",
+                "count": 6
+            },
+            {
+                "keyword": "couscous",
+                "count": 6
+            },
+            {
+                "keyword": "tradition",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Mrabet/data=!4m7!3m6!1s0x12fd338aa9d427bb:0x3903cf857be8cc22!8m2!3d36.7972783!4d10.1702851!16s%2Fg%2F11b6v5w86l!19sChIJuyfUqYoz_RIRIszoe4XPAzk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJg_rm-nQ0_RIR2guj6aUCaC0",
+        "name": "EL ALI Resto & Cafe Culturel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 532,
+        "website": "https://instagram.com/resto_el_ali%3Figshid%3DOGQ2MjdiOTE%3D",
+        "owner": {
+            "id": "114444395705674073490",
+            "name": "EL ALI Resto & Cafe Culturel (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114444395705674073490"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNmihF4SA_zSUh8dCGKe4RqYNiXC3s50L-3MHNO=w408-h271-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant",
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-17:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "71 321 927",
+        "address": "EL ALI Resto & Cafe Culturel, Rue Jamaa Ezzitouna, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "petit dejeuner",
+                "count": 36
+            },
+            {
+                "keyword": "tunisien",
+                "count": 25
+            },
+            {
+                "keyword": "couscous",
+                "count": 16
+            },
+            {
+                "keyword": "musique",
+                "count": 15
+            },
+            {
+                "keyword": "service",
+                "count": 14
+            },
+            {
+                "keyword": "coeur",
+                "count": 13
+            },
+            {
+                "keyword": "tajine",
+                "count": 11
+            },
+            {
+                "keyword": "souk",
+                "count": 7
+            },
+            {
+                "keyword": "cuisine traditionnelle",
+                "count": 7
+            },
+            {
+                "keyword": "entree",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/EL+ALI+Resto+%26+Caf%C3%A9+Culturel/data=!4m7!3m6!1s0x12fd3474fae6fa83:0x2d6802a5e9a30bda!8m2!3d36.7981557!4d10.172971!16s%2Fg%2F113hnpbqr!19sChIJg_rm-nQ0_RIR2guj6aUCaC0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJiSFXDEM1_RIRyrPgH3UzeQg",
+        "name": "Obladi Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 254,
+        "website": null,
+        "owner": {
+            "id": "118414528732555765080",
+            "name": "Obladi Coffee (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/118414528732555765080"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMT2qhIMCUig0bCKhYeNBybj6mCbsKncn2EZibq=w408-h408-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-22:00",
+        "closed_on": [],
+        "phone": "24 318 745",
+        "address": "Obladi Coffee, Rue du Lac Huron, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 10
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 8
+            },
+            {
+                "keyword": "musique",
+                "count": 8
+            },
+            {
+                "keyword": "serveur",
+                "count": 7
+            },
+            {
+                "keyword": "experience",
+                "count": 7
+            },
+            {
+                "keyword": "brunch",
+                "count": 6
+            },
+            {
+                "keyword": "etudiants",
+                "count": 6
+            },
+            {
+                "keyword": "croissant",
+                "count": 5
+            },
+            {
+                "keyword": "methode d'apprentissage",
+                "count": 3
+            },
+            {
+                "keyword": "sourire",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Obladi+Coffee/data=!4m7!3m6!1s0x12fd35430c572189:0x87933751fe0b3ca!8m2!3d36.8366942!4d10.24654!16s%2Fg%2F11f57k77c7!19sChIJiSFXDEM1_RIRyrPgH3UzeQg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-dzK52Q0_RIRNMvCQVJEbs0",
+        "name": "Cafe Culturel Liber'The",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 191,
+        "website": null,
+        "owner": {
+            "id": "100870946040008361944",
+            "name": "Cafe Culturel Liber'The (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100870946040008361944"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNZdD-nCzkvxAd46Dyn8Bnjai_r15BWVSQcp9Pk=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-22:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "21 901 721",
+        "address": "Cafe Culturel Liber'The, 55 Rue d'Iran, Tunis 1002",
+        "review_keywords": [
+            {
+                "keyword": "musique",
+                "count": 11
+            },
+            {
+                "keyword": "livres",
+                "count": 5
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 4
+            },
+            {
+                "keyword": "fumeur",
+                "count": 4
+            },
+            {
+                "keyword": "concept",
+                "count": 3
+            },
+            {
+                "keyword": "wifi",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Culturel+Liber%27Th%C3%A9/data=!4m7!3m6!1s0x12fd3464e7cadcf9:0xcd6e445241c2cb34!8m2!3d36.8145518!4d10.1823676!16s%2Fg%2F12hpm00yb!19sChIJ-dzK52Q0_RIRNMvCQVJEbs0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJjWAIEns0_RIRDBfqBuxjnWw",
+        "name": "Ben's Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 144,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ben's Coffee (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO9UQK8c58hj0soDfESuBeG_jCUiU3sC2q8eKKv=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "09:00-21:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "54 381 083",
+        "address": "Ben's Coffee, Gouvernorat de 36, Av. de La Liberte, Tunis 1002",
+        "review_keywords": [
+            {
+                "keyword": "brunch",
+                "count": 10
+            },
+            {
+                "keyword": "prix",
+                "count": 8
+            },
+            {
+                "keyword": "musique",
+                "count": 5
+            },
+            {
+                "keyword": "gaufres",
+                "count": 5
+            },
+            {
+                "keyword": "salade",
+                "count": 4
+            },
+            {
+                "keyword": "gateau",
+                "count": 4
+            },
+            {
+                "keyword": "cappuccino",
+                "count": 3
+            },
+            {
+                "keyword": "environnement",
+                "count": 3
+            },
+            {
+                "keyword": "choix",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ben%27s+Coffee/data=!4m7!3m6!1s0x12fd347b1208608d:0x6c9d63ec06ea170c!8m2!3d36.8103058!4d10.1795181!16s%2Fg%2F11c4ky7rj6!19sChIJjWAIEns0_RIRDBfqBuxjnWw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2T3o48lK_RIR8utylY-EgTM",
+        "name": "Kube",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 142,
+        "website": null,
+        "owner": {
+            "id": "111337085416701182434",
+            "name": "Kube (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111337085416701182434"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP4b57Ps9F5e1PfkLd4lxz-pwGFBR29bNZEeotE=w408-h272-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the",
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-02:00",
+        "closed_on": [],
+        "phone": "29 414 446",
+        "address": "Kube, R7VM+V3 Les Berges du Lac, Tunis Rue De La Feuille D'Erable, Les Berges Du Lac2 Tunis, 1052",
+        "review_keywords": [
+            {
+                "keyword": "petit dejeuner",
+                "count": 15
+            },
+            {
+                "keyword": "chicha",
+                "count": 11
+            },
+            {
+                "keyword": "prix",
+                "count": 7
+            },
+            {
+                "keyword": "salade",
+                "count": 4
+            },
+            {
+                "keyword": "serveurs",
+                "count": 4
+            },
+            {
+                "keyword": "crepe",
+                "count": 4
+            },
+            {
+                "keyword": "lac",
+                "count": 3
+            },
+            {
+                "keyword": "brunch",
+                "count": 3
+            },
+            {
+                "keyword": "quantite",
+                "count": 3
+            },
+            {
+                "keyword": "jus",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Kube/data=!4m7!3m6!1s0x12fd4ac9e3e83dd9:0x3381848f9572ebf2!8m2!3d36.8447226!4d10.2827153!16s%2Fg%2F11c1qz0gkv!19sChIJ2T3o48lK_RIR8utylY-EgTM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-cJ2tPUz_RIRnm3ixX1L3Mw",
+        "name": "Tirana Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 78,
+        "website": "https://www.facebook.com/tiranacafe",
+        "owner": {
+            "id": "111695276244005082224",
+            "name": "Tirana Cafe (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111695276244005082224"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPVzVhhPfxU89b_MqCOYYpdxCCjEymcl5zeSD8V=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "06:00-23:30",
+        "closed_on": [],
+        "phone": "29 140 180",
+        "address": "Tirana Cafe, Hannibal Center, 53 Av. Mohamed Abdelwaheb, El Manar 2092",
+        "review_keywords": [
+            {
+                "keyword": "quantite",
+                "count": 7
+            },
+            {
+                "keyword": "prix",
+                "count": 5
+            },
+            {
+                "keyword": "serveur",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Tirana+Caf%C3%A9/data=!4m7!3m6!1s0x12fd33f5b476c2f9:0xccdc4b7dc5e26d9e!8m2!3d36.8361968!4d10.1369539!16s%2Fg%2F11t0tv55m4!19sChIJ-cJ2tPUz_RIRnm3ixX1L3Mw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJf2koR6k1_RIRnYcF29XAp2M",
+        "name": "Cosmitto",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 70,
+        "website": "https://www.facebook.com/profile.php/%3Fid%3D100057263418756",
+        "owner": {
+            "id": "100702983539981170469",
+            "name": "Cosmitto (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100702983539981170469"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNkflSpKOKJ3wNJvUzxMUCYwyIBRXJsiSD_5lE4=w408-h247-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "58 349 077",
+        "address": "Cosmitto, 15 Av. De Carthage, Tunis 1000",
+        "review_keywords": [
+            {
+                "keyword": "wifi",
+                "count": 6
+            },
+            {
+                "keyword": "fumeur",
+                "count": 4
+            },
+            {
+                "keyword": "chocolat",
+                "count": 3
+            },
+            {
+                "keyword": "croissant",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Cosmitto/data=!4m7!3m6!1s0x12fd35a94728697f:0x63a7c0d5db05879d!8m2!3d36.7966182!4d10.1813301!16s%2Fg%2F11lh6ff3xz!19sChIJf2koR6k1_RIRnYcF29XAp2M?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4c7KSnU0_RIR7lSJ0D4aAgQ",
+        "name": "Cafe De La Vigne",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 64,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe De La Vigne (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPRlm8PM2_-5Cup9EeDrVy6yTJ_tLZlhvjzsj_a=w408-h510-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "06:00-17:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": null,
+        "address": "Q5WC+MMC Cafe De La Vigne, swq lrb`, Rue El Kahia, Tunis 1111",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+De+La+Vigne/data=!4m7!3m6!1s0x12fd34754acacee1:0x4021a3ed08954ee!8m2!3d36.7966906!4d10.1716316!16s%2Fg%2F11c53hh0gg!19sChIJ4c7KSnU0_RIR7lSJ0D4aAgQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJbfU0H9wz_RIR9kt6_0wndFc",
+        "name": "Meraki Coffee Shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 63,
+        "website": null,
+        "owner": {
+            "id": "108289831636924731008",
+            "name": "Meraki Coffee Shop (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108289831636924731008"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNZEv7z0Oy1e1szge2I4lSgvb8akwUnG736exCE=w408-h408-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-23:00",
+        "closed_on": [],
+        "phone": "71 505 208",
+        "address": "Meraki Coffee Shop, 21 Av. Habib Bourguiba, Tunis 2000",
+        "review_keywords": [
+            {
+                "keyword": "fumeurs",
+                "count": 3
+            },
+            {
+                "keyword": "prix",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Meraki+Coffee+Shop/data=!4m7!3m6!1s0x12fd33dc1f34f56d:0x5774274cff7a4bf6!8m2!3d36.8107503!4d10.1407014!16s%2Fg%2F11py9wyt7t!19sChIJbfU0H9wz_RIR9kt6_0wndFc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJC_xuzkIz_RIRpC5EmoQLrPs",
+        "name": "Story coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 61,
+        "website": "http://www.facebook.com/STORYCoffeeshopmanar/",
+        "owner": {
+            "id": "107350286250292128490",
+            "name": "Story coffee (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/107350286250292128490"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN3UTSetLVrIpZKIwac_CzfGgsbgCkgcNsmY106=w427-h240-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the",
+            "Restaurant"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-23:30",
+        "closed_on": [],
+        "phone": "27 637 294",
+        "address": "R5Q5+M33 Story coffee, Rue Tahar Sfar, Tunis 2092",
+        "review_keywords": [
+            {
+                "keyword": "pizza",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Story+coffee/data=!4m7!3m6!1s0x12fd3342ce6efc0b:0xfbac0b849a442ea4!8m2!3d36.8421167!4d10.1582372!16s%2Fg%2F11c2kjcfr2!19sChIJC_xuzkIz_RIRpC5EmoQLrPs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJHcpl9cM1_RIRH-kyFDohqXg",
+        "name": "72 Coffee & Drinks",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 38,
+        "website": "https://www.facebook.com/72.coffee.and.drinks%3Fmibextid%3DLQQJ4d",
+        "owner": {
+            "id": "108563506005775561344",
+            "name": "72 Coffee & Drinks (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108563506005775561344"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMGo-d9pl4xKvscmFhq9fPFG0885AJHXgaM2acv=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "29 357 333",
+        "address": "72 Coffee & Drinks, Lac Leman, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "jeux",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/72+Coffee+%26+Drinks/data=!4m7!3m6!1s0x12fd35c3f565ca1d:0x78a9213a1432e91f!8m2!3d36.8389925!4d10.2398644!16s%2Fg%2F11sczt9vhg!19sChIJHcpl9cM1_RIRH-kyFDohqXg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJK4MG-Hw0_RIRUi_NVQoA0X0",
+        "name": "TOPKAPI COFFEE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": null,
+        "owner": {
+            "id": "111235953806163947413",
+            "name": "TOPKAPI COFFEE (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111235953806163947413"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM9KKiZZ0t4VSEKd7KGrA44B18K0nDMTzIZvK0_=w408-h306-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": "95 829 549",
+        "address": "TOPKAPI COFFEE, iiCentre commerciale Zitouna, 96 Av. de La Liberte, Tunis 1002",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/TOPKAPI+COFFEE/data=!4m7!3m6!1s0x12fd347cf806832b:0x7dd1000a55cd2f52!8m2!3d36.8140556!4d10.1790287!16s%2Fg%2F11crztwfr0!19sChIJK4MG-Hw0_RIRUi_NVQoA0X0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJrcMAkEMz_RIRKcXXtabN_KE",
+        "name": "Malmo Coffee Tunis",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 32,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Malmo Coffee Tunis (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMGKC9I3_gA9T8LHarX4g4-N3HKz3ATvNmP7-UZ=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": "20 105 334",
+        "address": "R5W4+47R Malmo Coffee Tunis, Unnamed Road, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Malm%C3%B6+Coffee+Tunis/data=!4m7!3m6!1s0x12fd33439000c3ad:0xa1fccda6b5d7c529!8m2!3d36.8453524!4d10.1556414!16s%2Fg%2F11gglsdxwz!19sChIJrcMAkEMz_RIRKcXXtabN_KE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJo3Un2GO14hIR2j2ybcfQnTw",
+        "name": "Galerie Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 31,
+        "website": null,
+        "owner": {
+            "id": "104295371625355389034",
+            "name": "Galerie Cafe (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/104295371625355389034"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPzL00pJLGijCwZmHjyIxOdV7zQKq41SU8P_6vD=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Galerie d'art"
+        ],
+        "rating": 4.6,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Galerie Cafe, Residence L'Horizon, Local M5 et M4, Avenue Jugurtha, Tunis 1090",
+        "review_keywords": [
+            {
+                "keyword": "noisette",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Galerie+Caf%C3%A9/data=!4m7!3m6!1s0x12e2b563d82775a3:0x3c9dd0c76db23dda!8m2!3d36.8471627!4d10.2995621!16s%2Fg%2F11rf7pnz81!19sChIJo3Un2GO14hIR2j2ybcfQnTw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdek6GRE1_RIRFwosVpEvnsw",
+        "name": "Moka Cafe Restaurant",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 29,
+        "website": null,
+        "owner": {
+            "id": "110486181445498481968",
+            "name": "Moka Cafe Restaurant (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/110486181445498481968"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMIHcWpWBGrxm8ccJz-3CSltQKbksMOU_X5z1-H=w408-h321-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Cafe et restaurant de grillades"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-19:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "29 422 577",
+        "address": "Moka Cafe Restaurant, 90 Av. Mohamed 5, Tunis 1002",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Moka+Caf%C3%A9+Restaurant/data=!4m7!3m6!1s0x12fd3511193ae975:0xcc9e2f91562c0a17!8m2!3d36.8208842!4d10.1799636!16s%2Fg%2F11gsmx9w1s!19sChIJdek6GRE1_RIRFwosVpEvnsw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJiYq1Ulsz_RIR-R1c3NNake4",
+        "name": "Le Chat Noir, Espresso bar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 28,
+        "website": null,
+        "owner": {
+            "id": "107428938211296904740",
+            "name": "Le Chat Noir, Espresso bar (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/107428938211296904740"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNUT8RqAiRJvA6qp7iaKkGUmX02vJ_siffAPnFR=w408-h306-k-no",
+        "main_category": "Cafe specialise dans les boissons expresso",
+        "categories": [
+            "Cafe specialise dans les boissons expresso",
+            "Boutique de desserts"
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-21:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "55 621 770",
+        "address": "Le Chat Noir, Espresso bar, 8 Ter, Av. Salah Ben Youssef, Tunis 1013",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Le+Chat+Noir,+Espresso+bar/data=!4m7!3m6!1s0x12fd335b52b58a89:0xee915ad3dc5c1df9!8m2!3d36.8461824!4d10.1591044!16s%2Fg%2F11cn0vh067!19sChIJiYq1Ulsz_RIR-R1c3NNake4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJK5xn_DYz_RIRTqvvdsV8HPI",
+        "name": "Nirvana Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Nirvana Cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOxh25H6kHrsqGmFuxI4MfPQ50rAJt9JSp9HhhY=w408-h272-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-02:00",
+        "closed_on": [],
+        "phone": "28 097 538",
+        "address": "V44V+3RW Nirvana Cafe, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Nirvana+Cafe/data=!4m7!3m6!1s0x12fd3336fc679c2b:0xf21c7cc576efab4e!8m2!3d36.8552484!4d10.1445737!16s%2Fg%2F11c1ww_t2s!19sChIJK5xn_DYz_RIRTqvvdsV8HPI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJXQaCYT81_RIRVK1mCWp6WWo",
+        "name": "Cafe Piccolo Paradiso Lac",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": "https://www.facebook.com/profile.php%3Fid%3D100077352772237",
+        "owner": {
+            "id": null,
+            "name": "Cafe Piccolo Paradiso Lac (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPdhQJOJM0H91_AupEWO_rbTsismi3q6LBUb0Z9=w408-h397-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:00-02:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "R6PP+XPJ Cafe Piccolo Paradiso Lac, Lac Malaren, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Piccolo+Paradiso+Lac/data=!4m7!3m6!1s0x12fd353f6182065d:0x6a597a6a0966ad54!8m2!3d36.8374567!4d10.2367546!16s%2Fg%2F11cn0rg8rj!19sChIJXQaCYT81_RIRVK1mCWp6WWo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJEyIsVMY1_RIRE4ojMGZzk8k",
+        "name": "Wakapou coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Wakapou coffee (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPZ0JyoC-rgf9mf9M9v51sP-6PdTVEIDoOIEUYY=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Wakapou coffee, 48 Rue d'Iran, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Wakapou+coffee/data=!4m7!3m6!1s0x12fd35c6542c2213:0xc993736630238a13!8m2!3d36.8131786!4d10.1827136!16s%2Fg%2F11kcpqnnhc!19sChIJEyIsVMY1_RIRE4ojMGZzk8k?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJzaUJ1Og1_RIRWYPz5IxFqFQ",
+        "name": "Wake UP Coffee belvedere (Food & Drink)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Wake UP Coffee belvedere (Food & Drink) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOknwQ_yAhX15vWyGloPgocttYsrWMAqVmx_IWw=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-20:30",
+        "closed_on": [],
+        "phone": "97 686 424",
+        "address": "Wake UP Coffee belvedere (Food & Drink), 12 Rue Jamel Eddine Al afghani Tunis, 1002",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Wake+UP+Coffee+belv%C3%A9d%C3%A8re+%28Food+%26+Drink%29/data=!4m7!3m6!1s0x12fd35e8d409a5cd:0x54a8458ce4f38359!8m2!3d36.8213732!4d10.1814638!16s%2Fg%2F11kclv5fxw!19sChIJzaUJ1Og1_RIRWYPz5IxFqFQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ29l1tWcz_RIR-fiPPmm5Pjw",
+        "name": "Cafe Oasis",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": null,
+        "owner": {
+            "id": "108056827468631332799",
+            "name": "Cafe Oasis (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108056827468631332799"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNqCZViU3t-NFff7Os8t42keDNnmcKoJ8-dfJIl=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Club d'echecs et de jeux de cartes",
+            "Bar a chicha"
+        ],
+        "rating": 4.5,
+        "workday_timing": "05:00-02:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe Oasis, Imp. Azzouz Rebai, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Oasis/data=!4m7!3m6!1s0x12fd3367b575d9db:0x3c3eb9693e8ff8f9!8m2!3d36.8380689!4d10.1600869!16s%2Fg%2F11gd20s7tk!19sChIJ29l1tWcz_RIR-fiPPmm5Pjw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ60ir2JJL_RIRlX-54rLnkPs",
+        "name": "Cafe Beta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": "https://www.facebook.com/Betacoffeeshop/",
+        "owner": {
+            "id": null,
+            "name": "Cafe Beta (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMfO4t307QudXvvfvjXh424go-LMz99n1i3R6kA=w429-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.9,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": "99 540 390",
+        "address": "V727+4R9 Cafe Beta, Rue de l'ecole, Tunis 2045",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+B%C3%AAta/data=!4m7!3m6!1s0x12fd4b92d8ab48eb:0xfb90e7b2e2b97f95!8m2!3d36.850279!4d10.2646052!16s%2Fg%2F11h7jl8cng!19sChIJ60ir2JJL_RIRlX-54rLnkPs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJE2_hSz81_RIR13-3lWfRyD0",
+        "name": "Le Jeanne D'arc",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": "115753734537938417633",
+            "name": "Le Jeanne D'arc (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/115753734537938417633"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPe8CAYynLf9wcactelR-dRTWZyR5_OQqybz_kJ=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:30-23:30",
+        "closed_on": [],
+        "phone": "52 239 149",
+        "address": "Le Jeanne D'arc, Rue Du Senegal, Tunis 1002",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Le+Jeanne+D%27arc/data=!4m7!3m6!1s0x12fd353f4be16f13:0x3dc8d16795b77fd7!8m2!3d36.8182421!4d10.180878!16s%2Fg%2F11ll_8klbx!19sChIJE2_hSz81_RIR13-3lWfRyD0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ76UnrHQ0_RIRthN4O1Mh8Q4",
+        "name": "Cafe Culturel (Boujemai Med Aymen)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Culturel (Boujemai Med Aymen) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO9xj2UqhCKHsHZWqXRCj2GMq9GUHYZBRBXuLOz=w408-h286-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "08:00-21:00",
+        "closed_on": [],
+        "phone": "24 383 984",
+        "address": "Cafe Culturel (Boujemai Med Aymen), 15 Rue Charles de Gaulle, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Culturel+%28Boujemai+Med+Aymen%29/data=!4m7!3m6!1s0x12fd3474ac27a5ef:0xef121533b7813b6!8m2!3d36.7966807!4d10.1779343!16s%2Fg%2F11hb4fn4l6!19sChIJ76UnrHQ0_RIRthN4O1Mh8Q4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJRXECclkz_RIRbivFcrxTEvo",
+        "name": "Cafe Mechmech",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": "105818961569019815242",
+            "name": "Cafe Mechmech (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105818961569019815242"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOmw-x4RBBcXEljX08LuCUdSzdVUUjy-bhKmFoP=w425-h240-k-no",
+        "main_category": "Cafeteria",
+        "categories": [
+            "Cafeteria",
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-20:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe Mechmech, Cite Jamil, Tunis 2036",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Mechmech/data=!4m7!3m6!1s0x12fd335972027145:0xfa1253bc72c52b6e!8m2!3d36.8470134!4d10.16623!16s%2Fg%2F11c1ynj4zk!19sChIJRXECclkz_RIRbivFcrxTEvo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJCUyXysgz_RIR7Xft0zibegw",
+        "name": "Coccinelle Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://www.facebook.com/Coccinellecoffee.tn",
+        "owner": {
+            "id": "111884247119403107512",
+            "name": "Coccinelle Coffee (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111884247119403107512"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOBwmd7IaFTGr6Hpsdms67Cu_VhxsMSri5ab29w=w408-h298-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "22 699 442",
+        "address": "Coccinelle Coffee, Bd Bab Menara, Tunis 1089",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Coccinelle+Coffee/data=!4m7!3m6!1s0x12fd33c8ca974c09:0xc7a9b38d3ed77ed!8m2!3d36.7947039!4d10.1695685!16s%2Fg%2F11fn4m1z9g!19sChIJCUyXysgz_RIR7Xft0zibegw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJCUkJGG00_RIReVdJqGT83ow",
+        "name": "Cafe do brasil tunisie",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe do brasil tunisie (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOg8TWu1B_sLbFBjW0Iwt1fz4lEdJBXv-1CHvFz=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-18:00",
+        "closed_on": [],
+        "phone": "98 439 935",
+        "address": "Cafe do brasil tunisie, 34-32 Rue 18 Janvier 52, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+do+brasil+tunisie/data=!4m7!3m6!1s0x12fd346d18094909:0x8cdefc64a8495779!8m2!3d36.7968361!4d10.1837715!16s%2Fg%2F11hbszg8wp!19sChIJCUkJGG00_RIReVdJqGT83ow?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJq6Gs2Zkz_RIR0gjW-o0PrVE",
+        "name": "Cafe Souk",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Souk (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTX66SYm_TPV__4t9wvHo0FULUr__CjuJW1p9Y=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "R539+W9M Cafe Souk, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Souk/data=!4m7!3m6!1s0x12fd3399d9aca1ab:0x51ad0f8dfad608d2!8m2!3d36.8048323!4d10.1684076!16s%2Fg%2F11hddnhy_4!19sChIJq6Gs2Zkz_RIR0gjW-o0PrVE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJwS4Zpm80_RIRi7nTBFL4PBI",
+        "name": "PAUSE CAFE",
+        "description": "Chaine de pret-a-porter feminin creee en France proposant des collections allant de la taille 36 au 54.",
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "PAUSE CAFE (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7C4IPBQi5F_BQd1jgQpu-Q&cb_client=search.gws-prod.gps&w=408&h=240&yaw=273.37878&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:30-20:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "R53M+PMP PAUSE CAFE, Rue Ghandi, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/PAUSE+CAFE/data=!4m7!3m6!1s0x12fd346fa6192ec1:0x123cf85204d3b98b!8m2!3d36.8043286!4d10.1842126!16s%2Fg%2F124ynk17j!19sChIJwS4Zpm80_RIRi7nTBFL4PBI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJPbQm7As0_RIRzqYz7PqRbII",
+        "name": "Cafe Mixte",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Mixte (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNe9xHM2GvnT24tLjICvsVuQsSrfDIbhivdZwKT=w427-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "06:00-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Q5RF+VX9 Cafe Mixte, Bab Jedid Ave, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Mixte/data=!4m7!3m6!1s0x12fd340bec26b43d:0x826c91faec33a6ce!8m2!3d36.7921563!4d10.1749805!16s%2Fg%2F11d_84gg53!19sChIJPbQm7As0_RIRzqYz7PqRbII?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJw0w9vTo1_RIRzTDj_9UvKQI",
+        "name": "Al Mandara Cafe Croisement Rue Kuwait Rue Cologne Lafayette Tunis",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Al Mandara Cafe Croisement Rue Kuwait Rue Cologne Lafayette Tunis (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO_bSZF2dteLj5A4jOAJwCUYPuIshj1T1J1Qaz-=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-23:00",
+        "closed_on": [],
+        "phone": "25 992 576",
+        "address": "R56H+MC8 Al Mandara Cafe Croisement Rue Kuwait Rue Cologne Lafayette Tunis, Croisement Rue Kuwait Rue Cologne Lafayette Tunis Cologne, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Al+Mandara+Caf%C3%A9+Croisement+Rue+Kuwait+Rue+Cologne+Lafayette+Tunis/data=!4m7!3m6!1s0x12fd353abd3d4cc3:0x2292fd5ffe330cd!8m2!3d36.8116503!4d10.1785687!16s%2Fg%2F11h1n_nlpd!19sChIJw0w9vTo1_RIRzTDj_9UvKQI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJLQv-CQAv_RIRCrAIfvroktE",
+        "name": "cafe jerbi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "101795515460407372703",
+            "name": "cafe jerbi (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101795515460407372703"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP9jt3Wi7fCnPFD1rwNqmY7QD4aspHRt-0G7bMy=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "23 521 829",
+        "address": "cafe jerbi, Barrage de Ghdir El Goulla, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+jerbi/data=!4m7!3m6!1s0x12fd2f0009fe0b2d:0xd192e8fa7e08b00a!8m2!3d36.7741849!4d10.0537898!16s%2Fg%2F11vr9x8snz!19sChIJLQv-CQAv_RIRCrAIfvroktE?authuser=0&hl=fr&rclk=1"
+    }
+]

@@ -1,0 +1,593 @@
+[
+    {
+        "place_id": "ChIJj6sIGGmXqhMRzELxbkXmJJ0",
+        "name": "Djerba Explore Park",
+        "description": "Parc avec ferme aux crocodiles, musee et reconstitutions d'une maison, d'un moulin et d'un atelier de poterie.",
+        "is_spending_on_ads": false,
+        "reviews": 3127,
+        "website": "http://www.djerbaexplore.com/",
+        "owner": {
+            "id": "103898578435381342533",
+            "name": "Djerba Explore Park (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103898578435381342533"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNckFUfZbAnkAZCneAF6EoOVu8kOs60uDQk-xUa=w408-h267-k-no",
+        "main_category": "Parc a theme",
+        "categories": [
+            "Parc a theme",
+            "Residence hoteliere",
+            "Boutique de cadeaux",
+            "Restaurant"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "75 745 277",
+        "address": "Djerba Explore Park, Midoun, Djerba Midun",
+        "review_keywords": [
+            {
+                "keyword": "crocodiliens",
+                "count": 106
+            },
+            {
+                "keyword": "reptiles",
+                "count": 33
+            },
+            {
+                "keyword": "tortues",
+                "count": 32
+            },
+            {
+                "keyword": "ferme",
+                "count": 16
+            },
+            {
+                "keyword": "iguanes",
+                "count": 10
+            },
+            {
+                "keyword": "musee en plein air",
+                "count": 8
+            },
+            {
+                "keyword": "heritage",
+                "count": 6
+            },
+            {
+                "keyword": "chameaux",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Djerba+Explore+Park/data=!4m10!3m9!1s0x13aa97691808ab8f:0x9d24e6456ef142cc!5m2!4m1!1i2!8m2!3d33.8187713!4d11.0432121!16s%2Fg%2F1v2dh410!19sChIJj6sIGGmXqhMRzELxbkXmJJ0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-QCaR2iXqhMR7qBwoBfwAh8",
+        "name": "Ferme aux Crocodiles",
+        "description": "Grand zoo avec crocodiles, nourrissages publics, autres reptiles divers et musee historique.",
+        "is_spending_on_ads": false,
+        "reviews": 3072,
+        "website": "http://djerbaexplore.com/",
+        "owner": {
+            "id": null,
+            "name": "Ferme aux Crocodiles (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPNnucVXzFuykY5GVVzdGS8nA8Yu0FeN4Dw15Cj=w408-h541-k-no",
+        "main_category": "Zoo",
+        "categories": [
+            "Zoo",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-18:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "75 745 277",
+        "address": "R29V+P5X Ferme aux Crocodiles, Unnamed Road, Djerba Midun",
+        "review_keywords": [
+            {
+                "keyword": "tortues",
+                "count": 60
+            },
+            {
+                "keyword": "reptiles",
+                "count": 48
+            },
+            {
+                "keyword": "iguanes",
+                "count": 17
+            },
+            {
+                "keyword": "village",
+                "count": 15
+            },
+            {
+                "keyword": "crocodile du nil",
+                "count": 12
+            },
+            {
+                "keyword": "spectacle",
+                "count": 12
+            },
+            {
+                "keyword": "ile",
+                "count": 11
+            },
+            {
+                "keyword": "musee en plein air",
+                "count": 6
+            },
+            {
+                "keyword": "musee local",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ferme+aux+Crocodiles/data=!4m7!3m6!1s0x13aa9768479a00f9:0x1f02f017a070a0ee!8m2!3d33.8193539!4d11.0429871!16s%2Fm%2F0n8jg6x!19sChIJ-QCaR2iXqhMR7qBwoBfwAh8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJU6a4Nxq7qhMRxMlTUd_iMWA",
+        "name": "Djerbahood",
+        "description": "Village entier orne d'oeuvres de rue realisees par des artistes originaires de plus de 30 pays.",
+        "is_spending_on_ads": false,
+        "reviews": 2921,
+        "website": "http://djerbahood.com/",
+        "owner": {
+            "id": null,
+            "name": "Djerbahood (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNZESc51wM25kBDLPIgBPHwZS-d_VvzkpsFb_Dk=w408-h306-k-no",
+        "main_category": "Musee en plein air",
+        "categories": [
+            "Musee en plein air",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "RVC3+GP4 Djerbahood, Hara Sghira Er Riadh",
+        "review_keywords": [
+            {
+                "keyword": "village",
+                "count": 137
+            },
+            {
+                "keyword": "street art",
+                "count": 130
+            },
+            {
+                "keyword": "artistes",
+                "count": 114
+            },
+            {
+                "keyword": "ruelles",
+                "count": 71
+            },
+            {
+                "keyword": "fresques",
+                "count": 32
+            },
+            {
+                "keyword": "ile",
+                "count": 28
+            },
+            {
+                "keyword": "quartier",
+                "count": 15
+            },
+            {
+                "keyword": "ballade",
+                "count": 15
+            },
+            {
+                "keyword": "bougainvillea",
+                "count": 11
+            },
+            {
+                "keyword": "synagogue",
+                "count": 9
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Djerbahood/data=!4m7!3m6!1s0x13aabb1a37b8a653:0x6031e2df5153c9c4!8m2!3d33.82127!4d10.8543415!16s%2Fg%2F11b6rkdl_f!19sChIJU6a4Nxq7qhMRxMlTUd_iMWA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6xCYZxa5qhMRpXwJba8Cw5A",
+        "name": "Musee de Guellala",
+        "description": "Inspire d'une maison tunisienne, ce musee explore l'artisanat et le folklore local avec des statues de cire.",
+        "is_spending_on_ads": false,
+        "reviews": 2117,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee de Guellala (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOn0eaILMJo9HWebtDiDjE8aG_ZJ-yHDj_AH50Q=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [],
+        "phone": "75 761 114",
+        "address": "PVM8+26Q Musee de Guellala, Guellala 4155",
+        "review_keywords": [
+            {
+                "keyword": "traditions",
+                "count": 97
+            },
+            {
+                "keyword": "ile",
+                "count": 40
+            },
+            {
+                "keyword": "coutumes",
+                "count": 34
+            },
+            {
+                "keyword": "mariage",
+                "count": 31
+            },
+            {
+                "keyword": "patrimoine",
+                "count": 20
+            },
+            {
+                "keyword": "mise en scene",
+                "count": 12
+            },
+            {
+                "keyword": "folklore",
+                "count": 11
+            },
+            {
+                "keyword": "mannequins",
+                "count": 11
+            },
+            {
+                "keyword": "vie quotidienne",
+                "count": 9
+            },
+            {
+                "keyword": "calligraphie",
+                "count": 8
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+de+Guellala/data=!4m7!3m6!1s0x13aab916679810eb:0x90c302af6d097ca5!8m2!3d33.7325783!4d10.8656196!16s%2Fg%2F11hbgb2596!19sChIJ6xCYZxa5qhMRpXwJba8Cw5A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJL01n3PGkqhMRwiUZ9W3cRVc",
+        "name": "Fort Ghazi Mustapha",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 486,
+        "website": null,
+        "owner": {
+            "id": "107523545098704283226",
+            "name": "Fort Ghazi Mustapha (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/107523545098704283226"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP3ZgNaKvz0frgUs54Kyyz-As4hbbWuhV0B51Uw=w408-h544-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Lieu historique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "09:30-16:30",
+        "closed_on": [
+            "vendredi"
+        ],
+        "phone": "75 653 786",
+        "address": "Fort Ghazi Mustapha, Houmt Souk",
+        "review_keywords": [
+            {
+                "keyword": "forteresse",
+                "count": 16
+            },
+            {
+                "keyword": "fortification",
+                "count": 13
+            },
+            {
+                "keyword": "ile",
+                "count": 10
+            },
+            {
+                "keyword": "prix",
+                "count": 7
+            },
+            {
+                "keyword": "espace",
+                "count": 6
+            },
+            {
+                "keyword": "especes",
+                "count": 4
+            },
+            {
+                "keyword": "port",
+                "count": 4
+            },
+            {
+                "keyword": "archeologique",
+                "count": 4
+            },
+            {
+                "keyword": "1560",
+                "count": 3
+            },
+            {
+                "keyword": "main courante",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Fort+Ghazi+Mustapha/data=!4m7!3m6!1s0x13aaa4f1dc674d2f:0x5745dc6df51925c2!8m2!3d33.883964!4d10.8606904!16s%2Fg%2F1vb9g70w!19sChIJL01n3PGkqhMRwiUZ9W3cRVc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4fRNA2mXqhMR5D6yj9oBrcg",
+        "name": "Musee Lalla Hadria",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 203,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee Lalla Hadria (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMCa_tbRLfogovi7NkUVr8Uu4NtWcnNxrnFNcDS=w408-h274-k-no",
+        "main_category": "Musee d'histoire locale",
+        "categories": [
+            "Musee d'histoire locale",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": null,
+        "address": "R29W+W22 Musee Lalla Hadria, Djerba Midun",
+        "review_keywords": [
+            {
+                "keyword": "musulmans",
+                "count": 4
+            },
+            {
+                "keyword": "culture",
+                "count": 4
+            },
+            {
+                "keyword": "bijoux",
+                "count": 3
+            },
+            {
+                "keyword": "vetements",
+                "count": 3
+            },
+            {
+                "keyword": "l'art",
+                "count": 3
+            },
+            {
+                "keyword": "parc",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Lalla+Hadria/data=!4m7!3m6!1s0x13aa9769034df4e1:0xc8ad01da8fb23ee4!8m2!3d33.8197621!4d11.045031!16s%2Fg%2F11f3n36w40!19sChIJ4fRNA2mXqhMR5D6yj9oBrcg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJi5wTtEC9qhMRUMnx71F7FGY",
+        "name": "Mosquee Fadhloun Djerba Midoun",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 124,
+        "website": null,
+        "owner": {
+            "id": "107354396603696997472",
+            "name": "Mosquee Fadhloun Djerba Midoun (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/107354396603696997472"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPRm_6HB-QwVbQwzR_yw1FVlWe9tiM-0-dxckhU=w427-h240-k-no",
+        "main_category": "Mosquee",
+        "categories": [
+            "Mosquee",
+            "Lieu historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "08:00-12:00",
+        "closed_on": [
+            "vendredi"
+        ],
+        "phone": null,
+        "address": "Mosquee Fadhloun Djerba Midoun, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mosquee+Fadhloun+Djerba+Midoun/data=!4m7!3m6!1s0x13aabd40b4139c8b:0x66147b51eff1c950!8m2!3d33.824789!4d10.9593005!16s%2Fg%2F1236ymc6!19sChIJi5wTtEC9qhMRUMnx71F7FGY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJYZM5Ku-kqhMRlqFf9XX6uyc",
+        "name": "Mosquee des Turcs",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 120,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mosquee des Turcs (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOkgEJ7EOrNiJQjt13Ms8fIEMKEyKLVzXPBiX4J=w408-h272-k-no",
+        "main_category": "Mosquee",
+        "categories": [
+            "Mosquee",
+            "Attraction touristique"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Mosquee des Turcs, 32 Rue 2 Mars 1934, Houmt Souk",
+        "review_keywords": [
+            {
+                "keyword": "histoire",
+                "count": 5
+            },
+            {
+                "keyword": "architecture",
+                "count": 4
+            },
+            {
+                "keyword": "eglise",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mosqu%C3%A9e+des+Turcs/data=!4m7!3m6!1s0x13aaa4ef2a399361:0x27bbfa75f55fa196!8m2!3d33.8781407!4d10.8591697!16s%2Fg%2F121v2cl4!19sChIJYZM5Ku-kqhMRlqFf9XX6uyc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1X3vIue_qhMRS8kQwWaH9iU",
+        "name": "Fort de Borj El Kastil",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 52,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Fort de Borj El Kastil (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOjaFNzCpKCNLySpk6Zco_twIoXHRkVoIJu4EDp=w408-h306-k-no",
+        "main_category": "Forteresse",
+        "categories": [
+            "Forteresse",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "MXMF+CGC Fort de Borj El Kastil, Ghardaia",
+        "review_keywords": [
+            {
+                "keyword": "quad",
+                "count": 6
+            },
+            {
+                "keyword": "mer",
+                "count": 6
+            },
+            {
+                "keyword": "ruines",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Fort+de+Borj+El+Kastil/data=!4m7!3m6!1s0x13aabfe722ef7dd5:0x25f68766c110c94b!8m2!3d33.683551!4d10.9737673!16s%2Fg%2F11g7z0fx5d!19sChIJ1X3vIue_qhMRS8kQwWaH9iU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJixcbVW-XqhMRVh4ZJZ0v7Zc",
+        "name": "Phare De DjerbanZwr jrb@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 43,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Phare De DjerbanZwr jrb@ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNafN77ArdXJiFJmOaM9L5Q_7XU8m1dpXj8wSd5=w408-h544-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique"
+        ],
+        "rating": 4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "R2FV+542 Phare De DjerbanZwr jrb@, Djerba Midun",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Phare+De+Djerba%D9%86%D8%A7%D8%B8%D9%88%D8%B1+%D8%AC%D8%B1%D8%A8%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x13aa976f551b178b:0x97ed2f9d25191e56!8m2!3d33.8228818!4d11.0427665!16s%2Fg%2F11c11_1svw!19sChIJixcbVW-XqhMRVh4ZJZ0v7Zc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJobwWZvCkqhMR6wXTIYYhqC8",
+        "name": "Tour des cranes",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": "https://djerba--hotel.blogspot.com/",
+        "owner": {
+            "id": null,
+            "name": "Tour des cranes (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNItGc69MIY-v5z_tzus8eHPH93Z0s1nQg9zMXX=w408-h306-k-no",
+        "main_category": "Monument",
+        "categories": [
+            "Monument",
+            "Lieu historique",
+            "Site historique"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VVM5+X2C Tour des cranes, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Tour+des+cr%C3%A2nes/data=!4m7!3m6!1s0x13aaa4f06616bca1:0x2fa8218621d305eb!8m2!3d33.8849377!4d10.8575259!16s%2Fg%2F11dxm3t7zs!19sChIJobwWZvCkqhMR6wXTIYYhqC8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJEXbNkN27qhMRAdvZONchgNs",
+        "name": "Gr mjmj",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gr mjmj (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMi_bS5vZhGbOWD7a13mGoTTMkR94kUYJYYUni1=w408-h725-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "RR68+QM4 Gr mjmj, Houmt Souk",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%BA%D8%A7%D8%B1+%D9%85%D8%AC%D9%85%D8%A7%D8%AC%E2%80%AD/data=!4m7!3m6!1s0x13aabbdd90cd7611:0xdb8021d738d9db01!8m2!3d33.8118809!4d10.8166925!16s%2Fg%2F11n5nf_p_8!19sChIJEXbNkN27qhMRAdvZONchgNs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqawWv6a_qhMRb2XDRMYieE4",
+        "name": "Necropole punique",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Necropole punique (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM0CEs9uDZ4CYYVz59mqjmVjMMBZgYErFWBdn_l=w408-h306-k-no",
+        "main_category": "Monument culturel",
+        "categories": [
+            "Monument culturel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "MVPX+MW7 Necropole punique, Djerba Ajim",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/N%C3%A9cropole+punique/data=!4m7!3m6!1s0x13aabfa6bf16aca9:0x4e7822c644c3656f!8m2!3d33.6866608!4d10.8998041!16s%2Fg%2F11rwq4_f7n!19sChIJqawWv6a_qhMRb2XDRMYieE4?authuser=0&hl=fr&rclk=1"
+    }
+]

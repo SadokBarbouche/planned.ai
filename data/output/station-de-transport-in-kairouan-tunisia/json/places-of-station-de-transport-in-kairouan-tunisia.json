@@ -1,0 +1,177 @@
+[
+    {
+        "place_id": "ChIJXxUwrlvF_RIRXnfetvy40p0",
+        "name": "Station louage",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 28,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station louage (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPoCtRQInJ7W76PNcRy3akq5FnNNIOl7E4L-xk=w426-h240-k-no",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 3.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Station louage, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+louage/data=!4m7!3m6!1s0x12fdc55bae30155f:0x9dd2b8fcb6de775e!8m2!3d35.679328!4d10.0885133!16s%2Fg%2F1tjh1ghh!19sChIJXxUwrlvF_RIRXnfetvy40p0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJf0qb_lvF_RIR3jHQfoBuCj0",
+        "name": "Gare routiere (Autobus)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare routiere (Autobus) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMtjC7BJaOd8yrNv6j2gtQcMX8ta88eq6nmfq7k=w426-h240-k-no",
+        "main_category": "Gare routiere",
+        "categories": [
+            "Gare routiere"
+        ],
+        "rating": 3.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare routiere (Autobus), Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+routi%C3%A8re+%28Autobus%29/data=!4m7!3m6!1s0x12fdc55bfe9b4a7f:0x3d0a6e807ed031de!8m2!3d35.6816101!4d10.0865018!16s%2Fg%2F1tdty91l!19sChIJf0qb_lvF_RIR3jHQfoBuCj0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7VERv0zF_RIRrq2nHzH4Kfw",
+        "name": "mHT@ lnql lryfy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mHT@ lnql lryfy (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN8Oh8t82V1duVNWVGtG9YST2NDa1nAXx2a9uiK=w408-h242-k-no",
+        "main_category": "Arret de transports en commun",
+        "categories": [
+            "Arret de transports en commun"
+        ],
+        "rating": 3.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "mHT@ lnql lryfy, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D8%AD%D8%B7%D8%A9+%D8%A7%D9%84%D9%86%D9%82%D9%84+%D8%A7%D9%84%D8%B1%D9%8A%D9%81%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x12fdc54cbf1151ed:0xfc29f8311fa7adae!8m2!3d35.6658541!4d10.0962344!16s%2Fg%2F11_qycbxg!19sChIJ7VERv0zF_RIRrq2nHzH4Kfw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJhfSRIEPF_RIRywG8x1e20Rk",
+        "name": "Aouani",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Aouani (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=JJ5Brd6dQ65HVnoVGZHKJA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=146.96376&pitch=0&thumbfov=100",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Aouani, Av. de la Republique, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Aouani/data=!4m7!3m6!1s0x12fdc5432091f485:0x19d1b657c7bc01cb!8m2!3d35.6838646!4d10.0931002!16s%2Fg%2F11_rhc6n2!19sChIJhfSRIEPF_RIRywG8x1e20Rk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJj6m3wzjF_RIRlbzFwgeS5m8",
+        "name": "`qb@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "`qb@ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOIGfgwYKj47KYPTOmhREe7wh-bq9qnqMg9ryEQ=w426-h240-k-no",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "`qb@, Boulevard H Chaker, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%B9%D9%82%D8%A8%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x12fdc538c3b7a98f:0x6fe69207c2c5bc95!8m2!3d35.6790715!4d10.1049677!16s%2Fg%2F11_r19pwr!19sChIJj6m3wzjF_RIRlbzFwgeS5m8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJUbXcpK3a_RIRD7PKKDJ7A5E",
+        "name": "lmnSwr@ 1",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "lmnSwr@ 1 (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=YaRXvO_rD3129LNxVB2Jnw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=108.95274&pitch=0&thumbfov=100",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "lmnSwr@ 1, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%A7%D9%84%D9%85%D9%86%D8%B5%D9%88%D8%B1%D8%A9+1%E2%80%AD/data=!4m7!3m6!1s0x12fddaada4dcb551:0x91037b3228cab30f!8m2!3d35.6619425!4d10.0900438!16s%2Fg%2F1hdz974xr!19sChIJUbXcpK3a_RIRD7PKKDJ7A5E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJw6jOCzjF_RIRREEBw5_sMEE",
+        "name": "Ibn Rashiq bus station",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ibn Rashiq bus station (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=wvLjBcPqO04DhtukG2dhdA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=95.77831&pitch=0&thumbfov=100",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "M4G3+C88 Ibn Rashiq bus station, Boulevard H Chaker, Kairouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ibn+Rashiq+bus+station/data=!4m7!3m6!1s0x12fdc5380bcea8c3:0x4130ec9fc3014144!8m2!3d35.6760277!4d10.1033181!16s%2Fg%2F1hdz18bpy!19sChIJw6jOCzjF_RIRREEBw5_sMEE?authuser=0&hl=fr&rclk=1"
+    }
+]

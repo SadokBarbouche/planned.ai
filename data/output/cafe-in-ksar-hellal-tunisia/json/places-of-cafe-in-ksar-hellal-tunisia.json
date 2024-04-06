@@ -1,0 +1,792 @@
+[
+    {
+        "place_id": "ChIJrQ_pqH4RAhMR5oKYjUxY5NY",
+        "name": "Gracia's",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 53,
+        "website": null,
+        "owner": {
+            "id": "109494976187578953263",
+            "name": "Gracia's (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/109494976187578953263"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNiIjcwEZte0KM5KYwcz2gnr8CG5wJFnveeKSoG=w408-h306-k-no",
+        "main_category": "Creperie",
+        "categories": [
+            "Creperie"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "52 504 544",
+        "address": "Gracia's, Av. Hadj Ali Soua, Ksar Hellal 5070",
+        "review_keywords": [
+            {
+                "keyword": "continuation",
+                "count": 3
+            },
+            {
+                "keyword": "gaufres",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Gracia%E2%80%99s/data=!4m7!3m6!1s0x1302117ea8e90fad:0xd6e4584c8d9882e6!8m2!3d35.6545647!4d10.8901803!16s%2Fg%2F11t3bt7qq6!19sChIJrQ_pqH4RAhMR5oKYjUxY5NY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJDe_dzcoWAhMR5KkZ5JgZmG8",
+        "name": "Cafe de l'Excellence",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe de l'Excellence (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPJbO5WOMeuY1gRY5ikvEjHGfia0UjXLK2yxqQi=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "MV5R+67F Cafe de l'Excellence, Av. Habib Bourguiba, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+de+l%27Excellence/data=!4m7!3m6!1s0x130216cacdddef0d:0x6f981998e419a9e4!8m2!3d35.6580503!4d10.8906627!16s%2Fg%2F11b6wghy32!19sChIJDe_dzcoWAhMR5KkZ5JgZmG8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJJ_Xy0FkRAhMRTGnJ4JLD0r8",
+        "name": "Chaneb Food shnb fwd",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "website": null,
+        "owner": {
+            "id": "104422441157294540395",
+            "name": "Chaneb Food shnb fwd (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/104422441157294540395"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNnyfgAhE0llHyXiagZ_Nrs4niKVEldmIEh4m-X=w408-h306-k-no",
+        "main_category": "Restauration rapide",
+        "categories": [
+            "Restauration rapide",
+            "Restaurant tunisien"
+        ],
+        "rating": 4.4,
+        "workday_timing": "11:00-23:00",
+        "closed_on": [],
+        "phone": "58 336 336",
+        "address": "Chaneb Food shnb fwd, En Face De << ZEN >>, 199 Av. Habib bourguiba, Ksar Hellal 5070",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Chaneb+Food+%D8%B4%D9%86%D8%A7%D8%A8+%D9%81%D9%88%D8%AF%E2%80%AD/data=!4m7!3m6!1s0x13021159d0f2f527:0xbfd2c392e0c9694c!8m2!3d35.648245!4d10.8846906!16s%2Fg%2F11qnt8fkxg!19sChIJJ_Xy0FkRAhMRTGnJ4JLD0r8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJB_b00MoWAhMRmSYdKfkXlTA",
+        "name": "Cafe Kuriat",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Kuriat (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNlHovIZ5jbm2heNTGe6lRwxgX6MSLIj-sN9ve3=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "06:30-12:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "MV5R+397 Cafe Kuriat, Av. Habib Bourguiba, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Kuriat/data=!4m7!3m6!1s0x130216cad0f4f607:0x309517f9291d2699!8m2!3d35.657658!4d10.8909166!16s%2Fg%2F11b6xd4zfl!19sChIJB_b00MoWAhMRmSYdKfkXlTA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJPdCh-jARAhMRPyCCe05B9z8",
+        "name": "Cafe Delice",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 18,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Delice (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPVrVdKeZBbyOMr85oaeerQvJLXA88a6hClgOVn=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:00-23:30",
+        "closed_on": [],
+        "phone": null,
+        "address": "MV3J+7FR Cafe Delice, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Delice/data=!4m7!3m6!1s0x13021130faa1d03d:0x3ff7414e7b82203f!8m2!3d35.6532394!4d10.8811298!16s%2Fg%2F11c51dg3ky!19sChIJPdCh-jARAhMRPyCCe05B9z8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJF-rxT9MWAhMR-WX_To026xA",
+        "name": "Volcano",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Volcano (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOkbwj7yiUD4zPuQkNOHCUsN1dBOMvDwONWgpj7=w426-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.4,
+        "workday_timing": "13:00-00:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "98 288 755",
+        "address": "JVVR+Q95 Volcano, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Volcano/data=!4m7!3m6!1s0x130216d34ff1ea17:0x10eb368d4eff65f9!8m2!3d35.6443919!4d10.8909759!16s%2Fg%2F11bz_yczyc!19sChIJF-rxT9MWAhMR-WX_To026xA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJGZuE9dQWAhMR4L-sWrbPEfo",
+        "name": "Down Town",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": "https://www.facebook.com/down-town-caf%25C3%25A9-109068542474837/",
+        "owner": {
+            "id": "113490824901200573082",
+            "name": "Down Town (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113490824901200573082"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNrcTy8lEHi6ydUkCRJrdZb0ZALdGHOZM7sQxCM=w408-h256-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-01:00",
+        "closed_on": [],
+        "phone": "98 514 151",
+        "address": "Down Town, avenue aglabite, Ksar Hellal 5070",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Down+Town/data=!4m7!3m6!1s0x130216d4f5849b19:0xfa11cfb65aacbfe0!8m2!3d35.6419828!4d10.8931616!16s%2Fg%2F1pp2wz255!19sChIJGZuE9dQWAhMR4L-sWrbPEfo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJUzPfWXQXAhMRMFDOp3C1bJ0",
+        "name": "SULTANE EL CHAM",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "SULTANE EL CHAM (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPsnmr42igtJimrnxP6A8E8zVXIXxwdwWHgES3b=w533-h240-k-no",
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-23:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "95 911 911",
+        "address": "JVWR+PGW SULTANE EL CHAM, Av. Habib Bourguiba, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/SULTANE+EL+CHAM/data=!4m7!3m6!1s0x1302177459df3353:0x9d6cb570a7ce5030!8m2!3d35.6467824!4d10.8913317!16s%2Fg%2F11rclk8xjd!19sChIJUzPfWXQXAhMRMFDOp3C1bJ0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJIZ9ngfoRAhMRiGv6ToXi240",
+        "name": "Cafe Hugo Said",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Hugo Said (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMbADRaKjZ-qOaPwShKdvkEptG5k2fQ7apdWd7o=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Restaurant"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "MV3Q+7Q4 Cafe Hugo Said, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Hugo+Sa%C3%AFd/data=!4m7!3m6!1s0x130211fa81679f21:0x8ddbe2854efa6b88!8m2!3d35.6531383!4d10.8894671!16s%2Fg%2F11pz51wx06!19sChIJIZ9ngfoRAhMRiGv6ToXi240?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-5Rm_ggXAhMRVJMys13clIw",
+        "name": "BAM COFFEE SHOP",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "BAM COFFEE SHOP (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7AnBpBOKch3slvMuYV0jig&cb_client=search.gws-prod.gps&w=408&h=240&yaw=51.90749&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "52 334 344",
+        "address": "MV4R+Q82 BAM COFFEE SHOP, Av. Habib Bourguiba, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/BAM+COFFEE+SHOP/data=!4m7!3m6!1s0x13021708fe6694fb:0x8c94dc5db3329354!8m2!3d35.6568918!4d10.8907778!16s%2Fg%2F11r3tgfgkq!19sChIJ-5Rm_ggXAhMRVJMys13clIw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJM1lId1QRAhMRssR2C6t5u3M",
+        "name": "Cafe Dardouri",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Dardouri (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPe911QqBbvlUNVgHdBHSJ5XjjVdKWJEdxPnog=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JVWM+78Q Cafe Dardouri, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Dardouri/data=!4m7!3m6!1s0x1302115477485933:0x73bb79ab0b76c4b2!8m2!3d35.6457178!4d10.8833535!16s%2Fg%2F11kzjrx7_1!19sChIJM1lId1QRAhMRssR2C6t5u3M?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJHQwGK6QRAhMR_UKEBZeGh-A",
+        "name": "Jus becha",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Jus becha (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNs_w7Pi0CI-kc0J8mF7UrKM7JU4MWwvIiobK_5=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "08:30-20:00",
+        "closed_on": [],
+        "phone": "20 500 223",
+        "address": "MV2P+3RJ Jus becha, Av. Des Nations Unis, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Jus+becha/data=!4m7!3m6!1s0x130211a42b060c1d:0xe0878697058442fd!8m2!3d35.6502217!4d10.8870245!16s%2Fg%2F11fkvnmf7x!19sChIJHQwGK6QRAhMR_UKEBZeGh-A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtwA8zzIRAhMRvPyUOb81wWQ",
+        "name": "Dar ZMEN",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar ZMEN (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNG4FVr480eFduwpz68M3b2aWsRZSAQvCwjAvA0=w408-h907-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.8,
+        "workday_timing": "10:00-17:00",
+        "closed_on": [],
+        "phone": "52 216 933",
+        "address": "JVVR+M88 Dar ZMEN, Av. Habib Bourguiba, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+ZMEN/data=!4m7!3m6!1s0x13021132cf3c00b7:0x64c135bf3994fcbc!8m2!3d35.6441675!4d10.8908286!16s%2Fg%2F11g69xk8r3!19sChIJtwA8zzIRAhMRvPyUOb81wWQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJe9NODy4RAhMR_e2dgS7U8hg",
+        "name": "Cafe Gara",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Gara (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=QjtOejONBbcNaqxKZ81QJA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=242.85493&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "JVXM+HMJ Cafe Gara, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Gara/data=!4m7!3m6!1s0x1302112e0f4ed37b:0x18f2d42e819dedfd!8m2!3d35.6489546!4d10.884132!16s%2Fg%2F11c74hn3x5!19sChIJe9NODy4RAhMR_e2dgS7U8hg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJz8wE4M0XAhMRINJCjTJohhY",
+        "name": "French Brew",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "French Brew (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOY47kQc_r95OPpOzKnyL3C5aAvQbFXvBuiBbzs=w408-h510-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "58 073 330",
+        "address": "JVWR+PGW French Brew, Av. Habib Bourguiba, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/French+Brew/data=!4m7!3m6!1s0x130217cde004cccf:0x168668328d42d220!8m2!3d35.6470385!4d10.8910584!16s%2Fg%2F11sf7gl1zp!19sChIJz8wE4M0XAhMRINJCjTJohhY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJi3gh2zcXAhMRzjXCJI1BFB4",
+        "name": "Twins + Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": "102852720001467763124",
+            "name": "Twins + Coffee (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/102852720001467763124"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNNRfZGN9mC_4zM1HhFjiE1gPd57odUQHHe6YoQ=w408-h724-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:30-22:30",
+        "closed_on": [],
+        "phone": "24 145 614",
+        "address": "Twins + Coffee, 5070",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Twins+%2B+Coffee/data=!4m7!3m6!1s0x13021737db21788b:0x1e14418d24c235ce!8m2!3d35.6493707!4d10.8924156!16s%2Fg%2F11jm9ns5l2!19sChIJi3gh2zcXAhMRzjXCJI1BFB4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2wD8RdMWAhMRIICIMt18g14",
+        "name": "Cafe Elyssa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": "106530777176885662917",
+            "name": "Cafe Elyssa (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106530777176885662917"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMPTE7KE0bv-4X6v2JFGC71TKZwPV5A6XrEB30v=w428-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "05:00-00:00",
+        "closed_on": [],
+        "phone": "55 111 108",
+        "address": "Cafe Elyssa, Av. Habib bourguiba, Ksar Hellal 5070",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Elyssa/data=!4m7!3m6!1s0x130216d345fc00db:0x5e837cdd32888020!8m2!3d35.6445502!4d10.8909605!16s%2Fg%2F11c5bhl_7j!19sChIJ2wD8RdMWAhMRIICIMt18g14?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-cMViokRAhMRrF3CLmpU-6I",
+        "name": "Cafe le colisee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "103512735332387786309",
+            "name": "Cafe le colisee (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103512735332387786309"
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=UoN7CtYAfWj8aWhpYeLXjw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=56.656364&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "03:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe le colisee, Av. Habib bourguiba, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+le+colisee/data=!4m7!3m6!1s0x130211898a15c3f9:0xa2fb546a2ec25dac!8m2!3d35.6463726!4d10.8864393!16s%2Fg%2F11q2yyktq9!19sChIJ-cMViokRAhMRrF3CLmpU-6I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqdyAbJIRAhMR4LNf2Jbl4UQ",
+        "name": "Cafetiria Aymen",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafetiria Aymen (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP59ZhA95nQpjxv_TGSKefKR_n4blDWE42JmepG=w533-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "54 901 915",
+        "address": "JVWJ+XG6 Cafetiria Aymen, Unnamed Road, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9tiria+Aymen/data=!4m7!3m6!1s0x130211926c80dca9:0x44e1e596d85fb3e0!8m2!3d35.6474182!4d10.8812811!16s%2Fg%2F11rb5_35lh!19sChIJqdyAbJIRAhMR4LNf2Jbl4UQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJg7c_89EXAhMRJUMbSHnfma8",
+        "name": "Laaroussi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Laaroussi (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "31 527 272",
+        "address": "Laaroussi, 5070 Rue Al Maari, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Laaroussi/data=!4m7!3m6!1s0x130217d1f33fb783:0xaf99df79481b4325!8m2!3d35.64548!4d10.893581!16s%2Fg%2F11rfp2bng0!19sChIJg7c_89EXAhMRJUMbSHnfma8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJk-KIa84RAhMR58gDEiMyREE",
+        "name": "Billionaire cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Billionaire cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO2FIZOyB34Jo8aamjQcOafwvrCBGjZeRl4ivbH=w408-h296-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "MV4C+CG6 Billionaire cafe, Erriadh, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Billionaire+caf%C3%A9/data=!4m7!3m6!1s0x130211ce6b88e293:0x414432231203c8e7!8m2!3d35.6562268!4d10.8721902!16s%2Fg%2F11kjg9mqsf!19sChIJk-KIa84RAhMR58gDEiMyREE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJC8yoagwRAhMR-gNpgET76jE",
+        "name": "Cafe Prestige",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Prestige (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNLUDd5Z9PKKhHwf1o2thS9kUddWXbqFbLWimAC=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "04:30-00:00",
+        "closed_on": [],
+        "phone": "93 795 056",
+        "address": "MV5G+H2V Cafe Prestige, Av. Habib bourguiba, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Prestige/data=!4m7!3m6!1s0x1302110c6aa8cc0b:0x31eafb44806903fa!8m2!3d35.6589847!4d10.8750482!16s%2Fg%2F11qrl2tl73!19sChIJC8yoagwRAhMR-gNpgET76jE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuX6MdhcRAhMReuUpzWIIzag",
+        "name": "ALADIN PASTRY",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "ALADIN PASTRY (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNrH_q0GzH2VD0tObE1STBVaTgmrpEAbs9JJzBP=w426-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-23:00",
+        "closed_on": [],
+        "phone": "53 590 809",
+        "address": "MV27+WVR ALADIN PASTRY, Unnamed Road, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/ALADIN+PASTRY/data=!4m7!3m6!1s0x13021117768c7eb9:0xa8cd0862cd29e57a!8m2!3d35.6523606!4d10.8646298!16s%2Fg%2F11hc_m3wvg!19sChIJuX6MdhcRAhMReuUpzWIIzag?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJt6lRowIRAhMRq6bPi7b2eSQ",
+        "name": "Restaurant cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=0guDXnXzZ41aPLls6dwdTw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=265.10922&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "MV3Q+7Q4 Restaurant cafe, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+cafe/data=!4m7!3m6!1s0x13021102a351a9b7:0x2479f6b68bcfa6ab!8m2!3d35.6531383!4d10.8894594!16s%2Fg%2F11k9dj7twb!19sChIJt6lRowIRAhMRq6bPi7b2eSQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJxSQwA8MRAhMRjmBcfrAdkP8",
+        "name": "cafe.te.ria Boughzala",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe.te.ria Boughzala (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP1QRKwszjczE45KElgj11WBxgR7Ft1aBRHAr-V=w480-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-22:00",
+        "closed_on": [],
+        "phone": "22 394 201",
+        "address": "MV3C+2JW cafe.te.ria Boughzala, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9.te.ria+Boughzala/data=!4m7!3m6!1s0x130211c3033024c5:0xff901db07e5c608e!8m2!3d35.6526165!4d10.8715832!16s%2Fg%2F11h144br6x!19sChIJxSQwA8MRAhMRjmBcfrAdkP8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJFxCX4qEXAhMRn4cFTxMheRU",
+        "name": "mqh~ Hm@ zyzy",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "108238664001167435921",
+            "name": "mqh~ Hm@ zyzy (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108238664001167435921"
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "5070, mqh~ Hm@ zyzy, Ksar Hellal 5070",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D9%82%D9%87%D9%89+%D8%AD%D9%85%D8%A9+%D8%B2%D9%8A%D8%B2%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x130217a1e2971017:0x157921134f05879f!8m2!3d35.6428601!4d10.8905396!16s%2Fg%2F11vwmghry5!19sChIJFxCX4qEXAhMRn4cFTxMheRU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtR5CSzURAhMR6MM5qqZkQG0",
+        "name": "L'instant Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "L'instant Cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPP_4S9YDprZX59YYzyn5Yb_KarxRRhj3_AzGg3=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "MV2P+6V7 L'instant Cafe, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/L%27instant+Caf%C3%A9/data=!4m7!3m6!1s0x130211354b421eb5:0x6d4064a6aa39c3e8!8m2!3d35.6506165!4d10.8871053!16s%2Fg%2F11t9mw14xd!19sChIJtR5CSzURAhMR6MM5qqZkQG0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJt4oRaP8RAhMRj84Epbl0NdU",
+        "name": "Cafe wifi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe wifi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMf_d6sxPJ-6QF8azCBUd-0xrmQNpn_dAZezx0U=w408-h408-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JVVF+RG6 Cafe wifi, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+wifi/data=!4m7!3m6!1s0x130211ff68118ab7:0xd53574b9a504ce8f!8m2!3d35.6445297!4d10.8737504!16s%2Fg%2F11hflfp5ys!19sChIJt4oRaP8RAhMRj84Epbl0NdU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_QLUMaURAhMRbDB1QW9RkFU",
+        "name": "Willy's Food",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Willy's Food (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "53 673 995",
+        "address": "JVRQ+R6W Willy's Food, Rue al-rebat, Ksar Hellal 5070",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Willy%E2%80%99s+Food/data=!4m7!3m6!1s0x130211a531d402fd:0x5590516f4175306c!8m2!3d35.6421108!4d10.8880715!16s%2Fg%2F11rj44r0m5!19sChIJ_QLUMaURAhMRbDB1QW9RkFU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJBbGzomIXAhMRQwVJX8qVEqg",
+        "name": "Cafe Mosaique",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Mosaique (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "MV2W+73 Cafe Mosaique, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Mosa%C3%AFque/data=!4m7!3m6!1s0x13021762a2b3b105:0xa81295ca5f490543!8m2!3d35.6507072!4d10.8951491!16s%2Fg%2F11sv2d9m3c!19sChIJBbGzomIXAhMRQwVJX8qVEqg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJFzY0kPoRAhMRVanJsSg6Gcg",
+        "name": "cafe dardouri",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "cafe dardouri (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JVPC+JVR cafe dardouri, Ksar Hellal 5070",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/caf%C3%A9+dardouri/data=!4m7!3m6!1s0x130211fa90343617:0xc8193a28b1c9a955!8m2!3d35.6366065!4d10.8721399!16s%2Fg%2F11k2yk1rtg!19sChIJFzY0kPoRAhMRVanJsSg6Gcg?authuser=0&hl=fr&rclk=1"
+    }
+]

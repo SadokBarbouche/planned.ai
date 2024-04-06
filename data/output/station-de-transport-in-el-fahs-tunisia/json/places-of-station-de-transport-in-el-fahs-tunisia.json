@@ -1,0 +1,77 @@
+[
+    {
+        "place_id": "ChIJ1Z0K_lUd_RIRlrDzPJMGu18",
+        "name": "Station de louage El Fahs",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station de louage El Fahs (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "9WG2+7VM Station de louage El Fahs, El Fahs",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+de+louage+El+Fahs/data=!4m7!3m6!1s0x12fd1d55fe0a9dd5:0x5fbb06933cf3b096!8m2!3d36.3757125!4d9.9021615!16s%2Fg%2F11c52mr06w!19sChIJ1Z0K_lUd_RIRlrDzPJMGu18?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2yd9_VUd_RIRcPL0FuGV1FQ",
+        "name": "Gare El Fahs",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "http://www.sntri.com.tn/",
+        "owner": {
+            "id": null,
+            "name": "Gare El Fahs (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP-APIrdU9fReKERAZTDthI2J981FOx_Ra4OmJd=w408-h725-k-no",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 2.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare El Fahs, P3, El Fahs 1140",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+El+Fahs/data=!4m7!3m6!1s0x12fd1d55fd7d27db:0x54d495e116f4f270!8m2!3d36.3758071!4d9.9023532!16s%2Fg%2F1jky13y88!19sChIJ2yd9_VUd_RIRcPL0FuGV1FQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJd-jEMmMd_RIRlLaQAVulA6o",
+        "name": "Citernes d eaux",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Citernes d eaux (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Station-service",
+        "categories": [
+            "Station-service"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "9WH3+2CR Citernes d eaux, El Fahs",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Citernes+d+eaux/data=!4m7!3m6!1s0x12fd1d6332c4e877:0xaa03a55b0190b694!8m2!3d36.3776234!4d9.9035163!16s%2Fg%2F11nxnvj165!19sChIJd-jEMmMd_RIRlLaQAVulA6o?authuser=0&hl=fr&rclk=1"
+    }
+]

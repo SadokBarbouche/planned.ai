@@ -1,0 +1,167 @@
+[
+    {
+        "place_id": "ChIJNem4xQzq4hIRVhqLIHNfle4",
+        "name": "Ain Mestir",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 489,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMUe7nrgtEI4uOFRZHI-pp7NKFVGTbnnBced4IF=w408-h306-k-no",
+        "main_category": "Plage",
+        "categories": [
+            "Plage"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain Mestir, Sounine",
+        "review_keywords": [
+            {
+                "keyword": "vue",
+                "count": 14
+            },
+            {
+                "keyword": "baignade",
+                "count": 7
+            },
+            {
+                "keyword": "escaliers",
+                "count": 6
+            },
+            {
+                "keyword": "montagne",
+                "count": 6
+            },
+            {
+                "keyword": "argile",
+                "count": 5
+            },
+            {
+                "keyword": "vent",
+                "count": 5
+            },
+            {
+                "keyword": "jours feries",
+                "count": 4
+            },
+            {
+                "keyword": "weekends",
+                "count": 4
+            },
+            {
+                "keyword": "parasols",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ain+Mestir/data=!4m7!3m6!1s0x12e2ea0cc5b8e935:0xee955f73208b1a56!8m2!3d37.2059231!4d10.1919222!16s%2Fg%2F1hm3mpfyw!19sChIJNem4xQzq4hIRVhqLIHNfle4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuc4uRZiLARMRwYaT7Mk-3_Q",
+        "name": "El Alia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "El Alia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOWqbNJ7CHVuYQvpc4WpoS3r_vD-z9F0bDe_X26=w408-h271-k-no",
+        "main_category": "Port de plaisance",
+        "categories": [
+            "Port de plaisance"
+        ],
+        "rating": 4.6,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "82RP+P3C El Alia, Ksour Essef",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/El+Alia/data=!4m7!3m6!1s0x13018b98452eceb9:0xf4df3ec9ec9386c1!8m2!3d35.341815!4d11.035146!16s%2Fg%2F11f01qh5mt!19sChIJuc4uRZiLARMRwYaT7Mk-3_Q?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJIdfJX2bB4hIRvWEMj4Tj19I",
+        "name": "Lagune de Ghar El Melh",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPifC6j3hvImrBSrxDIPMfLVXr6bDHagQWruIN1=w427-h240-k-no",
+        "main_category": "Lac",
+        "categories": [
+            "Lac"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Lagune de Ghar El Melh",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Lagune+de+Ghar+El+Melh/data=!4m7!3m6!1s0x12e2c1665fc9d721:0xd2d7e3848f0c61bd!8m2!3d37.1467539!4d10.1815316!16s%2Fg%2F121v86dh!19sChIJIdfJX2bB4hIRvWEMj4Tj19I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7xfOG1Xc4hIRMaYsd0fMVYM",
+        "name": "Agence de voyages EL Alia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Agence de voyages EL Alia (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOD7NphFIHPqRlTj4jwbpxVbszTqMPs8IonI074=w408-h408-k-no",
+        "main_category": "Agence de voyages",
+        "categories": [
+            "Agence de voyages",
+            "Conseiller visa"
+        ],
+        "rating": 3.6,
+        "workday_timing": "08:00-12:30, 14:00-18:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "72 453 493",
+        "address": "Agence de voyages EL Alia, Avenue Farhat Hached, El Alia 7016",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Agence+de+voyages+EL+Alia/data=!4m7!3m6!1s0x12e2dc551bce17ef:0x8355cc47772ca631!8m2!3d37.1682562!4d10.0334838!16s%2Fg%2F1hc141psz!19sChIJ7xfOG1Xc4hIRMaYsd0fMVYM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJU4kfqLrB4hIRUqc-TheAvdE",
+        "name": "mT`m Gr lmlH",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mT`m Gr lmlH (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant de fruits de mer",
+        "categories": [
+            "Restaurant de fruits de mer"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "mT`m Gr lmlH, Rte Sidi Ali El Mekki",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D8%B7%D8%B9%D9%85+%D8%BA%D8%A7%D8%B1+%D8%A7%D9%84%D9%85%D9%84%D8%AD%E2%80%AD/data=!4m7!3m6!1s0x12e2c1baa81f8953:0xd1bd80174e3ea752!8m2!3d37.1690178!4d10.21756!16s%2Fg%2F11llwx119b!19sChIJU4kfqLrB4hIRUqc-TheAvdE?authuser=0&hl=fr&rclk=1"
+    }
+]

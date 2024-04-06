@@ -1,0 +1,421 @@
+[
+    {
+        "place_id": "ChIJNZpBhXN1AhMRwBmaKfis3fU",
+        "name": "Ribat de Sousse",
+        "description": "Construit au VIIIe siecle et agrandi en 821, ce petit fort comprend une tour offrant une vue panoramique.",
+        "is_spending_on_ads": false,
+        "reviews": 3223,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ribat de Sousse (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOWsD599a4gXTuYabBwmaeZRQEOSgsmG1W70nMR=w408-h306-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Lieu historique",
+            "Musee d'histoire locale",
+            "Monument",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "08:00-17:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "RJHQ+3G7 Ribat de Sousse, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "marche",
+                "count": 84
+            },
+            {
+                "keyword": "mosquee",
+                "count": 34
+            },
+            {
+                "keyword": "bazars",
+                "count": 23
+            },
+            {
+                "keyword": "souvenirs",
+                "count": 23
+            },
+            {
+                "keyword": "marchander",
+                "count": 15
+            },
+            {
+                "keyword": "port",
+                "count": 15
+            },
+            {
+                "keyword": "vendeur",
+                "count": 14
+            },
+            {
+                "keyword": "viiie siecle",
+                "count": 11
+            },
+            {
+                "keyword": "kasbah",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ribat+de+Sousse/data=!4m7!3m6!1s0x1302757385419a35:0xf5ddacf8299a19c0!8m2!3d35.827671!4d10.6387949!16s%2Fg%2F121rcp8l!19sChIJNZpBhXN1AhMRwBmaKfis3fU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJHzgEBTBtAhMRqyURTru9pFM",
+        "name": "Ribat de Monastir",
+        "description": "Immense fort cotier du VIIIe siecle bien conserve et abritant aujourd'hui le musee d'Art islamique.",
+        "is_spending_on_ads": false,
+        "reviews": 2204,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ribat de Monastir (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOZF3SFW5N_4PyjWhsF7iV8a55W4OH1rzx0bePe=w408-h306-k-no",
+        "main_category": "Lieu historique",
+        "categories": [
+            "Lieu historique",
+            "Site historique",
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "08:30-17:30",
+        "closed_on": [],
+        "phone": "42 223 476",
+        "address": "QRGM+F6M Ribat de Monastir, Rte de la Falaise, Monastir",
+        "review_keywords": [
+            {
+                "keyword": "tour",
+                "count": 84
+            },
+            {
+                "keyword": "fortification",
+                "count": 59
+            },
+            {
+                "keyword": "especes",
+                "count": 54
+            },
+            {
+                "keyword": "mer",
+                "count": 42
+            },
+            {
+                "keyword": "dinar",
+                "count": 39
+            },
+            {
+                "keyword": "mosquee",
+                "count": 18
+            },
+            {
+                "keyword": "musulmans",
+                "count": 16
+            },
+            {
+                "keyword": "habib bourguiba",
+                "count": 8
+            },
+            {
+                "keyword": "mausolee",
+                "count": 7
+            },
+            {
+                "keyword": "viiie siecle",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ribat+de+Monastir/data=!4m7!3m6!1s0x13026d300504381f:0x53a4bdbb4e1125ab!8m2!3d35.7762108!4d10.8330383!16s%2Fg%2F121djqp8!19sChIJHzgEBTBtAhMRqyURTru9pFM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJGV2l9TNtAhMR1_ZRALvMa64",
+        "name": "Mausolee Habib Bourguiba",
+        "description": "Mausolee opulent avec minarets et dome dore, ou repose le president Habib Bourguiba.",
+        "is_spending_on_ads": false,
+        "reviews": 1132,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mausolee Habib Bourguiba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPSBGgo1_-ja_QNacG6VcaxjyJbS8aQ_nhdY1pv=w408-h306-k-no",
+        "main_category": "Tombeau",
+        "categories": [
+            "Tombeau",
+            "Lieu historique",
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-16:30",
+        "closed_on": [],
+        "phone": null,
+        "address": "Mausolee Habib Bourguiba, 11 shr` lshhd, jml",
+        "review_keywords": [
+            {
+                "keyword": "president",
+                "count": 44
+            },
+            {
+                "keyword": "architecture",
+                "count": 28
+            },
+            {
+                "keyword": "histoire",
+                "count": 17
+            },
+            {
+                "keyword": "pays",
+                "count": 15
+            },
+            {
+                "keyword": "monument",
+                "count": 13
+            },
+            {
+                "keyword": "espace",
+                "count": 11
+            },
+            {
+                "keyword": "marbre",
+                "count": 10
+            },
+            {
+                "keyword": "ribat",
+                "count": 7
+            },
+            {
+                "keyword": "independance",
+                "count": 5
+            },
+            {
+                "keyword": "objets",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mausol%C3%A9e+Habib+Bourguiba/data=!4m7!3m6!1s0x13026d33f5a55d19:0xae6bccbb0051f6d7!8m2!3d35.7778246!4d10.8283824!16s%2Fg%2F1226g5hq!19sChIJGV2l9TNtAhMR1_ZRALvMa64?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8f7LIzNtAhMRPuqcw7Y6Y1A",
+        "name": "Mosquee de Bourguiba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 398,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mosquee de Bourguiba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOQWzEWsjnryhNRDxrQGb9BNX0-6U2c6D1ELNWR=w426-h240-k-no",
+        "main_category": "Mosquee",
+        "categories": [
+            "Mosquee",
+            "Attraction touristique"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QRFJ+R86 Mosquee de Bourguiba, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mosqu%C3%A9e+de+Bourguiba/data=!4m7!3m6!1s0x13026d3323cbfef1:0x50633ab6c39cea3e!8m2!3d35.7745369!4d10.8307731!16s%2Fg%2F122l893d!19sChIJ8f7LIzNtAhMRPuqcw7Y6Y1A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJofj8XrNyAhMReB_1tnqU5ZY",
+        "name": "Palais Presidentiel de Bourguiba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 277,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Palais Presidentiel de Bourguiba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNrPAltitzWU6QErQHZpOzlfZ7Q-OMEJngBozdq=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.2,
+        "workday_timing": "09:00-16:45",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": null,
+        "address": "QQHM+MMC Palais Presidentiel de Bourguiba, Monastir",
+        "review_keywords": [
+            {
+                "keyword": "l'histoire",
+                "count": 13
+            },
+            {
+                "keyword": "architecture",
+                "count": 10
+            },
+            {
+                "keyword": "marbre",
+                "count": 5
+            },
+            {
+                "keyword": "renover",
+                "count": 5
+            },
+            {
+                "keyword": "jardins",
+                "count": 4
+            },
+            {
+                "keyword": "vie",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Palais+Pr%C3%A9sidentiel+de+Bourguiba/data=!4m7!3m6!1s0x130272b35efcf8a1:0x96e5947ab6f51f78!8m2!3d35.7791806!4d10.7841401!16s%2Fg%2F1269mlfj8!19sChIJofj8XrNyAhMReB_1tnqU5ZY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJK2O9QUwNAhMRoi6uRLlScss",
+        "name": "Statue du president de la Republique Tunisienne Habib Bourguiba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Statue du president de la Republique Tunisienne Habib Bourguiba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMbL6WqE6NXAYMUXQRVyNGoXWtDZq8DJBYNfjjc=w408-h544-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QQFM+FR9 Statue du president de la Republique Tunisienne Habib Bourguiba, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Statue+du+pr%C3%A9sident+de+la+R%C3%A9publique+Tunisienne+Habib+Bourguiba/data=!4m7!3m6!1s0x13020d4c41bd632b:0xcb7252b944ae2ea2!8m2!3d35.7736588!4d10.7846166!16s%2Fg%2F11cp5vnrtl!19sChIJK2O9QUwNAhMRoi6uRLlScss?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJNaPOJ69zAhMRj9-w0gLldpU",
+        "name": "Musee Habib Bourguiba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": "https://www.facebook.com/Mus%25C3%25A9e-Leader-Habib-Bourguiba-1023833361037895/",
+        "owner": {
+            "id": "100401933048320553855",
+            "name": "Musee Habib Bourguiba (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100401933048320553855"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMbFRmX-nOMD10WjWvAVJBNh2D4wjiZXUfDkGwd=w426-h240-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 4.4,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "73 529 555",
+        "address": "Musee Habib Bourguiba, Monastir",
+        "review_keywords": [
+            {
+                "keyword": "president",
+                "count": 3
+            },
+            {
+                "keyword": "palais",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+Habib+Bourguiba/data=!4m7!3m6!1s0x130273af27cea335:0x9576e502d2b0df8f!8m2!3d35.7785007!4d10.7841242!16s%2Fg%2F11f9wnq9zr!19sChIJNaPOJ69zAhMRj9-w0gLldpU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJWxph9TptAhMRSRB7LyzGJw4",
+        "name": "Port",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Port (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOpTC7IKH9MdKPHGlgFluP5KpudJL3An-TrVw8X=w426-h240-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QRHM+6CG Port, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Port/data=!4m7!3m6!1s0x13026d3af5611a5b:0xe27c62c2f7b1049!8m2!3d35.7780614!4d10.8335627!16s%2Fg%2F11kpdd5mh2!19sChIJWxph9TptAhMRSRB7LyzGJw4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJyYAVXnVtAhMR2Nzq8MpVJfw",
+        "name": "rbT sydy dhwyb",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "rbT sydy dhwyb (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPCWTwTdHFvEc3R7YZ_N5dtVHZk3HlHF9uH7ljM=w408-h242-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QRFJ+WX9 rbT sydy dhwyb, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%B1%D8%A8%D8%A7%D8%B7+%D8%B3%D9%8A%D8%AF%D9%8A+%D8%B0%D9%88%D9%8A%D8%A8%E2%80%AD/data=!4m7!3m6!1s0x13026d755e1580c9:0xfc2555caf0eadcd8!8m2!3d35.7747901!4d10.8324934!16s%2Fg%2F11l5ntl0hh!19sChIJyYAVXnVtAhMR2Nzq8MpVJfw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ52F5doFtAhMRvNOug89xrd0",
+        "name": "Phare de Monastir",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Phare de Monastir (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNYGHhjAuODDhuzqiUKan1FFZqoOJg2y-iQk44e=w408-h272-k-no",
+        "main_category": "Monument culturel",
+        "categories": [
+            "Monument culturel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QRHP+8W Phare de Monastir, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Phare+de+Monastir/data=!4m7!3m6!1s0x13026d81767961e7:0xddad71cf83aed3bc!8m2!3d35.7783467!4d10.8372516!16s%2Fg%2F11jzgtky6v!19sChIJ52F5doFtAhMRvNOug89xrd0?authuser=0&hl=fr&rclk=1"
+    }
+]

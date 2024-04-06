@@ -1,0 +1,27 @@
+[
+    {
+        "place_id": "ChIJL6wpmSgjAhMRlHRnQhU7wss",
+        "name": "Salines de la Bekalta",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Salines de la Bekalta (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNsWEIMzFlTSgYecFBDklHLO2kLiC4uefgajR4d=w408-h306-k-no",
+        "main_category": "Ferme aquacole",
+        "categories": [
+            "Ferme aquacole"
+        ],
+        "rating": 3.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "H2CH+PXX Salines de la Bekalta, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Salines+de+la+Bekalta/data=!4m7!3m6!1s0x130223289929ac2f:0xcbc23b1542677494!8m2!3d35.5718506!4d11.0299828!16s%2Fg%2F11f0l47hpp!19sChIJL6wpmSgjAhMRlHRnQhU7wss?authuser=0&hl=fr&rclk=1"
+    }
+]

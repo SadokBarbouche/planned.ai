@@ -1,0 +1,77 @@
+[
+    {
+        "place_id": "ChIJS41YJh8NAhMRBT7nJFjpmnk",
+        "name": "Puzzles Night Club",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Puzzles Night Club (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Bar",
+        "categories": [
+            "Bar"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "26 999 424",
+        "address": "QPC6+H64 Puzzles Night Club, Sahline",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Puzzles+Night+Club/data=!4m7!3m6!1s0x13020d1f26588d4b:0x799ae95824e73e05!8m2!3d35.7714638!4d10.7105427!16s%2Fg%2F11t0s0nxqx!19sChIJS41YJh8NAhMRBT7nJFjpmnk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJi0BdDnkLAhMRpnhlLs67eAo",
+        "name": "The Circle Night Club",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "The Circle Night Club (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOfulY-V5A_tMhE_QmGc5aaSmi9-yWHdFPi5al9=w408-h283-k-no",
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "28 225 349",
+        "address": "QMJW+QMQ The Circle Night Club, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+Circle+Night+Club/data=!4m7!3m6!1s0x13020b790e5d408b:0xa78bbce2e6578a6!8m2!3d35.7819586!4d10.696729!16s%2Fg%2F11gl15qflf!19sChIJi0BdDnkLAhMRpnhlLs67eAo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJCf2kH_w9AhMRT7MbHW49ovE",
+        "name": "Societe Rahma Text",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Societe Rahma Text (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Discotheque",
+        "categories": [
+            "Discotheque"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "54 834 604",
+        "address": "JX8X+XQ9 Societe Rahma Text, Unnamed Road, Bekalta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Soci%C3%A9t%C3%A9+Rahma+Text/data=!4m7!3m6!1s0x13023dfc1fa4fd09:0xf1a23d6e1d1bb34f!8m2!3d35.6174209!4d10.9994858!16s%2Fg%2F11ghnr8691!19sChIJCf2kH_w9AhMRT7MbHW49ovE?authuser=0&hl=fr&rclk=1"
+    }
+]

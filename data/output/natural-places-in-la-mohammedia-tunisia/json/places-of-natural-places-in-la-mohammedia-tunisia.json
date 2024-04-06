@@ -1,0 +1,350 @@
+[
+    {
+        "place_id": "ChIJS1M8rItF_RIRm9xmLFzTM2o",
+        "name": "Parc National Boukornine",
+        "description": "Zone protegee autour du djebel Boukornine, avec sentiers de randonnee, orchidees, chacals et chats sauvages.",
+        "is_spending_on_ads": false,
+        "reviews": 239,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Parc National Boukornine (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOQx6TqcIIEMjUIcOsBmzgBgKi3hz1_q9Uf0fZm=w408-h306-k-no",
+        "main_category": "Parc national",
+        "categories": [
+            "Parc national",
+            "Attraction touristique"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "58 905 502",
+        "address": "M96M+99H Parc National Boukornine, A1, Hammam-Lif",
+        "review_keywords": [
+            {
+                "keyword": "nature",
+                "count": 16
+            },
+            {
+                "keyword": "montagne",
+                "count": 9
+            },
+            {
+                "keyword": "mammiferes",
+                "count": 4
+            },
+            {
+                "keyword": "fevrier",
+                "count": 4
+            },
+            {
+                "keyword": "1987",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Parc+National+Boukornine/data=!4m7!3m6!1s0x12fd458bac3c534b:0x6a33d35c2c66dc9b!8m2!3d36.6609432!4d10.383479!16s%2Fm%2F012w469s!19sChIJS1M8rItF_RIRm9xmLFzTM2o?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJcRoCKis8_RIRGfrNrYXxkWc",
+        "name": "Ain Fouara",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain Fouara",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+Fouara/data=!4m7!3m6!1s0x12fd3c2b2a021a71:0x6791f185adcdfa19!8m2!3d36.5625!4d10.1675!16s%2Fg%2F11byl4ncfb!19sChIJcRoCKis8_RIRGfrNrYXxkWc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJd9yc_yc8_RIRTRezDeD_MwQ",
+        "name": "Ain Tagtag",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO1S-D3xwuUx50j7NS_MMiLKaQXIsu3NtEPdhsT=w426-h240-k-no",
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 3.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain Tagtag",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+Tagtag/data=!4m7!3m6!1s0x12fd3c27ff9cdc77:0x433ffe00db3174d!8m2!3d36.5727778!4d10.1702778!16s%2Fg%2F11byl3y_hj!19sChIJd9yc_yc8_RIRTRezDeD_MwQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJRWa2wHEg_RIRrgKkgulL1Lc",
+        "name": "Jebel el Ahmar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Sommet montagneux",
+        "categories": [
+            "Sommet montagneux"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Jebel el Ahmar",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Jebel+el+Ahmar/data=!4m7!3m6!1s0x12fd2071c0b66645:0xb7d44be982a402ae!8m2!3d36.5694444!4d9.9116667!16s%2Fg%2F1td55vlg!19sChIJRWa2wHEg_RIRrgKkgulL1Lc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJkanAszU5_RIR9Orr5bsHawo",
+        "name": "Ain Deboubia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP-Nq98Z-MFi-CfB9iOmZH7xZ7j_HLjY6BnnInH=w408-h725-k-no",
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain Deboubia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+Deboubia/data=!4m7!3m6!1s0x12fd3935b3c0a991:0xa6b07bbe5ebeaf4!8m2!3d36.6061111!4d10.1952778!16s%2Fg%2F11bc8cr0ct!19sChIJkanAszU5_RIR9Orr5bsHawo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJgRHdVQA__RIRJkc93gNMj7M",
+        "name": "bHyr@",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "bHyr@ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTjnU8xREWIrQ_2lRF_eaPY2gnrZVCQpv9J7Ay=w426-h240-k-no",
+        "main_category": "Circuit de randonnee",
+        "categories": [
+            "Circuit de randonnee"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "H5WG+FF bHyr@, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%A8%D8%AD%D9%8A%D8%B1%D8%A9%E2%80%AD/data=!4m7!3m6!1s0x12fd3f0055dd1181:0xb38f4c03de3d4726!8m2!3d36.5961597!4d10.1761702!16s%2Fg%2F11y3mwgfgb!19sChIJgRHdVQA__RIRJkc93gNMj7M?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJm9t4IpE7_RIRUoGM5U_mIK4",
+        "name": "Palais de la Mohamedia",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "102884484054478365792",
+            "name": "Palais de la Mohamedia (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/102884484054478365792"
+        },
+        "featured_image": null,
+        "main_category": "Chateau",
+        "categories": [
+            "Chateau",
+            "Musee historique"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Palais de la Mohamedia, Mohammedia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Palais+de+la+Mohamedia/data=!4m7!3m6!1s0x12fd3b912278db9b:0xae20e64fe58c8152!8m2!3d36.6775089!4d10.1535338!16s%2Fg%2F1239vd4q!19sChIJm9t4IpE7_RIRUoGM5U_mIK4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJrQHYZ6U-_RIRDs30G_lHSPM",
+        "name": "Ain el Hallalif",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain el Hallalif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+el+Hallalif/data=!4m7!3m6!1s0x12fd3ea567d801ad:0xf34847f91bf4cd0e!8m2!3d36.5925!4d10.18!16s%2Fg%2F11bylc70t4!19sChIJrQHYZ6U-_RIRDs30G_lHSPM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-89G07U-_RIR-AkbMdNZE9o",
+        "name": "Ain el Kahola",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain el Kahola",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+el+Kahola/data=!4m7!3m6!1s0x12fd3eb5d346cffb:0xda1359d3311b09f8!8m2!3d36.5980556!4d10.19!16s%2Fg%2F11bc8d0x1y!19sChIJ-89G07U-_RIR-AkbMdNZE9o?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJT_j4UGc-_RIRvQGSwICW2tU",
+        "name": "Ain el Amari",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain el Amari",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+el+Amari/data=!4m7!3m6!1s0x12fd3e6750f8f84f:0xd5da9680c09201bd!8m2!3d36.5541667!4d10.1922222!16s%2Fg%2F11byl2ylmk!19sChIJT_j4UGc-_RIRvQGSwICW2tU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_XvZI8U-_RIRLzxfT2uWQFI",
+        "name": "Ain en Nahal",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain en Nahal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+en+Nahal/data=!4m7!3m6!1s0x12fd3ec523d97bfd:0x5240966b4f5f3c2f!8m2!3d36.5888889!4d10.2027778!16s%2Fg%2F11bymzr7wl!19sChIJ_XvZI8U-_RIRLzxfT2uWQFI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ682XFjU8_RIRUj8W34L8OKw",
+        "name": "Ain Seguel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain Seguel",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+Seguel/data=!4m7!3m6!1s0x12fd3c351697cdeb:0xac38fc82df163f52!8m2!3d36.5652778!4d10.1497222!16s%2Fg%2F11byl264db!19sChIJ682XFjU8_RIRUj8W34L8OKw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtzdBfZ4-_RIRLuas5qSoSLw",
+        "name": "Kef el Ahmeur",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOv-Zcl0_IAsn5RroaFZRhKLkDhZ5TGsjkMs1Be=w408-h510-k-no",
+        "main_category": "Sommet montagneux",
+        "categories": [
+            "Sommet montagneux"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Kef el Ahmeur",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kef+el+Ahmeur/data=!4m7!3m6!1s0x12fd3e9e7d4137b7:0xbc48a8a4e6ace62e!8m2!3d36.5783333!4d10.1730556!16s%2Fg%2F1vf54r4q!19sChIJtzdBfZ4-_RIRLuas5qSoSLw?authuser=0&hl=fr&rclk=1"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "place_id": "ChIJo7zO_uHvqhMRtmr9ZMLlNIA",
+        "name": "Musee de Zarzis",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee de Zarzis (lmlk)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNsvjyV5neyiDFqPC0d9FHIVNtp9_ESC24Eku4=w408-h306-k-no",
+        "main_category": "mtHf",
+        "categories": [
+            "mtHf"
+        ],
+        "rating": 4,
+        "workday_timing": "9S-4m",
+        "closed_on": [
+            "lthnyn"
+        ],
+        "phone": null,
+        "address": "G427+RH6 Musee de Zarzis, Unnamed Road, Zarzis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+de+Zarzis/@33.50205,11.113897,17z/data=!3m1!4b1!4m6!3m5!1s0x13aaefe1fecebca3:0x8034e5c264fd6ab6!8m2!3d33.50205!4d11.113897!16s%2Fg%2F12307cvg?authuser=0&entry=ttu"
+    }
+]

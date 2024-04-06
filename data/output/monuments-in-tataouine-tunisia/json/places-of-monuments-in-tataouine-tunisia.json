@@ -1,0 +1,126 @@
+[
+    {
+        "place_id": "ChIJAQBAOmyuVBIRThuFz26wztg",
+        "name": "Ksar Ouled Soltane",
+        "description": "Entoure de 2 cours, ce grenier fortifie a plusieurs etages a ete construit par les Berberes au XVe siecle.",
+        "is_spending_on_ads": false,
+        "reviews": 201,
+        "website": "https://galaxytours.com/starwars-tunisia-recce-sites/ksar-ouled-soltane/",
+        "owner": {
+            "id": "105546671787017541961",
+            "name": "Ksar Ouled Soltane (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105546671787017541961"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipObGEJTbSUVBcjfR9cBLo5iAtBk2Szi3ouWO-oi=w408-h328-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.7,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Ksar Ouled Soltane, Tataouine",
+        "review_keywords": [
+            {
+                "keyword": "star wars",
+                "count": 8
+            },
+            {
+                "keyword": "film",
+                "count": 6
+            },
+            {
+                "keyword": "sud",
+                "count": 6
+            },
+            {
+                "keyword": "touristiques",
+                "count": 6
+            },
+            {
+                "keyword": "grenier",
+                "count": 5
+            },
+            {
+                "keyword": "village",
+                "count": 5
+            },
+            {
+                "keyword": "fortifie",
+                "count": 5
+            },
+            {
+                "keyword": "cafe",
+                "count": 5
+            },
+            {
+                "keyword": "etages",
+                "count": 3
+            },
+            {
+                "keyword": "escalade",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ksar+Ouled+Soltane/data=!4m7!3m6!1s0x1254ae6c3a400001:0xd8ceb06ecf851b4e!8m2!3d32.7884099!4d10.5147592!16zL20vMGJyejcx!19sChIJAQBAOmyuVBIRThuFz26wztg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ81AXgnO6VBIR8sC5TgDze_E",
+        "name": "Ksar Beni Barka",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 40,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ksar Beni Barka (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMzyWYjYl5Ph6J6PrLnwFHs72-qCxeM5v2k8zdo=w408-h306-k-no",
+        "main_category": "Chateau",
+        "categories": [
+            "Chateau",
+            "Site historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VCPM+FFR Ksar Beni Barka, Tataouine",
+        "review_keywords": [
+            {
+                "keyword": "vue",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ksar+Beni+Barka/data=!4m7!3m6!1s0x1254ba73821750f3:0xf17bf3004eb9c0f2!8m2!3d32.8862418!4d10.4336397!16s%2Fg%2F1229cm5q!19sChIJ81AXgnO6VBIR8sC5TgDze_E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJWwYXEWi3VBIRN52KC7Oip_I",
+        "name": "La Grande Mosquee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Grande Mosquee (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO-a69VBt9kvSXHlkUqXzEgHov5aPNr4xmpmm-G=w408-h543-k-no",
+        "main_category": "Mosquee",
+        "categories": [
+            "Mosquee"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "WFM2+6PQ La Grande Mosquee, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+Grande+Mosqu%C3%A9e/data=!4m7!3m6!1s0x1254b7681117065b:0xf2a7a2b30b8a9d37!8m2!3d32.9330782!4d10.4518497!16s%2Fg%2F1hdz8g2b9!19sChIJWwYXEWi3VBIRN52KC7Oip_I?authuser=0&hl=fr&rclk=1"
+    }
+]

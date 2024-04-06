@@ -1,0 +1,953 @@
+[
+    {
+        "place_id": "ChIJWTNdXAuK_RIRipBo2X7DUk4",
+        "name": "Mio Mondo Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 967,
+        "website": null,
+        "owner": {
+            "id": "118013217065311971170",
+            "name": "Mio Mondo Cafe (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/118013217065311971170"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMFUaDmucMZW4GKm8_D1Az5sjOnRig5ES8mdYJn=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Marchand de glaces",
+            "Patisserie",
+            "Pizzeria",
+            "Restaurant",
+            "Centre commercial",
+            "Salon de the"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-01:00",
+        "closed_on": [],
+        "phone": "73 243 273",
+        "address": "Mio Mondo Cafe, route touristique khezema 4057, Boulevard du 14 Janvier, Sousse 4057",
+        "review_keywords": [
+            {
+                "keyword": "chicha",
+                "count": 27
+            },
+            {
+                "keyword": "serveurs",
+                "count": 25
+            },
+            {
+                "keyword": "glace",
+                "count": 18
+            },
+            {
+                "keyword": "famille",
+                "count": 18
+            },
+            {
+                "keyword": "fumeurs",
+                "count": 15
+            },
+            {
+                "keyword": "brunch",
+                "count": 13
+            },
+            {
+                "keyword": "pizza",
+                "count": 12
+            },
+            {
+                "keyword": "service",
+                "count": 9
+            },
+            {
+                "keyword": "terrasse",
+                "count": 9
+            },
+            {
+                "keyword": "pourboire",
+                "count": 8
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mio+Mondo+Caf%C3%A9/data=!4m7!3m6!1s0x12fd8a0b5c5d3359:0x4e52c37ed968908a!8m2!3d35.8585963!4d10.6146498!16s%2Fg%2F1tf5yh__!19sChIJWTNdXAuK_RIRipBo2X7DUk4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJaSUuhAyK_RIRR4HPaAtUU-E",
+        "name": "Big Ben Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 468,
+        "website": "https://www.facebook.com/BigBenRestoCafe/",
+        "owner": {
+            "id": null,
+            "name": "Big Ben Cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNjnHclFyigcBpjIVFOQSWCWfUmC-kdLGCBQxlp=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-02:00",
+        "closed_on": [],
+        "phone": "58 573 854",
+        "address": "VJ67+392 Big Ben Cafe, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 17
+            },
+            {
+                "keyword": "enfants",
+                "count": 14
+            },
+            {
+                "keyword": "brunch",
+                "count": 13
+            },
+            {
+                "keyword": "serveur",
+                "count": 12
+            },
+            {
+                "keyword": "famille",
+                "count": 11
+            },
+            {
+                "keyword": "pizza",
+                "count": 6
+            },
+            {
+                "keyword": "hamburger",
+                "count": 6
+            },
+            {
+                "keyword": "plats",
+                "count": 5
+            },
+            {
+                "keyword": "chaises",
+                "count": 5
+            },
+            {
+                "keyword": "omelette",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Big+Ben+Caf%C3%A9/data=!4m7!3m6!1s0x12fd8a0c842e2569:0xe153540b68cf8147!8m2!3d35.8601341!4d10.6133956!16s%2Fg%2F11g9r8syhh!19sChIJaSUuhAyK_RIRR4HPaAtUU-E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJKXZFu3eK_RIRkiSJ8pahbkY",
+        "name": "Twins Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 279,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Twins Cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM3oGR4cdMCNPQ2tTxh4GfT7AsACTPj_d-h_Jh-=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": "73 271 765",
+        "address": "RJX9+62V Twins Cafe, Av. 14 Janvier, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "salon de the",
+                "count": 4
+            },
+            {
+                "keyword": "serveur",
+                "count": 3
+            },
+            {
+                "keyword": "chicha",
+                "count": 3
+            },
+            {
+                "keyword": "brunch",
+                "count": 3
+            },
+            {
+                "keyword": "omelette",
+                "count": 3
+            },
+            {
+                "keyword": "prix",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Twins+Caf%C3%A9/data=!4m7!3m6!1s0x12fd8a77bb457629:0x466ea196f2892492!8m2!3d35.8481217!4d10.6175517!16s%2Fg%2F1hhjkrylf!19sChIJKXZFu3eK_RIRkiSJ8pahbkY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJw5NwYnV1AhMRg8MUvyXgpP8",
+        "name": "Cafe La Sirene",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 241,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe La Sirene (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPD0k2Km17hIBtK9a6pmC17iSYSq0jYaycnVFih=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "07:30-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe La Sirene, 1 Av. Habib Bourguiba, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 18
+            },
+            {
+                "keyword": "plage",
+                "count": 17
+            },
+            {
+                "keyword": "chicha",
+                "count": 8
+            },
+            {
+                "keyword": "terrasse",
+                "count": 7
+            },
+            {
+                "keyword": "serveurs",
+                "count": 4
+            },
+            {
+                "keyword": "vue",
+                "count": 4
+            },
+            {
+                "keyword": "amandes",
+                "count": 3
+            },
+            {
+                "keyword": "crepe",
+                "count": 3
+            },
+            {
+                "keyword": "toilettes",
+                "count": 3
+            },
+            {
+                "keyword": "musique",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+La+Sir%C3%A8ne/data=!4m7!3m6!1s0x13027575627093c3:0xffa4e025bf14c383!8m2!3d35.8335382!4d10.6404191!16s%2Fg%2F1tdj69yz!19sChIJw5NwYnV1AhMRg8MUvyXgpP8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ88rgY3N1AhMRPS26yaq0C04",
+        "name": "Cafe Beb Al Medina",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 175,
+        "website": "https://www.facebook.com/BEBAlMedina/",
+        "owner": {
+            "id": "112424319669691302706",
+            "name": "Cafe Beb Al Medina (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/112424319669691302706"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNOwNdN5wsjuhiHfVc9_IhZoYW-68kKL_obk-YP=w408-h305-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4.1,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": "29 594 200",
+        "address": "Cafe Beb Al Medina, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "vue",
+                "count": 18
+            },
+            {
+                "keyword": "prix",
+                "count": 18
+            },
+            {
+                "keyword": "serveur",
+                "count": 6
+            },
+            {
+                "keyword": "petit dejeuner",
+                "count": 6
+            },
+            {
+                "keyword": "milkshake",
+                "count": 5
+            },
+            {
+                "keyword": "crepe",
+                "count": 4
+            },
+            {
+                "keyword": "burger",
+                "count": 4
+            },
+            {
+                "keyword": "pizza",
+                "count": 4
+            },
+            {
+                "keyword": "etage",
+                "count": 3
+            },
+            {
+                "keyword": "mer",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Beb+Al+Medina/data=!4m7!3m6!1s0x1302757363e0caf3:0x4e0bb4aac9ba2d3d!8m2!3d35.8278877!4d10.6403986!16s%2Fg%2F11cs5m7v4j!19sChIJ88rgY3N1AhMRPS26yaq0C04?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJw0dRdfeL_RIR6vPGygi9y9s",
+        "name": "Jazz Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 153,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Jazz Cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO6kb_GrGvvFVcQjomypD-FS0QN7p_NuMJyxR3L=w408-h906-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "06:00-01:00",
+        "closed_on": [],
+        "phone": "52 405 204",
+        "address": "VJF2+HM9 Jazz Cafe, Hammam Sousse",
+        "review_keywords": [
+            {
+                "keyword": "petit dejeuner",
+                "count": 11
+            },
+            {
+                "keyword": "musique",
+                "count": 5
+            },
+            {
+                "keyword": "prix",
+                "count": 5
+            },
+            {
+                "keyword": "serveur",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Jazz+Caf%C3%A9/data=!4m7!3m6!1s0x12fd8bf7755147c3:0xdbcbbd08cac6f3ea!8m2!3d35.8739838!4d10.6016682!16s%2Fg%2F11tgd66p1g!19sChIJw0dRdfeL_RIR6vPGygi9y9s?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZUegP4iK_RIRZ5PdlZ3-a2Y",
+        "name": "yucca coffee shop",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 81,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "yucca coffee shop (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPeaa6S2Np0NOsKjFOuI0o5LKWFyapocL4P_I9Q=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "50 312 312",
+        "address": "yucca coffee shop, sahloul 4",
+        "review_keywords": [
+            {
+                "keyword": "experience",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/yucca+coffee+shop/data=!4m7!3m6!1s0x12fd8a883fa04765:0x666bfe9d95dd9367!8m2!3d35.8352974!4d10.6067677!16s%2Fg%2F11fy4t6skn!19sChIJZUegP4iK_RIRZ5PdlZ3-a2Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJa6Rvd_WL_RIRunDXWvgjtM8",
+        "name": "Biscotinno's",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 81,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Biscotinno's (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNNKYJAsgAkKtlmIPyDWGPHVrPbV2z0__PHoxSl=w408-h272-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "RJV4+R44 Biscotinno's, Rue Imam Boukhari, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "cheesecake",
+                "count": 10
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 5
+            },
+            {
+                "keyword": "musique",
+                "count": 5
+            },
+            {
+                "keyword": "gout sucre",
+                "count": 4
+            },
+            {
+                "keyword": "ornement",
+                "count": 3
+            },
+            {
+                "keyword": "self service",
+                "count": 3
+            },
+            {
+                "keyword": "caramel",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Biscotinno%27s/data=!4m7!3m6!1s0x12fd8bf5776fa46b:0xcfb423f85ad770ba!8m2!3d35.844512!4d10.6053311!16s%2Fg%2F11qh3r45b5!19sChIJa6Rvd_WL_RIRunDXWvgjtM8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJMeBJnod1AhMRtD7iLosXABw",
+        "name": "Mado Cafe Resto",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 64,
+        "website": null,
+        "owner": {
+            "id": "117226385254388229646",
+            "name": "Mado Cafe Resto (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117226385254388229646"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO2JcvZsPq3rdJtN_pJcOAaNIvZADmC8-2VHE6m=w426-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant",
+            "Restaurant servant le petit-dejeuner",
+            "Cafe",
+            "Diner"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "29 027 027",
+        "address": "Mado Cafe Resto, Unnamed Road",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mado+Caf%C3%A9+Resto/data=!4m7!3m6!1s0x130275879e49e031:0x1c00178b2ee23eb4!8m2!3d35.8432601!4d10.6207803!16s%2Fg%2F11gfls92k1!19sChIJMeBJnod1AhMRtD7iLosXABw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJObaqc22K_RIRgoMMmk5DeLo",
+        "name": "Cafe Journal",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 61,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Journal (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMBEInS8uVXhCso7IbdjarqvWtYoK97vGv7cwwO=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-21:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "VJ44+8VV Cafe Journal, Rue du Misk, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Journal/data=!4m7!3m6!1s0x12fd8a6d73aab639:0xba78434e9a0c8382!8m2!3d35.8558687!4d10.6071687!16s%2Fg%2F11cn5shyx4!19sChIJObaqc22K_RIRgoMMmk5DeLo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJlxb93rmL_RIReM764R_nZ7E",
+        "name": "Stories cafe-resto",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 48,
+        "website": null,
+        "owner": {
+            "id": "111586081860347094077",
+            "name": "Stories cafe-resto (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111586081860347094077"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO4WKg-sm5C8Tmn6GOna-w5blvgm2HKuCAc1eX1=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": "50 386 666",
+        "address": "Stories cafe-resto, Av. 14 Janvier, Sousse 4000",
+        "review_keywords": [
+            {
+                "keyword": "serveurs",
+                "count": 5
+            },
+            {
+                "keyword": "prix",
+                "count": 5
+            },
+            {
+                "keyword": "sauce",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Stories+caf%C3%A9-resto/data=!4m7!3m6!1s0x12fd8bb9defd1697:0xb167e71fe1face78!8m2!3d35.848172!4d10.6180032!16s%2Fg%2F11t2_60lqx!19sChIJlxb93rmL_RIReM764R_nZ7E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJy76E0FuL_RIRH_ERkoQxnjs",
+        "name": "Dip's Cafe & Resto",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 46,
+        "website": null,
+        "owner": {
+            "id": "101116713807309790586",
+            "name": "Dip's Cafe & Resto (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101116713807309790586"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNCAr_SXprmKVi5R35nJQtuZ7ZhOCgN44g4EWEa=w408-h510-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:30-00:00",
+        "closed_on": [],
+        "phone": "24 024 000",
+        "address": "Dip's Cafe & Resto, Parc Sahloul 4, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dip%27s+Caf%C3%A9+%26+Resto/data=!4m7!3m6!1s0x12fd8b5bd084becb:0x3b9e31849211f11f!8m2!3d35.8296161!4d10.5948365!16s%2Fg%2F11t1j8lbnw!19sChIJy76E0FuL_RIRH_ERkoQxnjs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJY88yKWaL_RIRZo5LwfGyte8",
+        "name": "SUN STREET CAFE & RESTAURANT",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 38,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "SUN STREET CAFE & RESTAURANT (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPqx--oh-L5WJbbPpx57odMgVQIJsZkocolDKRf=w533-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "26 503 502",
+        "address": "VJ66+PHQ SUN STREET CAFE & RESTAURANT, Av. 14 Janvier, Hammam Sousse",
+        "review_keywords": [
+            {
+                "keyword": "cuisine",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/SUN+STREET+CAFE+%26+RESTAURANT/data=!4m7!3m6!1s0x12fd8b662932cf63:0xefb5b2f1c14b8e66!8m2!3d35.8618421!4d10.6114995!16s%2Fg%2F11j_8bl2_z!19sChIJY88yKWaL_RIRZo5LwfGyte8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJi0B_tWWK_RIRe1X7po5thYE",
+        "name": "Caffe K West",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 37,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Caffe K West (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPE8Cb8m8LdWBSO9Byd3H8ZltvDyPNzomeXcAJJ=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-23:59",
+        "closed_on": [],
+        "phone": null,
+        "address": "RJV3+XMQ Caffe K West, Av. Hassen Ibn Said, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caff%C3%A8+K+West/data=!4m7!3m6!1s0x12fd8a65b57f408b:0x81856d8ea6fb557b!8m2!3d35.8449513!4d10.6042192!16s%2Fg%2F11cryvrpyq!19sChIJi0B_tWWK_RIRe1X7po5thYE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJaV975QeL_RIRVh2hie06VRg",
+        "name": "Colombus cafe Sousse",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 35,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Colombus cafe Sousse (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP_Gc2cKQBKqekMD96AFuDPjmhr1_pzZmddwQc=w408-h272-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "07:00-02:00",
+        "closed_on": [],
+        "phone": "54 584 584",
+        "address": "VJ93+7MH Colombus cafe Sousse, Av. 14 Janvier, Hammam Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Colombus+caf%C3%A9+Sousse/data=!4m7!3m6!1s0x12fd8b07e57b5f69:0x18553aed89a11d56!8m2!3d35.8681937!4d10.604222!16s%2Fg%2F11g0mg877y!19sChIJaV975QeL_RIRVh2hie06VRg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJr9ZOOnJ1AhMRU8Rpcrvx-cI",
+        "name": "Le Petit Cafe Maure Sousse Madin",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 34,
+        "website": null,
+        "owner": {
+            "id": "113856974350097563709",
+            "name": "Le Petit Cafe Maure Sousse Madin (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113856974350097563709"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPwkcguZXFwnjt9LT5C39ewBIlANo5fn-2KNWrq=w427-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:00-20:00",
+        "closed_on": [],
+        "phone": "98 607 306",
+        "address": "Le Petit Cafe Maure Sousse Madin, Souk el Caid, Sousse 4000",
+        "review_keywords": [
+            {
+                "keyword": "droit de propriete",
+                "count": 5
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 4
+            },
+            {
+                "keyword": "prix",
+                "count": 4
+            },
+            {
+                "keyword": "the a la menthe",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Le+Petit+Cafe+Maure+Sousse+Madin/data=!4m7!3m6!1s0x130275723a4ed6af:0xc2f9f1bb7269c453!8m2!3d35.8250102!4d10.6374299!16s%2Fg%2F11g9px09lq!19sChIJr9ZOOnJ1AhMRU8Rpcrvx-cI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJF46saW6K_RIRD8Ibd7NINDU",
+        "name": "La boheme cafe restaurant",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 34,
+        "website": "https://m.facebook.com/labohemecaferesto/",
+        "owner": {
+            "id": null,
+            "name": "La boheme cafe restaurant (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNY2g9r11bfJZZDEGGlWxTPFjtPujZ5APKyHMtQ=w408-h544-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the",
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-23:00",
+        "closed_on": [],
+        "phone": "23 975 577",
+        "address": "VJ24+JHG La boheme cafe restaurant, Hammam Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+boh%C3%A8me+caf%C3%A9+restaurant/data=!4m7!3m6!1s0x12fd8a6e69ac8e17:0x353448b3771bc20f!8m2!3d35.851555!4d10.6064456!16s%2Fg%2F11c30rq4tj!19sChIJF46saW6K_RIRD8Ibd7NINDU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJiSLeCnd1AhMRhhdwqW4HMrA",
+        "name": "Sweet Time",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 33,
+        "website": "https://www.facebook.com/Sweet-Time-caf%25C3%25A9-1394081377526531/",
+        "owner": {
+            "id": null,
+            "name": "Sweet Time (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNSZIYdDiTCjDPMrW3GqEp5gK0Q3Z36AkiPmXpV=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Restaurant",
+            "Salon de the"
+        ],
+        "rating": 4.2,
+        "workday_timing": "09:00-21:30",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "73 211 866",
+        "address": "RJJJ+HX6 Sweet Time, Av. de la Republique, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sweet+Time/data=!4m7!3m6!1s0x130275770ade2289:0xb032076ea9701786!8m2!3d35.8314053!4d10.6323968!16s%2Fg%2F1q5bl08yc!19sChIJiSLeCnd1AhMRhhdwqW4HMrA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJIzyCwU11AhMR1VUNCFU13os",
+        "name": "alcazar cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": null,
+        "owner": {
+            "id": "109054436872836391253",
+            "name": "alcazar cafe (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/109054436872836391253"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMxTLK3dxZC1YufPLd9NfRx4bUC-u8p7EFJKC6D=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "alcazar cafe, Sousse",
+        "review_keywords": [
+            {
+                "keyword": "brunch",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/alcazar+caf%C3%A9/data=!4m7!3m6!1s0x1302754dc1823c23:0x8bde3555080d55d5!8m2!3d35.8260312!4d10.63337!16s%2Fg%2F11svnl0gxq!19sChIJIzyCwU11AhMR1VUNCFU13os?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJEb2fRheL_RIRo1dOAQpcHmg",
+        "name": "Cafe CLassico",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 22,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe CLassico (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNngYYKt3P39P246ke3De_In3kFIcQflCiJDU0I=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "10:00-18:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "RHF6+8XC Cafe CLassico, Av. Habib Bourguiba, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+CLassico/data=!4m7!3m6!1s0x12fd8b17469fbd11:0x681e5c0a014e57a3!8m2!3d35.8233229!4d10.5623952!16s%2Fg%2F11c57qbn8y!19sChIJEb2fRheL_RIRo1dOAQpcHmg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJO6uM0h6L_RIRGsf_J-DU2JE",
+        "name": "Contigo cafe&resto",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": null,
+        "owner": {
+            "id": "113744490578391936626",
+            "name": "Contigo cafe&resto (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113744490578391936626"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNeUQL9iPUa93IMEx0S_iS_O7p3dsWCcjas0e0r=w410-h240-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the",
+            "Cafe",
+            "Restaurant"
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": "29 404 878",
+        "address": "Contigo cafe&resto, sousse khzema Sousse, 4000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Contigo+caf%C3%A9%26resto/data=!4m7!3m6!1s0x12fd8b1ed28cab3b:0x91d8d4e027ffc71a!8m2!3d35.8448841!4d10.6190682!16s%2Fg%2F11q25t58sh!19sChIJO6uM0h6L_RIRGsf_J-DU2JE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJU6up4jiK_RIRtjfg0tFAeCE",
+        "name": "Cafe Les Amis",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": "101160422365057887729",
+            "name": "Cafe Les Amis (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101160422365057887729"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPfk-HmaSfA65Wq2KVFqhNRJS8iOFAOU7ySax9j=w408-h271-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:30-00:00",
+        "closed_on": [],
+        "phone": "25 441 039",
+        "address": "Cafe Les Amis, Hammam Sousse, Sousse 4011",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Les+Amis/data=!4m7!3m6!1s0x12fd8a38e2a9ab53:0x217840d1d2e037b6!8m2!3d35.8621378!4d10.5892576!16s%2Fg%2F11g5zz4dhw!19sChIJU6up4jiK_RIRtjfg0tFAeCE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJu1A5h3d1AhMRrGfIPQOWT34",
+        "name": "Cafe de Rome",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe de Rome (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNodsNZXHJyF0mD519OWxzea-TD0EHdwcIU5tWj=w408-h272-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "50 883 443",
+        "address": "RJJJ+RCC Cafe de Rome, Rue Dr Moreau, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+de+Rome/data=!4m7!3m6!1s0x13027577873950bb:0x7e4f96033dc867ac!8m2!3d35.8320684!4d10.6310025!16s%2Fg%2F11r9lpbnz!19sChIJu1A5h3d1AhMRrGfIPQOWT34?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJLa8I0HN1AhMRvdfHcyPKob8",
+        "name": "Cafe Sidi Bouraoui",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": "https://www.facebook.com/Caf%25C3%25A9-Sidi-Bouraoui-605987959445850/",
+        "owner": {
+            "id": "114779930647929752203",
+            "name": "Cafe Sidi Bouraoui (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114779930647929752203"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPcep54et6RyelKwjnSCVhiNidcb5vgVWnJeHPT=w473-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "04:00-00:00",
+        "closed_on": [],
+        "phone": "73 201 184",
+        "address": "Cafe Sidi Bouraoui, Rue el Aghalba, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Sidi+Bouraoui/data=!4m7!3m6!1s0x13027573d008af2d:0xbfa1ca2373c7d7bd!8m2!3d35.8267651!4d10.6380016!16s%2Fg%2F11g8w94k82!19sChIJLa8I0HN1AhMRvdfHcyPKob8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtUvNXuiL_RIRY8ESetl12eM",
+        "name": "copa cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": "106551747460218211552",
+            "name": "copa cafe (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106551747460218211552"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNlQLsrF3yEsutOtROam-hP2P3F7Sz21LGjeomt=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "73 250 050",
+        "address": "copa cafe, Av. la Perle du Sahel, Sousse",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/copa+caf%C3%A9/data=!4m7!3m6!1s0x12fd8be85ecd4bb5:0xe3d975d97a12c163!8m2!3d35.8482763!4d10.6097453!16s%2Fg%2F11p9lz_g5k!19sChIJtUvNXuiL_RIRY8ESetl12eM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJgbDMg7Z1AhMRmHCT4PLfubU",
+        "name": "Leopold cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": "114195096555692137034",
+            "name": "Leopold cafe (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/114195096555692137034"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTZQapI0OdVyDLrZtQU6970xjUQXeP1TQk3Xd2=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:30-00:00",
+        "closed_on": [],
+        "phone": "73 210 333",
+        "address": "Leopold cafe, Espace Ayachi, 5 Av. Leopold Senghor, Sousse 4000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Leopold+caf%C3%A9/data=!4m7!3m6!1s0x130275b683ccb081:0xb5b9dff2e0937098!8m2!3d35.8351552!4d10.6277242!16s%2Fg%2F11ptv6h4vl!19sChIJgbDMg7Z1AhMRmHCT4PLfubU?authuser=0&hl=fr&rclk=1"
+    }
+]

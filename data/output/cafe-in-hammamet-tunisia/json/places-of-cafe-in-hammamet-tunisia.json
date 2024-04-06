@@ -1,0 +1,1098 @@
+[
+    {
+        "place_id": "ChIJf_UBegJi_RIRD54Ic8-wk9o",
+        "name": "Cafe Sidi Bouhdid",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1319,
+        "website": "http://www.sidibouhdid.com/",
+        "owner": {
+            "id": null,
+            "name": "Cafe Sidi Bouhdid (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP2VrkY4ID0GfCKglCm1DnIRCfMMGRMlY32iu2M=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.1,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "72 280 040",
+        "address": "9JV6+RPH Cafe Sidi Bouhdid, Rue Sidi Abdel Kader, Hammamet 8050",
+        "review_keywords": [
+            {
+                "keyword": "mer",
+                "count": 107
+            },
+            {
+                "keyword": "vue",
+                "count": 38
+            },
+            {
+                "keyword": "coucher de soleil",
+                "count": 35
+            },
+            {
+                "keyword": "chicha",
+                "count": 34
+            },
+            {
+                "keyword": "serveur",
+                "count": 22
+            },
+            {
+                "keyword": "the a la menthe",
+                "count": 16
+            },
+            {
+                "keyword": "terrasse",
+                "count": 13
+            },
+            {
+                "keyword": "crepes",
+                "count": 9
+            },
+            {
+                "keyword": "pignons",
+                "count": 8
+            },
+            {
+                "keyword": "fort",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Sidi+Bouhdid/data=!4m7!3m6!1s0x12fd62027a01f57f:0xda93b0cf73089e0f!8m2!3d36.3945591!4d10.6118448!16s%2Fg%2F1tfdv4jd!19sChIJf_UBegJi_RIRD54Ic8-wk9o?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-5eE_wCeAhMRGccHlRndMCM",
+        "name": "La Sirene",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 309,
+        "website": null,
+        "owner": {
+            "id": "109697982352619451307",
+            "name": "La Sirene (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/109697982352619451307"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPV1tGqW29Hg5xFOyJSehNaBg-ItOXU_RwSng80=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": "07:00-23:00",
+        "closed_on": [],
+        "phone": "72 282 652",
+        "address": "La Sirene, Avec. Assad ibn fourat, Hammamet 8050",
+        "review_keywords": [
+            {
+                "keyword": "mer",
+                "count": 27
+            },
+            {
+                "keyword": "prix",
+                "count": 21
+            },
+            {
+                "keyword": "eau",
+                "count": 13
+            },
+            {
+                "keyword": "musique",
+                "count": 11
+            },
+            {
+                "keyword": "poisson",
+                "count": 9
+            },
+            {
+                "keyword": "terrasse",
+                "count": 7
+            },
+            {
+                "keyword": "petit dejeuner",
+                "count": 6
+            },
+            {
+                "keyword": "serveurs",
+                "count": 5
+            },
+            {
+                "keyword": "couscous",
+                "count": 4
+            },
+            {
+                "keyword": "dorade",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/La+Sirene/data=!4m7!3m6!1s0x13029e00ff8497fb:0x2330dd199507c719!8m2!3d36.3965137!4d10.6224867!16s%2Fg%2F11cn9pp1tp!19sChIJ-5eE_wCeAhMRGccHlRndMCM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJlX436_5h_RIR0l22p-BzBAA",
+        "name": "Bridge Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 106,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Bridge Cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM1x9gxUhYhuw19U_xXNvCklRE95P7jA30Tl_rT=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "9JX8+97V Bridge Cafe, Ave. de la Republique, Hammamet",
+        "review_keywords": [
+            {
+                "keyword": "petit dejeuner",
+                "count": 4
+            },
+            {
+                "keyword": "prix",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Bridge+Caf%C3%A9/data=!4m7!3m6!1s0x12fd61feeb377e95:0x473e0a7b65dd2!8m2!3d36.3984765!4d10.6156635!16s%2Fg%2F11bbrn4trb!19sChIJlX436_5h_RIR0l22p-BzBAA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ1-KB5_1h_RIR6berpslgKEE",
+        "name": "SIDI EL KILANI",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 27,
+        "website": "https://www.facebook.com/pages/Caf%25C3%25A9-Maure-Sidi-Kilani/331576000331940%3Ffref%3Dts",
+        "owner": {
+            "id": null,
+            "name": "SIDI EL KILANI (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMc0am733MQ7Q-pKbrJ_Q6mshtTXesnHqRdBWsZ=w425-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.6,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "23 207 070",
+        "address": "CJ29+28R SIDI EL KILANI, Hammamet",
+        "review_keywords": [
+            {
+                "keyword": "chicha",
+                "count": 9
+            },
+            {
+                "keyword": "wifi",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/SIDI+EL+KILANI/data=!4m7!3m6!1s0x12fd61fde781e2d7:0x412860c9a6abb7e9!8m2!3d36.4001075!4d10.6182668!16s%2Fg%2F11c54920c8!19sChIJ1-KB5_1h_RIR6berpslgKEE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJT2R2iQ-eAhMR8qqacZaWCBk",
+        "name": "Barbara Bistro Lounge",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 25,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Barbara Bistro Lounge (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNVt80nZHNUdJgH50JjVKbJcEqBqc7hUG1b1Rfp=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "CJ2J+RC4 Barbara Bistro Lounge, Rte Touristique, Hammamet",
+        "review_keywords": [
+            {
+                "keyword": "gateau",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Barbara+Bistro+Lounge/data=!4m7!3m6!1s0x13029e0f8976644f:0x19089696719aaaf2!8m2!3d36.4020121!4d10.6310641!16s%2Fg%2F11dxq8f48l!19sChIJT2R2iQ-eAhMR8qqacZaWCBk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJj8dQPXSfAhMRUwNGZW--jdk",
+        "name": "Hexagone Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hexagone Cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMT40RUQMxoZwH5Is4FqcbfD5TiLLnCmVBfOj8-=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-03:00",
+        "closed_on": [],
+        "phone": "52 979 533",
+        "address": "CJ2G+6HJ Hexagone Cafe, Hammamet",
+        "review_keywords": [
+            {
+                "keyword": "chicha",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hexagone+Caf%C3%A9/data=!4m7!3m6!1s0x13029f743d50c78f:0xd98dbe6f65460353!8m2!3d36.4005835!4d10.6263945!16s%2Fg%2F11f6cqpbnx!19sChIJj8dQPXSfAhMRUwNGZW--jdk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJB3Ar_gOeAhMRriXG2RoqQl8",
+        "name": "Cafe Halfaouine",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Halfaouine (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN7tFA0NVZ6Zu9yibyOQjBKISH9vI2uIoFebzMZ=w520-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "09:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "9JXG+H3W Cafe Halfaouine, Rte Touristique, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Halfaouine/data=!4m7!3m6!1s0x13029e03fe2b7007:0x5f422a1ad9c625ae!8m2!3d36.3989917!4d10.6252013!16s%2Fg%2F11dxnyrydf!19sChIJB3Ar_gOeAhMRriXG2RoqQl8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJGRN6RgGeAhMRg0lOPnUkgnc",
+        "name": "Salon De The la Vague",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Salon De The la Vague (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNMFc95dZvK-mbcT-gz0bhvGLBMhIrWGzpH_PNH=w408-h272-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "07:00-01:00",
+        "closed_on": [],
+        "phone": "24 106 199",
+        "address": "9JXF+5QQ Salon De The la Vague, Rue Sidi Bou Ali, Hammamet",
+        "review_keywords": [
+            {
+                "keyword": "chicha",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Salon+De+Th%C3%A9+la+Vague/data=!4m7!3m6!1s0x13029e01467a1319:0x778224753e4e4983!8m2!3d36.3979642!4d10.6244868!16s%2Fg%2F11dxk69tqv!19sChIJGRN6RgGeAhMRg0lOPnUkgnc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJbwDfroNh_RIRj8NBNR-a1aM",
+        "name": "Cafeina",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 20,
+        "website": "https://cafeina.tn/",
+        "owner": {
+            "id": null,
+            "name": "Cafeina (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMYo0xaFtFRhzIR56QIM-xAy2V1biKjZWBBc_PY=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafeina, 3 Rue de la Corniche, Hammamet",
+        "review_keywords": [
+            {
+                "keyword": "chicha",
+                "count": 3
+            },
+            {
+                "keyword": "prix",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Cafeina/data=!4m7!3m6!1s0x12fd6183aedf006f:0xa3d59a1f3541c38f!8m2!3d36.4007365!4d10.6113597!16s%2Fg%2F11stlcy_7z!19sChIJbwDfroNh_RIRj8NBNR-a1aM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZzQqAQGeAhMRtRv19W-bNiI",
+        "name": "Cafe Bello",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 17,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Bello (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNYimNspotT382-U0SEgBBY8dfY10JWPwvW7hz-=w480-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "52 130 730",
+        "address": "9JWF+Q39 Cafe Bello, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Bello/data=!4m7!3m6!1s0x13029e01012a3467:0x22369b6ff5f51bb5!8m2!3d36.3969187!4d10.6227247!16s%2Fg%2F11ddxvtv6m!19sChIJZzQqAQGeAhMRtRv19W-bNiI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtctpCwJi_RIRxXsJJelvykk",
+        "name": "Cafe Fort Hammamet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Fort Hammamet (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM3rj1VyeQPCR9s6CovTl1r-IvnRThmkeiwLHnh=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "08:00-19:00",
+        "closed_on": [],
+        "phone": "58 935 811",
+        "address": "9JV7+Q4G Cafe Fort Hammamet, hammamet medina, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Fort+Hammamet/data=!4m7!3m6!1s0x12fd62020b69cbb5:0x49ca6fe925097bc5!8m2!3d36.3944332!4d10.6128308!16s%2Fg%2F11f3sfq6j0!19sChIJtctpCwJi_RIRxXsJJelvykk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJj_4-XQGeAhMRCzUXC4P1r3U",
+        "name": "Tcups Drink & Food",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": "https://www.facebook.com/Tcups-Drink-Food-1469839883054314/",
+        "owner": {
+            "id": null,
+            "name": "Tcups Drink & Food (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO8hCsTnOonOfVhIzeHhAZ_CPgR-rJs9WZcFI3c=w408-h350-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-00:00",
+        "closed_on": [],
+        "phone": "23 412 198",
+        "address": "9JXF+GHW Tcups Drink & Food, Rue Sidi Bou Ali, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Tcups+Drink+%26+Food/data=!4m7!3m6!1s0x13029e015d3efe8f:0x75aff5830b17350b!8m2!3d36.3988574!4d10.6239548!16s%2Fg%2F11fxdmt1bn!19sChIJj_4-XQGeAhMRCzUXC4P1r3U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJqctxWwGeAhMRv_2S98gVseg",
+        "name": "Cafe la Vague Hammamet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe la Vague Hammamet (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP0N9tLt4VS6GVU8eWBqP85Q7VeZEeH2-i0B7Bs=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "9JXF+8JP Cafe la Vague Hammamet, Rte Touristique, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+la+Vague+Hammamet/data=!4m7!3m6!1s0x13029e015b71cba9:0xe8b115c8f792fdbf!8m2!3d36.3983266!4d10.6240935!16s%2Fg%2F11dxnpzsz7!19sChIJqctxWwGeAhMRv_2S98gVseg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJe0UMGQCeAhMRVVxobfcyBdg",
+        "name": "Cafe \"La Roche\"",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": "108877342089132635448",
+            "name": "Cafe \"La Roche\" (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108877342089132635448"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO_VM_Um3Gc4R3jz1RvJUdcIW9gqfMkTelTfR_0=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "98 556 308",
+        "address": "Cafe \"La Roche\", Blvd. Ibn el Fourat, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+%22La+Roche%22/data=!4m7!3m6!1s0x13029e00190c457b:0xd80532f76d685c55!8m2!3d36.3951842!4d10.620153!16s%2Fg%2F1pp2wz410!19sChIJe0UMGQCeAhMRVVxobfcyBdg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8yoA1gOfAhMRfNcJR4ljXU8",
+        "name": "Cafeteria Mon Plaisir",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafeteria Mon Plaisir (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMyOwtOdst2lcyWKr18FTSB62bArA06JJtrP2g=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-21:00",
+        "closed_on": [],
+        "phone": "94 508 559",
+        "address": "CJ2J+W3F Cafeteria Mon Plaisir, Rte Touristique, Hammamet",
+        "review_keywords": [
+            {
+                "keyword": "tunisienne",
+                "count": 4
+            },
+            {
+                "keyword": "prix",
+                "count": 4
+            },
+            {
+                "keyword": "hotel",
+                "count": 3
+            },
+            {
+                "keyword": "dejeuner",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9t%C3%A9ria+Mon+Plaisir/data=!4m7!3m6!1s0x13029f03d6002af3:0x4f5d63894709d77c!8m2!3d36.402322!4d10.6301722!16s%2Fg%2F11f8ckrz5d!19sChIJ8yoA1gOfAhMRfNcJR4ljXU8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ74_dEC5h_RIRR5oyYxB3E9o",
+        "name": "Delice Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Delice Cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOajJ1ZkpkNdQLd-4SWxNoSFtVVzc5eh0aJGLXV=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.9,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "58 728 324",
+        "address": "CJ46+RXM Delice Cafe, Av. Habib Bourguiba, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/D%C3%A9lice+Caf%C3%A9/data=!4m7!3m6!1s0x12fd612e10dd8fef:0xda13771063329a47!8m2!3d36.4070973!4d10.6124217!16s%2Fg%2F11j3r45fw_!19sChIJ74_dEC5h_RIRR5oyYxB3E9o?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ5zlghWZh_RIR4vpPLAH2PP8",
+        "name": "Livre Plus Cafe Culturel Hammamet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "http://www.livreplus.com/",
+        "owner": {
+            "id": "111840439639557626382",
+            "name": "Livre Plus Cafe Culturel Hammamet (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111840439639557626382"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP3x1UICcttQP35vjwI6584sy9rgNgWNnozotBp=w408-h387-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.9,
+        "workday_timing": "07:30-20:30",
+        "closed_on": [],
+        "phone": "72 266 305",
+        "address": "Livre Plus Cafe Culturel Hammamet, Av. Habib Bourguiba, Hammamet 8050",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Livre+Plus+Caf%C3%A9+Culturel+Hammamet/data=!4m7!3m6!1s0x12fd6166856039e7:0xff3cf6012c4ffae2!8m2!3d36.3959566!4d10.6135148!16s%2Fg%2F11qbth22jh!19sChIJ5zlghWZh_RIR4vpPLAH2PP8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJbz1wyfth_RIRGfLMw4cB2mk",
+        "name": "CAFE CORNICHE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "CAFE CORNICHE (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipObMrzwN-ucaocK8YRoMo_wUrZntN69GQ232nxU=w642-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.4,
+        "workday_timing": "05:00-01:30",
+        "closed_on": [],
+        "phone": "22 174 777",
+        "address": "CJ26+89P CAFE CORNICHE, Av. Habib Bourguiba, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CAFE+CORNICHE/data=!4m7!3m6!1s0x12fd61fbc9703d6f:0x69da0187c3ccf219!8m2!3d36.4008474!4d10.6109624!16s%2Fg%2F11g6nvw7pw!19sChIJbz1wyfth_RIRGfLMw4cB2mk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ7z5V6v5h_RIRQfAqOIzvvn4",
+        "name": "Cafe Club",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://tunisie.co/article/8522/gastronomie/cafes-et-salons-de-the/cafe-club-121712",
+        "owner": {
+            "id": null,
+            "name": "Cafe Club (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP-BLTYbBSHNi7kPXT_PiSeEJSXu1iql1xh7OSP=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-01:00",
+        "closed_on": [],
+        "phone": "29 888 085",
+        "address": "9JX8+QQQ Cafe Club, Ave. de la Republique, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Club/data=!4m7!3m6!1s0x12fd61feea553eef:0x7ebeef8c382af041!8m2!3d36.3994546!4d10.6169938!16s%2Fg%2F11f01tdpm_!19sChIJ7z5V6v5h_RIRQfAqOIzvvn4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8VonaP9h_RIRZ0GBtR9tGRs",
+        "name": "Cafe berber",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe berber (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=j2ty7xdA6zZqmeJuSAqg5g&cb_client=search.gws-prod.gps&w=408&h=240&yaw=151.55002&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "09:00-21:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "9JW7+2C7 Cafe berber, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+berber/data=!4m7!3m6!1s0x12fd61ff68275af1:0x1b196d1fb5814167!8m2!3d36.3950474!4d10.6135574!16s%2Fg%2F11h5n7y44l!19sChIJ8VonaP9h_RIRZ0GBtR9tGRs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJhz8KBPth_RIR2nxHovIfTWA",
+        "name": "Cafe Derby",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Derby (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPdIuNd42zqRuUYFmd5KAuREeHmqLK8JwHV86q6=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.7,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "CJ37+69R Cafe Derby, Av. Habib Bourguiba, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Derby/data=!4m7!3m6!1s0x12fd61fb040a3f87:0x604d1ff2a2477cda!8m2!3d36.4031236!4d10.6133788!16s%2Fg%2F11c6zf9shv!19sChIJhz8KBPth_RIR2nxHovIfTWA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJIaJ-SrBh_RIRza-5yfM76No",
+        "name": "Twenty Six Coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Twenty Six Coffee (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM3VNF0OUsdjRzfgUHbiaKSufNcYjsx_1kdsxoS=w408-h272-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:30-01:30",
+        "closed_on": [],
+        "phone": "26 503 810",
+        "address": "Twenty Six Coffee, 83-51 Ave. de la Republique, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Twenty+Six+Coffee/data=!4m7!3m6!1s0x12fd61b04a7ea221:0xdae83bf3c9b9afcd!8m2!3d36.3986051!4d10.6158179!16s%2Fg%2F11fd7024s4!19sChIJIaJ-SrBh_RIRza-5yfM76No?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJl-ylqfhh_RIRdo-5lextnH4",
+        "name": "Cafe El Medina",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe El Medina (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMKo8l8fCYNdmZv_kI_YugjHA_ih7xsUUvgtx5d=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "9JV7+V95 Cafe El Medina, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+El+M%C3%A9dina/data=!4m7!3m6!1s0x12fd61f8a9a5ec97:0x7e9c6dec95b98f76!8m2!3d36.3946352!4d10.6134825!16s%2Fg%2F11g8xfvz5t!19sChIJl-ylqfhh_RIRdo-5lextnH4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJr3_JsQOeAhMRTCPx03RWV2U",
+        "name": "Cafe Zico",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Zico (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOnISon8lGYDfz2JhwHljvxaySMvX9xqykFWsh_=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.2,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "23 010 111",
+        "address": "CJ2F+C5X Cafe Zico, Rue Sidi Bou Ali, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Zico/data=!4m7!3m6!1s0x13029e03b1c97faf:0x65575674d3f1234c!8m2!3d36.4011165!4d10.6229764!16s%2Fg%2F11hc_2cstj!19sChIJr3_JsQOeAhMRTCPx03RWV2U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJyT65XNdh_RIR1ulRR_YWwMs",
+        "name": "Cafe Khouna",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Khouna (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNfGDrQ_UarEzHumebtmoohK9hL140IcSDiRNH5=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-22:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe Khouna, 86 Av. Habib Bourguiba, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Khouna/data=!4m7!3m6!1s0x12fd61d75cb93ec9:0xcbc016f64751e9d6!8m2!3d36.4007991!4d10.6124077!16s%2Fg%2F11h52mysf5!19sChIJyT65XNdh_RIR1ulRR_YWwMs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJnSqN6nBh_RIRgCvZ90o3lD8",
+        "name": "Cafe Habibi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Habibi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNSCzuVmumUDvv8Yegxo_0qWm4rlgSpHSutfeVu=w408-h541-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-16:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "24 963 258",
+        "address": "Cafe Habibi, 202 Av. Habib Bourguiba, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Habibi/data=!4m7!3m6!1s0x12fd6170ea8d2a9d:0x3f94374af7d92b80!8m2!3d36.4039925!4d10.6120688!16s%2Fg%2F11h941xgqn!19sChIJnSqN6nBh_RIRgCvZ90o3lD8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJp6V81ASeAhMRxyfujSQbQVI",
+        "name": "Woods coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Woods coffee (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMq6WTfBajBFqF3tqfyikUz8XDKPn1fG-Oxk-pd=w480-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.8,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "52 723 765",
+        "address": "CJ3H+H5F Woods coffee, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Woods+coffee/data=!4m7!3m6!1s0x13029e04d47ca5a7:0x52411b248dee27c7!8m2!3d36.4039481!4d10.6279158!16s%2Fg%2F11gfjrzjlm!19sChIJp6V81ASeAhMRxyfujSQbQVI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJydu48gGeAhMRa9vQyFwN9NA",
+        "name": "Cafe Gualleti",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Gualleti (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.3,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "22 965 708",
+        "address": "9JXC+GC6 Cafe Gualleti, Rue Taleb El Ezzabi, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Gualleti/data=!4m7!3m6!1s0x13029e01f2b8dbc9:0xd0f40d5cc8d0db6b!8m2!3d36.3987757!4d10.6210195!16s%2Fg%2F1pp2wz3_k!19sChIJydu48gGeAhMRa9vQyFwN9NA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJy6TkniJh_RIRGw0n7-VX9k8",
+        "name": "Biya Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Biya Cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM1xq5lqyRGerw8OZa3QGnYObpTbmoStAEde8Q0=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "06:30-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "CJ39+G6X Biya Cafe, Rue Habib Thameur,, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Biya+Caf%C3%A9/data=!4m7!3m6!1s0x12fd61229ee4a4cb:0x4ff657e5ef270d1b!8m2!3d36.4038645!4d10.6181201!16s%2Fg%2F11ft2mc45w!19sChIJy6TkniJh_RIRGw0n7-VX9k8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJr6l4elGfAhMRQ9mMHMdhEO8",
+        "name": "Madera plus hammamet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Madera plus hammamet (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPI7kG4gZkdYef_x3QAg2NlTZGz1Vbu_eAu5JLt=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "CJ2J+HXR Madera plus hammamet, Rte Touristique, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Madera+plus+hammamet/data=!4m7!3m6!1s0x13029f517a78a9af:0xef1061c71c8cd943!8m2!3d36.4014852!4d10.6323791!16s%2Fg%2F11p61rptbr!19sChIJr6l4elGfAhMRQ9mMHMdhEO8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJa9kESFKfAhMRY4c-2rnBh_Y",
+        "name": "Friends Heart",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "106910642919928005561",
+            "name": "Friends Heart (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106910642919928005561"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMHxyRrzQi-6oOh71t9ewHzABHge00iUC3PceMq=w408-h544-k-no",
+        "main_category": "Salon de the",
+        "categories": [
+            "Salon de the"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-23:00",
+        "closed_on": [],
+        "phone": "24 192 096",
+        "address": "Friends Heart, RUE ASSAD IBN FOURAT, Hammamet 8050",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Friends+Heart/data=!4m7!3m6!1s0x13029f524804d96b:0xf687c1b9da3e8763!8m2!3d36.3974058!4d10.6240061!16s%2Fg%2F11sf5wv1vj!19sChIJa9kESFKfAhMRY4c-2rnBh_Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdXBLYOZh_RIRFZvVoklN5Ms",
+        "name": "Cafe Nefertiti Hammamet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Nefertiti Hammamet (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM1jLStCuA47tTSWMu-CGEZBTOZALdwXXem4np5=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "23 225 974",
+        "address": "CJ29+4RV Cafe Nefertiti Hammamet, Rue Taleb El Ezzabi, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Nefertiti+Hammamet/data=!4m7!3m6!1s0x12fd61e6604b7075:0xcbe44d49a2d59b15!8m2!3d36.4003653!4d10.6195506!16s%2Fg%2F11h3prxfjw!19sChIJdXBLYOZh_RIRFZvVoklN5Ms?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJo2dN4hVh_RIRy-ItFSCAA4k",
+        "name": "Point De Vente CAFFEITALIA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://www.facebook.com/caffeitailatn/",
+        "owner": {
+            "id": null,
+            "name": "Point De Vente CAFFEITALIA (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNNfHxtAvtpfsxG0JEHDNq99oniwpLwNz-r4pvX=w408-h544-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-20:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "79 408 831",
+        "address": "CJ36+HRC Point De Vente CAFFEITALIA, centre en face de la banque ATB, Av. Habib Bourguiba, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Point+De+Vente+CAFFEITALIA/data=!4m7!3m6!1s0x12fd6115e24d67a3:0x89038020152de2cb!8m2!3d36.4039364!4d10.6120071!16s%2Fg%2F11hdy_nlqb!19sChIJo2dN4hVh_RIRy-ItFSCAA4k?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ879nGBNh_RIRllQPoNcFdVI",
+        "name": "BIG TOWN CAFE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "https://www.facebook.com/BIG-TOWN-CAFE-102698598955058/%3Fref%3Dpages_you_manage",
+        "owner": {
+            "id": "111614535311051413202",
+            "name": "BIG TOWN CAFE (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111614535311051413202"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMcwV5FbtXRUnOlef5NS1gsKWvvlH4uRn4Nyaer=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "07:00-20:00",
+        "closed_on": [],
+        "phone": "98 308 985",
+        "address": "BIG TOWN CAFE, Rue des Jasmins, Hammamet 8050",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/BIG+TOWN+CAFE/data=!4m7!3m6!1s0x12fd61131867bff3:0x527505d7a00f5496!8m2!3d36.395725!4d10.6152042!16s%2Fg%2F11pm7v__j5!19sChIJ879nGBNh_RIRllQPoNcFdVI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJH7DM64Jh_RIRug1wLvbWheY",
+        "name": "Be cool coffee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Be cool coffee (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNYDiiibsGi7en7B8m3n8-V-1RbtK068OXAdQGc=w408-h419-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "07:30-22:00",
+        "closed_on": [],
+        "phone": "23 606 318",
+        "address": "9JW9+53C Be cool coffee, Rue du Stade, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Be+cool+coffee/data=!4m7!3m6!1s0x12fd6182ebccb01f:0xe685d6f62e700dba!8m2!3d36.3954259!4d10.6176524!16s%2Fg%2F11fn2jf525!19sChIJH7DM64Jh_RIRug1wLvbWheY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJa-UDvJph_RIRIGwX2PIElWg",
+        "name": "Big Ben Cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Big Ben Cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMcgZfKkwVgiSaGrs1EslVqmpihebJxv_EGfWl0=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "06:00-00:00",
+        "closed_on": [],
+        "phone": "28 500 700",
+        "address": "Big Ben Cafe, Avenue du kuwait, Hammamet 8050",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Big+Ben+Caf%C3%A9/data=!4m7!3m6!1s0x12fd619abc03e56b:0x689504f2d8176c20!8m2!3d36.4058259!4d10.6038002!16s%2Fg%2F11trcx9ytw!19sChIJa-UDvJph_RIRIGwX2PIElWg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJAZjtVbCfAhMRVpmT4lViw5E",
+        "name": "Cafe Nevers hammamet",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Nevers hammamet (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EtbyuciqRoQ7uCP4j0Yw8A&cb_client=search.gws-prod.gps&w=408&h=240&yaw=190.54388&pitch=0&thumbfov=100",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe Nevers hammamet, 8050 Rue de Nevers, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+Nevers+hammamet/data=!4m7!3m6!1s0x13029fb055ed9801:0x91c36255e2939956!8m2!3d36.4072253!4d10.6224798!16s%2Fg%2F11vb6bncfw!19sChIJAZjtVbCfAhMRVpmT4lViw5E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJX4Wdoj9h_RIRUg5qepKJh2Q",
+        "name": "Cafe Ludo",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe Ludo (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN4fQVxYWW8H-sCZnIgsnWuBvtBTKoUDICxYTM6=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "Cafe Ludo, 16 C28, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Cafe+Ludo/data=!4m7!3m6!1s0x12fd613fa29d855f:0x648789927a6a0e52!8m2!3d36.4056338!4d10.602044!16s%2Fg%2F11s333b81t!19sChIJX4Wdoj9h_RIRUg5qepKJh2Q?authuser=0&hl=fr&rclk=1"
+    }
+]

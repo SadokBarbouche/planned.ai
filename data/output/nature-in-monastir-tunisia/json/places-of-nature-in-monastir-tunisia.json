@@ -1,0 +1,488 @@
+[
+    {
+        "place_id": "ChIJHzgEBTBtAhMRqyURTru9pFM",
+        "name": "Ribat de Monastir",
+        "description": "Immense fort cotier du VIIIe siecle bien conserve et abritant aujourd'hui le musee d'Art islamique.",
+        "is_spending_on_ads": false,
+        "reviews": 2204,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ribat de Monastir (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOZF3SFW5N_4PyjWhsF7iV8a55W4OH1rzx0bePe=w408-h306-k-no",
+        "main_category": "Lieu historique",
+        "categories": [
+            "Lieu historique",
+            "Site historique",
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "08:30-17:30",
+        "closed_on": [],
+        "phone": "42 223 476",
+        "address": "QRGM+F6M Ribat de Monastir, Rte de la Falaise, Monastir",
+        "review_keywords": [
+            {
+                "keyword": "tour",
+                "count": 84
+            },
+            {
+                "keyword": "fortification",
+                "count": 59
+            },
+            {
+                "keyword": "especes",
+                "count": 54
+            },
+            {
+                "keyword": "mer",
+                "count": 42
+            },
+            {
+                "keyword": "dinar",
+                "count": 39
+            },
+            {
+                "keyword": "mosquee",
+                "count": 18
+            },
+            {
+                "keyword": "musulmans",
+                "count": 16
+            },
+            {
+                "keyword": "habib bourguiba",
+                "count": 8
+            },
+            {
+                "keyword": "mausolee",
+                "count": 7
+            },
+            {
+                "keyword": "viiie siecle",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ribat+de+Monastir/data=!4m7!3m6!1s0x13026d300504381f:0x53a4bdbb4e1125ab!8m2!3d35.7762108!4d10.8330383!16s%2Fg%2F121djqp8!19sChIJHzgEBTBtAhMRqyURTru9pFM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJGV2l9TNtAhMR1_ZRALvMa64",
+        "name": "Mausolee Habib Bourguiba",
+        "description": "Mausolee opulent avec minarets et dome dore, ou repose le president Habib Bourguiba.",
+        "is_spending_on_ads": false,
+        "reviews": 1132,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mausolee Habib Bourguiba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPSBGgo1_-ja_QNacG6VcaxjyJbS8aQ_nhdY1pv=w408-h306-k-no",
+        "main_category": "Tombeau",
+        "categories": [
+            "Tombeau",
+            "Lieu historique",
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-16:30",
+        "closed_on": [],
+        "phone": null,
+        "address": "Mausolee Habib Bourguiba, 11 shr` lshhd, jml",
+        "review_keywords": [
+            {
+                "keyword": "president",
+                "count": 44
+            },
+            {
+                "keyword": "architecture",
+                "count": 28
+            },
+            {
+                "keyword": "histoire",
+                "count": 17
+            },
+            {
+                "keyword": "pays",
+                "count": 15
+            },
+            {
+                "keyword": "monument",
+                "count": 13
+            },
+            {
+                "keyword": "espace",
+                "count": 11
+            },
+            {
+                "keyword": "marbre",
+                "count": 10
+            },
+            {
+                "keyword": "ribat",
+                "count": 7
+            },
+            {
+                "keyword": "independance",
+                "count": 5
+            },
+            {
+                "keyword": "objets",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mausol%C3%A9e+Habib+Bourguiba/data=!4m7!3m6!1s0x13026d33f5a55d19:0xae6bccbb0051f6d7!8m2!3d35.7778246!4d10.8283824!16s%2Fg%2F1226g5hq!19sChIJGV2l9TNtAhMR1_ZRALvMa64?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ8f7LIzNtAhMRPuqcw7Y6Y1A",
+        "name": "Mosquee de Bourguiba",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 398,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mosquee de Bourguiba (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOQWzEWsjnryhNRDxrQGb9BNX0-6U2c6D1ELNWR=w426-h240-k-no",
+        "main_category": "Mosquee",
+        "categories": [
+            "Mosquee",
+            "Attraction touristique"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QRFJ+R86 Mosquee de Bourguiba, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mosqu%C3%A9e+de+Bourguiba/data=!4m7!3m6!1s0x13026d3323cbfef1:0x50633ab6c39cea3e!8m2!3d35.7745369!4d10.8307731!16s%2Fg%2F122l893d!19sChIJ8f7LIzNtAhMRPuqcw7Y6Y1A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJaZytwjFtAhMRxi7YVx8htrY",
+        "name": "Marina Cap Monastir",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 296,
+        "website": "http://www.marinamonastir.tn/",
+        "owner": {
+            "id": "105575932631645469969",
+            "name": "Marina Cap Monastir (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105575932631645469969"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPvq-nBxF5xZxwU8B3MzPrZo_isoMa1RfI_Ul1G=w425-h240-k-no",
+        "main_category": "Port de plaisance",
+        "categories": [
+            "Port de plaisance",
+            "Hotel de ville",
+            "Cafe",
+            "Salle de reception",
+            "Hotel",
+            "Restaurant",
+            "Appartement de vacances"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "73 462 305",
+        "address": "Marina Cap Monastir, Monastir",
+        "review_keywords": [
+            {
+                "keyword": "cafes",
+                "count": 7
+            },
+            {
+                "keyword": "appartement",
+                "count": 6
+            },
+            {
+                "keyword": "prix",
+                "count": 5
+            },
+            {
+                "keyword": "climatise",
+                "count": 3
+            },
+            {
+                "keyword": "soir",
+                "count": 3
+            },
+            {
+                "keyword": "marche",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Marina+Cap+Monastir/data=!4m7!3m6!1s0x13026d31c2ad9c69:0xb6b6211f57d82ec6!8m2!3d35.7796346!4d10.8333832!16s%2Fg%2F1tf91xsv!19sChIJaZytwjFtAhMRxi7YVx8htrY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJDS6Q9tUTAhMRvvERDZuil_Q",
+        "name": "Le Bistrot +",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 75,
+        "website": null,
+        "owner": {
+            "id": "104079876214426271000",
+            "name": "Le Bistrot + (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/104079876214426271000"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOOWqIljStzW2dPepI1gXSVvgGUX3ViYLpTPXGK=w408-h272-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 4.5,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [
+            "mercredi"
+        ],
+        "phone": "99 175 002",
+        "address": "QRCC+9GP Le Bistrot +, Monastir",
+        "review_keywords": [
+            {
+                "keyword": "cheesecake",
+                "count": 3
+            },
+            {
+                "keyword": "prix",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Le+Bistrot+%2B/data=!4m7!3m6!1s0x130213d5f6902e0d:0xf497a29b0d11f1be!8m2!3d35.7708537!4d10.8213632!16s%2Fg%2F11rz9kngd5!19sChIJDS6Q9tUTAhMRvvERDZuil_Q?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJXYa1j20TAhMRGhMFxbqERgw",
+        "name": "Dar Benti",
+        "description": "Logements sobres dans une maison d'hotes raffinee avec piscine exterieure, hammam et petit-dejeuner.",
+        "is_spending_on_ads": false,
+        "reviews": 60,
+        "website": "http://www.darbenti.com/",
+        "owner": {
+            "id": "108266047674093317186",
+            "name": "Dar Benti (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108266047674093317186"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPLvIZ6UWEpAO0Rj_W76sM95onp9sQgbUgdVzE=w408-h267-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "25 020 036",
+        "address": "Dar Benti, Beb El Gharbi- Avenue Mahmoud Bourguiba Monastir, 5000",
+        "review_keywords": [
+            {
+                "keyword": "chambres",
+                "count": 6
+            },
+            {
+                "keyword": "piscine",
+                "count": 5
+            },
+            {
+                "keyword": "coeur",
+                "count": 5
+            },
+            {
+                "keyword": "tradition",
+                "count": 4
+            },
+            {
+                "keyword": "paix",
+                "count": 4
+            },
+            {
+                "keyword": "experience",
+                "count": 4
+            },
+            {
+                "keyword": "architectes",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Benti/data=!4m10!3m9!1s0x1302136d8fb5865d:0xc4684bac505131a!5m2!4m1!1i2!8m2!3d35.7735239!4d10.8273706!16s%2Fg%2F11h1dgvyby!19sChIJXYa1j20TAhMRGhMFxbqERgw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJEx9XnWITAhMRo3mRZltWkGg",
+        "name": "Monastir Medina",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 13,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Monastir Medina (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNFbxSN_Y7Cb9eDCzVcFub5_H9CWCw0xdg9zQyM=w408-h306-k-no",
+        "main_category": "Centre commercial",
+        "categories": [
+            "Centre commercial"
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:00-20:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "QRFH+876 Monastir Medina, Rue de l'Independance, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Monastir+Medina/data=!4m7!3m6!1s0x130213629d571f13:0x6890565b669179a3!8m2!3d35.773293!4d10.8281397!16s%2Fg%2F11gsmkrzdk!19sChIJEx9XnWITAhMRo3mRZltWkGg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJUXAm5QYTAhMRwVQmdlYyzg0",
+        "name": "Gyzel Tunisie",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gyzel Tunisie (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMrHX_ue5wPIxOT85rTSBQGXYgXICVLpq3XNzk1=w408-h306-k-no",
+        "main_category": "Magasin de vetements",
+        "categories": [
+            "Magasin de vetements",
+            "Service d'e-commerce"
+        ],
+        "rating": 4.3,
+        "workday_timing": "08:30-17:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "29 707 399",
+        "address": "QRCF+C62 Gyzel Tunisie, Av. du combattant supreme, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gyzel+Tunisie/data=!4m7!3m6!1s0x13021306e5267051:0xdce3256762654c1!8m2!3d35.7710046!4d10.8230054!16s%2Fg%2F11g4bfw8cw!19sChIJUXAm5QYTAhMRwVQmdlYyzg0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtS9JBrUSAhMRzpx7P0YgYkk",
+        "name": "Fleur des Champs",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Fleur des Champs (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Boutique de sante et beaute",
+        "categories": [
+            "Boutique de sante et beaute"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "22 861 094",
+        "address": "QRCC+M4F Fleur des Champs, Unnamed Road, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fleur+des+Champs/data=!4m7!3m6!1s0x130212b506492fb5:0x496220463f7b9cce!8m2!3d35.7716875!4d10.820296!16s%2Fg%2F11hbv8z9q3!19sChIJtS9JBrUSAhMRzpx7P0YgYkk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJC0HkzIkRAhMR1hHwoNIMCQk",
+        "name": "HERBALYA NATURAL CARE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://herbalya.tn/",
+        "owner": {
+            "id": "115091978298889838511",
+            "name": "HERBALYA NATURAL CARE (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/115091978298889838511"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMt9njYyJpxhOE8GVf5d66LGb6Kxl6nHPwpmXcL=w408-h408-k-no",
+        "main_category": null,
+        "categories": null,
+        "rating": 5,
+        "workday_timing": "08:00-21:00",
+        "closed_on": [],
+        "phone": "97 498 405",
+        "address": "HERBALYA NATURAL CARE, avenue de la republique, Bennane 5025",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/HERBALYA+NATURAL+CARE/data=!4m7!3m6!1s0x13021189cce4410b:0x9090cd2a0f011d6!8m2!3d35.6612152!4d10.8370697!16s%2Fg%2F11r8_10cdj!19sChIJC0HkzIkRAhMR1hHwoNIMCQk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJY6slUfsTAhMRJnhUvctLgOU",
+        "name": "Spadacoffee Monastir",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": "118187986487832652914",
+            "name": "Spadacoffee Monastir (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/118187986487832652914"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPWi03mkXUd2m2qryxNucJkAV7yd7UTbHJvOe6T=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "52 882 220",
+        "address": "QRFC+73F Spadacoffee Monastir, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Spadacoffee+Monastir/data=!4m7!3m6!1s0x130213fb5125ab63:0xe5804bcbbd547826!8m2!3d35.7730457!4d10.8195648!16s%2Fg%2F11t2x9vq1z!19sChIJY6slUfsTAhMRJnhUvctLgOU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJHU1Kg-4XAhMRD0u2XULb9-M",
+        "name": "LA NATURE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "115062522718002599740",
+            "name": "LA NATURE (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/115062522718002599740"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNLQsiizRge8hbc9z5g_8VqizuZZCCaVV1qGR8=w408-h612-k-no",
+        "main_category": "Fromagerie",
+        "categories": [
+            "Fromagerie"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": "53 217 518",
+        "address": "LA NATURE, Tabulbah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/LA+NATURE/data=!4m7!3m6!1s0x130217ee834a4d1d:0xe3f7db425db64b0f!8m2!3d35.6474641!4d10.9764325!16s%2Fg%2F11jj45smcz!19sChIJHU1Kg-4XAhMRD0u2XULb9-M?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2xoWKusRAhMRIGpml3yBeHQ",
+        "name": "Arvea Nature",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Arvea Nature (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Magasin de cosmetiques",
+        "categories": [
+            "Magasin de cosmetiques"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "29 294 294",
+        "address": "MVFM+4HV Arvea Nature, Lamta",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Arvea+Nature/data=!4m7!3m6!1s0x130211eb2a161adb:0x7478817c97666a20!8m2!3d35.6728555!4d10.8839119!16s%2Fg%2F11p5g3xqz1!19sChIJ2xoWKusRAhMRIGpml3yBeHQ?authuser=0&hl=fr&rclk=1"
+    }
+]

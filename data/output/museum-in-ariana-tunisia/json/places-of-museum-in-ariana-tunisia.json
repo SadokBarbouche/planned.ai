@@ -1,0 +1,315 @@
+[
+    {
+        "place_id": "ChIJZUdtiDkz_RIRZ1qp5OILUxU",
+        "name": "Bardo National Museum",
+        "description": "Artefacts de Carthage et collection de mosaiques romaines la plus importante au monde dans un cadre grandiose.",
+        "is_spending_on_ads": false,
+        "reviews": 2444,
+        "website": "http://www.bardomuseum.tn/",
+        "owner": {
+            "id": "105899130589857135201",
+            "name": "Bardo National Museum (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105899130589857135201"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNOYpCbkavk7kh-3_NeMQ2s12Dbv1ZChdLntn7w=w408-h275-k-no",
+        "main_category": "Musee national",
+        "categories": [
+            "Musee national"
+        ],
+        "rating": 4.5,
+        "workday_timing": "09:30-16:30",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": null,
+        "address": "Bardo National Museum, RN 7, Tunis",
+        "review_keywords": [
+            {
+                "keyword": "mosaique romaine",
+                "count": 58
+            },
+            {
+                "keyword": "histoire de la tunisie",
+                "count": 39
+            },
+            {
+                "keyword": "palais",
+                "count": 33
+            },
+            {
+                "keyword": "islamique",
+                "count": 23
+            },
+            {
+                "keyword": "civilisations",
+                "count": 22
+            },
+            {
+                "keyword": "2015",
+                "count": 14
+            },
+            {
+                "keyword": "1888",
+                "count": 11
+            },
+            {
+                "keyword": "continent",
+                "count": 8
+            },
+            {
+                "keyword": "virgile",
+                "count": 7
+            },
+            {
+                "keyword": "terrorisme",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Bardo+National+Museum/data=!4m7!3m6!1s0x12fd3339886d4765:0x15530be2e4a95a67!8m2!3d36.8093547!4d10.1342091!16s%2Fm%2F047prs0!19sChIJZUdtiDkz_RIRZ1qp5OILUxU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_WPn3rk0_RIRkMqMTJNjotw",
+        "name": "Tunis Science City",
+        "description": "Musee scientifique anime avec un planetarium, proposant des expositions interactives permanentes et temporaires.",
+        "is_spending_on_ads": false,
+        "reviews": 527,
+        "website": "http://www.cst.rnu.tn/",
+        "owner": {
+            "id": "103671301845435033444",
+            "name": "Tunis Science City (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103671301845435033444"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP0k4vGhfj395j1WXl37xx_fw8r3_3oAMhkTEGC=w426-h240-k-no",
+        "main_category": "Musee scientifique",
+        "categories": [
+            "Musee scientifique",
+            "Espace Internet",
+            "Attraction touristique"
+        ],
+        "rating": 4.2,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "71 766 000",
+        "address": "Tunis Science City, Rue La Cite des Sciences a Tunis, Tunis 1082",
+        "review_keywords": [
+            {
+                "keyword": "enfants",
+                "count": 31
+            },
+            {
+                "keyword": "scientifiques",
+                "count": 9
+            },
+            {
+                "keyword": "culture",
+                "count": 9
+            },
+            {
+                "keyword": "espace",
+                "count": 8
+            },
+            {
+                "keyword": "astronomie",
+                "count": 6
+            },
+            {
+                "keyword": "divertir",
+                "count": 6
+            },
+            {
+                "keyword": "adultes",
+                "count": 5
+            },
+            {
+                "keyword": "maintenance",
+                "count": 4
+            },
+            {
+                "keyword": "eclipse lunaire",
+                "count": 3
+            },
+            {
+                "keyword": "bibliotheque",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Tunis+Science+City/data=!4m7!3m6!1s0x12fd34b9dee763fd:0xdca263934c8cca90!8m2!3d36.8495842!4d10.1885171!16s%2Fg%2F122r2qb7!19sChIJ_WPn3rk0_RIRkMqMTJNjotw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ6Qpez2gy_RIRIV9o2O6-lnY",
+        "name": "Musee National Militaire",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 140,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Musee National Militaire (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN8lpgkip-Ogx_HwKXtqKRk4KskhD6l49FgtqpZ=w408-h306-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": "09:00-16:00",
+        "closed_on": [
+            "lundi"
+        ],
+        "phone": "70 604 018",
+        "address": "Musee National Militaire, 53 Ave Habib Bourguiba, Manouba",
+        "review_keywords": [
+            {
+                "keyword": "histoire militaire",
+                "count": 18
+            },
+            {
+                "keyword": "armes",
+                "count": 14
+            },
+            {
+                "keyword": "palais",
+                "count": 11
+            },
+            {
+                "keyword": "ministere",
+                "count": 7
+            },
+            {
+                "keyword": "architecture",
+                "count": 7
+            },
+            {
+                "keyword": "guide culturel",
+                "count": 5
+            },
+            {
+                "keyword": "guerres",
+                "count": 4
+            },
+            {
+                "keyword": "histoire de la tunisie",
+                "count": 3
+            },
+            {
+                "keyword": "1989",
+                "count": 3
+            },
+            {
+                "keyword": "1984",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Mus%C3%A9e+National+Militaire/data=!4m7!3m6!1s0x12fd3268cf5e0ae9:0x7696beeed8685f21!8m2!3d36.8113948!4d10.0984958!16s%2Fg%2F120jr3v2!19sChIJ6Qpez2gy_RIRIV9o2O6-lnY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJad5Dxew1_RIR3TxAYai5wGc",
+        "name": "fetedelascience.tn",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "105520156203856868719",
+            "name": "fetedelascience.tn (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105520156203856868719"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPbg0ZQuH56OH-6i4IA9nkj0qr166shSWkyxE43=w426-h240-k-no",
+        "main_category": "Musee scientifique",
+        "categories": [
+            "Musee scientifique"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-22:30",
+        "closed_on": [
+            "lundi",
+            "mardi",
+            "vendredi",
+            "samedi",
+            "dimanche"
+        ],
+        "phone": "71 766 000",
+        "address": "fetedelascience.tn, Rue La Cite des Sciences a Tunis, Tunis 1082",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/fetedelascience.tn/data=!4m7!3m6!1s0x12fd35ecc543de69:0x67c0b9a861403cdd!8m2!3d36.8492554!4d10.1888843!16s%2Fg%2F11j0j1tg0t!19sChIJad5Dxew1_RIR3TxAYai5wGc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJz9_0_UPL4hIRB1NnE7M1XPc",
+        "name": "Place Brahim KHOUAJA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Place Brahim KHOUAJA (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOrAvZdlfzsDuX3Tp_ahsaYDZ2_ljoKKiCOAOdN=w408-h306-k-no",
+        "main_category": "Musee historique",
+        "categories": [
+            "Musee historique"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "V5RP+WVF Place Brahim KHOUAJA",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Place+Brahim+KHOUAJA/data=!4m7!3m6!1s0x12e2cb43fdf4dfcf:0xf75c35b313675307!8m2!3d36.8923246!4d10.1871857!16s%2Fg%2F11pkjzcgsv!19sChIJz9_0_UPL4hIRB1NnE7M1XPc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJM4J9lF3L4hIRYxXOx6koSL4",
+        "name": "jm`yW@ `yswyW@ 'ryn@ Association issaweyet ariana",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "104903354621886602884",
+            "name": "jm`yW@ `yswyW@ 'ryn@ Association issaweyet ariana (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/104903354621886602884"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNMpi39bR2tKkBUT-HdRIO7jTNx4TTioS2FXLlr=w408-h270-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-22:30",
+        "closed_on": [],
+        "phone": "22 502 905",
+        "address": "jm`yW@ `yswyW@ 'ryn@ Association issaweyet ariana, 2080 Rue Sidi Ammar, Ariana",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D8%AC%D9%85%D8%B9%D9%8A%D9%91%D8%A9+%D8%B9%D9%8A%D8%B3%D8%A7%D9%88%D9%8A%D9%91%D8%A9+%D8%A3%D8%B1%D9%8A%D8%A7%D9%86%D8%A9+Association+issaweyet+ariana%E2%80%AD/data=!4m7!3m6!1s0x12e2cb5d947d8233:0xbe4828a9c7ce1563!8m2!3d36.8592614!4d10.1906703!16s%2Fg%2F11h7h_mzlz!19sChIJM4J9lF3L4hIRYxXOx6koSL4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJkd4_Q7c0_RIRqINEWwdtSfg",
+        "name": "Pavillon Explora",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Pavillon Explora (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOY9ZuaKHUfma8s5VXOJFc-Au-tpX_bZ0dYO-JT=w519-h240-k-no",
+        "main_category": "Musee",
+        "categories": [
+            "Musee"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "R5XQ+P86 Pavillon Explora, Tunis",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pavillon+Explora/data=!4m7!3m6!1s0x12fd34b7433fde91:0xf8496d075b4483a8!8m2!3d36.8492794!4d10.1882797!16s%2Fg%2F113gnb468!19sChIJkd4_Q7c0_RIRqINEWwdtSfg?authuser=0&hl=fr&rclk=1"
+    }
+]

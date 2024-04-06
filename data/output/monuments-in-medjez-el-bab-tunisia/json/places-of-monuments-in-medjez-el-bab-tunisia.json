@@ -1,0 +1,102 @@
+[
+    {
+        "place_id": "ChIJ51rHYOzA_BIR-vfAFPUW4MY",
+        "name": "Medjez-el-Bab War Cemetery",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": "http://www.cwgc.org/find-a-cemetery/cemetery/2054200/MEDJEZ-EL-BAB%2520MEMORIAL",
+        "owner": {
+            "id": null,
+            "name": "Medjez-el-Bab War Cemetery (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMpQFvAjfiO2ckgHbKuAOq3_qnXikczfNtfzH03=w513-h240-k-no",
+        "main_category": "Cimetiere militaire",
+        "categories": [
+            "Cimetiere militaire"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JHGC+M5F Medjez-el-Bab War Cemetery, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Medjez-el-Bab+War+Cemetery/data=!4m7!3m6!1s0x12fcc0ec60c75ae7:0xc6e016f514c0f7fa!8m2!3d36.6266783!4d9.5704154!16s%2Fm%2F0zwlsgm!19sChIJ51rHYOzA_BIR-vfAFPUW4MY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJicutPDXB_BIRQo2vNNrauP0",
+        "name": "Eglise Saint-Augustin de Medjez el-Bab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Eglise Saint-Augustin de Medjez el-Bab (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNTg88BvBwezL9SFBMQ5s1O2wcee6r4cNo0-unm=w426-h240-k-no",
+        "main_category": "Eglise",
+        "categories": [
+            "Eglise"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "MJ25+5WM Eglise Saint-Augustin de Medjez el-Bab, la cathedrale de, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%C3%89glise+Saint-Augustin+de+Medjez+el-Bab/data=!4m7!3m6!1s0x12fcc1353cadcb89:0xfdb8dada34af8d42!8m2!3d36.650462!4d9.6097844!16s%2Fg%2F11dd_r_xk_!19sChIJicutPDXB_BIRQo2vNNrauP0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJJYtVW-zA_BIR3_7UpEh-n98",
+        "name": "cimetiere chretien",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "https://www.cwgc.org/find-a-cemetery/cemetery/47314/Medjez-el-bab%2520War%2520Cemetery",
+        "owner": {
+            "id": null,
+            "name": "cimetiere chretien (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPy7mz07vc02KyYwY5eIiyoEAVb_pCdPLf25Eql=w408-h306-k-no",
+        "main_category": "Cimetiere militaire",
+        "categories": [
+            "Cimetiere militaire"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "26 296 683",
+        "address": "JJWF+899 cimetiere chretien, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/cimeti%C3%A8re+chr%C3%A9tien/data=!4m7!3m6!1s0x12fcc0ec5b558b25:0xdf9f7e48a4d4fedf!8m2!3d36.6457927!4d9.6234924!16s%2Fg%2F11c6v9_1tp!19sChIJJYtVW-zA_BIR3_7UpEh-n98?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9WZNRc3B_BIRvkVzT1JHR7Q",
+        "name": "Medjez el Bab",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Medjez el Bab (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Temple parsi",
+        "categories": [
+            "Temple parsi"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JJX8+282 Medjez el Bab, Rue Union du Grand Maghreb, Majaz Al Bab",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Medjez+el+Bab/data=!4m7!3m6!1s0x12fcc1cd454d66f5:0xb44747524f7345be!8m2!3d36.6475125!4d9.6157656!16s%2Fg%2F11t2tdh_73!19sChIJ9WZNRc3B_BIRvkVzT1JHR7Q?authuser=0&hl=fr&rclk=1"
+    }
+]

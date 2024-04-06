@@ -1,0 +1,77 @@
+[
+    {
+        "place_id": "ChIJXYafUhQR_RIRRYaN7PtTZfs",
+        "name": "station louage Zaghouan",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "station louage Zaghouan (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPARrs7SZul3f6RQb67PoQ_538RJJlm1lIds60F=w408-h544-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 3.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "C42X+425 station louage Zaghouan, Av. de la Liberte, Zaghouan",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/station+louage+Zaghouan/data=!4m7!3m6!1s0x12fd1114529f865d:0xfb6553fbec8d8645!8m2!3d36.400254!4d10.1476101!16s%2Fg%2F11g265lpt9!19sChIJXYafUhQR_RIRRYaN7PtTZfs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2yd9_VUd_RIRcPL0FuGV1FQ",
+        "name": "Gare El Fahs",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": "http://www.sntri.com.tn/",
+        "owner": {
+            "id": null,
+            "name": "Gare El Fahs (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP-APIrdU9fReKERAZTDthI2J981FOx_Ra4OmJd=w408-h725-k-no",
+        "main_category": "Arret de bus",
+        "categories": [
+            "Arret de bus"
+        ],
+        "rating": 2.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Gare El Fahs, P3, El Fahs 1140",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+El+Fahs/data=!4m7!3m6!1s0x12fd1d55fd7d27db:0x54d495e116f4f270!8m2!3d36.3758071!4d9.9023532!16s%2Fg%2F1jky13y88!19sChIJ2yd9_VUd_RIRcPL0FuGV1FQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJzfbt9Em14hIRRfcL-DQws4M",
+        "name": "Station Bus Ndeg",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station Bus Ndeg (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNn2qHYPdv6zJcUOD-qcTvpNMqeVrvCL8G84nC0=w408-h544-k-no",
+        "main_category": "Arret de transports en commun",
+        "categories": [
+            "Arret de transports en commun"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Station Bus Ndeg",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+Bus+N%C2%B0/data=!4m7!3m6!1s0x12e2b549f4edf6cd:0x83b33034f80bf745!8m2!3d36.8567033!4d10.2812076!16s%2Fg%2F1tjvt3sh!19sChIJzfbt9Em14hIRRfcL-DQws4M?authuser=0&hl=fr&rclk=1"
+    }
+]

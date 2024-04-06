@@ -1,0 +1,77 @@
+[
+    {
+        "place_id": "ChIJb2hTN9MWAhMRSQQYOYFvBEM",
+        "name": "Ksar Hellal",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 61,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ksar Hellal (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOAYf_8qGeTTODhVMYEDlvrqbQ3QdKKedAW5T8b=w426-h240-k-no",
+        "main_category": "Jardin",
+        "categories": [
+            "Jardin"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "JVVR+69P Ksar Hellal, Av. Habib bourguiba, Ksar Hellal",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ksar+Hellal/data=!4m7!3m6!1s0x130216d33753686f:0x43046f8139180449!8m2!3d35.6430884!4d10.8909686!16s%2Fg%2F11dzdkc41p!19sChIJb2hTN9MWAhMRSQQYOYFvBEM?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJfZaQD8QRAhMRJyVFa4RMzTs",
+        "name": "Perfect Bio",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": "http://perfectbio.tn/",
+        "owner": {
+            "id": "103129653183877349815",
+            "name": "Perfect Bio (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/103129653183877349815"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN5vquNSTUv0MXjnblXZn9LhMzoU6dRkFOhxLhr=w408-h546-k-no",
+        "main_category": "Boutique de sante et beaute",
+        "categories": [
+            "Boutique de sante et beaute"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "54 058 067",
+        "address": "Perfect Bio, immeuble yassine, Av. Hadj Ali Soua, Ksar Hellal 5070",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Perfect+Bio/data=!4m7!3m6!1s0x130211c40f90967d:0x3bcd4c846b452527!8m2!3d35.6550805!4d10.890363!16s%2Fg%2F11h93tdqvg!19sChIJfZaQD8QRAhMRJyVFa4RMzTs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJSc2qiokXAhMRRizgPs2vk0c",
+        "name": "Ksar hellal",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ksar hellal (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Jardin",
+        "categories": [
+            "Jardin"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "MW28+2F Ksar hellal, Sayada",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ksar+hellal/data=!4m7!3m6!1s0x130217898aaacd49:0x4793afcd3ee02c46!8m2!3d35.6500123!4d10.9162088!16s%2Fg%2F11tsp40pvl!19sChIJSc2qiokXAhMRRizgPs2vk0c?authuser=0&hl=fr&rclk=1"
+    }
+]

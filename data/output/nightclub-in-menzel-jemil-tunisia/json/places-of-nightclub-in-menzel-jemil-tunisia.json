@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJR7mxILkf4xIRGCNRQFzPstQ",
+        "name": "THE MIXTE Cafe Restaurant Chicha Soiree Dansante",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "THE MIXTE Cafe Restaurant Chicha Soiree Dansante (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNXU_cXvpQj4y0pworyxuuCbwzvbpCnfJ1uioWD=w408-h725-k-no",
+        "main_category": "Cafe et restaurant de grillades",
+        "categories": [
+            "Cafe et restaurant de grillades"
+        ],
+        "rating": 4.5,
+        "workday_timing": "04:30-03:30",
+        "closed_on": [],
+        "phone": "55 229 266",
+        "address": "THE MIXTE Cafe Restaurant Chicha Soiree Dansante, 46 Ave Habib Bourguiba, Menzel Abderrahmen",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/THE+MIXTE+Caf%C3%A9+Restaurant+Chicha+Soir%C3%A9e+Dansante/data=!4m7!3m6!1s0x12e31fb920b1b947:0xd4b2cf5c40512318!8m2!3d37.2333483!4d9.8674436!16s%2Fg%2F11gtd25s5g!19sChIJR7mxILkf4xIRGCNRQFzPstQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJOSgiKizLAhMRjqTqqsf3ICg",
+        "name": "Menzel temime",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Menzel temime (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Pub",
+        "categories": [
+            "Pub"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QXHM+2VM Menzel temime, Avenue de l'imam sahnoun, Manzil Tamim 8080",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Menzel+temime/data=!4m7!3m6!1s0x1302cb2c2a222839:0x2820f7c7aaeaa48e!8m2!3d36.7775805!4d10.9846613!16s%2Fg%2F11q7dmclc3!19sChIJOSgiKizLAhMRjqTqqsf3ICg?authuser=0&hl=fr&rclk=1"
+    }
+]

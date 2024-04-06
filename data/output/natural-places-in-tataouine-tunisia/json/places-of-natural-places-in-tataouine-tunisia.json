@@ -1,0 +1,269 @@
+[
+    {
+        "place_id": "ChIJ____T_a9VBIRQbS4U6BJ6EY",
+        "name": "Chenini Tataouine shnny",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 255,
+        "website": "https://www.facebook.com/yassinbouchriha%3Fmibextid%3Dvk8aRt",
+        "owner": {
+            "id": "118387240497271161580",
+            "name": "Chenini Tataouine shnny (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/118387240497271161580"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNBfeNa5GLxutep3CbMir0SFhrN-KgS0o7OMsr6=w426-h240-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique",
+            "Circuit de randonnee",
+            "Site historique"
+        ],
+        "rating": 4.7,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Chenini Tataouine shnny, CHENINI 3274",
+        "review_keywords": [
+            {
+                "keyword": "village",
+                "count": 26
+            },
+            {
+                "keyword": "troglodyte",
+                "count": 8
+            },
+            {
+                "keyword": "l'histoire",
+                "count": 8
+            },
+            {
+                "keyword": "desert",
+                "count": 7
+            },
+            {
+                "keyword": "mosquee",
+                "count": 7
+            },
+            {
+                "keyword": "est",
+                "count": 7
+            },
+            {
+                "keyword": "paysage",
+                "count": 7
+            },
+            {
+                "keyword": "montagne",
+                "count": 6
+            },
+            {
+                "keyword": "magique",
+                "count": 5
+            },
+            {
+                "keyword": "site",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Chenini+Tata%C3%B8ui%C3%B1e+%D8%B4%D9%86%D9%86%D9%8A%E2%80%AD/data=!4m7!3m6!1s0x1254bdf64fffffff:0x46e849a053b8b441!8m2!3d32.9124639!4d10.2619922!16s%2Fg%2F11dybfhsv2!19sChIJ____T_a9VBIRQbS4U6BJ6EY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJAQBAOmyuVBIRThuFz26wztg",
+        "name": "Ksar Ouled Soltane",
+        "description": "Entoure de 2 cours, ce grenier fortifie a plusieurs etages a ete construit par les Berberes au XVe siecle.",
+        "is_spending_on_ads": false,
+        "reviews": 201,
+        "website": "https://galaxytours.com/starwars-tunisia-recce-sites/ksar-ouled-soltane/",
+        "owner": {
+            "id": "105546671787017541961",
+            "name": "Ksar Ouled Soltane (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105546671787017541961"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipObGEJTbSUVBcjfR9cBLo5iAtBk2Szi3ouWO-oi=w408-h328-k-no",
+        "main_category": "Site historique",
+        "categories": [
+            "Site historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.7,
+        "workday_timing": "09:00-17:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "Ksar Ouled Soltane, Tataouine",
+        "review_keywords": [
+            {
+                "keyword": "star wars",
+                "count": 8
+            },
+            {
+                "keyword": "film",
+                "count": 6
+            },
+            {
+                "keyword": "sud",
+                "count": 6
+            },
+            {
+                "keyword": "touristiques",
+                "count": 6
+            },
+            {
+                "keyword": "grenier",
+                "count": 5
+            },
+            {
+                "keyword": "village",
+                "count": 5
+            },
+            {
+                "keyword": "fortifie",
+                "count": 5
+            },
+            {
+                "keyword": "cafe",
+                "count": 5
+            },
+            {
+                "keyword": "etages",
+                "count": 3
+            },
+            {
+                "keyword": "escalade",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ksar+Ouled+Soltane/data=!4m7!3m6!1s0x1254ae6c3a400001:0xd8ceb06ecf851b4e!8m2!3d32.7884099!4d10.5147592!16zL20vMGJyejcx!19sChIJAQBAOmyuVBIRThuFz26wztg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ81AXgnO6VBIR8sC5TgDze_E",
+        "name": "Ksar Beni Barka",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 40,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Ksar Beni Barka (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMzyWYjYl5Ph6J6PrLnwFHs72-qCxeM5v2k8zdo=w408-h306-k-no",
+        "main_category": "Chateau",
+        "categories": [
+            "Chateau",
+            "Site historique",
+            "Attraction touristique"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "VCPM+FFR Ksar Beni Barka, Tataouine",
+        "review_keywords": [
+            {
+                "keyword": "vue",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Ksar+Beni+Barka/data=!4m7!3m6!1s0x1254ba73821750f3:0xf17bf3004eb9c0f2!8m2!3d32.8862418!4d10.4336397!16s%2Fg%2F1229cm5q!19sChIJ81AXgnO6VBIR8sC5TgDze_E?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJWwYXEWi3VBIRN52KC7Oip_I",
+        "name": "La Grande Mosquee",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Grande Mosquee (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO-a69VBt9kvSXHlkUqXzEgHov5aPNr4xmpmm-G=w408-h543-k-no",
+        "main_category": "Mosquee",
+        "categories": [
+            "Mosquee"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "WFM2+6PQ La Grande Mosquee, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+Grande+Mosqu%C3%A9e/data=!4m7!3m6!1s0x1254b7681117065b:0xf2a7a2b30b8a9d37!8m2!3d32.9330782!4d10.4518497!16s%2Fg%2F1hdz8g2b9!19sChIJWwYXEWi3VBIRN52KC7Oip_I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJKcl7WWq3VBIRmY8XuxyiYCo",
+        "name": "Wed El Kamh",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Canal",
+        "categories": [
+            "Canal"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Wed El Kamh, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Wed+El+Kamh/data=!4m7!3m6!1s0x1254b76a597bc929:0x2a60a21cbb178f99!8m2!3d32.9351268!4d10.4563236!16s%2Fg%2F11ckr64kdp!19sChIJKcl7WWq3VBIRmY8XuxyiYCo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJFw6-tbm3VBIRgI0_Ap00Qgg",
+        "name": "CASAPAINT",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "CASAPAINT (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Peintre en batiment",
+        "categories": [
+            "Peintre en batiment"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "55 774 532",
+        "address": "XF34+8XG CASAPAINT, P19, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/CASAPAINT/data=!4m7!3m6!1s0x1254b7b9b5be0e17:0x842349d023f8d80!8m2!3d32.9533243!4d10.4574552!16s%2Fg%2F11h8h3vy3b!19sChIJFw6-tbm3VBIRgI0_Ap00Qgg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0-DQSzu3VBIRTnzcFHzaFec",
+        "name": "Jabal Zammur",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Sommet montagneux",
+        "categories": [
+            "Sommet montagneux"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Jabal Zammur, Tataouine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Jabal+Zammur/data=!4m7!3m6!1s0x1254b73b4bd0e0d3:0xe715da7c14dc7c4e!8m2!3d32.9236111!4d10.4730556!16s%2Fg%2F11h08cg3v!19sChIJ0-DQSzu3VBIRTnzcFHzaFec?authuser=0&hl=fr&rclk=1"
+    }
+]

@@ -1,0 +1,254 @@
+[
+    {
+        "place_id": "ChIJRxgwSrTp4hIRc681lT5nwnQ",
+        "name": "Dar El Lamma",
+        "description": "Logements elegants dans hotel chic avec piscine exterieure, hammam en marbre et jardin luxuriant.",
+        "is_spending_on_ads": false,
+        "reviews": 131,
+        "website": "http://www.darellamma.com/",
+        "owner": {
+            "id": "112476623079669780323",
+            "name": "Dar El Lamma (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/112476623079669780323"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGHbip58wtPCxNuWvlyHuHCYIBl0xqaPa2GWjiERWOyDSN4-HMJYdusWHvBxWBXrbwSTt-t6JjtYhpz4tOtt6FxBrXXCKVI8Z90A1biLKOims6vp6fyrU3FDZD8g2Jd7yyzj3CSWryfbuu2b7YGD2MVOArOy-TZl-QtqARnogqY0b1OXixfsKz5=w408-h271-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "55 355 000",
+        "address": "Dar El Lamma, Route Ain Hadida, Ras Jebel 7070",
+        "review_keywords": [
+            {
+                "keyword": "piscine",
+                "count": 6
+            },
+            {
+                "keyword": "cadre",
+                "count": 5
+            },
+            {
+                "keyword": "nature",
+                "count": 5
+            },
+            {
+                "keyword": "service",
+                "count": 5
+            },
+            {
+                "keyword": "team building",
+                "count": 4
+            },
+            {
+                "keyword": "proprete",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+El+Lamma/data=!4m10!3m9!1s0x12e2e9b44a301847:0x74c2673e9535af73!5m2!4m1!1i2!8m2!3d37.2289037!4d10.1314216!16s%2Fg%2F11cmbgpqj4!19sChIJRxgwSrTp4hIRc681lT5nwnQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ4fSQVkvA4hIRACnyOn5Tlso",
+        "name": "Les Jardins de la Mer Ghar el Melh",
+        "description": "Hotel tropical de style decontracte avec vue sur lac, bungalows bohemes, restaurant et piscine exterieure.",
+        "is_spending_on_ads": false,
+        "reviews": 82,
+        "website": "http://www.ljdlmgharelmelh.com/",
+        "owner": {
+            "id": null,
+            "name": "Les Jardins de la Mer Ghar el Melh (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhG3eJuw2ARMLc5L4sRNu9FD1QtVbJwR5zfYQivlEhqMa56XOkciQ-ps619LbDuDt8p5lbwV6GrzPeOTGqgL15gVCPcRin6DJR3KJPlVg3dH3gA0_aZ5vE6SyZtAb4etBV9N6PwkQigh7jB1TZSzmIHCyrYs7kpjvJXvRWFyUFIgiIPTP96tPIIZmA=w408-h306-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "22 251 279",
+        "address": "Les Jardins de la Mer Ghar el Melh, 2 el ayoun ghar el Melh, Ghar al Milh 7033",
+        "review_keywords": [
+            {
+                "keyword": "chambre",
+                "count": 9
+            },
+            {
+                "keyword": "vue",
+                "count": 5
+            },
+            {
+                "keyword": "hotes",
+                "count": 4
+            },
+            {
+                "keyword": "piscine",
+                "count": 3
+            },
+            {
+                "keyword": "prix",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Les+Jardins+de+la+Mer+Ghar+el+Melh/data=!4m10!3m9!1s0x12e2c04b5690f4e1:0xca96537e3af22900!5m2!4m1!1i2!8m2!3d37.1704765!4d10.2156266!16s%2Fg%2F11g8bwq3gt!19sChIJ4fSQVkvA4hIRACnyOn5Tlso?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJy1Bras0d4xIRwDikmzX4VRs",
+        "name": "Dar Salama",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 26,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar Salama (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFFR7zklbjMycNWJwmTfxh5cCueralFkCabOgYQNclMPgkZRs-j4CQik2rzpAWg1UAvoT6gj8jOCvcHcpQLJz0zYOevoOhDIDavXoXygpMplcvVX4S979JBkXMS8tFGfBL9qHAenBW4ICMwgERq449kya9d4MkLCH6WWQCWSTJ9YGmxET4NUt-E_w=w408-h306-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "27 063 707",
+        "address": "Dar Salama, Route Panoramique De La Corniche Bizerte TN 7000, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Salama/data=!4m10!3m9!1s0x12e31dcd6a6b50cb:0x1b55f8359ba438c0!5m2!4m1!1i2!8m2!3d37.3235829!4d9.8587484!16s%2Fg%2F11c1xqg7yz!19sChIJy1Bras0d4xIRwDikmzX4VRs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJr-7_yEUe4xIRz5bRNprYeBo",
+        "name": "Dar El Kasba Bizerte",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 21,
+        "website": "https://www.hotelstunisian.com/dar-el-kasba-bizerte/",
+        "owner": {
+            "id": "111752028785945492445",
+            "name": "Dar El Kasba Bizerte (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111752028785945492445"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOTfY7rvq6B5ZPjTz22Uflkwz3znhUybYVZR4zx=w408-h506-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel",
+            "Chambre d'hotes"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "23 311 219",
+        "address": "Dar El Kasba Bizerte, Bizerte",
+        "review_keywords": [
+            {
+                "keyword": "chambre",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+El+Kasba+Bizerte/data=!4m10!3m9!1s0x12e31e45c8ffeeaf:0x1a78d89a36d196cf!5m2!4m1!1i2!8m2!3d37.2791898!4d9.8758447!16s%2Fg%2F11dxqld_41!19sChIJr-7_yEUe4xIRz5bRNprYeBo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ3RdJKwKYqhMRq0Il3gcQFgw",
+        "name": "Dar Amphora Menzel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Dar Amphora Menzel (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFbWxlF5FhOLAd58QgpdgqRQNIsvCAhIOrUH7rE4k2BrtvIQ7kyhiUEovatFtmuC1VX8_UqsfHNbCGno352-sQrHEFK8tKniqZJAWULoTFw-XbmiA5MkMWfyYPtmwMJLpP3PjuxNV6A_xJphawRRjPPDZrbbdggeJ2M9ZD8rcccU8PuyjuHyTiZvQ=w408-h265-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "21 488 464",
+        "address": "Dar Amphora Menzel, Bp 31, Midoun 4190",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Amphora+Menzel/data=!4m10!3m9!1s0x13aa98022b4917dd:0xc161007de2542ab!5m2!4m1!1i2!8m2!3d33.8416313!4d10.9871218!16s%2Fg%2F1tk0svtb!19sChIJ3RdJKwKYqhMRq0Il3gcQFgw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJFQ74J0ke4xIRV6N9sVpF8Ig",
+        "name": "dar sandra",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "dar sandra (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPr7jmsxTYXjtdh0DZD57y4LKOK_4Vh5fh-LRc_=w408-h272-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "99 666 888",
+        "address": "7VHG+G85 dar sandra, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/dar+sandra/data=!4m10!3m9!1s0x12e31e4927f80e15:0x88f0455ab17da357!5m2!4m1!1i2!8m2!3d37.2787539!4d9.8758623!16s%2Fg%2F11fcnzk_4z!19sChIJFQ74J0ke4xIRV6N9sVpF8Ig?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_-Y-1-Xh4hIRg9MtEuvq72k",
+        "name": "Residence Nour errimel MJ",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Residence Nour errimel MJ (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=9p3YaAMJPDIaC8I7z6eZoQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=177.80606&pitch=0&thumbfov=100",
+        "main_category": "Hebergement",
+        "categories": [
+            "Hebergement"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "50 128 000",
+        "address": "6WX7+CPV Residence Nour errimel MJ, Menzel Jemil",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Residence+Nour+errimel+MJ/data=!4m10!3m9!1s0x12e2e1e5d73ee6ff:0x69efeaeb122dd383!5m2!4m1!1i2!8m2!3d37.2486211!4d9.9142995!16s%2Fg%2F11kfwsc_ty!19sChIJ_-Y-1-Xh4hIRg9MtEuvq72k?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJzRzbQtHB4hIR6KJvM3lhjnk",
+        "name": "Hotel Ain Meriem Beach Holiday Village",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": "http://www.hotel-ain-meriem-beach-holiday-village-bizerte.vivehotels.com/",
+        "owner": {
+            "id": null,
+            "name": "Hotel Ain Meriem Beach Holiday Village (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "27 123 314",
+        "address": "56R5+9F5 Hotel Ain Meriem Beach Holiday Village, la corniche, Rafraf",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hotel+Ain+Meriem+Beach+Holiday+Village/data=!4m10!3m9!1s0x12e2c1d142db1ccd:0x798e6179336fa2e8!5m2!4m1!1i2!8m2!3d37.1908984!4d10.2087311!16s%2Fg%2F11f04fgyvp!19sChIJzRzbQtHB4hIR6KJvM3lhjnk?authuser=0&hl=fr&rclk=1"
+    }
+]

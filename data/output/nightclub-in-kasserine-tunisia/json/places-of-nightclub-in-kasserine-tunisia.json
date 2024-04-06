@@ -1,0 +1,28 @@
+[
+    {
+        "place_id": "ChIJizIS-BIV-RIRY2xweM72ukc",
+        "name": "Brown Club",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": "https://brownclub.ovh/",
+        "owner": {
+            "id": "112310130366734304141",
+            "name": "Brown Club (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/112310130366734304141"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOzQg-pDZc_yTJ9q52zzO5_7YD8D58zICCjD03W=w408-h282-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe",
+            "Restaurant"
+        ],
+        "rating": 4.7,
+        "workday_timing": "07:00-00:00",
+        "closed_on": [],
+        "phone": "92 299 007",
+        "address": "Brown Club, Avenue Mohammed El Hammi, Kasserine",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Brown+Club/data=!4m7!3m6!1s0x12f91512f812328b:0x47baf6ce78706c63!8m2!3d35.1710214!4d8.8221157!16s%2Fg%2F11s56r7lj0!19sChIJizIS-BIV-RIRY2xweM72ukc?authuser=0&hl=fr&rclk=1"
+    }
+]

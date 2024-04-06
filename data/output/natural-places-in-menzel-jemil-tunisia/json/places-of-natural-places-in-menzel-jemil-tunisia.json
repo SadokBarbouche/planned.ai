@@ -1,0 +1,220 @@
+[
+    {
+        "place_id": "ChIJn3zZEpng4hIRgnPSF4JriUo",
+        "name": "Foret du Rimel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 182,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Foret du Rimel (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNjRKk0W3YaSUGicMWJ-DDW_8J263MeRmxDmVc5=w408-h306-k-no",
+        "main_category": "Foret nationale",
+        "categories": [
+            "Foret nationale",
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "21 460 224",
+        "address": "6XHJ+323 Foret du Rimel, Autoroute Tunis-Bizerte, Menzel Jemil",
+        "review_keywords": [
+            {
+                "keyword": "plage",
+                "count": 15
+            },
+            {
+                "keyword": "espace",
+                "count": 8
+            },
+            {
+                "keyword": "camping",
+                "count": 5
+            },
+            {
+                "keyword": "sport",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/For%C3%AAt+du+Rimel/data=!4m7!3m6!1s0x12e2e09912d97c9f:0x4a896b8217d27382!8m2!3d37.22763!4d9.9800438!16s%2Fg%2F1tgdwjwn!19sChIJn3zZEpng4hIRgnPSF4JriUo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJk-r-ozHg4hIRyFSVA-dgMX0",
+        "name": "Plage du Remel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 58,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP4S9mXnhvlxxx-IXBr9wW6h3n28X8F3K-cDvZP=w408-h271-k-no",
+        "main_category": "Point d'eau",
+        "categories": [
+            "Point d'eau"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Plage du Remel",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Plage+du+Remel/data=!4m7!3m6!1s0x12e2e031a3feea93:0x7d3160e7039554c8!8m2!3d37.2575125!4d9.9164759!16s%2Fg%2F1hc4l_t8w!19sChIJk-r-ozHg4hIRyFSVA-dgMX0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-6p2yg3g4hIRheedyFr7Xv4",
+        "name": "Menzel Jemil Sud",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 14,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNkaGtn1BP4ueiiMBecT68MGWbVWu8NnleLjazi=w408-h306-k-no",
+        "main_category": "Land mass",
+        "categories": [
+            "Land mass"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Menzel Jemil Sud, Menzel Jemil",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Menzel+Jemil+Sud/data=!4m7!3m6!1s0x12e2e00dca76aafb:0xfe5efb5ac89de785!8m2!3d37.2299388!4d9.9213641!16s%2Fg%2F1v9d4nxp!19sChIJ-6p2yg3g4hIRheedyFr7Xv4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJF3ERoyPg4hIRwHJXL2B8gNI",
+        "name": "Ain Bittar",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPT8liRaNiv8hZCCG0pOtMN1pPXfTRu4G7uUy-B=w408-h303-k-no",
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain Bittar, Menzel Jemil",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+Bittar/data=!4m7!3m6!1s0x12e2e023a3117117:0xd2807c602f5772c0!8m2!3d37.2479301!4d9.9096116!16s%2Fg%2F1q62mz_rl!19sChIJF3ERoyPg4hIRwHJXL2B8gNI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2QZ_iYge4xIRsksTfrU7ac8",
+        "name": "Ain Meriem",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain Meriem, Bizerte",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+Meriem/data=!4m7!3m6!1s0x12e31e88897f06d9:0xcf693bb57e134bb2!8m2!3d37.3008333!4d9.8541667!16s%2Fg%2F11bymt439y!19sChIJ2QZ_iYge4xIRsksTfrU7ac8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ2WwGO2ng4hIReLyzQwR-MiQ",
+        "name": "Ain Najah",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain Najah, Menzel Jemil",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+Najah/data=!4m7!3m6!1s0x12e2e0693b066cd9:0x24327e0443b3bc78!8m2!3d37.2378838!4d9.9316835!16s%2Fg%2F1hc1v5d8l!19sChIJ2WwGO2ng4hIReLyzQwR-MiQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJryA0hT7g4hIRFiDy_rqszbo",
+        "name": "Ain el Hanech",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain el Hanech, Menzel Jemil",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+el+Hanech/data=!4m7!3m6!1s0x12e2e03e853420af:0xbacdacbafef22016!8m2!3d37.2466667!4d9.9191667!16s%2Fg%2F11bymt30qr!19sChIJryA0hT7g4hIRFiDy_rqszbo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJN0bBiXQf4xIRC9zj0lWuJ-o",
+        "name": "Ain Moumene",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMU-pv5cDVk1fMpVxUaBhJknUZkEsRax8TfxxP0=w408-h544-k-no",
+        "main_category": "Source d'eau",
+        "categories": [
+            "Source d'eau"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Ain Moumene",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ain+Moumene/data=!4m7!3m6!1s0x12e31f7489c14637:0xea27ae55d2e3dc0b!8m2!3d37.2463889!4d9.8525!16s%2Fg%2F11bymv56rr!19sChIJN0bBiXQf4xIRC9zj0lWuJ-o?authuser=0&hl=fr&rclk=1"
+    }
+]

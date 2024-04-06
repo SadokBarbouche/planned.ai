@@ -1,0 +1,77 @@
+[
+    {
+        "place_id": "ChIJEczVKMsSAhMRSmcUY_ZiUMk",
+        "name": "Station STS Monastir",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 15,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Station STS Monastir (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO8za9dwFfkgMy1sixpRsaRgaLITAXP7Z_Cg7x_=w408-h306-k-no",
+        "main_category": "Societe de transport en bus et autocar",
+        "categories": [
+            "Societe de transport en bus et autocar"
+        ],
+        "rating": 2.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "31 384 050",
+        "address": "QRFG+786 Station STS Monastir, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Station+STS+Monastir/data=!4m7!3m6!1s0x130212cb28d5cc11:0xc95062f66314674a!8m2!3d35.7731713!4d10.8257706!16s%2Fg%2F11c75m_2zt!19sChIJEczVKMsSAhMRSmcUY_ZiUMk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJteeguooNAhMRsMvnKul6xvA",
+        "name": "Monastir Airport Station",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Monastir Airport Station (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipO8HaT3lTgM_6Shv6toJP3TsFFQC68AJMfwVkLY=w408-h544-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QQ73+3R7 Monastir Airport Station, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Monastir+Airport+Station/data=!4m7!3m6!1s0x13020d8abaa0e7b5:0xf0c67ae92ae7cbb0!8m2!3d35.7626611!4d10.7545605!16s%2Fg%2F11ty7r4126!19sChIJteeguooNAhMRsMvnKul6xvA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJeR8vhYYTAhMRds40DjIenPc",
+        "name": "Gare Ferroviaire Habib-Bourguiba de Monastir - SNCFT",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Gare Ferroviaire Habib-Bourguiba de Monastir - SNCFT (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMWCU6PBJ1rIPCLmL67Jrd21RUHxsEHq1pYEYRm=w533-h240-k-no",
+        "main_category": "Service de transport",
+        "categories": [
+            "Service de transport"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QR76+PG3 Gare Ferroviaire Habib-Bourguiba de Monastir - SNCFT, Monastir",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Gare+Ferroviaire+Habib-Bourguiba+de+Monastir+-+SNCFT/data=!4m7!3m6!1s0x13021386852f1f79:0xf79c1e320e34ce76!8m2!3d35.7642624!4d10.8112969!16s%2Fg%2F11v4j3pg9v!19sChIJeR8vhYYTAhMRds40DjIenPc?authuser=0&hl=fr&rclk=1"
+    }
+]

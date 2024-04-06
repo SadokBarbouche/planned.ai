@@ -1,0 +1,202 @@
+[
+    {
+        "place_id": "ChIJu-B6VMVi-RIRL7SkXdV5Pzk",
+        "name": "Restaurant Faouzi Merguez & Lablebi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant Faouzi Merguez & Lablebi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPOJvGQTJDP3oR2B82vVV6QH-Goz_mSNsFWdxmf=w408-h408-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": "05:00-16:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "HMCC+6GG Restaurant Faouzi Merguez & Lablebi, P17, Thala",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+Faouzi+Merguez+%26+Lablebi/data=!4m7!3m6!1s0x12f962c5547ae0bb:0x393f79d55da4b42f!8m2!3d35.5705651!4d8.6713272!16s%2Fg%2F11g6lx9t0v!19sChIJu-B6VMVi-RIRL7SkXdV5Pzk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0xOvN89i-RIRLY-4MFYIHIg",
+        "name": "mqh~ lHj mnwr Cafe Elhaj Mnawer",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mqh~ lHj mnwr Cafe Elhaj Mnawer (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNU5YOGw0PIAnIJnqd8JKTdhWiWYq_6p5mCY91b=w408-h279-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "52 219 821",
+        "address": "HMG9+4R7 mqh~ lHj mnwr Cafe Elhaj Mnawer, P17, Thala 1210",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D9%82%D9%87%D9%89+%D8%A7%D9%84%D8%AD%D8%A7%D8%AC+%D9%85%D9%86%D9%88%D8%B1+Caf%C3%A9+Elhaj+Mnawer%E2%80%AD/data=!4m7!3m6!1s0x12f962cf37af13d3:0x881c085630b88f2d!8m2!3d35.5752882!4d8.6695389!16s%2Fg%2F11cs9mty6q!19sChIJ0xOvN89i-RIRLY-4MFYIHIg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJHVUy3eBj-RIRp6YQ_0RoTTw",
+        "name": "Chicken house",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 3,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Chicken house (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-23:00",
+        "closed_on": [],
+        "phone": "20 645 327",
+        "address": "HMC9+HX Chicken house, Thala",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Chicken+house/data=!4m7!3m6!1s0x12f963e0dd32551d:0x3c4d6844ff10a6a7!8m2!3d35.5713927!4d8.6698565!16s%2Fg%2F11rd8xk0zd!19sChIJHVUy3eBj-RIRp6YQ_0RoTTw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJUbFkMehj-RIR2VJNjRojcvs",
+        "name": "Restaurant miam's food",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant miam's food (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "99 676 429",
+        "address": "HM9C+PC9 Restaurant miam's food, P17, Thala",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+miam%27s+food/data=!4m7!3m6!1s0x12f963e83164b151:0xfb72231a8d4d52d9!8m2!3d35.5692753!4d8.6711207!16s%2Fg%2F11h63hl9db!19sChIJUbFkMehj-RIR2VJNjRojcvs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJI0tXsi1j-RIRvQHy7dehA3A",
+        "name": "Mourade Mlawi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mourade Mlawi (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "HMGC+82G Mourade Mlawi, Thala",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mourade+Mlawi/data=!4m7!3m6!1s0x12f9632db2574b23:0x7003a1d7edf201bd!8m2!3d35.5758241!4d8.6700629!16s%2Fg%2F11g4f8g5t2!19sChIJI0tXsi1j-RIRvQHy7dehA3A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJS9A1VIxj-RIRcbtrpbQjMwc",
+        "name": "Cafe el Homri",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Cafe el Homri (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPfr_-FHpYaHAjJKYi01iYw9s92ENS9tnabUo1E=w426-h240-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": null,
+        "address": "HMQ9+3FW Cafe el Homri, Thala",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Caf%C3%A9+el+Homri/data=!4m7!3m6!1s0x12f9638c5435d04b:0x73323b4a56bbb71!8m2!3d35.5877256!4d8.668707!16s%2Fg%2F11y1mq25zx!19sChIJS9A1VIxj-RIRcbtrpbQjMwc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJExTe5Tpj-RIRAAEuqBlRR54",
+        "name": "Queen \"cafe-resto\"",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Queen \"cafe-resto\" (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMr_koxp_5UZfcKZDm8qJkqfdSeqU8-FUKS0mzX=w408-h725-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-00:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "HMV6+FPV Queen \"cafe-resto\", Thala",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Queen+%22caf%C3%A9-resto%22/data=!4m7!3m6!1s0x12f9633ae5de1413:0x9e475119a82e0100!8m2!3d35.5937497!4d8.6617907!16s%2Fg%2F11smz8k1yr!19sChIJExTe5Tpj-RIRAAEuqBlRR54?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJF2Eh0h9j-RIRp-P2gXPldeU",
+        "name": "La nouvelle cafe",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La nouvelle cafe (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPzflUr0SvJcjlQvNYjWAUYsD4WxX02ZKZ8lPpn=w408-h306-k-no",
+        "main_category": "Cafe",
+        "categories": [
+            "Cafe"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "HMC9+JV5 La nouvelle cafe, Thala",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/La+nouvelle+caf%C3%A9/data=!4m7!3m6!1s0x12f9631fd2216117:0xe575e57381f6e3a7!8m2!3d35.5715048!4d8.669722!16s%2Fg%2F11sxx5sp9p!19sChIJF2Eh0h9j-RIRp-P2gXPldeU?authuser=0&hl=fr&rclk=1"
+    }
+]

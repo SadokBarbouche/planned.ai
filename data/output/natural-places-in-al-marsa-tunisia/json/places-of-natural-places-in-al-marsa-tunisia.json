@@ -1,0 +1,437 @@
+[
+    {
+        "place_id": "ChIJIx92you04hIReGeKxMpkF9k",
+        "name": "La Marsa plage",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 658,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNwH70pwQ8bzlZkN4Mu8i2Z982zZpRGZ-6t6RTA=w426-h240-k-no",
+        "main_category": "Plage",
+        "categories": [
+            "Plage"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "La Marsa plage, Marsa",
+        "review_keywords": [
+            {
+                "keyword": "touristique",
+                "count": 11
+            },
+            {
+                "keyword": "hiver",
+                "count": 8
+            },
+            {
+                "keyword": "cafes",
+                "count": 8
+            },
+            {
+                "keyword": "chaises",
+                "count": 7
+            },
+            {
+                "keyword": "beau",
+                "count": 6
+            },
+            {
+                "keyword": "atmosphere",
+                "count": 5
+            },
+            {
+                "keyword": "pieds",
+                "count": 5
+            },
+            {
+                "keyword": "ete",
+                "count": 5
+            },
+            {
+                "keyword": "poubelles",
+                "count": 3
+            },
+            {
+                "keyword": "pittoresque",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/La+Marsa+plage/data=!4m7!3m6!1s0x12e2b48bca761f23:0xd91764cac48a6778!8m2!3d36.8866832!4d10.3316545!16s%2Fg%2F11b63343sw!19sChIJIx92you04hIReGeKxMpkF9k?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJVVVVVVG04hIRVMyqFGsRMfI",
+        "name": "Marsa Corniche",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 536,
+        "website": null,
+        "owner": {
+            "id": "106006054073176675993",
+            "name": "Marsa Corniche (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/106006054073176675993"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN-HqQHhQbGkaLBE8SaDHM3jZJyFv_kBHN3zTo3=w408-h306-k-no",
+        "main_category": "Attraction touristique",
+        "categories": [
+            "Attraction touristique"
+        ],
+        "rating": 4.4,
+        "workday_timing": "06:00-21:00",
+        "closed_on": [
+            "mercredi",
+            "samedi",
+            "dimanche"
+        ],
+        "phone": null,
+        "address": "Marsa Corniche, Marsa",
+        "review_keywords": [
+            {
+                "keyword": "plage",
+                "count": 22
+            },
+            {
+                "keyword": "espace",
+                "count": 18
+            },
+            {
+                "keyword": "cafes",
+                "count": 13
+            },
+            {
+                "keyword": "beau",
+                "count": 11
+            },
+            {
+                "keyword": "soir",
+                "count": 7
+            },
+            {
+                "keyword": "prix",
+                "count": 6
+            },
+            {
+                "keyword": "famille",
+                "count": 6
+            },
+            {
+                "keyword": "l'atmosphere",
+                "count": 4
+            },
+            {
+                "keyword": "anime",
+                "count": 3
+            },
+            {
+                "keyword": "attention",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Marsa+Corniche/data=!4m7!3m6!1s0x12e2b45155555555:0xf231116b14aacc54!8m2!3d36.8848613!4d10.3315121!16s%2Fg%2F11f4ptr7_p!19sChIJVVVVVVG04hIRVMyqFGsRMfI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJy9OgdY204hIR1DSgN5AvVCs",
+        "name": "ICE PARK LA MARSA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 309,
+        "website": null,
+        "owner": {
+            "id": "102591381898713522428",
+            "name": "ICE PARK LA MARSA (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/102591381898713522428"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOAPXEbiAigcm1petvPQg83U9x10M0Vc4M_pRQg=w426-h240-k-no",
+        "main_category": "Patinoire",
+        "categories": [
+            "Patinoire",
+            "Parc",
+            "Attraction touristique"
+        ],
+        "rating": 4,
+        "workday_timing": "09:30-17:30, 20:30-23:00",
+        "closed_on": [],
+        "phone": "98 360 241",
+        "address": "ICE PARK LA MARSA, Marsa 2070",
+        "review_keywords": [
+            {
+                "keyword": "familles",
+                "count": 15
+            },
+            {
+                "keyword": "espace",
+                "count": 7
+            },
+            {
+                "keyword": "divertissement",
+                "count": 6
+            },
+            {
+                "keyword": "plastic",
+                "count": 5
+            },
+            {
+                "keyword": "cadre",
+                "count": 4
+            },
+            {
+                "keyword": "prix",
+                "count": 4
+            },
+            {
+                "keyword": "cafe",
+                "count": 3
+            },
+            {
+                "keyword": "jeux",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/ICE+PARK+LA+MARSA/data=!4m7!3m6!1s0x12e2b48d75a0d3cb:0x2b542f9037a034d4!8m2!3d36.8787769!4d10.3304023!16s%2Fg%2F1s05xj27s!19sChIJy9OgdY204hIR1DSgN5AvVCs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJF_B6DaO04hIR4QXf6YCq_Nw",
+        "name": "Amilcar Beach",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 87,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN5XRAHSOGTJcGf8JnupQjHYsUmM3K79gXAeQud=w408-h272-k-no",
+        "main_category": "Plage",
+        "categories": [
+            "Plage"
+        ],
+        "rating": 3.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Amilcar Beach, Rue de l'Union, Carthage",
+        "review_keywords": [
+            {
+                "keyword": "sale",
+                "count": 3
+            },
+            {
+                "keyword": "chaises",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Amilcar+Beach/data=!4m7!3m6!1s0x12e2b4a30d7af017:0xdcfcaa80e9df05e1!8m2!3d36.86337!4d10.3407033!16s%2Fg%2F11c0r4yvnf!19sChIJF_B6DaO04hIR4QXf6YCq_Nw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdzVfska14hIRG8w4T5IsuQA",
+        "name": "Parc Essaada",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 85,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Parc Essaada (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOcv0JyxWm1HBfuyz_YWqwHCTXnUCILA3zI83ok=w408-h306-k-no",
+        "main_category": "Circuit de randonnee",
+        "categories": [
+            "Circuit de randonnee"
+        ],
+        "rating": 4.5,
+        "workday_timing": "08:00-18:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "V8HH+VCJ Parc Essaada, Rue Essaada, Marsa",
+        "review_keywords": [
+            {
+                "keyword": "picnic",
+                "count": 5
+            },
+            {
+                "keyword": "jeux",
+                "count": 4
+            },
+            {
+                "keyword": "famille",
+                "count": 4
+            },
+            {
+                "keyword": "velo",
+                "count": 4
+            },
+            {
+                "keyword": "boissons",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Parc+Essaada/data=!4m7!3m6!1s0x12e2b546b25f3577:0xb92c924f38cc1b!8m2!3d36.8797043!4d10.3285056!16s%2Fg%2F11h6mnncrr!19sChIJdzVfska14hIRG8w4T5IsuQA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJu_8qqYq04hIRCIgYTGP7uW8",
+        "name": "Plage Publique de La Marsa",
+        "description": "Plage de sable ideale pour le bronzage et la baignade.",
+        "is_spending_on_ads": false,
+        "reviews": 52,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNm7HD8XDig0cYyYI1F_bDGJJYYzwtfgaD8RCrX=w408-h302-k-no",
+        "main_category": "Plage",
+        "categories": [
+            "Plage"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Plage Publique de La Marsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Plage+Publique+de+La+Marsa/data=!4m7!3m6!1s0x12e2b48aa92affbb:0x6fb9fb634c188808!8m2!3d36.8891732!4d10.3275122!16s%2Fg%2F1xpt12p1!19sChIJu_8qqYq04hIRCIgYTGP7uW8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJf3WGw4q04hIR01F0f0ly3kw",
+        "name": "Dar Marsa-Cubes",
+        "description": "Hotel raffine comprenant chambres elegantes et suites de luxe, piscine exterieure et salle a manger chic.",
+        "is_spending_on_ads": false,
+        "reviews": 36,
+        "website": "https://www.dar-marsa-cubes.com/",
+        "owner": {
+            "id": "116218878270613646869",
+            "name": "Dar Marsa-Cubes (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/116218878270613646869"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFxiMkmL-P2Pk3QDySJ4ViEFUwc0jeh1hXyeTJqZ7Xi6eo8lBHhq_pu7t9lKWFwHojwm-QjwSjsGwvCSZnd6CvEsmHPDBh8jQmBEoo96wxKrW8Tzf-1Z8ZJihuraty3_c1RA1_ZY0i47hdI0DIFFFaouo3-voc7W8r1jEkYFjir6Uy-sHB8kuAViA=w408-h306-k-no",
+        "main_category": "Lieu historique",
+        "categories": [
+            "Lieu historique",
+            "Hotel"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "55 160 000",
+        "address": "Dar Marsa-Cubes, Rue Sidi Salah, La Marsa 2070",
+        "review_keywords": [
+            {
+                "keyword": "petit dejeuner",
+                "count": 4
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Marsa-Cubes/data=!4m10!3m9!1s0x12e2b48ac386757f:0x4cde72497f7451d3!5m2!4m1!1i2!8m2!3d36.8882304!4d10.3272216!16s%2Fg%2F11b637tj6x!19sChIJf3WGw4q04hIR01F0f0ly3kw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ03A1mVO04hIRWL9DP6Fu-G8",
+        "name": "Jebel el Khaoui",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 7,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipM5SoY44Wg_P0_O56cjTGtjA57jRjU6Ysi6-zXp=w426-h240-k-no",
+        "main_category": "Sommet montagneux",
+        "categories": [
+            "Sommet montagneux"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Jebel el Khaoui, Marsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Jebel+el+Khaoui/data=!4m7!3m6!1s0x12e2b453993570d3:0x6ff86ea13f43bf58!8m2!3d36.8977778!4d10.3080556!16s%2Fg%2F1tgld77p!19sChIJ03A1mVO04hIRWL9DP6Fu-G8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJLUADc0G14hIRFQW3FjHLM_o",
+        "name": "Marsa cube (plage)",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Marsa cube (plage) (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPtHca3MFLszt7GVpva8tRlyRVxUPFGgB5m6wys=w408-h544-k-no",
+        "main_category": "Environnement et ressources naturelles renouvelables",
+        "categories": [
+            "Environnement et ressources naturelles renouvelables"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "V8PJ+W75 Marsa cube (plage), Imp. Zouhair Essafi 4, Marsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Marsa+cube+%28plage%29/data=!4m7!3m6!1s0x12e2b5417303402d:0xfa33cb3116b70515!8m2!3d36.8872727!4d10.3307195!16s%2Fg%2F11j0yvwp94!19sChIJLUADc0G14hIRFQW3FjHLM_o?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZ1fmrIm04hIRYReTtHYdDcs",
+        "name": "Marsa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": null,
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMhQwnvJICPpN8PvX7RnAGlQGsR7e9taRX9CAfe=w408-h306-k-no",
+        "main_category": "Point d'eau",
+        "categories": [
+            "Point d'eau"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "Marsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Marsa/data=!4m7!3m6!1s0x12e2b489ace65767:0xcb0d1d76b4931761!8m2!3d36.8874974!4d10.3371592!16s%2Fg%2F1hf3mbx49!19sChIJZ1fmrIm04hIRYReTtHYdDcs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ0yZ7xJS04hIRNIeA4744oKM",
+        "name": "Jardin Amazygh",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": "https://www.jardinamazygh.com/",
+        "owner": {
+            "id": "104563814190585140666",
+            "name": "Jardin Amazygh (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/104563814190585140666"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMsgIBDNGiCBNFvUTCFn1CfnzkkK-ywMvx5Eqs=w408-h544-k-no",
+        "main_category": "Fournisseur de produits de beaute",
+        "categories": [
+            "Fournisseur de produits de beaute"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-16:30",
+        "closed_on": [
+            "samedi",
+            "dimanche"
+        ],
+        "phone": "27 442 795",
+        "address": "Jardin Amazygh, 14 Rue de Singapore, Marsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Jardin+Amazygh/data=!4m7!3m6!1s0x12e2b494c47b26d3:0xa3a038bee3808734!8m2!3d36.8806668!4d10.3080733!16s%2Fg%2F11gf5wbs6y!19sChIJ0yZ7xJS04hIRNIeA4744oKM?authuser=0&hl=fr&rclk=1"
+    }
+]

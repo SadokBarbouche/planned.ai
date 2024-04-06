@@ -1,0 +1,123 @@
+[
+    {
+        "place_id": "ChIJC_t_doHqVxIRBSdxoDs_X_g",
+        "name": "Hotel Ras El Ain Tozeur",
+        "description": "Hotel de luxe, restaurant de style decontracte, spa, salle de fitness, et piscines interieure et exterieure.",
+        "is_spending_on_ads": false,
+        "reviews": 1042,
+        "website": "https://www.goldenyasmin.com/",
+        "owner": {
+            "id": "105542293437372958323",
+            "name": "Hotel Ras El Ain Tozeur (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105542293437372958323"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHr9qOHJ9GkyDg-Yar8vmj3UJ6pmQH3-mYIdUUl1xmi15bORy48-HOE3OtHHLr76J8tGqNX68-hQZsfhFL-vGG9xgYzyz8loWgiK_179AY9bnFOQhBmOtSlgZZujttlInHt5SGPt8pfeNv0pgFWjmN-xi00RqyKkkLfUIK5majeX4AnYXeR3FmM=w426-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "76 452 003",
+        "address": "Hotel Ras El Ain Tozeur, Bp 141, Tozeur 2200",
+        "review_keywords": [
+            {
+                "keyword": "chambre",
+                "count": 69
+            },
+            {
+                "keyword": "buffet",
+                "count": 22
+            },
+            {
+                "keyword": "desert",
+                "count": 17
+            },
+            {
+                "keyword": "restauration",
+                "count": 13
+            },
+            {
+                "keyword": "excursion",
+                "count": 12
+            },
+            {
+                "keyword": "proprete",
+                "count": 11
+            },
+            {
+                "keyword": "equipe",
+                "count": 10
+            },
+            {
+                "keyword": "massage",
+                "count": 8
+            },
+            {
+                "keyword": "piscine couverte",
+                "count": 7
+            },
+            {
+                "keyword": "service",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+Ras+El+A%C3%AFn+Tozeur/data=!4m10!3m9!1s0x1257ea81767ffb0b:0xf85f3f3ba0712705!5m2!4m1!1i2!8m2!3d33.9129878!4d8.1174973!16s%2Fg%2F1tdjt4t4!19sChIJC_t_doHqVxIRBSdxoDs_X_g?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJuftFz3NK-RIR13QFVzpTX2Y",
+        "name": "Hotel de la Jeunesse",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 24,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hotel de la Jeunesse (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNv2h6scWy9lCcpH1gPBUZmmwl_e8avspgUnsWI=w408-h544-k-no",
+        "main_category": "Hostel",
+        "categories": [
+            "Hostel"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "77 466 528",
+        "address": "Hotel de la Jeunesse, 40 Av. Habib Bourguiba, Sbeitla",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hotel+de+la+Jeunesse/data=!4m10!3m9!1s0x12f94a73cf45fbb9:0x665f533a570574d7!5m2!4m1!1i2!8m2!3d35.2284444!4d9.1280053!16s%2Fg%2F11c5bdbxgt!19sChIJuftFz3NK-RIR13QFVzpTX2Y?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ08P6wCKl-xIR6EpiVq_h0Lg",
+        "name": "Residence Venus",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 12,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Residence Venus (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMhMVUsY6CVxqz-w94U9FELQ9Q2vwpda583a9Fr=w408-h306-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "78 204 695",
+        "address": "5PJ5+VWH Residence Venus, Rue de la source, El Kef",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/R%C3%A9sidence+V%C3%A9nus/data=!4m10!3m9!1s0x12fba522c0fac3d3:0xb8d0e1af56624ae8!5m2!4m1!1i2!8m2!3d36.1821974!4d8.7098633!16s%2Fg%2F11h2j6mhb2!19sChIJ08P6wCKl-xIR6EpiVq_h0Lg?authuser=0&hl=fr&rclk=1"
+    }
+]

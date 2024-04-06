@@ -1,0 +1,1368 @@
+[
+    {
+        "place_id": "ChIJ0Y8bHgSeAhMRT3hzAqBOCZw",
+        "name": "Hotel Bel Azur Thalasso & Bungalows",
+        "description": "Hotel raffine sur la plage avec chambres contemporaines, 2 restaurants, 2 bars et 5 piscines.",
+        "is_spending_on_ads": false,
+        "reviews": 1785,
+        "website": "http://www.hotelbelazur.com/",
+        "owner": {
+            "id": "100968433581147802239",
+            "name": "Hotel Bel Azur Thalasso & Bungalows (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/100968433581147802239"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPntXqEpnbya2H4qSqn7qr37glxQRrITyuTgPOM=w408-h272-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel",
+            "Hebergement",
+            "Hotel bien-etre"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 280 544",
+        "address": "Hotel Bel Azur Thalasso & Bungalows, BP 13 Rue Assad Ibn El Fourat, Hammamet 8050",
+        "review_keywords": [
+            {
+                "keyword": "animation",
+                "count": 96
+            },
+            {
+                "keyword": "all inclusive",
+                "count": 52
+            },
+            {
+                "keyword": "pourboire",
+                "count": 29
+            },
+            {
+                "keyword": "transats",
+                "count": 27
+            },
+            {
+                "keyword": "menage",
+                "count": 18
+            },
+            {
+                "keyword": "quad",
+                "count": 14
+            },
+            {
+                "keyword": "spectacle",
+                "count": 12
+            },
+            {
+                "keyword": "thalassotherapie",
+                "count": 9
+            },
+            {
+                "keyword": "disco",
+                "count": 6
+            },
+            {
+                "keyword": "direct",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+Bel+Azur+Thalasso+%26+Bungalows/data=!4m10!3m9!1s0x13029e041e1b8fd1:0x9c094ea00273784f!5m2!4m1!1i2!8m2!3d36.4010009!4d10.6302867!16s%2Fg%2F1tfljbp_!19sChIJ0Y8bHgSeAhMRT3hzAqBOCZw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJXywdIYBh_RIRuu-LrWoNoSE",
+        "name": "Phenicia Hotel",
+        "description": "Complexe balneaire convivial tout compris avec restaurants, 5 bars, piscine exterieure et salle de sport.",
+        "is_spending_on_ads": false,
+        "reviews": 1654,
+        "website": null,
+        "owner": {
+            "id": "110729011260657743471",
+            "name": "Phenicia Hotel (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/110729011260657743471"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEm7TDbx-ZzVySNuDw1AxvJ6oRGXRDM1QEbszynXMZ38wHJ2zZlFzgQdFlO_DLb91muqhNebGEPqQhDdTFRa7vsvuD8s4AbA52JByML3UUM8jXlNwIznAvJM_B08IHXR8XQ57guL2MmBWrBeYhUNtPwimPbV5OERkF5G-cJwPwH9OeBdIuxoSipuw=w408-h271-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 226 533",
+        "address": "Phenicia Hotel, Avenue Moncef Bey, Hammamet 8039",
+        "review_keywords": [
+            {
+                "keyword": "animation",
+                "count": 141
+            },
+            {
+                "keyword": "jour ferie",
+                "count": 54
+            },
+            {
+                "keyword": "divertissement",
+                "count": 41
+            },
+            {
+                "keyword": "pourboires",
+                "count": 30
+            },
+            {
+                "keyword": "all inclusive",
+                "count": 27
+            },
+            {
+                "keyword": "danse",
+                "count": 14
+            },
+            {
+                "keyword": "animateurs",
+                "count": 13
+            },
+            {
+                "keyword": "tir a l'arc",
+                "count": 12
+            },
+            {
+                "keyword": "centre equestre",
+                "count": 6
+            },
+            {
+                "keyword": "ninja",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Phenicia+Hotel/data=!4m10!3m9!1s0x12fd6180211d2c5f:0x21a10d6aad8befba!5m2!4m1!1i2!8m2!3d36.3998363!4d10.5749102!16s%2Fg%2F1tggkw9y!19sChIJXywdIYBh_RIRuu-LrWoNoSE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJIWKy8pJj_RIRw6fpEAUpz-k",
+        "name": "Hotel Mehari Hammamet",
+        "description": "Hotel convivial avec 4 restaurants, 7 bars, piscine exterieure, 2 cafes, spa et salle de sport.",
+        "is_spending_on_ads": false,
+        "reviews": 1568,
+        "website": "https://www.goldenyasmin.com/",
+        "owner": {
+            "id": "118415286266663159211",
+            "name": "Hotel Mehari Hammamet (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/118415286266663159211"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGwEbITJY_sEl_FiSWJFcbHaNqL0wA6SUhkMrCw6r0l07taT524v6fiGOgQRyPthgUjRW5xIZKOo38NaeM-A6eXVB9vrsixVIxaWHya9JhXOlppqdcSXbspLFz6efbYMxhVs5WEGDsv7Pr6LEwYH3s-b46Qw6vVWv7Fk8JgDQE-EBKrKD6pS51MuQ=w426-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 241 900",
+        "address": "Hotel Mehari Hammamet, Yasmine Hammamet, Hammamet 8050",
+        "review_keywords": [
+            {
+                "keyword": "etoiles",
+                "count": 45
+            },
+            {
+                "keyword": "all inclusive",
+                "count": 17
+            },
+            {
+                "keyword": "thalasso",
+                "count": 16
+            },
+            {
+                "keyword": "femme de menage",
+                "count": 15
+            },
+            {
+                "keyword": "animation",
+                "count": 14
+            },
+            {
+                "keyword": "buffet",
+                "count": 14
+            },
+            {
+                "keyword": "serveurs",
+                "count": 13
+            },
+            {
+                "keyword": "plage privee",
+                "count": 9
+            },
+            {
+                "keyword": "quad",
+                "count": 8
+            },
+            {
+                "keyword": "animateurs",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hotel+M%C3%A9hari+Hammamet/data=!4m10!3m9!1s0x12fd6392f2b26221:0xe9cf290510e9a7c3!5m2!4m1!1i2!8m2!3d36.3632716!4d10.5346542!16s%2Fg%2F1vnnflp5!19sChIJIWKy8pJj_RIRw6fpEAUpz-k?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJFRHAAhKeAhMR3xY0CY0oJ_8",
+        "name": "Alhambra Thalasso Hotel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1412,
+        "website": "http://alhambra-thalasso.com/",
+        "owner": {
+            "id": "117882404529167824828",
+            "name": "Alhambra Thalasso Hotel (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117882404529167824828"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEp_NiUYseb8kHeh799vUzUUe--s7_101iW5E_848WPBhfuz38lXWNrQReEql09TOqwnykSi9rq2sDefPT9hE3ZhV2KJ-_CHCmQOF_wO0Zw_ZVNaWzD51thfPo7uLSkWaDuDe-JFYFJf_ZWMAOBHI1KeXUa55eMz7Gf05qFSBm6aAbscXWD8d1L2g=w486-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 240 590",
+        "address": "Alhambra Thalasso Hotel, Yasmine Hammamet",
+        "review_keywords": [
+            {
+                "keyword": "etoiles",
+                "count": 58
+            },
+            {
+                "keyword": "animation",
+                "count": 34
+            },
+            {
+                "keyword": "serveurs",
+                "count": 23
+            },
+            {
+                "keyword": "all inclusive",
+                "count": 22
+            },
+            {
+                "keyword": "massage",
+                "count": 21
+            },
+            {
+                "keyword": "maison de retraite",
+                "count": 17
+            },
+            {
+                "keyword": "catastrophique",
+                "count": 17
+            },
+            {
+                "keyword": "architecture",
+                "count": 17
+            },
+            {
+                "keyword": "directeur",
+                "count": 10
+            },
+            {
+                "keyword": "piscine couverte",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Alhambra+Thalasso+Hotel/data=!4m10!3m9!1s0x13029e1202c01115:0xff27288d093416df!5m2!4m1!1i2!8m2!3d36.3559897!4d10.5257645!16s%2Fg%2F1tg8fn1c!19sChIJFRHAAhKeAhMR3xY0CY0oJ_8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJdYVQcNVj_RIR2SuHgaiIcaE",
+        "name": "Steigenberger Marhaba Thalasso Hammamet",
+        "description": "Hotel de plage haut de gamme avec logements elegants, 5 restaurants, 2 piscines exterieures et spa.",
+        "is_spending_on_ads": false,
+        "reviews": 1385,
+        "website": "https://hrewards.com/steigenberger-marhaba-thalasso-hammamet%3Fwt_mc%3Dseo_listing.shr.yext.marhaba_thalasso.hotel_link.text_cta",
+        "owner": {
+            "id": "111125222371840372738",
+            "name": "Steigenberger Marhaba Thalasso Hammamet (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/111125222371840372738"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhE9x8C4ImelNBjKiChSpRFra3FQE2rza-kAcSQPjkYu8woW7MtHuvvuRTer-MZNrl3bVZQQcfIjqRW3n04Joqmdu1LGfXVVIRAL2oJ4h8VFG5apLfBemoyPx95WZ_NLZlt83Bl6_EtI1I4hkU_a-aH9MvMUSEPTUrnJ2ThTaGjmr51pRWfjZyA0=w413-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 226 555",
+        "address": "Steigenberger Marhaba Thalasso Hammamet, La paix, Hammamet Sud 8050",
+        "review_keywords": [
+            {
+                "keyword": "spa",
+                "count": 59
+            },
+            {
+                "keyword": "bungalow",
+                "count": 54
+            },
+            {
+                "keyword": "etoiles",
+                "count": 53
+            },
+            {
+                "keyword": "divertissements",
+                "count": 32
+            },
+            {
+                "keyword": "animation",
+                "count": 28
+            },
+            {
+                "keyword": "serveurs",
+                "count": 22
+            },
+            {
+                "keyword": "all inclusive",
+                "count": 21
+            },
+            {
+                "keyword": "palace",
+                "count": 13
+            },
+            {
+                "keyword": "plage privee",
+                "count": 10
+            },
+            {
+                "keyword": "animateurs",
+                "count": 9
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Steigenberger+Marhaba+Thalasso+Hammamet/data=!4m10!3m9!1s0x12fd63d570508575:0xa17188a881872bd9!5m2!4m1!1i2!8m2!3d36.3999348!4d10.5728605!16s%2Fg%2F1tgkkcy3!19sChIJdYVQcNVj_RIR2SuHgaiIcaE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJx0pnjg2eAhMRacvEVQZNXj8",
+        "name": "Radisson Blu Resort & Thalasso, Hammamet",
+        "description": "Complexe haut de gamme en bord de plage avec hebergements elegants, plusieurs restaurants, piscines et spa.",
+        "is_spending_on_ads": false,
+        "reviews": 1243,
+        "website": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-resort-hammamet%3Fcid%3Da:se%2Bb:gmb%2Bc:emea%2Bi:local%2Be:rdb%2Bd:mea%2Bh:TNNBERTH",
+        "owner": {
+            "id": "113444381433395550134",
+            "name": "Radisson Blu Resort & Thalasso, Hammamet (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113444381433395550134"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOPg4EaTsmupFenNf-FgKtZoYNgoDk0H10I40hi=w426-h240-k-no",
+        "main_category": "Complexe hotelier",
+        "categories": [
+            "Complexe hotelier"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 101 000",
+        "address": "Radisson Blu Resort & Thalasso, Hammamet, Avenue Hedi Nouira, Hammamet 8050",
+        "review_keywords": [
+            {
+                "keyword": "chambre",
+                "count": 110
+            },
+            {
+                "keyword": "etoiles",
+                "count": 65
+            },
+            {
+                "keyword": "serveurs",
+                "count": 19
+            },
+            {
+                "keyword": "sourire",
+                "count": 18
+            },
+            {
+                "keyword": "qualite",
+                "count": 15
+            },
+            {
+                "keyword": "vue sur mer",
+                "count": 12
+            },
+            {
+                "keyword": "chaussons",
+                "count": 10
+            },
+            {
+                "keyword": "buffet",
+                "count": 7
+            },
+            {
+                "keyword": "animation",
+                "count": 6
+            },
+            {
+                "keyword": "accueillant",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Radisson+Blu+Resort+%26+Thalasso,+Hammamet/data=!4m10!3m9!1s0x13029e0d8e674ac7:0x3f5e4d0655c4cb69!5m2!4m1!1i2!8m2!3d36.402331!4d10.638782!16s%2Fg%2F1tfx_3hf!19sChIJx0pnjg2eAhMRacvEVQZNXj8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJlToSJWyeAhMReDA8T9oAPrY",
+        "name": "Hotel Le Sultan",
+        "description": "Hotel contemporain en bord de plage avec spa, ecole de plongee et plusieurs bars et restaurants.",
+        "is_spending_on_ads": false,
+        "reviews": 1187,
+        "website": "http://www.lesultan.com/",
+        "owner": {
+            "id": "105761524411903269235",
+            "name": "Hotel Le Sultan (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/105761524411903269235"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHebeSIyct3Ka_cu0O01GpvETI1956lUciYd-79VUuV1qoC9VaiHC4HySQ6g6ATB7jJIbUiLhJEfDL2Yf2WCXVT-TFsO8CfZscz-thN8x1FyC3R-jyYra8UqtrAVeolF6RTItHr0vI0_1_3GGL4FQZcNb5uoMpEsf5n7DjVE8rs9wzIAsMpYTTk=w408-h272-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 280 588",
+        "address": "Hotel Le Sultan, Route Touristique, Hammamet 8050",
+        "review_keywords": [
+            {
+                "keyword": "animation",
+                "count": 23
+            },
+            {
+                "keyword": "all inclusive",
+                "count": 23
+            },
+            {
+                "keyword": "burkini",
+                "count": 19
+            },
+            {
+                "keyword": "qualite",
+                "count": 16
+            },
+            {
+                "keyword": "animateurs",
+                "count": 13
+            },
+            {
+                "keyword": "vue sur mer",
+                "count": 13
+            },
+            {
+                "keyword": "plage privee",
+                "count": 10
+            },
+            {
+                "keyword": "tir a l'arc",
+                "count": 8
+            },
+            {
+                "keyword": "mini-golf",
+                "count": 8
+            },
+            {
+                "keyword": "hijab",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+Le+Sultan/data=!4m10!3m9!1s0x13029e6c25123a95:0xb63e00da4f3c3078!5m2!4m1!1i2!8m2!3d36.404972!4d10.6477327!16s%2Fg%2F1tcvl5j6!19sChIJlToSJWyeAhMReDA8T9oAPrY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJNxVoeIRh_RIRUajKhRQcd1U",
+        "name": "La Badira - Adult Only",
+        "description": "Chambres et suites raffinees dans hotel haut de gamme en bord de plage avec 5 restaurants, 3 piscines et spa.",
+        "is_spending_on_ads": false,
+        "reviews": 1156,
+        "website": "http://www.labadira.com/",
+        "owner": {
+            "id": "101248602338396611971",
+            "name": "La Badira - Adult Only (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101248602338396611971"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHx2AXqdHvtCwADffhdvrjAlsnPOhyPc4AE3zDa6XfET0iPHpiRdgCSaoPZ-ANZaOo-OUkJBfVF0xwRiBO3Lgd-eKLEVUrZwKB6GuLYKutPdXtPPcDWKGc1fClFoUD_1y-HQ-yX6akAmJEYInon-__acBe-0h1Nes90IuxChzV7r_hq-3UEqSc=w413-h240-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "70 018 180",
+        "address": "La Badira - Adult Only, Route Touristique Nord BP437 Hammamet, Mrezga 8050",
+        "review_keywords": [
+            {
+                "keyword": "spa",
+                "count": 80
+            },
+            {
+                "keyword": "5 etoiles",
+                "count": 34
+            },
+            {
+                "keyword": "burkini",
+                "count": 19
+            },
+            {
+                "keyword": "reve",
+                "count": 14
+            },
+            {
+                "keyword": "serveurs",
+                "count": 14
+            },
+            {
+                "keyword": "piscine a debordement",
+                "count": 9
+            },
+            {
+                "keyword": "l'architecture",
+                "count": 8
+            },
+            {
+                "keyword": "plage privee",
+                "count": 7
+            },
+            {
+                "keyword": "tunisienne",
+                "count": 7
+            },
+            {
+                "keyword": "hammam",
+                "count": 7
+            }
+        ],
+        "link": "https://www.google.com/maps/place/La+Badira+-+Adult+Only/data=!4m10!3m9!1s0x12fd618478681537:0x55771c1485caa851!5m2!4m1!1i2!8m2!3d36.4043159!4d10.649168!16s%2Fg%2F11cm_dx5m6!19sChIJNxVoeIRh_RIRUajKhRQcd1U?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJCd6lKodh_RIRUAP5JEkCISc",
+        "name": "Les Orangers Garden Villas & Bungalows",
+        "description": "Logements clairs dans complexe balneaire convivial avec 3 bars, discotheque, piscines en interieur/exterieur.",
+        "is_spending_on_ads": false,
+        "reviews": 854,
+        "website": "http://orangersgarden.com/",
+        "owner": {
+            "id": "112446073340454630565",
+            "name": "Les Orangers Garden Villas & Bungalows (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/112446073340454630565"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHZUhJrDh4p6rlUA5woyDW9kDC361D4U70g-ka-OPqrNUv2FYOwBuUXhHmIlsrHSsutly_66qUS0APNE30M_-jqBlxbWX4CHsYElzksxld-guujs7axasQ9CeFpkOFPpBKTLLerC2eqLTuOhJs5GsM-z_oTmZlKW5zBhV6_-mjcxyHtBqv1g_ze=w408-h291-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel",
+            "Chambre d'hotes"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 280 537",
+        "address": "Les Orangers Garden Villas & Bungalows, Rue de Never Hammamet 8050, 8050 Rue Dag Hammarskjold, Hammamet Sud",
+        "review_keywords": [
+            {
+                "keyword": "plage",
+                "count": 124
+            },
+            {
+                "keyword": "all inclusive",
+                "count": 30
+            },
+            {
+                "keyword": "jardin",
+                "count": 27
+            },
+            {
+                "keyword": "massage",
+                "count": 21
+            },
+            {
+                "keyword": "a la carte",
+                "count": 13
+            },
+            {
+                "keyword": "hammam",
+                "count": 11
+            },
+            {
+                "keyword": "reve",
+                "count": 11
+            },
+            {
+                "keyword": "animation",
+                "count": 8
+            },
+            {
+                "keyword": "grillades",
+                "count": 7
+            },
+            {
+                "keyword": "otage",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Les+Orangers+Garden+Villas+%26+Bungalows/data=!4m10!3m9!1s0x12fd61872aa5de09:0x2721024924f90350!5m2!4m1!1i2!8m2!3d36.4003641!4d10.5794508!16s%2Fg%2F1vp17468!19sChIJCd6lKodh_RIRUAP5JEkCISc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJkRtjuZIz_RIRyUCg6hXcvJo",
+        "name": "The Orangers Beach Resort and Bungalows",
+        "description": "Complexe a l'atmosphere decontractee avec acces direct a la plage, spa, restaurants et piscines interieure/exterieure.",
+        "is_spending_on_ads": false,
+        "reviews": 762,
+        "website": "https://orangershotel.com/",
+        "owner": {
+            "id": "115181879423306875169",
+            "name": "The Orangers Beach Resort and Bungalows (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/115181879423306875169"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGJ2Lj8D6ajgNSArChtZ0Ab_H8mHMxu2AXcLSlVthPskbzaY1ObLDTHhXPg54JgNVoaXysEkjaDOETJY41X2XDCtyEjdtq6p7annOJ79_Eintrj026tvANt0QFYS5P39egIl3M93XT2dx-XfzJnh82dZZaiZiRy-Sz4ocBxQl_nFqpdaaTB1lzd=w408-h272-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 281 641",
+        "address": "The Orangers Beach Resort and Bungalows, BP7 rue de Nevers, Hammamet 8050",
+        "review_keywords": [
+            {
+                "keyword": "all inclusive",
+                "count": 34
+            },
+            {
+                "keyword": "massage",
+                "count": 25
+            },
+            {
+                "keyword": "serveurs",
+                "count": 19
+            },
+            {
+                "keyword": "animation",
+                "count": 17
+            },
+            {
+                "keyword": "directeur",
+                "count": 17
+            },
+            {
+                "keyword": "animateurs",
+                "count": 11
+            },
+            {
+                "keyword": "piscine couverte",
+                "count": 9
+            },
+            {
+                "keyword": "hammam",
+                "count": 9
+            },
+            {
+                "keyword": "present",
+                "count": 8
+            },
+            {
+                "keyword": "tir a l'arc",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/The+Orangers+Beach+Resort+and+Bungalows/data=!4m10!3m9!1s0x12fd3392b9631b91:0x9abcdc15eaa040c9!5m2!4m1!1i2!8m2!3d36.3993927!4d10.5774359!16s%2Fg%2F11gxwnnt9_!19sChIJkRtjuZIz_RIRyUCg6hXcvJo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ_2EpxPaeAhMR2NvN-yIl3hk",
+        "name": "Hotel Omar Khayam",
+        "description": "Hotel tout compris de style decontracte sur plage, restaurants, bars, spa et piscines int. et ext.",
+        "is_spending_on_ads": false,
+        "reviews": 615,
+        "website": "http://omarkhayam.club/",
+        "owner": {
+            "id": "102062873581242525694",
+            "name": "Hotel Omar Khayam (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/102062873581242525694"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEfjgom3jyVA-lASrTYurNPHA2m3KAXOAZjnpNpHW_y5Gogx-5VspZey3ZMMu5PrLz8D5WKZlgP7Ye7NnjnKK-7DTVA58Y4ZfSuPdc7qogqHpuM-quUlaVddk-W3h5tDYxpDhb4sJBVU_wZ6HMfKVjEZkhCSmunn-im8MnlKloOwNmKNehRaYBr=w408-h271-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 322 630",
+        "address": "Hotel Omar Khayam, rue touristique hammamet nord, Hammamet 8050",
+        "review_keywords": [
+            {
+                "keyword": "animation",
+                "count": 54
+            },
+            {
+                "keyword": "piscine",
+                "count": 32
+            },
+            {
+                "keyword": "plage",
+                "count": 31
+            },
+            {
+                "keyword": "chambres",
+                "count": 30
+            },
+            {
+                "keyword": "enfants",
+                "count": 26
+            },
+            {
+                "keyword": "loisirs",
+                "count": 12
+            },
+            {
+                "keyword": "toboggans",
+                "count": 11
+            },
+            {
+                "keyword": "parc aquatique",
+                "count": 10
+            },
+            {
+                "keyword": "all inclusive",
+                "count": 7
+            },
+            {
+                "keyword": "journee",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+Omar+Khayam/data=!4m10!3m9!1s0x13029ef6c42961ff:0x19de2522fbcddbd8!5m2!4m1!1i2!8m2!3d36.418482!4d10.6687442!16s%2Fg%2F1tlv4368!19sChIJ_2EpxPaeAhMR2NvN-yIl3hk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJOYy8E49j_RIR837AMh1FdQg",
+        "name": "Hotel Royal Azur Thalassa",
+        "description": "Chambres et suites sobres dans hotel haut de gamme en bord de plage avec restaurants, bars et spa.",
+        "is_spending_on_ads": false,
+        "reviews": 490,
+        "website": "http://www.hotelroyalazur.com/",
+        "owner": {
+            "id": "101158288442921290489",
+            "name": "Hotel Royal Azur Thalassa (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101158288442921290489"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMgAc2yLQaNFfYfEqpBFWbz_sktR-PbDNHEp5m2=w408-h254-k-no",
+        "main_category": "Complexe hotelier",
+        "categories": [
+            "Complexe hotelier",
+            "Hotel bien-etre"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 278 500",
+        "address": "Hotel Royal Azur Thalassa, Rue Assad Ibn el fourat, Hammamet 8050",
+        "review_keywords": [
+            {
+                "keyword": "chambre",
+                "count": 62
+            },
+            {
+                "keyword": "choix",
+                "count": 20
+            },
+            {
+                "keyword": "thalasso",
+                "count": 19
+            },
+            {
+                "keyword": "est",
+                "count": 11
+            },
+            {
+                "keyword": "salle de sport",
+                "count": 8
+            },
+            {
+                "keyword": "gentillesse",
+                "count": 8
+            },
+            {
+                "keyword": "bemol",
+                "count": 6
+            },
+            {
+                "keyword": "transat",
+                "count": 6
+            },
+            {
+                "keyword": "vue",
+                "count": 6
+            },
+            {
+                "keyword": "reve",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+Royal+Azur+Thalassa/data=!4m10!3m9!1s0x12fd638f13bc8c39:0x875451d32c07ef3!5m2!4m1!1i2!8m2!3d36.401838!4d10.6307943!16s%2Fg%2F1tk3d2q_!19sChIJOYy8E49j_RIR837AMh1FdQg?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJx1gk6YFk_RIR4ShnrDQtm6k",
+        "name": "Hasdrubal Thalassa & Spa Yasmine Hammamet Hotel",
+        "description": "Hotel chic avec suites, restaurants, piscines d'eau salee, spa de jour et plage privee.",
+        "is_spending_on_ads": false,
+        "reviews": 412,
+        "website": "http://www.hasdrubal-thalassa.com/",
+        "owner": {
+            "id": "112891676052053518379",
+            "name": "Hasdrubal Thalassa & Spa Yasmine Hammamet Hotel (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/112891676052053518379"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOfv-31OHK3Tk2ArcW5Xb7R_H_DYAJ2iPgPw42l=w408-h272-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 244 000",
+        "address": "Hasdrubal Thalassa & Spa Yasmine Hammamet Hotel, Zone touristique, Yasmine Hammamet 8052",
+        "review_keywords": [
+            {
+                "keyword": "piscine",
+                "count": 36
+            },
+            {
+                "keyword": "plage",
+                "count": 35
+            },
+            {
+                "keyword": "chambre",
+                "count": 22
+            },
+            {
+                "keyword": "etoiles",
+                "count": 15
+            },
+            {
+                "keyword": "thalasso",
+                "count": 10
+            },
+            {
+                "keyword": "restauration",
+                "count": 9
+            },
+            {
+                "keyword": "directeur",
+                "count": 8
+            },
+            {
+                "keyword": "a la carte",
+                "count": 6
+            },
+            {
+                "keyword": "luxe",
+                "count": 6
+            },
+            {
+                "keyword": "reve",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Hasdrubal+Thalassa+%26+Spa+Yasmine+Hammamet+H%C3%B4tel/data=!4m10!3m9!1s0x12fd6481e92458c7:0xa99b2d34ac6728e1!5m2!4m1!1i2!8m2!3d36.3552552!4d10.5275981!16s%2Fg%2F1vb67mny!19sChIJx1gk6YFk_RIR4ShnrDQtm6k?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJDzdiQPaeAhMR9wFI2crjeIc",
+        "name": "Hotel Royal Nozha",
+        "description": "Hotel elegant avec spa, brasserie en bord de plage, piscine exterieure, club enfants et bowling.",
+        "is_spending_on_ads": false,
+        "reviews": 408,
+        "website": "http://www.hotelroyalnozha.com/",
+        "owner": {
+            "id": null,
+            "name": "Hotel Royal Nozha (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGAunImXISJiMlGy__5nFp_-P66QUxPxvBc3ZVYSxhhC21h1VBVW0JvprRKrEkOtiXcSaSewgiF8udgwOLrVFcMcONo6BLlfw8b0i28a7PicixNSjvrr7DpX_wDSo7EFcal7PO_sO3imQWrWFH1oI1k2RCfSBYedfR1HwLXABq69AsXfLCsEqyS=w408-h270-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel",
+            "Hebergement"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 260 608",
+        "address": "CM98+F6X Hotel Royal Nozha, Route Touristique, Nord 8050",
+        "review_keywords": [
+            {
+                "keyword": "plage",
+                "count": 63
+            },
+            {
+                "keyword": "equipe",
+                "count": 36
+            },
+            {
+                "keyword": "divertissement",
+                "count": 22
+            },
+            {
+                "keyword": "jour ferie",
+                "count": 18
+            },
+            {
+                "keyword": "animation",
+                "count": 14
+            },
+            {
+                "keyword": "all inclusive",
+                "count": 12
+            },
+            {
+                "keyword": "femmes de menage",
+                "count": 9
+            },
+            {
+                "keyword": "taille humaine",
+                "count": 7
+            },
+            {
+                "keyword": "serveur",
+                "count": 7
+            },
+            {
+                "keyword": "crepes",
+                "count": 5
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+Royal+Nozha/data=!4m10!3m9!1s0x13029ef64062370f:0x8778e3cad94801f7!5m2!4m1!1i2!8m2!3d36.4187325!4d10.665596!16s%2Fg%2F1tfthf7r!19sChIJDzdiQPaeAhMR9wFI2crjeIc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJS-1KjyyfAhMRBsgln1g6N-I",
+        "name": "Dar Khayam Hotel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 399,
+        "website": "http://www.khayamhotels.com/",
+        "owner": {
+            "id": "102242165863824338160",
+            "name": "Dar Khayam Hotel (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/102242165863824338160"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPdYwgiTmTGwsTX3N6SABPpn3xLSBUhsDR44N7N=w408-h272-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 322 630",
+        "address": "Dar Khayam Hotel, Boulevard de l'Environnement, Mrezga 8050",
+        "review_keywords": [
+            {
+                "keyword": "plage",
+                "count": 37
+            },
+            {
+                "keyword": "animation",
+                "count": 30
+            },
+            {
+                "keyword": "animateurs",
+                "count": 12
+            },
+            {
+                "keyword": "serveur",
+                "count": 11
+            },
+            {
+                "keyword": "restauration",
+                "count": 10
+            },
+            {
+                "keyword": "equipe",
+                "count": 8
+            },
+            {
+                "keyword": "m'a",
+                "count": 7
+            },
+            {
+                "keyword": "toboggans",
+                "count": 6
+            },
+            {
+                "keyword": "all inclusive",
+                "count": 6
+            },
+            {
+                "keyword": "bemol",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Khayam+H%C3%B4tel/data=!4m10!3m9!1s0x13029f2c8f4aed4b:0xe2373a589f25c806!5m2!4m1!1i2!8m2!3d36.4202945!4d10.6689061!16s%2Fg%2F11qlfbvmsh!19sChIJS-1KjyyfAhMRBsgln1g6N-I?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJG_aWJS6fAhMRMbQF2BFNyEU",
+        "name": "Hotel Aziza. Thalasso Golf",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 186,
+        "website": "http://www.hotelaziza.com/",
+        "owner": {
+            "id": null,
+            "name": "Hotel Aziza. Thalasso Golf (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGJLxST1vlg6Xu1yNI4p743_tBbKcd3lbwAIdsyx8TeJKZXuw3558_A7hgiKi1IchNV5DpiOvKOZOCV2dpo94P7xq_BN2-4Z4w-EwnZrMBSXgJxKL-J5BjFPdDH_SBhkDAOpNUTVzJJtcjxRAbHn_VyEH_N6i5_zGQtRpcHEvehow4WCFOigFOl=w408-h272-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.1,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 283 666",
+        "address": "CJ3V+P23 Hotel Aziza. Thalasso Golf, Blvd. Ibn el Fourat, Hammamet",
+        "review_keywords": [
+            {
+                "keyword": "piscine",
+                "count": 30
+            },
+            {
+                "keyword": "plage",
+                "count": 24
+            },
+            {
+                "keyword": "chambre",
+                "count": 18
+            },
+            {
+                "keyword": "service",
+                "count": 11
+            },
+            {
+                "keyword": "jour ferie",
+                "count": 9
+            },
+            {
+                "keyword": "bar",
+                "count": 9
+            },
+            {
+                "keyword": "buffet",
+                "count": 8
+            },
+            {
+                "keyword": "tout compris",
+                "count": 7
+            },
+            {
+                "keyword": "soir",
+                "count": 7
+            },
+            {
+                "keyword": "choix",
+                "count": 6
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+Aziza.+Thalasso+Golf/data=!4m10!3m9!1s0x13029f2e2596f61b:0x45c84d11d805b431!5m2!4m1!1i2!8m2!3d36.4042587!4d10.642559!16s%2Fg%2F11n0kns9ry!19sChIJG_aWJS6fAhMRMbQF2BFNyEU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ74sekv5h_RIR9RKbd2LWmBk",
+        "name": "Hotel Khella",
+        "description": "Chambres de style decontracte a decoration tunisienne dans hotel convivial, bar, petit-dejeuner gratuit.",
+        "is_spending_on_ads": false,
+        "reviews": 182,
+        "website": "http://www.hotelkhella.com/",
+        "owner": {
+            "id": null,
+            "name": "Hotel Khella (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHxsqk69vAo6wwKJ44XaIO2DEK7Jz8ON9us13gPNP-X2lXauzsTdS_lO4ySVtfV9W31flerLYI8HaLsTpPG81fnvzYh81wlOOB1aIhbdVO1R8QXKgzZMhKlz2P4JBpWYIryYbHKKykN01zbqnBhhTw5G9gVYAeOhwiLPmNVb8-FX5QrO1TySWM=w408-h291-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 283 900",
+        "address": "9JX8+F98 Hotel Khella, Hammamet",
+        "review_keywords": [
+            {
+                "keyword": "prix",
+                "count": 21
+            },
+            {
+                "keyword": "chambre",
+                "count": 14
+            },
+            {
+                "keyword": "plage",
+                "count": 12
+            },
+            {
+                "keyword": "service",
+                "count": 11
+            },
+            {
+                "keyword": "nettoyage",
+                "count": 10
+            },
+            {
+                "keyword": "bar",
+                "count": 6
+            },
+            {
+                "keyword": "buffet",
+                "count": 4
+            },
+            {
+                "keyword": "coeur",
+                "count": 4
+            },
+            {
+                "keyword": "vecteur position",
+                "count": 3
+            },
+            {
+                "keyword": "transport",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/H%C3%B4tel+Khella/data=!4m10!3m9!1s0x12fd61fe921e8bef:0x1998d662779b12f5!5m2!4m1!1i2!8m2!3d36.3986515!4d10.6159398!16s%2Fg%2F11c4vk2ys4!19sChIJ74sekv5h_RIR9RKbd2LWmBk?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ-dchwqWfAhMRrmcy8wrFP38",
+        "name": "AMBER EL FELL",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 82,
+        "website": "http://amberelfell.com/",
+        "owner": {
+            "id": "101664159805484093808",
+            "name": "AMBER EL FELL (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/101664159805484093808"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGTIGVM7-tnNqaNwv_MZ5DErotqJhFR5A_trYgE0-0zdFqJlpxmdNG5FOc2Nb3fJXLV5xUa26FrGUeswB93-267MRZ3lXZtpnULY8DIddn9mRmXJRLrgRJQlUBiwk9pZZOsRlA2uwkkeE8Z068Sf8nZChnGyf5CDs35h8LRJCq9KgSllzxWCMbd=w408-h270-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "72 322 956",
+        "address": "CM89+M3 AMBER EL FELL, Mrezga",
+        "review_keywords": [
+            {
+                "keyword": "service",
+                "count": 11
+            },
+            {
+                "keyword": "mer",
+                "count": 7
+            },
+            {
+                "keyword": "spa",
+                "count": 6
+            },
+            {
+                "keyword": "experience",
+                "count": 6
+            },
+            {
+                "keyword": "vacances",
+                "count": 5
+            },
+            {
+                "keyword": "piscine",
+                "count": 5
+            },
+            {
+                "keyword": "coffre fort",
+                "count": 3
+            },
+            {
+                "keyword": "cuisine",
+                "count": 3
+            },
+            {
+                "keyword": "buffet",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/AMBER+EL+FELL/data=!4m10!3m9!1s0x13029fa5c221d7f9:0x7f3fc50af33267ae!5m2!4m1!1i2!8m2!3d36.4166382!4d10.6677057!16s%2Fg%2F11s90ndjj8!19sChIJ-dchwqWfAhMRrmcy8wrFP38?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJgW8kUWZj_RIRcfzrs6I0fvw",
+        "name": "Dar Hammamet Guest House",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 36,
+        "website": null,
+        "owner": {
+            "id": "108784150432300085239",
+            "name": "Dar Hammamet Guest House (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/108784150432300085239"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMkUsgypzPt8YBkVNswXHDM3YwTsnXQWalkgZZg=w408-h272-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "55 788 966",
+        "address": "Dar Hammamet Guest House, Rue Mohamed Ben Romdhane, Hammamet 8050",
+        "review_keywords": [
+            {
+                "keyword": "chambre",
+                "count": 4
+            },
+            {
+                "keyword": "gout",
+                "count": 3
+            },
+            {
+                "keyword": "proprete",
+                "count": 3
+            },
+            {
+                "keyword": "service",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Hammamet+Guest+House/data=!4m10!3m9!1s0x12fd636651246f81:0xfc7e34a2b3ebfc71!5m2!4m1!1i2!8m2!3d36.3934822!4d10.6133727!16s%2Fg%2F11s0x8hdyy!19sChIJgW8kUWZj_RIRcfzrs6I0fvw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJrQoZ87ph_RIRqtW8IDQVGHw",
+        "name": "Dar Beldi Maison d'hotes",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 16,
+        "website": null,
+        "owner": {
+            "id": "115389724702714570317",
+            "name": "Dar Beldi Maison d'hotes (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/115389724702714570317"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOgUzLgFD-1BCpNYfzeIVUPdiiuv8UMv2k6Wwr_=w408-h271-k-no",
+        "main_category": "Maison d'hotes",
+        "categories": [
+            "Maison d'hotes"
+        ],
+        "rating": 4.9,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "98 322 859",
+        "address": "Dar Beldi Maison d'hotes, Bir Bou Rekba 8042",
+        "review_keywords": [
+            {
+                "keyword": "piscine",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/Dar+Beldi+Maison+d%27h%C3%B4tes/data=!4m10!3m9!1s0x12fd61baf3190aad:0x7c18153420bcd5aa!5m2!4m1!1i2!8m2!3d36.4269803!4d10.588745!16s%2Fg%2F11dzsvzf3z!19sChIJrQoZ87ph_RIRqtW8IDQVGHw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJVREB2v5h_RIRrWfMSomTaWQ",
+        "name": "Residence Neffati",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": "113493528483027826787",
+            "name": "Residence Neffati (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/113493528483027826787"
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEPQAYdGQoq2KppLDeK20A8xnrSOPSPh2cXSQWrHrAqbCz-XC79wF2Usres20M4OMPEhg8hATnwEucUGKBP4fWRe6wxYNoCznq0pKYvrTw2IPH6h8fgV9pqp-_o-aryMqmaEIW_YaSZ1CyXO5lZadEm-IkWb2ZGY7ZtfI_QR1w29u3stNyzD2dy3A=w408-h306-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "55 601 681",
+        "address": "Residence Neffati, 68 Ave. de la Republique, Hammamet 8050",
+        "review_keywords": [
+            {
+                "keyword": "piscine",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/R%C3%A9sidence+Neffati/data=!4m10!3m9!1s0x12fd61feda011155:0x646993894acc67ad!5m2!4m1!1i2!8m2!3d36.3977558!4d10.6158931!16s%2Fg%2F11s32gpmkr!19sChIJVREB2v5h_RIRrWfMSomTaWQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJQV_PZz5h_RIRWLezXD12CGc",
+        "name": "Hotel president",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hotel president (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNz5Flqdvw5uYB9TnYZNgs8s1EhPaer6Wd-qK4t=w408-h306-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "CH4H+MF4 Hotel president, Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hotel+president/data=!4m10!3m9!1s0x12fd613e67cf5f41:0x6708763d5cb3b758!5m2!4m1!1i2!8m2!3d36.4066354!4d10.5786951!16s%2Fg%2F11k3ls22r6!19sChIJQV_PZz5h_RIRWLezXD12CGc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJq6qqqo5j_RIR6SEedYAx_uY",
+        "name": "Hotel Bellissaire",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hotel Bellissaire (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNbDx5lNGc0d9vJp3wNZnpRPxi5Xkrc44D_iI-0=w408-h725-k-no",
+        "main_category": "Hotel",
+        "categories": [
+            "Hotel"
+        ],
+        "rating": 4.2,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "9GFP+X35 Hotel Bellissaire, RN1, Yasmine Hammamet",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hotel+Bellissaire/data=!4m10!3m9!1s0x12fd638eaaaaaaab:0xe6fe3180751e21e9!5m2!4m1!1i2!8m2!3d36.3748843!4d10.5352367!16s%2Fg%2F11c5_wkmm2!19sChIJq6qqqo5j_RIR6SEedYAx_uY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJkY1HIzKfAhMRjzqvEiQHvNw",
+        "name": "Residence Le Corail Appart'Hotel",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Residence Le Corail Appart'Hotel (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGi1NRMZUpRrviLWpfL13JoSL-6xWvPQqpP67VB6PaCiMR-gLL0U_UU3FPPG0uN6g2QOqaus9sRxhawASHlTpOxs7pPJBl5cd0kgvDWepo_U7JKlGJOyZqkiaBEfIjnS6Wa2IiNp296SccbUGZe1r8kEcTBKP5kAz160MpAq5-TH4YES6eThmuj=w408-h272-k-no",
+        "main_category": "Foyer pour femmes actives",
+        "categories": [
+            "Foyer pour femmes actives"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "CJ4C+VXX Residence Le Corail Appart'Hotel, Boulevard 14 Janvier, Hammamet 1987",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Residence+Le+Corail+Appart%E2%80%99Hotel/data=!4m10!3m9!1s0x13029f3223478d91:0xdcbc072412af3a8f!5m2!4m1!1i2!8m2!3d36.4072253!4d10.6224798!16s%2Fg%2F11s7vt4y4s!19sChIJkY1HIzKfAhMRjzqvEiQHvNw?authuser=0&hl=fr&rclk=1"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": "ChIJWdlcfaUhAhMRFxVj3SqkvCY",
+        "name": "ZOUILA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "ZOUILA (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=_Mm7Ns0q9BxOeSUEJFvQBg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=107.18917&pitch=0&thumbfov=100",
+        "main_category": "Hostel",
+        "categories": [
+            "Hostel"
+        ],
+        "rating": 4.7,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "FXPP+QGC ZOUILA, MC 96, Mahdia",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/ZOUILA/data=!4m7!3m6!1s0x130221a57d5cd959:0x26bca42add631517!8m2!3d35.4869363!4d10.986259!16s%2Fg%2F11pfnc3jgq!19sChIJWdlcfaUhAhMRFxVj3SqkvCY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJHU1Kg-4XAhMRD0u2XULb9-M",
+        "name": "LA NATURE",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": "115062522718002599740",
+            "name": "LA NATURE (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/115062522718002599740"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNLQsiizRge8hbc9z5g_8VqizuZZCCaVV1qGR8=w408-h612-k-no",
+        "main_category": "Fromagerie",
+        "categories": [
+            "Fromagerie"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [],
+        "phone": "53 217 518",
+        "address": "LA NATURE, Tabulbah",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/LA+NATURE/data=!4m7!3m6!1s0x130217ee834a4d1d:0xe3f7db425db64b0f!8m2!3d35.6474641!4d10.9764325!16s%2Fg%2F11jj45smcz!19sChIJHU1Kg-4XAhMRD0u2XULb9-M?authuser=0&hl=fr&rclk=1"
+    }
+]

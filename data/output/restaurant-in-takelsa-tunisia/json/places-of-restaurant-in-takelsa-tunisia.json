@@ -1,0 +1,584 @@
+[
+    {
+        "place_id": "ChIJP_kN-t-q4hIR59mWlgjVV7A",
+        "name": "La Crique De Robinson",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 98,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "La Crique De Robinson (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOrzXer8HJfbw4z0TbsNX7xiMulvi93GTfH5346=w493-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.2,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "52 818 067",
+        "address": "RHWG+82M La Crique De Robinson, Taklisah",
+        "review_keywords": [
+            {
+                "keyword": "plage",
+                "count": 8
+            },
+            {
+                "keyword": "vue",
+                "count": 5
+            },
+            {
+                "keyword": "nature",
+                "count": 4
+            },
+            {
+                "keyword": "bateau",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/La+Crique+De+Robinson/data=!4m7!3m6!1s0x12e2aadffa0df93f:0xb057d5089696d9e7!8m2!3d36.8458457!4d10.5750417!16s%2Fg%2F11c51rcdx1!19sChIJP_kN-t-q4hIR59mWlgjVV7A?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJyzb_iUNP_RIRsCZG5ohaLVs",
+        "name": "CHEZ Abdou PIZZARIA",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 33,
+        "website": "https://www.facebook.com/Chez-Abdou-110413574876401/",
+        "owner": {
+            "id": null,
+            "name": "CHEZ Abdou PIZZARIA (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOpb4XEi052ojwpp1LE_vDKe_KV-Iz-8X4tS2rl=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.4,
+        "workday_timing": "10:00-23:00",
+        "closed_on": [],
+        "phone": "95 524 076",
+        "address": "PC57+M84 CHEZ Abdou PIZZARIA, Rue, Principale",
+        "review_keywords": [
+            {
+                "keyword": "familles",
+                "count": 3
+            }
+        ],
+        "link": "https://www.google.com/maps/place/CHEZ+Abdou+PIZZARIA/data=!4m7!3m6!1s0x12fd4f4389ff36cb:0x5b2d5a88e64626b0!8m2!3d36.7091317!4d10.4133422!16s%2Fg%2F11f79cdry0!19sChIJyzb_iUNP_RIRsCZG5ohaLVs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJtY2NiJGr4hIRrSPVtDt7kR0",
+        "name": "Ras Fartas beach",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 23,
+        "website": "https://www.facebook.com/rasfartas",
+        "owner": {
+            "id": "112915847598879628310",
+            "name": "Ras Fartas beach (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/112915847598879628310"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMeYjWUStwMYJOzMZEDFLjdRrTZ6MQRV4Fx9GPJ=w408-h306-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.4,
+        "workday_timing": "09:00-20:00",
+        "closed_on": [],
+        "phone": "22 713 128",
+        "address": "Ras Fartas beach, Takilsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Ras+Fartas+beach/data=!4m7!3m6!1s0x12e2ab91888d8db5:0x1d917b3bb4d523ad!8m2!3d36.8769529!4d10.6131158!16s%2Fg%2F11h4zn3rp9!19sChIJtY2NiJGr4hIRrSPVtDt7kR0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJhRKIcYpRHRMR1SSOOsMAmLA",
+        "name": "Dar Ben Jaballah Gite et Restaurant",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 19,
+        "website": "http://facebook.com/Dar-Rtiba-170772302989383/",
+        "owner": {
+            "id": "115459625890103572233",
+            "name": "Dar Ben Jaballah Gite et Restaurant (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/115459625890103572233"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMuYtpD640b8IhD64LFEfxQ1TOalFz7p9NoyQcB=w408-h510-k-no",
+        "main_category": "Chambre d'hotes",
+        "categories": [
+            "Chambre d'hotes",
+            "Chalet",
+            "Gite",
+            "Maison d'hotes",
+            "Restaurant"
+        ],
+        "rating": 4.3,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "21 969 688",
+        "address": "Dar Ben Jaballah Gite et Restaurant, NA - Rtiba, Meroua - 34km Route el Haouaria, Dar el Hajri 8000",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Dar+Ben+Jaballah+G%C3%AEte+et+Restaurant/data=!4m7!3m6!1s0x131d518a71881285:0xb09800c33a8e24d5!8m2!3d36.8929514!4d10.7735725!16s%2Fg%2F11c5bt431y!19sChIJhRKIcYpRHRMR1SSOOsMAmLA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJy89pt9VO_RIR0tnKIU78_Bo",
+        "name": "Hotel Stokholm, Cite Ibn Rachik, A Cote De La Salle Couverte Ghelela",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 11,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Hotel Stokholm, Cite Ibn Rachik, A Cote De La Salle Couverte Ghelela (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMKLxkESS8I5fagQCf2_CHZF87mHnDCUCBem9zc=w426-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": "09:00-23:00",
+        "closed_on": [],
+        "phone": "98 928 127",
+        "address": "P993+HFH Hotel Stokholm, Cite Ibn Rachik, A Cote De La Salle Couverte Ghelela, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Hotel+Stokholm,+Cit%C3%A9+Ibn+Rachik,+%C3%80+C%C3%B4t%C3%A9+De+La+Salle+Couverte+Ghelela/data=!4m7!3m6!1s0x12fd4ed5b769cfcb:0x1afcfc4e21cad9d2!8m2!3d36.7189448!4d10.3537488!16s%2Fg%2F11bzsflklk!19sChIJy89pt9VO_RIR0tnKIU78_Bo?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJxw8yCTJSHRMRs4_lEn_L8Yw",
+        "name": "Machwa",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 10,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Machwa (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPIlPRw9K7ILn3ymRJz00tMEkdkSqPoy5lWEW5w=w408-h305-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.4,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "46 267 265",
+        "address": "Machwa, 8031, Tunisia, Manila",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Machwa/data=!4m7!3m6!1s0x131d523209320fc7:0x8cf1cb7f12e58fb3!8m2!3d36.8827247!4d10.7595225!16s%2Fg%2F11cn9jsb65!19sChIJxw8yCTJSHRMRs4_lEn_L8Yw?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJRxLOrjurAhMRber8wyyhXog",
+        "name": "Sandwich Mlawi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 9,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Sandwich Mlawi (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPoH7hNcsS7MyLrMEcjM3ubzwnSDz7p2G6bf55b=w408-h378-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.6,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "QJRF+XR3 Sandwich Mlawi, C26, Takilsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Sandwich+Mlawi/data=!4m7!3m6!1s0x1302ab3baece1247:0x885ea12cc3fcea6d!8m2!3d36.7923937!4d10.6245614!16s%2Fg%2F11h4zk750k!19sChIJRxLOrjurAhMRber8wyyhXog?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJrd7l0rNP_RIRAMpDFRaKmWY",
+        "name": "Kirwena",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 8,
+        "website": "https://m.facebook.com/kirwena2014",
+        "owner": {
+            "id": null,
+            "name": "Kirwena (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": "08:00-22:00",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "53 740 668",
+        "address": "PC45+WG9 Kirwena, Borj Cedria",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Kirwena/data=!4m7!3m6!1s0x12fd4fb3d2e5dead:0x66998a161543ca00!8m2!3d36.7072931!4d10.4088448!16s%2Fg%2F11dxdffjr4!19sChIJrd7l0rNP_RIRAMpDFRaKmWY?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJe7bXlWKrAhMRCiK5KTuc_SQ",
+        "name": "Restaurant Lella Fatma",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 6,
+        "website": null,
+        "owner": {
+            "id": "118118267964076835615",
+            "name": "Restaurant Lella Fatma (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/118118267964076835615"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipN1qLQNTt0g4ZA26gUM9DVBZ6YpYJa8xMi6MQ3N=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.8,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "27 270 784",
+        "address": "Restaurant Lella Fatma, Sidi Aissa 8031",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+Lella+Fatma/data=!4m7!3m6!1s0x1302ab6295d7b67b:0x24fd9c3b29b9220a!8m2!3d36.8110154!4d10.6594911!16s%2Fg%2F11slm10zr2!19sChIJe7bXlWKrAhMRCiK5KTuc_SQ?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJRSA2ec5P_RIRAz0JtfxtTf8",
+        "name": "The good",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 5,
+        "website": "https://instagram.com/thegood.coffeshop%3Figshid%3DYmMyMTA2M2Y%3D",
+        "owner": {
+            "id": "117026736209204072043",
+            "name": "The good (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/117026736209204072043"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPZef1Zx1LAzBMoHU7aRZswPbBmZuSO2swWm0Gg=w426-h240-k-no",
+        "main_category": "Restaurant occidental",
+        "categories": [
+            "Restaurant occidental"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [],
+        "phone": "26 600 561",
+        "address": "The good, Plage Ejjehmi",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/The+good/data=!4m7!3m6!1s0x12fd4fce79362045:0xff4d6dfcb5093d03!8m2!3d36.7072994!4d10.4223809!16s%2Fg%2F11sppdpjnv!19sChIJRSA2ec5P_RIRAz0JtfxtTf8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJrTzcTUhP_RIRBrmi0fjWzlc",
+        "name": "Naan food",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Naan food (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "PC46+66P Naan food, Cite Seltenne",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Naan+food/data=!4m7!3m6!1s0x12fd4f484ddc3cad:0x57ced6f8d1a2b906!8m2!3d36.7055789!4d10.4105841!16s%2Fg%2F11t6y02h3v!19sChIJrTzcTUhP_RIRBrmi0fjWzlc?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ9cVVD1pP_RIR_OPhEKuDHdU",
+        "name": "Pizzaria Afrique",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": "104519997609064168380",
+            "name": "Pizzaria Afrique (proprietaire)",
+            "link": "https://www.google.com/maps/contrib/104519997609064168380"
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipNfTGFXreXLCFxFTmCN5OjPYWdmsXin-Vp627wB=w426-h240-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "10:00-22:00",
+        "closed_on": [
+            "mercredi"
+        ],
+        "phone": "51 433 999",
+        "address": "Pizzaria Afrique, 8 rue des martyrs Hammem chot, 1164",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Pizzaria+Afrique/data=!4m7!3m6!1s0x12fd4f5a0f55c5f5:0xd51d83ab10e1e3fc!8m2!3d36.7179108!4d10.3706154!16s%2Fg%2F11gs7fzp6r!19sChIJ9cVVD1pP_RIR_OPhEKuDHdU?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJq0wnlv5Q_RIRL3myPjWhOks",
+        "name": "restaurant le bon coin",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 4,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "restaurant le bon coin (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4,
+        "workday_timing": "10:00-22:00",
+        "closed_on": [],
+        "phone": "55 200 153",
+        "address": "PF2Q+9MG restaurant le bon coin, Soliman",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/restaurant+le+bon+coin/data=!4m7!3m6!1s0x12fd50fe96274cab:0x4b3aa1353eb2792f!8m2!3d36.7009293!4d10.4892172!16s%2Fg%2F11c5h006w5!19sChIJq0wnlv5Q_RIRL3myPjWhOks?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJU3M8EeNV_RIRM-cSbu0bDY8",
+        "name": "Fadhila mlewi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Fadhila mlewi (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "PJR6+MV2 Fadhila mlewi, Baddar",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Fadhila+mlewi/data=!4m7!3m6!1s0x12fd55e3113c7353:0x8f0d1bed6e12e733!8m2!3d36.7416423!4d10.6121375!16s%2Fg%2F11pc20krjt!19sChIJU3M8EeNV_RIRM-cSbu0bDY8?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJOfHEDzFV_RIRfpxywA89ztE",
+        "name": "King Majid",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "King Majid (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMl2KBjZJ34e0cs1DfNOjpsHKPVg9ckAhN6MSB_=w408-h544-k-no",
+        "main_category": "Restauration rapide",
+        "categories": [
+            "Restauration rapide"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "RJ33+WJC King Majid, El Brij",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/King+Majid/data=!4m7!3m6!1s0x12fd55310fc4f139:0xd1ce3d0fc0729c7e!8m2!3d36.804808!4d10.6040006!16s%2Fg%2F11v3m_tcsy!19sChIJOfHEDzFV_RIRfpxywA89ztE?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJO_vqWp6rAhMR0drC-wKuXqI",
+        "name": "mshwy `l~ kyfk",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "mshwy `l~ kyfk (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPO85-Qje8aF9f9Q2IxLYx8YHZG50fzn1Q_XHAH=w408-h306-k-no",
+        "main_category": "Restaurant de grillades",
+        "categories": [
+            "Restaurant de grillades"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "RM54+CCQ mshwy `l~ kyfk, Sidi Issa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/%D9%85%D8%B4%D8%A7%D9%88%D9%8A+%D8%B9%D9%84%D9%89+%D9%83%D9%8A%D9%81%D9%83%E2%80%AD/data=!4m7!3m6!1s0x1302ab9e5aeafb3b:0xa25eae02fbc2dad1!8m2!3d36.8085752!4d10.6561053!16s%2Fg%2F11rvgslc3p!19sChIJO_vqWp6rAhMR0drC-wKuXqI?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJwesCSbFR_RIRKtPSOgfU6s4",
+        "name": "Resto am bechir chez ali",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 2,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Resto am bechir chez ali (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipPGfa7tO-2y0dsx69sJx_YPWk4KMIJAlbHpzH8_=w408-h725-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 4.5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": "53 911 363",
+        "address": "Resto am bechir chez ali, Chedly Hafaiedh",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Resto+am+bechir+chez+ali/data=!4m7!3m6!1s0x12fd51b14902ebc1:0xceead4073ad2d32a!8m2!3d36.7298319!4d10.4672219!16s%2Fg%2F11h_11jm0h!19sChIJwesCSbFR_RIRKtPSOgfU6s4?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJBZgeGACrAhMRdaihhR7JVzs",
+        "name": "Uncle Said's Sandwiches",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Uncle Said's Sandwiches (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipMQGZDYJDZ0fCMq4ibbVvmChuEh8xDknxQXYd6p=w408-h542-k-no",
+        "main_category": "Restauration rapide",
+        "categories": [
+            "Restauration rapide"
+        ],
+        "rating": 5,
+        "workday_timing": "08:00-14:00",
+        "closed_on": [],
+        "phone": null,
+        "address": "QJRH+WQ9 Uncle Said's Sandwiches, Takilsa",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Uncle+Said%E2%80%99s+Sandwiches/data=!4m7!3m6!1s0x1302ab00181e9805:0x3b57c91e85a1a875!8m2!3d36.7921812!4d10.6303082!16s%2Fg%2F11vq8_p_mj!19sChIJBZgeGACrAhMRdaihhR7JVzs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJZXYedgCr4hIRCGB9_f1fiZ0",
+        "name": "Mlewi",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mlewi (proprietaire)",
+            "link": null
+        },
+        "featured_image": null,
+        "main_category": "Restauration rapide",
+        "categories": [
+            "Restauration rapide"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "RJJ4+WPH Mlewi, C 128, Douela",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mlewi/data=!4m7!3m6!1s0x12e2ab00761e7665:0x9d895ffdfd7d6008!8m2!3d36.832316!4d10.6068607!16s%2Fg%2F11vpftn42f!19sChIJZXYedgCr4hIRCGB9_f1fiZ0?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ95zXrDBVHRMRZpr71LlTMjs",
+        "name": "Mlawi Fatma",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Mlawi Fatma (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOvJr8cgRithWnGt8jlScjWtpEmgJ9D69fIfdVT=w533-h240-k-no",
+        "main_category": "Restauration rapide",
+        "categories": [
+            "Restauration rapide"
+        ],
+        "rating": 5,
+        "workday_timing": null,
+        "closed_on": [],
+        "phone": null,
+        "address": "RM88+QRP Mlawi Fatma, C26, Douaar Zaaba",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Mlawi+Fatma/data=!4m7!3m6!1s0x131d5530acd79cf7:0x3b3253b9d4fb9a66!8m2!3d36.8169697!4d10.6670842!16s%2Fg%2F11y1ch9bj1!19sChIJ95zXrDBVHRMRZpr71LlTMjs?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJ08Yh7IJP_RIRp6r45B74HXA",
+        "name": "Resto Twins",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Resto Twins (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipP4d-ILFRPsr19DZb0zX_--kS5p6YPQMhUyTieL=w408-h906-k-no",
+        "main_category": "Pizzeria",
+        "categories": [
+            "Pizzeria"
+        ],
+        "rating": 5,
+        "workday_timing": "Ouvert 24h/24",
+        "closed_on": [
+            "dimanche"
+        ],
+        "phone": "93 603 115",
+        "address": "PC5C+29C Resto Twins, Erriadh, Borj Cedria",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Resto+Twins/data=!4m7!3m6!1s0x12fd4f82ec21c6d3:0x701df81ee4f8aaa7!8m2!3d36.7075699!4d10.4208965!16s%2Fg%2F11lgxcf3s1!19sChIJ08Yh7IJP_RIRp6r45B74HXA?authuser=0&hl=fr&rclk=1"
+    },
+    {
+        "place_id": "ChIJoTX1lgdP_RIRt3XraFl2_nA",
+        "name": "Restaurant & Salon de The AFRICANO",
+        "description": null,
+        "is_spending_on_ads": false,
+        "reviews": 1,
+        "website": null,
+        "owner": {
+            "id": null,
+            "name": "Restaurant & Salon de The AFRICANO (proprietaire)",
+            "link": null
+        },
+        "featured_image": "https://lh5.googleusercontent.com/p/AF1QipOOQ3KBkEOQmr76Hafnb9FDUNHlmAW2ck5yxU-M=w408-h544-k-no",
+        "main_category": "Restaurant",
+        "categories": [
+            "Restaurant"
+        ],
+        "rating": 5,
+        "workday_timing": "09:00-22:00",
+        "closed_on": [],
+        "phone": "51 844 999",
+        "address": "P93V+Q98 Restaurant & Salon de The AFRICANO, Hammam-Lif",
+        "review_keywords": [],
+        "link": "https://www.google.com/maps/place/Restaurant+%26+Salon+de+Th%C3%A9+AFRICANO/data=!4m7!3m6!1s0x12fd4f0796f535a1:0x70fe765968eb75b7!8m2!3d36.7044174!4d10.3934469!16s%2Fg%2F11c2p1mpv2!19sChIJoTX1lgdP_RIRt3XraFl2_nA?authuser=0&hl=fr&rclk=1"
+    }
+]
