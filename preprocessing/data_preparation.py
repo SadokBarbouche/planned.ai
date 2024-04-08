@@ -3,6 +3,14 @@ import json
 import pandas as pd
 
 
+def no_empty_columns(df: pd.DataFrame) -> list:
+    no_empty_cols = []
+    for col in df.columns:
+        if not df[col].isnull().any():
+            no_empty_cols.append(col)
+    return no_empty_cols
+
+
 def concat_json_files(directory):
     output_data = []
     for root, dirs, files in os.walk(directory):
