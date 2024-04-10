@@ -20,6 +20,17 @@ genai.configure(api_key=os.environ.get("GOOGLE_API_KEY"))
 
 
 def load_gemini_pro_model():
+    """
+    Loads the Gemini Pro model for generating responses in a conversational chat.
+    Returns:
+        ChatGoogleGenerativeAI: An instance of the ChatGoogleGenerativeAI model configured
+                                with the Gemini Pro model settings.
+    Note:
+    - This function initializes a ChatGoogleGenerativeAI model with the "gemini-pro" model.
+    - It configures the generation settings, system message conversion, and safety settings
+      for the chat model.
+    - The initialized model instance is returned for further use in generating responses.
+    """
     chat_model = ChatGoogleGenerativeAI(
         model="gemini-pro",
         generation_config=generation_config,
