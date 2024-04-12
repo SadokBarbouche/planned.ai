@@ -32,11 +32,11 @@ def concat_json_files(directory):
         directory (str): The path to the directory containing JSON files.
 
     Returns:
-        list: A list containing the combined data from all JSON files.
+        list: A list containing the combined db from all JSON files.
 
     Note:
         This function recursively searches through the specified directory and its subdirectories
-        for JSON files. It reads each JSON file, extracts its data, and appends it to the output list.
+        for JSON files. It reads each JSON file, extracts its db, and appends it to the output list.
         If a JSON file cannot be read due to a JSONDecodeError, it prints an error message and continues
         to the next file.
     """
@@ -61,16 +61,16 @@ def concat_json_files(directory):
 
 def main():
     """
-    Main function to concatenate JSON files, convert the combined data to a DataFrame,
+    Main function to concatenate JSON files, convert the combined db to a DataFrame,
     and write it to an Excel file.
 
     Note:
     - This function specifies the directory containing JSON files.
     - It calls the 'concat_json_files' function to concatenate JSON files within the directory.
-    - The combined data is then converted to a DataFrame using pandas.
+    - The combined db is then converted to a DataFrame using pandas.
     - Finally, the DataFrame is saved to an Excel file named 'concatenated_output.xlsx'.
     """
-    directory = '../data/output'
+    directory = '../db/output'
     output_data = concat_json_files(directory)
     # Convert list of dictionaries to DataFrame
     df = pd.DataFrame(output_data)

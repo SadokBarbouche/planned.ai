@@ -3,7 +3,7 @@ from langchain.embeddings import SentenceTransformerEmbeddings
 
 embeddings = SentenceTransformerEmbeddings()
 
-db = Chroma(persist_directory="../documentations", embedding_function=embeddings)
+db = Chroma(persist_directory="db", embedding_function=embeddings)
 
 
 def fetch_best_plan(query, db=db):

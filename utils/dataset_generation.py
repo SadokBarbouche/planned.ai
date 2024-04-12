@@ -52,9 +52,9 @@ def clear_df(data_directory='../finetuning/it_datasets'):
                 df.to_excel(f'{data_directory}/{dataset.split(".")[0]}_modified.xlsx', index=False)
 
 
-def generate_answers(data_directory='../data/cities', output_directory='../finetuning/it_datasets'):
+def generate_answers(data_directory='../db/cities', output_directory='../finetuning/it_datasets'):
     """
-    Generate descriptions based on a template for each dataset in the specified data directory.
+    Generate descriptions based on a template for each dataset in the specified db directory.
 
     Args:
         data_directory (str): The directory containing city datasets.
