@@ -59,7 +59,6 @@ def concat_json_files(directory):
     return output_data
 
 
-
 def main():
     """
     Main function to concatenate JSON files, convert the combined data to a DataFrame,
