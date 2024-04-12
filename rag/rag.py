@@ -1,19 +1,27 @@
 from langchain_community.document_loaders import DataFrameLoader
-from langchain.embeddings import SentenceTransformerEmbeddings
-from langchain.text_splitter import CharacterTextSplitter
-from langchain.vectorstores.chroma import Chroma
-from chroma import fetch_best_plan, embeddings
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 import pandas as pd
 
-df = pd.read_excel('')
-loader = DataFrameLoader(df, page_content_column="Team")
-docs = []
-db = Chroma.from_documents(
-    docs,
-    embedding=embeddings,
-    persist_directory="../documentations"
-)
 
-if __name__ == "__main__":
-    test_query = ""
-    print(fetch_best_plan(query=test_query))
+def load(df: pd.DataFrame):
+    loader = DataFrameLoader(df, page_content_column="instruction")
+    return loader
+
+
+def split_texts(df: pd.DataFrame, loader: DataFrameLoader):
+    df['instruction'] = df['instruction'].astype(str)
+    chunk_size = int(df['instruction'].apply(len).mean())
+    splitter = RecursiveCharacterTextSplitter(
+        chunk_size=chunk_size,
+        chunk_overlap=100,
+        length_function=len,
+    )
+    texts = splitter.split_documents(loader.load())
+    # print(texts)
+    return texts
+
+
+def get_best_destination(user_input: str, db):
+    docs = db.similarity_search(user_input, k=2)
+    return docs
+

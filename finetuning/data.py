@@ -30,6 +30,8 @@ def format_data(ft_data_path='finetuning_data'):
         df.to_excel(f'{ft_data_path}/{dataset}', index=False)
 
 
+
+
 def rename(ft_data_path='finetuning_data'):
     for dataset in os.listdir(ft_data_path):
         os.rename(f'{ft_data_path}/{dataset}', ''.join(list(dataset)[4:]))
