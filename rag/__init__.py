@@ -1,4 +1,4 @@
-from rag import get_best_destination
+from rag import get_best_destination, pad_instruction
 from langchain.vectorstores.chroma import Chroma
 from langchain_community.embeddings import SentenceTransformerEmbeddings
 from langchain.embeddings import CacheBackedEmbeddings
@@ -13,4 +13,5 @@ if __name__ == "__main__":
         persist_directory="db",
         embedding_function=embeddings
     )
-    print(get_best_destination(db=db, user_input='I want to visit El Kef and visit natural places.'))
+    instruction = pad_instruction("Staying in a hotel in el kef el kef el kef el kefcity ", 1430)
+    print(get_best_destination(db=db, user_input=instruction))

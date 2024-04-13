@@ -31,11 +31,9 @@ def generate_prompt(row: pd.Series, system_prompt: str = system_prompt) -> str:
 
 def train_valid_test_split(df: pd.DataFrame):
     df["text"] = df.apply(generate_prompt, axis=1)
-
     data = df.sample(frac=1, random_state=42)
-    train, valid, test = data[:int(len(df) * 0.9)], data[int(len(df) * 0.9):int(len(df) * 0.95)], data[
-                                                                                                  int(len(df) * 0.95):]
-
+    train, valid, test = data[:int(len(df) * 0.9)], data[int(len(df) * 0.9):int(len(df) * 0.95)], data[int(len(df) * 0.95):]
     train[["text"]].to_json("db/train.jsonl", orient="records", lines=True, force_ascii=False)
     valid[["text"]].to_json("db/valid.jsonl", orient="records", lines=True, force_ascii=False)
     test[["text"]].to_json("db/test.jsonl", orient="records", lines=True, force_ascii=False)
+    return train, valid, test
