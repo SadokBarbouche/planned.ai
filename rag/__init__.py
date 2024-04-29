@@ -9,6 +9,7 @@ if __name__ == "__main__":
     cached_embedder = CacheBackedEmbeddings.from_bytes_store(
         embeddings, fs, namespace="sentence-transformer"
     )
+    destination = input("Enter the destination : ")
     db = Chroma(
         persist_directory="db",
         embedding_function=embeddings

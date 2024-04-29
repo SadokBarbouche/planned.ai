@@ -1,25 +1,24 @@
 from langchain_community.embeddings import SentenceTransformerEmbeddings
 from langchain.vectorstores.chroma import Chroma
-from redundant_fiter_retriever import RedundantFilterRetriever
 from rag import load, split_texts
+import os
 import pandas as pd
 
 if __name__ == "__main__":
-    df = pd.read_excel('../finetuning/it_datasets/qa_dataset/concatenated_dfs.xlsx')
-    df = df[['city', 'coordinates', 'instruction']]
-
-    loader = load(df)
-    docs = split_texts(df, loader)
-
+    directory = "../finetuning/it_datasets/qa_dataset/"
     embeddings = SentenceTransformerEmbeddings()
 
-    db = Chroma.from_documents(
-        docs,
-        embedding=embeddings,
-        persist_directory="db"
-    )
-
-    retriever = RedundantFilterRetriever(
-        embeddings=embeddings,
-        chroma=db
-    )
+    for filename in os.listdir(directory):
+        if filename.endswith(".xlsx"):
+            each_place_df = pd.read_excel(directory + filename)
+            each_place_df = each_place_df[['city', 'coordinates', 'instruction']]
+            each_place_loader = load(each_place_df)
+            each_place_docs = split_texts(each_place_df, each_place_loader)
+            db_name = filename.replace(".xlsx", "")
+            each_place_dir = os.path.join("db", db_name)
+            os.mkdir(each_place_dir)
+            each_place_db = Chroma.from_documents(
+                each_place_docs,
+                embedding=embeddings,
+                persist_directory=each_place_dir
+            )
