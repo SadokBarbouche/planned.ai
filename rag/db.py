@@ -5,11 +5,13 @@ import os
 import pandas as pd
 
 if __name__ == "__main__":
-    directory = "../finetuning/it_datasets/qa_dataset/"
+    directory = "finetuning/it_datasets/qa_dataset/"
     embeddings = SentenceTransformerEmbeddings()
 
     for filename in os.listdir(directory):
         if filename.endswith(".xlsx"):
+            if filename.startswith("concatenated"):
+                continue
             each_place_df = pd.read_excel(directory + filename)
             each_place_df = each_place_df[['city', 'coordinates', 'instruction']]
             each_place_loader = load(each_place_df)

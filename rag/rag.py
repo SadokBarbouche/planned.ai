@@ -15,14 +15,11 @@ def load(df: pd.DataFrame):
 
 
 def split_texts(df: pd.DataFrame, loader: DataFrameLoader):
+    documents = load(df).load()
     df['instruction'] = df['instruction'].astype(str)
-    # Having the same size for all the chunks
-    chunk_size = int(df['instruction'].apply(len).max())
-    df['instruction'] = df['instruction'].apply(pad_instruction, args=(chunk_size,))
     splitter = RecursiveCharacterTextSplitter(
-        chunk_size=chunk_size,
+        chunk_size=600,
         chunk_overlap=10,
-        length_function=len,
     )
     texts = splitter.split_documents(loader.load())
     # print(texts)
@@ -30,5 +27,7 @@ def split_texts(df: pd.DataFrame, loader: DataFrameLoader):
 
 
 def get_best_destination(user_input: str, db):
-    docs = db.similarity_search(user_input, k=5)
-    return docs
+    docs = db.similarity_search(user_input, k=4)
+    contents = [doc.page_content for doc in docs]
+    locations = [doc.metadata['coordinates'] for doc in docs]
+    return zip(contents, locations)
